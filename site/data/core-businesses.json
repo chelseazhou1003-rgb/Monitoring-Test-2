@@ -1,35 +1,60 @@
 {
-  "generatedAt": "2026-11-09T22:43:41.622Z",
+  "generatedAt": "2026-11-10T04:22:23.255Z",
   "date": "2026-11-10",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (2 articles), IoT & XR (1 article). A total of 7 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (2 articles), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Mobile Chips: QCT revenue continues Y/Y decline for third straight quarter",
+        "articleIds": [
+          "a19"
+        ],
+        "subCategory": "mobile-chips"
+      },
       {
         "text": "Wireless Communication: Key TakeawaysJim Cramer told a Mad Money caller on Friday to sell AT&T. He did it two days after Qualcomm said SpaceX picked it to power Starlink Mobile’s nationwide 5G network.",
         "articleIds": [
-          "a6"
+          "a21"
         ],
         "subCategory": "wireless"
       },
       {
         "text": "Semiconductors: Qualcomm's smartphone business is shrinking, but the rest of the company is growing quickly.",
         "articleIds": [
-          "a11"
+          "a25"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "IoT & XR: Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those target",
         "articleIds": [
-          "a12"
+          "a26"
         ],
         "subCategory": "iot-xr"
       }
     ]
   },
   "articles": [
+    {
+      "title": "As Non-Handset Revenue Grows, Qualcomm Is Positioned for Recovery",
+      "url": "https://www.barchart.com/story/news/8740298/as-non-handset-revenue-grows-qualcomm-is-positioned-for-recovery?.tsrc=rss",
+      "description": "QCT revenue continues Y/Y decline for third straight quarter",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-09T18:48:04.000Z",
+      "fetchedAt": "2026-11-10T04:22:16.402Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "QCT revenue continues Y/Y decline for third straight quarter",
+      "id": "a19"
+    },
     {
       "title": "Jim Cramer: “You Should Not Own AT&T” as SpaceX Pushes Into Wireless",
       "url": "https://www.tikr.com/blog/jim-cramer-you-should-not-own-att-as-spacex-pushes-into-wireless?ref=yahoofinance&tlnk=yf-261109-9xhrr43g&.tsrc=rss",
@@ -38,7 +63,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-09T18:16:02.000Z",
-      "fetchedAt": "2026-11-09T22:43:35.353Z",
+      "fetchedAt": "2026-11-10T04:22:16.402Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -46,7 +71,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysJim Cramer told a Mad Money caller on Friday to sell AT&T. He did it two days after Qualcomm said SpaceX picked it to power Starlink Mobile’s nationwide 5G network.",
-      "id": "a6"
+      "id": "a21"
     },
     {
       "title": "Qualcomm Stock Is Down More Than 35% From Its High. Is The Stock a Buy?",
@@ -56,7 +81,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-09T16:32:02.000Z",
-      "fetchedAt": "2026-11-09T22:43:35.353Z",
+      "fetchedAt": "2026-11-10T04:22:16.402Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -64,7 +89,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm's smartphone business is shrinking, but the rest of the company is growing quickly.",
-      "id": "a11"
+      "id": "a25"
     },
     {
       "title": "Qualcomm (QCOM) Stock Fair Value Edges Lower As Analysts Trim Targets",
@@ -74,7 +99,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-09T16:20:51.000Z",
-      "fetchedAt": "2026-11-09T22:43:35.353Z",
+      "fetchedAt": "2026-11-10T04:22:16.402Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "iot-xr",
@@ -84,7 +109,7 @@
         "oem"
       ],
       "summary": "Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those targets while still highlighting long term potential tied to data center, automotive and IoT growth, as well as Qualcomm’s role in smartphones and its renewed licensing agreement with Apple. As you read on, you will see how these shifting targets and opinions can help you track the evolving Qualcomm...",
-      "id": "a12"
+      "id": "a26"
     },
     {
       "title": "Is Trending Stock QUALCOMM Incorporated (QCOM) a Buy Now?",
@@ -94,7 +119,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-09T13:00:05.000Z",
-      "fetchedAt": "2026-11-09T22:43:35.353Z",
+      "fetchedAt": "2026-11-10T04:22:16.402Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -102,7 +127,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-      "id": "a19"
+      "id": "a31"
     },
     {
       "title": "Alphabet Keeps Its Massive SpaceX Bet. Now It's Making a $548 Million Qualcomm Move",
@@ -112,7 +137,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-09T11:18:23.000Z",
-      "fetchedAt": "2026-11-09T22:43:35.353Z",
+      "fetchedAt": "2026-11-10T04:22:16.402Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -120,7 +145,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Alphabet Sells Several Stock Holdings but Holds Firm on SpaceX",
-      "id": "a21"
+      "id": "a32"
     },
     {
       "title": "SpaceX and Qualcomm threaten to topple US market's cozy 5G order",
@@ -130,7 +155,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-09T08:30:00.000Z",
-      "fetchedAt": "2026-11-09T22:43:39.141Z",
+      "fetchedAt": "2026-11-10T04:22:21.440Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -138,25 +163,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Elon Musk's plans for a fourth American 5G network look both reactionary and radical, with potential consequences for the whole telecom industry.",
-      "id": "a27"
-    },
-    {
-      "title": "Why Qualcomm Shares Are Swinging After Handset Weakness And AI Data Center Push",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-shares-swinging-handset-180659510.html?.tsrc=rss",
-      "description": "Qualcomm reported Q4 fiscal 2026 revenue of US$10.3b, with handset chip sales under pressure. Full year net income reached US$13.6b on US$43.1b in revenue, and management guided Q1 fiscal 2027 revenue to a range of US$10.4b to US$11.2b. The business is leaning harder into AI data center, automotive, and infrastructure deals, including the Dragonfly portfolio, an expanded automotive chip footprint, and long term agreements such as the SpaceX Starlink Mobile 5G partnership and custom silicon...",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-08T18:06:59.000Z",
-      "fetchedAt": "2026-11-09T22:43:35.353Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm reported Q4 fiscal 2026 revenue of US$10.3b, with handset chip sales under pressure. Full year net income reached US$13.6b on US$43.1b in revenue, and management guided Q1 fiscal 2027 revenue to a range of US$10.4b to US$11.2b. The business is leaning harder into AI data center, automotive, and infrastructure deals, including the Dragonfly portfolio, an expanded automotive chip footprint, and long term agreements such as the SpaceX Starlink Mobile 5G partnership and custom silicon...",
-      "id": "a32"
+      "id": "a38"
     }
   ]
 }

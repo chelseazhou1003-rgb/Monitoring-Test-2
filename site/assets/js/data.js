@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-11-09T22:43:41.622Z",
+    "generatedAt": "2026-11-10T04:22:23.255Z",
     "date": "2026-11-10",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,37 +13,62 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-11-09T22:43:41.622Z",
+    "generatedAt": "2026-11-10T04:22:23.255Z",
     "date": "2026-11-10",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (2 articles), IoT & XR (1 article). A total of 7 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (2 articles), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources.",
       "keyTakeaways": [
+        {
+          "text": "Mobile Chips: QCT revenue continues Y/Y decline for third straight quarter",
+          "articleIds": [
+            "a19"
+          ],
+          "subCategory": "mobile-chips"
+        },
         {
           "text": "Wireless Communication: Key TakeawaysJim Cramer told a Mad Money caller on Friday to sell AT&T. He did it two days after Qualcomm said SpaceX picked it to power Starlink Mobile’s nationwide 5G network.",
           "articleIds": [
-            "a6"
+            "a21"
           ],
           "subCategory": "wireless"
         },
         {
           "text": "Semiconductors: Qualcomm's smartphone business is shrinking, but the rest of the company is growing quickly.",
           "articleIds": [
-            "a11"
+            "a25"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "IoT & XR: Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those target",
           "articleIds": [
-            "a12"
+            "a26"
           ],
           "subCategory": "iot-xr"
         }
       ]
     },
     "articles": [
+      {
+        "title": "As Non-Handset Revenue Grows, Qualcomm Is Positioned for Recovery",
+        "url": "https://www.barchart.com/story/news/8740298/as-non-handset-revenue-grows-qualcomm-is-positioned-for-recovery?.tsrc=rss",
+        "description": "QCT revenue continues Y/Y decline for third straight quarter",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-09T18:48:04.000Z",
+        "fetchedAt": "2026-11-10T04:22:16.402Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "QCT revenue continues Y/Y decline for third straight quarter",
+        "id": "a19"
+      },
       {
         "title": "Jim Cramer: “You Should Not Own AT&T” as SpaceX Pushes Into Wireless",
         "url": "https://www.tikr.com/blog/jim-cramer-you-should-not-own-att-as-spacex-pushes-into-wireless?ref=yahoofinance&tlnk=yf-261109-9xhrr43g&.tsrc=rss",
@@ -52,7 +77,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T18:16:02.000Z",
-        "fetchedAt": "2026-11-09T22:43:35.353Z",
+        "fetchedAt": "2026-11-10T04:22:16.402Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -60,7 +85,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Key TakeawaysJim Cramer told a Mad Money caller on Friday to sell AT&T. He did it two days after Qualcomm said SpaceX picked it to power Starlink Mobile’s nationwide 5G network.",
-        "id": "a6"
+        "id": "a21"
       },
       {
         "title": "Qualcomm Stock Is Down More Than 35% From Its High. Is The Stock a Buy?",
@@ -70,7 +95,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T16:32:02.000Z",
-        "fetchedAt": "2026-11-09T22:43:35.353Z",
+        "fetchedAt": "2026-11-10T04:22:16.402Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -78,7 +103,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm's smartphone business is shrinking, but the rest of the company is growing quickly.",
-        "id": "a11"
+        "id": "a25"
       },
       {
         "title": "Qualcomm (QCOM) Stock Fair Value Edges Lower As Analysts Trim Targets",
@@ -88,7 +113,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T16:20:51.000Z",
-        "fetchedAt": "2026-11-09T22:43:35.353Z",
+        "fetchedAt": "2026-11-10T04:22:16.402Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "iot-xr",
@@ -98,7 +123,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those targets while still highlighting long term potential tied to data center, automotive and IoT growth, as well as Qualcomm’s role in smartphones and its renewed licensing agreement with Apple. As you read on, you will see how these shifting targets and opinions can help you track the evolving Qualcomm...",
-        "id": "a12"
+        "id": "a26"
       },
       {
         "title": "Is Trending Stock QUALCOMM Incorporated (QCOM) a Buy Now?",
@@ -108,7 +133,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T13:00:05.000Z",
-        "fetchedAt": "2026-11-09T22:43:35.353Z",
+        "fetchedAt": "2026-11-10T04:22:16.402Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -116,7 +141,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-        "id": "a19"
+        "id": "a31"
       },
       {
         "title": "Alphabet Keeps Its Massive SpaceX Bet. Now It's Making a $548 Million Qualcomm Move",
@@ -126,7 +151,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T11:18:23.000Z",
-        "fetchedAt": "2026-11-09T22:43:35.353Z",
+        "fetchedAt": "2026-11-10T04:22:16.402Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -134,7 +159,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Alphabet Sells Several Stock Holdings but Holds Firm on SpaceX",
-        "id": "a21"
+        "id": "a32"
       },
       {
         "title": "SpaceX and Qualcomm threaten to topple US market's cozy 5G order",
@@ -144,7 +169,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-09T08:30:00.000Z",
-        "fetchedAt": "2026-11-09T22:43:39.141Z",
+        "fetchedAt": "2026-11-10T04:22:21.440Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -152,30 +177,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Elon Musk's plans for a fourth American 5G network look both reactionary and radical, with potential consequences for the whole telecom industry.",
-        "id": "a27"
-      },
-      {
-        "title": "Why Qualcomm Shares Are Swinging After Handset Weakness And AI Data Center Push",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-shares-swinging-handset-180659510.html?.tsrc=rss",
-        "description": "Qualcomm reported Q4 fiscal 2026 revenue of US$10.3b, with handset chip sales under pressure. Full year net income reached US$13.6b on US$43.1b in revenue, and management guided Q1 fiscal 2027 revenue to a range of US$10.4b to US$11.2b. The business is leaning harder into AI data center, automotive, and infrastructure deals, including the Dragonfly portfolio, an expanded automotive chip footprint, and long term agreements such as the SpaceX Starlink Mobile 5G partnership and custom silicon...",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-08T18:06:59.000Z",
-        "fetchedAt": "2026-11-09T22:43:35.353Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm reported Q4 fiscal 2026 revenue of US$10.3b, with handset chip sales under pressure. Full year net income reached US$13.6b on US$43.1b in revenue, and management guided Q1 fiscal 2027 revenue to a range of US$10.4b to US$11.2b. The business is leaning harder into AI data center, automotive, and infrastructure deals, including the Dragonfly portfolio, an expanded automotive chip footprint, and long term agreements such as the SpaceX Starlink Mobile 5G partnership and custom silicon...",
-        "id": "a32"
+        "id": "a38"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-11-09T22:43:41.622Z",
+    "generatedAt": "2026-11-10T04:22:23.255Z",
     "date": "2026-11-10",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -186,7 +193,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-11-09T22:43:41.622Z",
+    "generatedAt": "2026-11-10T04:22:23.255Z",
     "date": "2026-11-10",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -196,7 +203,7 @@ export const NEWS_DATA = {
         {
           "text": "FRAND & Licensing: Representatives from Warner Bros Discovery, Qualcomm, Avanci and LexisNexis debated revenue-based fees, technological lock-in and competing pools at LES meeting",
           "articleIds": [
-            "a18"
+            "a30"
           ],
           "subCategory": "frand-licensing"
         }
@@ -211,7 +218,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-09T13:18:05.000Z",
-        "fetchedAt": "2026-11-09T22:43:37.627Z",
+        "fetchedAt": "2026-11-10T04:22:18.894Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -219,26 +226,26 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Representatives from Warner Bros Discovery, Qualcomm, Avanci and LexisNexis debated revenue-based fees, technological lock-in and competing pools at LES meeting",
-        "id": "a18"
+        "id": "a30"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-11-09T22:43:41.625Z",
+    "generatedAt": "2026-11-10T04:22:23.257Z",
     "date": "2026-11-10",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 7,
-        "topHeadline": "Jim Cramer: “You Should Not Own AT&T” as SpaceX Pushes Into Wireless",
-        "topHeadlineId": "a6",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (2 articles), IoT & XR (1 article). A total of 7 articles were aggregated from monitored sources."
+        "topHeadline": "As Non-Handset Revenue Grows, Qualcomm Is Positioned for Recovery",
+        "topHeadlineId": "a19",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (2 articles), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
         "articleCount": 1,
         "topHeadline": "Video streaming licensing divides deepen over royalties and codec choice",
-        "topHeadlineId": "a18",
+        "topHeadlineId": "a30",
         "briefingSummary": "One article today covering FRAND & Licensing. Representatives from Warner Bros Discovery, Qualcomm, Avanci and LexisNexis debated revenue-based fees, technological lock-in and competing pools at L"
       },
       "growth-areas": {
@@ -250,10 +257,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 26,
-        "topHeadline": "Nvidia spy allegations likely to spur laws to tighten China’s access to AI chips, say some lawmakers - The Straits Times",
+        "articleCount": 35,
+        "topHeadline": "How Jensen Huang’s Affair Spiraled Into a National Security Nightmare - WSJ",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (6 articles). A total of 26 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (28 articles), market-performance (7 articles). A total of 35 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -266,37 +273,308 @@ export const NEWS_DATA = {
         "title": "Key Stakeholders",
         "articleCount": 1,
         "topHeadline": "Qualcomm (QCOM) Stock Fair Value Edges Lower As Analysts Trim Targets",
-        "topHeadlineId": "a12",
+        "topHeadlineId": "a26",
         "briefingSummary": "One article today covering IoT & XR. Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across r"
       }
     },
-    "totalArticles": 35
+    "totalArticles": 44
   },
   "macro-environment": {
-    "generatedAt": "2026-11-09T22:43:41.622Z",
+    "generatedAt": "2026-11-10T04:22:23.255Z",
     "date": "2026-11-10",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (6 articles). A total of 26 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (28 articles), market-performance (7 articles). A total of 35 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Nvidia spy allegations likely to spur laws to tighten China’s access to AI chips, say some lawmakers The Straits Times",
+          "text": "Geopolitics & Export Controls: How Jensen Huang’s Affair Spiraled Into a National Security Nightmare WSJ",
           "articleIds": [
             "a1"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
-          "text": "market-performance: Alphabet's filing shows about 2.98 million Qualcomm shares, as the chipmaker pushes into AI data centers to offset weaker handsets.",
+          "text": "market-performance: A number of stocks jumped in the morning session after dip-buyers moved into beaten-down semiconductor and hardware names following the sector's steepest one-day rout in 19 months.",
           "articleIds": [
-            "a5"
+            "a6"
           ],
           "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
+      {
+        "title": "How Jensen Huang’s Affair Spiraled Into a National Security Nightmare - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmZ1TVpQUUhJVElmUjZ3Ul9BSllfNXdJMTIwSHVlb0J6aXAzSDhPX1I0cnNQamd0cTBBY2VnVFVEVEo5VHNtT0l1RDV2OUNhelRWRV9ibXdhU1hyaW91SEtfVDZIbWRpWWg1R1RJeGpNWWJWOFI3d2RZbUREZkEzbkpUZzdfeUsyTWZUVTZQZEphbGhEY2NzaUd1R3VIMWZ1ekFjMTJFSXg?oc=5",
+        "description": "How Jensen Huang’s Affair Spiraled Into a National Security Nightmare WSJ",
+        "source": "Wall Street Journal",
+        "sourceId": "wsj",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-10T04:15:00.000Z",
+        "fetchedAt": "2026-11-10T04:22:22.048Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "WSJ",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "How Jensen Huang’s Affair Spiraled Into a National Security Nightmare WSJ",
+        "id": "a1"
+      },
+      {
+        "title": "Could Trump's Relationship With Nvidia CEO Jensen Huang Raise US National Security Concerns? - Modern Diplomacy",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYkFfVnM1TW5BTjhJRGNQb1RVN01UZHhxRVpENDhhZk9NZXNhT21YaU9wYldiMDhnSkNIdXRHR2tmOEpiY1Z1UU03ekxvSFhpY3FaVXc2aERVUmNudXdHTU8zYWxXcWRfcVQtSzc1Qzhpa3VOTVZLREJwekszeFJCdWM2eFVHZVVDYnR0eXFmQjE0OUhob25wbnA5Y2xhRlFlbmJFa0NpYVFxWF9ycVJocnVVaGlvSmFHZE56NFZJS1BJZTYwVE8wbg?oc=5",
+        "description": "Could Trump's Relationship With Nvidia CEO Jensen Huang Raise US National Security Concerns? Modern Diplomacy",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-10T04:04:05.000Z",
+        "fetchedAt": "2026-11-10T04:22:23.208Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Modern Diplomacy",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Could Trump's Relationship With Nvidia CEO Jensen Huang Raise US National Security Concerns?",
+        "id": "a2"
+      },
+      {
+        "title": "China exports, imports soar past expectations in October — surplus narrows sharply",
+        "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+        "description": "Goods exports soared by 35.2% last month from a year earlier, exceeding expectations for a 33.5% jump in a Reuters poll and slowing from a 36.3% jump in September.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-10T03:56:15.000Z",
+        "fetchedAt": "2026-11-10T04:22:16.204Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Goods exports soared by 35.2% last month from a year earlier, exceeding expectations for a 33.5% jump in a Reuters poll and slowing from a 36.3% jump in September.",
+        "id": "a3"
+      },
+      {
+        "title": "‘This is a serious national security issue.’ GOP bucks Trump on Nvidia - Politico",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLXNUSzZlRm5nMU5JS0tWMVk1b3hmTzFuZE5xdGtPeDFPVTFGUkJzV21Fb1FZbVJaclA4YWU1Tk5rSTBzeThXRXYxODFlNll3NUhQMENDTzJXY2o1TGM2ODNWV3o3cWJhYnE0dlgwTmx1eURIRkFMWFlqMFdaVzJrTlV4bGxneUVVdzVWY3lQV2NqQQ?oc=5",
+        "description": "‘This is a serious national security issue.’ GOP bucks Trump on Nvidia Politico",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-10T03:25:00.000Z",
+        "fetchedAt": "2026-11-10T04:22:23.208Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Politico",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "‘This is a serious national security issue.’ GOP bucks Trump on Nvidia Politico",
+        "id": "a4"
+      },
+      {
+        "title": "China’s trade surplus exceeds $1tn for first 10 months of year",
+        "url": "https://www.ft.com/content/a267d321-a489-4426-940e-1e4be712dc09?syn-25a6b1a6=1",
+        "description": "Balance is on course for new annual record that would intensify tensions with trade partners",
+        "source": "Financial Times",
+        "sourceId": "ft",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-10T03:09:14.000Z",
+        "fetchedAt": "2026-11-10T04:22:16.813Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Balance is on course for new annual record that would intensify tensions with trade partners",
+        "id": "a5"
+      },
+      {
+        "title": "Qualcomm, Impinj, Power Integrations, and Kulicke and Soffa shares are soaring, what you need to know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-impinj-power-integrations-kulicke-025336657.html?.tsrc=rss",
+        "description": "A number of stocks jumped in the morning session after dip-buyers moved into beaten-down semiconductor and hardware names following the sector's steepest one-day rout in 19 months.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-10T02:53:36.000Z",
+        "fetchedAt": "2026-11-10T04:22:16.402Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "A number of stocks jumped in the morning session after dip-buyers moved into beaten-down semiconductor and hardware names following the sector's steepest one-day rout in 19 months.",
+        "id": "a6"
+      },
+      {
+        "title": "Citi's Rizvi Sees 100 Hires in China Over Next Years",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-10/citi-s-rizvi-sees-100-hires-in-china-over-next-years-video",
+        "description": "Kaleem Rizvi, Global Co-head of Corporate Banking at Citi, says the bank envisions hiring 100 bankers over the next several years after it won approval for its securities venture in China. He speaks with Stephen Engle on the sidelines of the Citi China Conference in Shanghai. (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-10T02:52:50.000Z",
+        "fetchedAt": "2026-11-10T04:22:16.798Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Kaleem Rizvi, Global Co-head of Corporate Banking at Citi, says the bank envisions hiring 100 bankers over the next several years after it won approval for its securities venture in China. He speaks with Stephen Engle on the sidelines of the Citi China Conference in Shanghai.",
+        "id": "a7"
+      },
+      {
+        "title": "Congress weighs tougher China chip controls amid Nvidia spy scandal, White House stance pivotal - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOREdNdUZQZXE2ZE5fN29yWHRuU1BlOXNER015akJQZk5oY05KRE0wbmtlT3pDX1ZLVWhrYWF4UUQ4MXQxNTJoTWtlbk82WGs4S3pOV05HRjZ4ZGdBSWVpTDh2cHpEd0N6Q09sQUxlUUJQWm9zbDBlNkQ3QTJXM3N4VXpkd0JDdE5U0gGcAUFVX3lxTFBrTVRrcHE5Qi1xdFVHaUQwMW5HT2R2Qkdma19CNVVfS2VGUmYyVEkteUlyYTB0VmtpeEhPeThPajZXS3RWY0JhMVBRajBrZHduR3lHbW5HeWJocmFxRnBpeHhqLXhiTnFhS3piaG9LYjNfNmN0V2ljbnlzMXg4bXlJLTRuekJQLTBldFF3cmtqVW55Uklkd2NUVGhIRQ?oc=5",
+        "description": "Congress weighs tougher China chip controls amid Nvidia spy scandal, White House stance pivotal Chosunbiz",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-10T01:59:00.000Z",
+        "fetchedAt": "2026-11-10T04:22:23.208Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Chosunbiz",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Congress weighs tougher China chip controls amid Nvidia spy scandal, White House stance pivotal Chosunbiz",
+        "id": "a8"
+      },
+      {
+        "title": "What could China get from Jensen Huang?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+        "description": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about $99 billion worth of equity investments in frontier AI labs, neoclouds, infrastructure companies, and more. Its chief executive has even become close with President Donald Trump. This is why, as both cofounder and longtime CEO of Nvidia, Jensen Huang would be a valuable target for a foreign adversary with sig … Read the full story at The Verge.",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-11-09T23:51:58.000Z",
+        "fetchedAt": "2026-11-10T04:22:16.928Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about $99 billion worth of equity investments in frontier AI labs, neoclouds, infrastructure companies, and more. Its chief executive has even become close with President Donald Trump. This is why, as both cofounder and longtime CEO of Nvidia, Jensen Huang would be a valuable target for a foreign adversary with sig … Read the full story at The Verge.",
+        "id": "a9"
+      },
+      {
+        "title": "What to know about the China spy allegations involving Nvidia’s Jensen Huang - The Straits Times",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWGRaZnNHdXowSnh6ckhvRHNoWGIzQXB6ZS13MjA0alo2MGxBUHhQck1TbHBfdlRzQ3Rmb1JXUXZhUzRwSkR0dVpUZVBPeXhrZ2d2VzBwc3NlbWRFWTMtNTczM3JIYmFDa2FoMURkX1NhVmgwOEVYM3FacDBvY2JFZnhwaHhYc1FZU0NvM1pURWY2VVdDazd1VUlXQnNxLVFsWUhOUHhMU3NmNThQbTRGaFBpRXhvQVNjd2FlMmF3Y2hpZw?oc=5",
+        "description": "What to know about the China spy allegations involving Nvidia’s Jensen Huang The Straits Times",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-09T23:45:00.000Z",
+        "fetchedAt": "2026-11-10T04:22:23.208Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "The Straits Times",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "What to know about the China spy allegations involving Nvidia’s Jensen Huang The Straits Times",
+        "id": "a10"
+      },
+      {
+        "title": "China Chip Supplier Xinde Jumps in HK Debut as Denglin Slumps",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-chipmakers-to-debut-in-hk-in-test-of-tech-stock-demand",
+        "description": "Jiangsu Xinde Semiconductor Technology Co.’s shares surged in their Hong Kong debut, while Suzhou Denglin Technology Co.’s stock slumped on their first day after the Chinese chip suppliers raised a combined $301 million in their initial public offerings, entering the market at a time of extreme volatility especially for technology stocks.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-09T23:25:31.000Z",
+        "fetchedAt": "2026-11-10T04:22:16.798Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Jiangsu Xinde Semiconductor Technology Co.’s shares surged in their Hong Kong debut, while Suzhou Denglin Technology Co.’s stock slumped on their first day after the Chinese chip suppliers raised a combined $301 million in their initial public offerings, entering the market at a time of extreme volatility especially for technology stocks.",
+        "id": "a11"
+      },
+      {
+        "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+        "description": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to Nvidia GPUs, but also a spy for China’s Ministry of State Security. In recent years, Nvidia has become a key part of the Trump administration’s AI push, a central figure in negotiations over potential Chinese access to cutting-edge AI hardware, and a company that has used its now $4 trillion-plus market cap to finance other AI companies, including the “neoclouds” like Coreweave who have been some of its biggest customers. So far, Nvidia and Jensen Huang have said that they have “no reason to believe that either national security or NVIDIA secrets were compromised,” but that hasn’t settled things as the investigation continues. Here’s what Trump said he knew about Jensen Huang What could China get from Jensen Huang? The future of AI hinges on… Jensen Huang’s sex life? Here’s the full text of Jensen Huang’s memo to Nvidia Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-11-09T23:07:59.000Z",
+        "fetchedAt": "2026-11-10T04:22:16.928Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to Nvidia GPUs, but also a spy for China’s Ministry of State Security. In recent years, Nvidia has become a key part of the Trump administration’s AI push, a central figure in negotiations over potential Chinese access to cutting-edge AI hardware, and a company that has used its now $4 trillion-plus market cap to finance other AI companies, including the “neoclouds” like Coreweave who have been some of its biggest customers. So far, Nvidia and Jensen Huang have said that they have “no reason to believe that either national security or NVIDIA secrets were compromised,” but that hasn’t settled things as the investigation continues. Here’s what Trump said he knew about Jensen Huang What could China get from Jensen Huang?",
+        "id": "a12"
+      },
+      {
+        "title": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
+        "url": "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
+        "description": "Following the latest Trump-Xi summit, China pledged further opening of its financial market to companies from all countries, including the U.S.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-09T23:00:02.000Z",
+        "fetchedAt": "2026-11-10T04:22:16.205Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Following the latest Trump-Xi summit, China pledged further opening of its financial market to companies from all countries, including the U.S.",
+        "id": "a13"
+      },
+      {
+        "title": "Nvidia CEO’s scandal raises questions about US national security - Northeastern Global News",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnNpVXEyRDVpalhoRjVmZ1g0Rno4cjBrNHRIUUhOMWhuN21FWkhKNm9vUTRBUE5YUzhId05lWnNFXzlmNHN5d1prdlFUZ3lEcFUtMnZ6a1lqb3drbDZiWjQ3TVBGY3NfOC1DN3pMWWFIcXQ1di14WmloVnItcHJCQnVQd1o?oc=5",
+        "description": "Nvidia CEO’s scandal raises questions about US national security Northeastern Global News",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-09T22:59:03.000Z",
+        "fetchedAt": "2026-11-10T04:22:23.208Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Northeastern Global News",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Nvidia CEO’s scandal raises questions about US national security Northeastern Global News",
+        "id": "a14"
+      },
       {
         "title": "Nvidia spy allegations likely to spur laws to tighten China’s access to AI chips, say some lawmakers - The Straits Times",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ3c3TjU1QzQ5WDE5eUI2NmViMzFOUUpDdi13UGVEYll6V1JyZm04TnZVamFZWFJGQ3ZyMVRMWkJJS2N2VnpXWXhfcUcxUUQweXZUWjNadWY1VGhucmhjQUdxRkd6bS0wS3dhS3kydkkxaHJGZWVLQkFJTzZnU29ORHVFMGVwMTJXc1BSa2M5dG9JMkswU1JBMkRHbUFIendPZTg2WDZDVTh2a3BKV0RUNV9KNlJVaEQwS1h6anlJc1JOcV82SmJhQUFYaVcyS0V1M2Rva3VWcw?oc=5",
@@ -305,7 +583,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T22:20:00.000Z",
-        "fetchedAt": "2026-11-09T22:43:41.577Z",
+        "fetchedAt": "2026-11-10T04:22:23.208Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Straits Times",
         "geopoliticalBypass": true,
@@ -315,7 +593,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia spy allegations likely to spur laws to tighten China’s access to AI chips, say some lawmakers The Straits Times",
-        "id": "a1"
+        "id": "a15"
       },
       {
         "title": "AI chip export controls to China likely to tighten; Trump also in hot water over allegations he turned a blind eye to the Jensen Huang affair - 파이낸셜뉴스",
@@ -325,7 +603,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T22:04:46.000Z",
-        "fetchedAt": "2026-11-09T22:43:41.577Z",
+        "fetchedAt": "2026-11-10T04:22:23.208Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "파이낸셜뉴스",
         "geopoliticalBypass": true,
@@ -335,7 +613,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "AI chip export controls to China likely to tighten; Trump also in hot water over allegations he turned a blind eye to the Jensen Huang affair 파이낸셜뉴스",
-        "id": "a2"
+        "id": "a16"
       },
       {
         "title": "US Lawmakers Demand Details on Nvidia Amid Jensen Huang Scandal",
@@ -345,7 +623,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T21:57:43.000Z",
-        "fetchedAt": "2026-11-09T22:43:35.348Z",
+        "fetchedAt": "2026-11-10T04:22:16.798Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -354,7 +632,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Chief Executive Officer Jensen Huang’s affair with an alleged Chinese spy prompted bipartisan demands on Capitol Hill for more information as lawmakers rushed to assess the potential national security fallout from the scandal.",
-        "id": "a3"
+        "id": "a17"
       },
       {
         "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
@@ -364,7 +642,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-09T21:43:41.000Z",
-        "fetchedAt": "2026-11-09T22:43:35.974Z",
+        "fetchedAt": "2026-11-10T04:22:16.928Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -373,7 +651,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $100 cheaper than the full MSRP of $399.99. MAG 272QP QD-OLED X24 (refurbished) Where to Buy: $399.99 $290.99 at Woot MSI’s 27-inch screen is well-featured for the price, with 1440p resolution, a 240Hz refresh rate, and both G-Sync and FreeSync compatibility, which help reduce screen tearing when your FPS is below the max refresh rate. PC games are particularly well-suited to take advantage of the deep black levels OLED panels produce, too, giving every game you play a deeper, more immersive feel. MSI’s budget OLED also features quantum dots for fuller, more vivid colors.",
-        "id": "a4"
+        "id": "a18"
       },
       {
         "title": "Qualcomm Stocks Jump 5.82% After Alphabet Discloses $548 Million Stake",
@@ -383,7 +661,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T18:21:24.000Z",
-        "fetchedAt": "2026-11-09T22:43:35.353Z",
+        "fetchedAt": "2026-11-10T04:22:16.402Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -391,7 +669,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Alphabet's filing shows about 2.98 million Qualcomm shares, as the chipmaker pushes into AI data centers to offset weaker handsets.",
-        "id": "a5"
+        "id": "a20"
       },
       {
         "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
@@ -401,7 +679,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-09T18:09:52.000Z",
-        "fetchedAt": "2026-11-09T22:43:35.269Z",
+        "fetchedAt": "2026-11-10T04:22:16.243Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -410,7 +688,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-        "id": "a7"
+        "id": "a22"
       },
       {
         "title": "Did Jensen Huang know? Nvidia's CEO and an alleged spy",
@@ -420,7 +698,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T18:04:51.000Z",
-        "fetchedAt": "2026-11-09T22:43:35.353Z",
+        "fetchedAt": "2026-11-10T04:22:16.402Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -429,26 +707,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia CEO Jensen Huang has admitted to an affair with Alice Huang, a Megaspeed executive US intelligence believes was recruited by China. Host Ejaaz Ahamadeen breaks down her alleged goal of loosening AI chip export controls, the classified memo, Nvidia's board investigation, why Commerce didn't act and whether Jensen knew.",
-        "id": "a8"
-      },
-      {
-        "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-        "description": "Step 1. Cut a hole in the box. | Image: The Verge I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - no relation to Jensen - is a former TV reporter. That was before she became \"an executive\" at Megaspeed, which bought $4.8 billion of hard-to-get Nvidia chips, starting around the time she was being photographed with Jensen in a Taipei bar in 2024. \"To many in the industry, the well-funded push by Megaspeed into A.I. appeared to come out of nowhe … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-11-09T17:36:08.000Z",
-        "fetchedAt": "2026-11-09T22:43:35.975Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Cut a hole in the box. | Image: The Verge I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - no relation to Jensen - is a former TV reporter. That was before she became \"an executive\" at Megaspeed, which bought $4.8 billion of hard-to-get Nvidia chips, starting around the time she was being photographed with Jensen in a Taipei bar in 2024.",
-        "id": "a9"
+        "id": "a23"
       },
       {
         "title": "US Approval of Nvidia H200 Chip Sales to China Raises Questions Over Security Vetting - TechStory",
@@ -458,7 +717,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T17:04:42.000Z",
-        "fetchedAt": "2026-11-09T22:43:41.577Z",
+        "fetchedAt": "2026-11-10T04:22:23.208Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "TechStory",
         "geopoliticalBypass": true,
@@ -468,7 +727,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US Approval of Nvidia H200 Chip Sales to China Raises Questions Over Security Vetting TechStory",
-        "id": "a10"
+        "id": "a24"
       },
       {
         "title": "Nvidia’s spy scandal hands Hill hawks fresh ammo on China chips - Politico",
@@ -478,7 +737,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T14:31:00.000Z",
-        "fetchedAt": "2026-11-09T22:43:41.576Z",
+        "fetchedAt": "2026-11-10T04:22:23.208Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Politico",
         "geopoliticalBypass": true,
@@ -488,7 +747,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia’s spy scandal hands Hill hawks fresh ammo on China chips Politico",
-        "id": "a13"
+        "id": "a27"
       },
       {
         "title": "Was Nvidia's Billionaire CEO Targeted By Chinese Intelligence? The Jensen Huang Affair, The Megaspeed Connection And A Growing US National Security Investigation - Inventiva",
@@ -498,7 +757,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T14:30:46.000Z",
-        "fetchedAt": "2026-11-09T22:43:41.577Z",
+        "fetchedAt": "2026-11-10T04:22:23.208Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Inventiva",
         "geopoliticalBypass": true,
@@ -508,7 +767,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Was Nvidia's Billionaire CEO Targeted By Chinese Intelligence? The Jensen Huang Affair, The Megaspeed Connection And A Growing US National Security Investigation Inventiva",
-        "id": "a14"
+        "id": "a28"
       },
       {
         "title": "Nvidia faces defining test as Jensen Huang probe adds to chip stock turbulence - South China Morning Post",
@@ -518,7 +777,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T14:30:07.000Z",
-        "fetchedAt": "2026-11-09T22:43:41.577Z",
+        "fetchedAt": "2026-11-10T04:22:23.208Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "South China Morning Post",
         "geopoliticalBypass": true,
@@ -528,67 +787,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia faces defining test as Jensen Huang probe adds to chip stock turbulence South China Morning Post",
-        "id": "a15"
-      },
-      {
-        "title": "What Jensen Huang has said about China in recent years as a spying probe roils Nvidia - Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDBkVWw4THlId3g5d1JLSHRja2VrbEEwQVcwNjR2ZFAwSDV6ajd3TkFad0h1RkJhalpQY1pNYVdqd09HUnNqVHBXYWd0Q25KakZXUm1SbDY5NlNsMDNETGhSbllhUVZVTjlDQTRPeGxjM0lPY2ltMnBCZklBX0M5M3NvUy1SM0Y1WVdyWnVBeHF2VUxyVW51TkpB?oc=5",
-        "description": "What Jensen Huang has said about China in recent years as a spying probe roils Nvidia Business Insider",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-09T14:27:00.000Z",
-        "fetchedAt": "2026-11-09T22:43:41.577Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Business Insider",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "What Jensen Huang has said about China in recent years as a spying probe roils Nvidia Business Insider",
-        "id": "a16"
-      },
-      {
-        "title": "Nvidia’s AI Empire Faces a National Security Test as Spy Allegations Reach Its Chief Executive - The Zimbabwe Mail",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMnJwR1ZYcnQ4ZU5qazZ0QnplbEtWYUp2N2lDM1dScGlVaUh5X1kyNTMtejE1ODJ1bmNQZWp4V192bnBPMEN6N05tZTZ2enp2Wkt2bGhnN0xIWXdrYk5RYmZGRUVySWRscnAtNUZka2tPUnp1Qld3V2g5bzA5eV9NQkpKa0Jpci1sZ2xFY3N4Y0g5YVhUOXBHeFdZV0Qzd1BSR003RF9MMndnYUZNRjlZRnJ0dTlKRkdyTWxBaVBuc2xiUkdhUk9XeVA3U2lSckZQbnc?oc=5",
-        "description": "Nvidia’s AI Empire Faces a National Security Test as Spy Allegations Reach Its Chief Executive The Zimbabwe Mail",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-09T14:07:47.000Z",
-        "fetchedAt": "2026-11-09T22:43:41.577Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "The Zimbabwe Mail",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Nvidia’s AI Empire Faces a National Security Test as Spy Allegations Reach Its Chief Executive The Zimbabwe Mail",
-        "id": "a17"
-      },
-      {
-        "title": "What’s next for Nvidia and Jensen Huang after affair admission? - South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMWJFenRfR01LdzRWa2xYNHdpQTctY3RqSEozQ1F5X2ZCQkdkaGUwNlEwWVpDV1pNaVBDcXExZkh3NnN6X3FOVjVXYXZWaWZseEZ6RTM1X3JvNXlIOTQ2bUNsM3lKOVdfV1VhTHJoNVNEV0Q5Yl9LUzNvNHhQeDhDRkUyQVN2Z0xramhRdVhlSlFZS0VENGg5aGhScDlwSDJULWZOTHhzbXVsU2VIVlVTbmNoS0NKVkZmaTBPQ0dCQTQ0a0hPWHpVUzR1SmhPM0xEZXdvY1d3?oc=5",
-        "description": "What’s next for Nvidia and Jensen Huang after affair admission? South China Morning Post",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-09T12:30:08.000Z",
-        "fetchedAt": "2026-11-09T22:43:41.577Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "South China Morning Post",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "What’s next for Nvidia and Jensen Huang after affair admission? South China Morning Post",
-        "id": "a20"
+        "id": "a29"
       },
       {
         "title": "Qualcomm (QCOM) Sees $28.3 Million in Net ETF Buying on Nov. 5",
@@ -598,7 +797,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T11:01:30.000Z",
-        "fetchedAt": "2026-11-09T22:43:35.353Z",
+        "fetchedAt": "2026-11-10T04:22:16.402Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -606,7 +805,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "ETFs bought $28.3 million of Qualcomm stock on Thursday, Nov. 5, as 49 funds added shares and 16 trimmed.",
-        "id": "a22"
+        "id": "a33"
       },
       {
         "title": "China rejects spying allegations as CEO scandal rocks Nvidia",
@@ -616,7 +815,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-09T10:58:11.000Z",
-        "fetchedAt": "2026-11-09T22:43:38.849Z",
+        "fetchedAt": "2026-11-10T04:22:21.040Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -625,7 +824,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Beijing reportedly dismissed allegations that it has been spying on Nvidia, after the company opened a probe into CEO Jensen Huang (pictured) over his admission of an affair with a woman accused by the US of working for Chinese intelligence. The post China rejects spying allegations as CEO scandal rocks Nvidia appeared first on Mobile World Live.",
-        "id": "a23"
+        "id": "a34"
       },
       {
         "title": "Jensen Huang controversy: Megaspeed denies report on illegal Nvidia chip transfers to China, hints at legal action - Livemint",
@@ -635,7 +834,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T10:26:08.000Z",
-        "fetchedAt": "2026-11-09T22:43:41.577Z",
+        "fetchedAt": "2026-11-10T04:22:23.208Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Livemint",
         "geopoliticalBypass": true,
@@ -645,7 +844,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Jensen Huang controversy: Megaspeed denies report on illegal Nvidia chip transfers to China, hints at legal action Livemint",
-        "id": "a24"
+        "id": "a35"
       },
       {
         "title": "Arm and Qualcomm Lead Mobile Chip Design. 1 Stock Is the Better Buy.",
@@ -655,7 +854,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T09:52:00.000Z",
-        "fetchedAt": "2026-11-09T22:43:35.353Z",
+        "fetchedAt": "2026-11-10T04:22:16.402Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -663,7 +862,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Both of these stocks saw their shares in free fall following earnings.",
-        "id": "a25"
+        "id": "a36"
       },
       {
         "title": "Chinese ASI again targets European IP enforcement, prompting Dutch AASI backed by penalties of up to €100 million",
@@ -673,7 +872,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-09T08:30:00.000Z",
-        "fetchedAt": "2026-11-09T22:43:39.887Z",
+        "fetchedAt": "2026-11-10T04:22:20.855Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -682,7 +881,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Years after China’s 2020 ASI wave, a Chinese ASI has again targeted European IP enforcement, prompting a Dutch AASI backed by penalties of €1 million per day, capped at €100 million. Although the Dutch case concerns trademarks, the confrontation has significant implications for cross-border patent litigation.",
-        "id": "a26"
+        "id": "a37"
       },
       {
         "title": "NVIDIA CEO's adultery scandal raises political and national security concerns - KuCoin",
@@ -692,7 +891,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T07:18:36.000Z",
-        "fetchedAt": "2026-11-09T22:43:41.577Z",
+        "fetchedAt": "2026-11-10T04:22:23.208Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "KuCoin",
         "geopoliticalBypass": true,
@@ -702,7 +901,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "NVIDIA CEO's adultery scandal raises political and national security concerns KuCoin",
-        "id": "a28"
+        "id": "a39"
       },
       {
         "title": "3 Stocks Riding The Export Control Boom In AI Hardware - Simply Wall St",
@@ -712,7 +911,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T05:27:18.000Z",
-        "fetchedAt": "2026-11-09T22:43:41.577Z",
+        "fetchedAt": "2026-11-10T04:22:23.208Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Simply Wall St",
         "geopoliticalBypass": true,
@@ -722,7 +921,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "3 Stocks Riding The Export Control Boom In AI Hardware Simply Wall St",
-        "id": "a29"
+        "id": "a40"
       },
       {
         "title": "NVDA, PLTR, QCOM, SPCX, MRVL: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
@@ -732,7 +931,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T02:04:55.000Z",
-        "fetchedAt": "2026-11-09T22:43:35.353Z",
+        "fetchedAt": "2026-11-10T04:22:16.402Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -740,7 +939,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The week was marked by developments, including a probe into Nvidia’s CEO, strong results from Palantir, and Musk’s ambitious revenue goals.",
-        "id": "a30"
+        "id": "a41"
       },
       {
         "title": "Starlink Deal Adds Yet Another Growth Engine for Qualcomm Stock",
@@ -750,7 +949,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-08T23:31:12.000Z",
-        "fetchedAt": "2026-11-09T22:43:35.353Z",
+        "fetchedAt": "2026-11-10T04:22:16.402Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -758,25 +957,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A new Starlink deal and Qualcomm's data-center and automotive businesses should help boost QCOM stock over the longer term.",
-        "id": "a31"
-      },
-      {
-        "title": "Qualcomm’s Car Chips Grew 89% as Handsets Fell 26%. Is 16.7x Earnings Too Cheap?",
-        "url": "https://www.tikr.com/blog/qualcomms-car-chips-grew-89-as-handsets-fell-26-is-16-7x-earnings-too-cheap?ref=yahoofinance&tlnk=yf-261108-3p86fw4m&.tsrc=rss",
-        "description": "Key TakeawaysQualcomm rose 5. 5% Friday after Alphabet disclosed a $548 million stake, days after weak handset sales hit the stock following earnings.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-08T15:59:59.000Z",
-        "fetchedAt": "2026-11-09T22:43:35.353Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Key TakeawaysQualcomm rose 5. 5% Friday after Alphabet disclosed a $548 million stake, days after weak handset sales hit the stock following earnings.",
-        "id": "a33"
+        "id": "a42"
       },
       {
         "title": "A new Congress, a new opportunity to protect American inventors",
@@ -786,7 +967,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-07T09:30:00.000Z",
-        "fetchedAt": "2026-11-09T22:43:37.627Z",
+        "fetchedAt": "2026-11-10T04:22:18.894Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -795,7 +976,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Saturday Opinion: The new Congress must resist litigation funding restriction proposals that would weaken inventors’ ability to enforce their patents",
-        "id": "a34"
+        "id": "a43"
       }
     ]
   },
@@ -991,7 +1172,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-11-09T22:43:41.623Z",
+    "generatedAt": "2026-11-10T04:22:23.255Z",
     "date": "2026-11-10",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -1001,7 +1182,7 @@ export const NEWS_DATA = {
         {
           "text": "IoT & XR: Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those target",
           "articleIds": [
-            "a12"
+            "a26"
           ],
           "subCategory": "iot-xr"
         }
@@ -1016,7 +1197,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-09T16:20:51.000Z",
-        "fetchedAt": "2026-11-09T22:43:35.353Z",
+        "fetchedAt": "2026-11-10T04:22:16.402Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "iot-xr",
@@ -1026,730 +1207,9 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those targets while still highlighting long term potential tied to data center, automotive and IoT growth, as well as Qualcomm’s role in smartphones and its renewed licensing agreement with Apple. As you read on, you will see how these shifting targets and opinions can help you track the evolving Qualcomm...",
-        "id": "a12"
+        "id": "a26"
       }
     ]
-  },
-  "archive-2026-10-10": {
-    "generatedAt": "2026-10-10T14:47:23.306Z",
-    "date": "2026-10-10",
-    "sections": {
-      "core-businesses": {
-        "generatedAt": "2026-10-10T14:47:23.303Z",
-        "date": "2026-10-10",
-        "section": "core-businesses",
-        "sectionTitle": "Core Businesses",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "Semiconductors: ASML controls the machinery behind every advanced chip, while Qualcomm powers the devices that use them, but their risk profiles and valuations tell very different stories.",
-              "articleIds": [
-                "a9"
-              ],
-              "subCategory": "semiconductors"
-            },
-            {
-              "text": "Mobile Chips: Tejas Networks (BSE: 540595) (NSE: TEJASNET) in collaboration with Qualcomm Technologies is demonstrating Integrated Sensing and Communication (ISAC) at the India Mobile Congress (IMC) 2026.",
-              "articleIds": [
-                "a16"
-              ],
-              "subCategory": "mobile-chips"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Better Artificial Intelligence Stock: ASML vs. QUALCOMM",
-            "url": "https://www.fool.com/coverage/better-buy/2026/10/09/better-artificial-intelligence-stock-asml-vs-qualcomm/?.tsrc=rss",
-            "description": "ASML controls the machinery behind every advanced chip, while Qualcomm powers the devices that use them, but their risk profiles and valuations tell very different stories.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-09T19:20:06.000Z",
-            "fetchedAt": "2026-10-10T14:47:17.342Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "ASML controls the machinery behind every advanced chip, while Qualcomm powers the devices that use them, but their risk profiles and valuations tell very different stories.",
-            "id": "a9"
-          },
-          {
-            "title": "Qualcomm CFO talks AI, data centers, and next big bet on robots",
-            "url": "https://www.thestreet.com/investing/stocks/qualcomm-cfo-talks-ai-data-centers-and-next-big-bet-on-robots-qcom?.tsrc=rss",
-            "description": "In an exclusive interview, Qualcomm CFO Akash Palkhiwala reveals the company’s push away from its smartphone roots.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-09T17:33:00.000Z",
-            "fetchedAt": "2026-10-10T14:47:17.342Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "In an exclusive interview, Qualcomm CFO Akash Palkhiwala reveals the company’s push away from its smartphone roots.",
-            "id": "a11"
-          },
-          {
-            "title": "Apple Drops 3% on Reported iPhone 18 Pro Component Order Cuts; Skyworks Slips, Qualcomm Treads Water",
-            "url": "https://247wallst.com/investing/2026/10/09/apple-drops-3-on-reported-iphone-18-pro-component-order-cuts-skyworks-slips-qualcomm-treads-water/?.tsrc=rss",
-            "description": "Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is cracking at exactly the wrong moment.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-09T13:31:32.000Z",
-            "fetchedAt": "2026-10-10T14:47:17.342Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is cracking at exactly the wrong moment.",
-            "id": "a15"
-          },
-          {
-            "title": "Tejas Networks and Qualcomm jointly demonstrate 6G Integrated Sensing and Communications (ISAC) technology at India Mobile Congress 2026",
-            "url": "https://finance.yahoo.com/technology/articles/tejas-networks-qualcomm-jointly-demonstrate-092700196.html?.tsrc=rss",
-            "description": "Tejas Networks (BSE: 540595) (NSE: TEJASNET) in collaboration with Qualcomm Technologies is demonstrating Integrated Sensing and Communication (ISAC) at the India Mobile Congress (IMC) 2026.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-09T09:27:00.000Z",
-            "fetchedAt": "2026-10-10T14:47:17.342Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Tejas Networks (BSE: 540595) (NSE: TEJASNET) in collaboration with Qualcomm Technologies is demonstrating Integrated Sensing and Communication (ISAC) at the India Mobile Congress (IMC) 2026.",
-            "id": "a16"
-          }
-        ]
-      },
-      "ip-legal": {
-        "generatedAt": "2026-10-10T14:47:23.303Z",
-        "date": "2026-10-10",
-        "section": "ip-legal",
-        "sectionTitle": "IP & Legal",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles), FRAND & Licensing (2 articles), IP / Intellectual Property (1 article). A total of 5 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "Patent Litigation: Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaw",
-              "articleIds": [
-                "a2"
-              ],
-              "subCategory": "patent-litigation"
-            },
-            {
-              "text": "IP / Intellectual Property: Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year pate",
-              "articleIds": [
-                "a6"
-              ],
-              "subCategory": "ip"
-            },
-            {
-              "text": "FRAND & Licensing: QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei pate",
-              "articleIds": [
-                "a18"
-              ],
-              "subCategory": "frand-licensing"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Qualcomm Waits on a Jury: Arm Has a $443 Million Customer on the Line",
-            "url": "https://www.tikr.com/blog/qualcomm-waits-on-a-jury-arm-has-a-443-million-customer-on-the-line?ref=yahoofinance&.tsrc=rss",
-            "description": "Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaware, deliberated for about four hours on Friday, October 9, without reaching a verdict, Reuters reported.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-10T11:42:15.000Z",
-            "fetchedAt": "2026-10-10T14:47:17.342Z",
-            "fetchStrategy": "rss",
-            "section": "ip-legal",
-            "subCategory": "patent-litigation",
-            "subLabel": "Patent Litigation",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaware, deliberated for about four hours on Friday, October 9, without reaching a verdict, Reuters reported.",
-            "id": "a2"
-          },
-          {
-            "title": "Should Qualcomm Stock Holders Look At First Solar Instead?",
-            "url": "https://www.trefis.com/articles/618142/should-qualcomm-stock-holders-look-at-first-solar-instead/2026-10-09?.tsrc=rss",
-            "description": "Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year patent licensing deal with Qualcomm. Meanwhile, the U.S. solar panel maker First Solar is actively suing rivals over its own patent rights. Yet when these two companies released their latest financial reports, they delivered completely different messages to shareholders. So which way does Qualcomm's out",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-09T23:13:09.000Z",
-            "fetchedAt": "2026-10-10T14:47:17.342Z",
-            "fetchStrategy": "rss",
-            "section": "ip-legal",
-            "subCategory": "ip",
-            "subLabel": "IP / Intellectual Property",
-            "competitors": [
-              "huawei"
-            ],
-            "stakeholders": [],
-            "summary": "Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year patent licensing deal with Qualcomm. solar panel maker First Solar is actively suing rivals over its own patent rights. Yet when these two companies released their latest financial reports, they delivered completely different messages to shareholders. So which way does Qualcomm's out",
-            "id": "a6"
-          },
-          {
-            "title": "Qualcomm and Arm jury to return next week after deliberations in contract dispute case - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnN4TkxuZW5GVFJLOEc3UW10R0FPUUgtaUVRSzRjWWR3R2tUSTNyNkxwdDhULXJnMTA3VXFwUFdtbHlteW84WDBEM0YxdjUtbGxrRzhjXzJNeG5yNlp1NE14MkxfX1BidU1vMXZ2ZEpqSF9Hb2R3UExlZGpjRUJVRzU1bVluLVk0U3lIT3ZmdnJOeHN0R0xFd3BmZGRndUtNSzRvck5iYkZyN21vaXc?oc=5",
-            "description": "Qualcomm and Arm jury to return next week after deliberations in contract dispute case Reuters",
-            "source": "Reuters",
-            "sourceId": "reuters",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-09T21:38:35.000Z",
-            "fetchedAt": "2026-10-10T14:47:22.129Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Reuters",
-            "section": "ip-legal",
-            "subCategory": "patent-litigation",
-            "subLabel": "Patent Litigation",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm and Arm jury to return next week after deliberations in contract dispute case Reuters",
-            "id": "a7"
-          },
-          {
-            "title": "Qualcomm (QCOM) Signs Broad Multi Year Patent Deal",
-            "url": "https://finance.yahoo.com/technology/articles/qualcomm-qcom-signs-broad-multi-231557188.html?.tsrc=rss",
-            "description": "QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei patents, which remains subject to regulatory approval in the United States. This is the first broad cross-license between Huawei and Qualcomm for 5G and emerging technologies, potentially affecting future royalty structures for both firms. The new Huawei Qualcomm cross-license and patent purchase is...",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-08T23:15:57.000Z",
-            "fetchedAt": "2026-10-10T14:47:17.342Z",
-            "fetchStrategy": "rss",
-            "section": "ip-legal",
-            "subCategory": "frand-licensing",
-            "subLabel": "FRAND & Licensing",
-            "competitors": [
-              "huawei"
-            ],
-            "stakeholders": [],
-            "summary": "QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei patents, which remains subject to regulatory approval in the United States. This is the first broad cross-license between Huawei and Qualcomm for 5G and emerging technologies, potentially affecting future royalty structures for both firms. The new Huawei Qualcomm cross-license and patent purchase is...",
-            "id": "a18"
-          },
-          {
-            "title": "Qualcomm-Huawei disagreement reflects inherently subjective nature of unpacking complex “license-plus” deals",
-            "url": "https://ipfray.com/qualcomm-huawei-disagreement-reflects-inherently-subjective-nature-of-unpacking-complex-license-plus-deals/",
-            "description": "Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal without anyone necessarily lying.",
-            "source": "IP Fray",
-            "sourceId": "ip-fray",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-07T15:09:28.000Z",
-            "fetchedAt": "2026-10-10T14:47:21.184Z",
-            "fetchStrategy": "rss",
-            "section": "ip-legal",
-            "subCategory": "frand-licensing",
-            "subLabel": "FRAND & Licensing",
-            "competitors": [
-              "huawei"
-            ],
-            "stakeholders": [],
-            "summary": "Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal without anyone necessarily lying.",
-            "id": "a20"
-          }
-        ]
-      },
-      "growth-areas": {
-        "generatedAt": "2026-10-10T14:47:23.303Z",
-        "date": "2026-10-10",
-        "section": "growth-areas",
-        "sectionTitle": "Growth Areas",
-        "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "macro-environment": {
-        "generatedAt": "2026-10-10T14:47:23.303Z",
-        "date": "2026-10-10",
-        "section": "macro-environment",
-        "sectionTitle": "Macro",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles). A total of 11 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "Geopolitics & Export Controls: Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply",
-              "articleIds": [
-                "a1"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
-            "url": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
-            "description": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance. So I wanted to ask Peter if he thinks the Ellisons and Skydance have a real shot at succeeding where so many companies before them have hit the rocks. Okay: Peter Kafka on Warner Bros. and Skydance. Here we go. This interview has been lightly edited for length and clarity. Peter Kafka, you’re the chief correspondent at Business Insider, and you’re the host of the Channels podcast, our sister podcast here on the Vox Media Podcast Network. Welcome back to Decoder. Thanks for having me. It’s big media day again! A big media day. It’s an auspicious day, as my parents would say. It is the day that the Warner-Paramount merger closes. We’ve all been calling it Warner Mount, but I’m told this company will instead just be called Skydance. Skydance! Every time I see the word Skydance, I assume it is foreign-owned, which is maybe true in some way. Another way to think of it is that there are iconic names in Hollywood. Paramount is such an iconic name that Viacom turned itself into Paramount years ago. Warner Bros. is a legendary studio. Let’s get rid of those names. Let’s add Skydance, which no one’s ever heard of. Let’s just start at the start. There was Paramount. There’s Warner Bros. The deal closes today. That is all going to be a new company called Skydance. Is Skydance just a holding company? Are we as consumers meant to know that this thing exists? I think for the near term, you’re still gonna think of companies like Paramount, Warner Bros., and HBO as brands you know, but this is going to be one company. They’re going to merge everything. They’re likely going to merge the streaming services, Paramount and HBO, into a thing, not right away, but eventually. So I do think Skydance will be a name that consumers will probably know at some point. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. I just have to ask, what are the chances that HBO Max will be rebranded yet again into Skydance? There’s probably gonna be some branding stuff. Not again. In the near term, because this is still a cable TV company, there are actually some limits on what these guys can do with their brands and their services. And they won’t come out and say, “We’re gonna mush this stuff together.” But there’s likely to be one mega streaming service, and maybe you can get HBO separately, or maybe you can only get HBO or only Paramount. Still, it’s gonna be one thing, and one movie studio. It’s all gonna get mushed together, and it’s all gonna be run by David Ellison. David Ellison is just the latest to believe that he can buy Warner Bros. and make something good happen. I have joked many times on this show that maybe the only antitrust policy this country needs is to make it illegal to buy Warner Bros., and that would just solve a lot of problems. Why does he think he will be successful? Well, his dad’s the eighth richest man in the world, so that’s not nothing. That Oracle stock is tied up in a bunch of AI stuff. It’s moving up and down. We can talk about that. But one, that means that he literally has the money to buy this, and two, that this is a public company kind of in name only. David Ellison and Larry Ellison, his father, control this company effectively. They don’t really need to worry that much about equity shareholders. Debt’s a different issue. And he’s 43. He’s got a long run backed by tens of billions of dollars of his father’s money to take a stab at this. And as you said, he will not be the first person to do this. There’s a long list of failures. I think maybe that’s appealing to guys like him. It’s like, “Everyone else is dumb. I’m the smart guy who’s gonna figure it out.” “Everyone else is dumb, and I’m smarter than everyone else is,” is very appealing. But that long list of failures, if you just look at it — they’re all shaped like this idea. We’re gonna take iconic Warner Bros. content, we’re gonna marry it to new distribution, we’re gonna reduce the overhead and costs and decadence of Hollywood. Where does new revenue come from? There’s no plan for new revenue. There’s no announced plan for new revenue. Right now it’s shrinking; it’s cutting costs. It’s when we merge these two companies together, we’re gonna save $6 billion over the next three years. We promise that most of that’s not gonna come from layoffs, but a lot of it’s gonna come from layoffs. These are companies that have had many, many rounds of layoffs prior to this. And you could argue, well, there’s probably not that much more to cut. I think reasonably you could say, look, if you combine two big streaming operations, two big studio operations, there probably is stuff [to cut]. You can probably sell off some real estate. You probably don’t need all the executives you currently have. There’s some savings there. But how do you grow? No idea. And no one’s really articulated that. Growth is required for a couple of reasons here. One, yes, there are going to be shareholders; people will be looking at it. There’s David Ellison’s ego. Then there’s debt. This deal is levered to the max, right? Eighty billion dollars [in debt]. Eight zero. More important than the number is the reason that David Ellison was able to buy Warner Bros. was that the last owner couldn’t deal with the debt that he took on to buy the company. And that was a mere $43 or $50 billion, depending on who was counting. This is David Zaslav, the former CEO of Warner Bros. Discovery, who spent his entire tenure running that company telling Wall Street that, yes, he was gonna get the debt down, and that was his main focus, and debt, debt, debt, reduce, reduce, reduce. I mean, he did reduce some debt, but he never convinced Wall Street that he had a plan to grow. Wall Street gave up on this company years ago, which is why when David Ellison decided he wanted to buy it, the stock was, like, seven bucks or something like that. Eventually bought it for, you know, many, many times that. And now David Zaslav is considered — or he considers himself — a genius for selling the company at such a high price. You could also argue, as someone told me yesterday, that a unicorn sort of manifested itself and allowed David Zaslav to exit the situation he had put himself into. I don’t know who the next unicorn will be for this company if David Ellison at some point decides, “Ugh, actually this is a lot of debt and a lot of pain. I don’t wanna do this anymore.” I want to come back to that because I have a little bit of a conspiracy theory. It’s a little bit supported by the attitudes of some of the players here, but we’ll come back around. Even the previous owner, AT&T, which is remarkable that AT&T was the… Somewhere in this chain of ownership, AT&T owned Warner. Yes. They could not deal with these assets. Their plan was to distribute Warner content on AT&T phones, which never made any sense. But they were a more aggressive owner. It also wasn’t really their plan. Their plan was, “Hey, Netflix is a really valuable company. The stock is very high. We’re this boring telecoms company. Our stock is not moving. What if we owned a [version of] Netflix? I bet Wall Street would reward us as a high-flying tech company all of a sudden.” And Wall Street didn’t. Within a couple of years, AT&T said, “Uh, oh yeah, no, we’re out of this.” And yes, they had said a bunch of stuff about mobile, connectivity, ads, and targeting, and none of that ever went anywhere I will never forget covering their antitrust case when they had to get approval for that deal. They convinced the judge that they had a vision of the future. The judge in that case, in the appeals court opinion, wrote, “This is a vision deal.” And I thought, “We’re doomed.” Like, I don’t know what’s going on in our judiciary [system]. I want a Vision deal. How do I get one of those? I don’t know. I was like, “I don’t know what that is at all.” So, we have a lot of debt. The FCC had to waive the cap on foreign ownership. There’s 49 percent of the money from the Gulf in this company. Then there’s the Oracle of it. I’ve always wondered why anyone would trade what amounts to an AI stock for a media stock, especially right now. But the AI trade is a little shakier than it was before. Oracle has been punished a little bit for this deal. What do you make of that? Is that an effective backstop? I don’t know if Oracle was punished for this deal. I mean, there was a period a year ago when Larry Ellison’s net worth was double what it is now. And you could say, “Well, that was just a weird AI blip.” It’s still a very highly valued company. He is still the eighth richest man in the world because of his Oracle holdings. Wall Street is a little bit nervous now about the fact that Larry Ellison’s source of wealth is Oracle. He’s borrowing from Oracle. He has backstopped the Warner Bros. deal by pledging to come up with $40 or $50 billion if he needs to. And there is a question of, like, all right, not only is Oracle sort of intimately tied into this new media company, but Oracle’s also entirely dependent on one AI company, OpenAI, for its new plan. So late in life — Larry Ellison is 82 years old — he’s decided he’s kind of putting the entire company on AI and on OpenAI specifically. And while he’s not doing that, he’s going to use some of that money to fund his son’s media empire. I don’t know if it’s rickety, but it’s definitely a question mark. I open Instagram. Right now my Instagram algorithm is crazy because I keep looking for Instagram’s tolerance for copyright infringement, and it is high. Instagram has basically unlimited tolerance for copyright infringement. Mark Zuckerberg is posting deepfake memes of himself doing rap videos now. These are details. By the way, Nilay, you know who’s figured out the Instagram and Reels algorithm? You! I get so much Nilay front-facing video. You’re very good at it. You should consider being an influencer. You have figured this out. I try to deeply understand the things that are gonna kill me, and so that’s… We’re just looking at that one, and I’m looking at my daughter. I’m like, “I should know what’s going on here.” All this AI makes it impossibly cheap and easy to just take the IP from these movie studios. I watched a video last night of the Heath Ledger Joker and the Christian Bale Batman just doing a Justin Bieber video, and then I was served 5,000 more videos like this. That’s the OpenAI business. They’re gonna destroy the creative foundations that make the IP valuable that Warner Bros. makes, and somewhere in there is a big problem that I can’t quite figure out. Yeah, I think it maybe is simpler than that. You’re right, there are all kinds of copyright issues. The value of your library may be much less if someone can just take it without paying you. But I think the bigger issue for David Ellison and anyone in the media business is that what you really want is people’s attention. You have this company saddled with $80 billion in debt because it makes all kinds of entertainment, really expensive movies, all this sort of stuff, and now anyone can make anything that will at least get your attention for a few seconds on Instagram and TikTok. And so there’s this flood of stuff, whether it’s copyright infringement or not, it’s just stuff that the David Ellisons of the world have to contend with because your daughter and my kids might easily watch that stuff rather than the original Batman movie. I think that is sort of the existential problem [not just] for Skydance, but every media company today. But the Skydance purchase is being funded by the OpenAI deal with Oracle money. OpenAI just took all the stuff, right? This is a thing I can’t quite square: If OpenAI succeeds at the level that is necessary for the Ellison family to stay wealthy, then they will have massively profited from overwhelming IP theft, and they will have a product that can make anyone a movie at any time for zero dollars, rendering Warner effectively useless. Maybe you’re right! Again, I think there is a core tension here in that the reason you say that Skydance is worth what it’s worth is because of its existing library and its ability to make new stuff. And a lot of that may be much, much less valuable going forward. There’s a counter that says, look, you know, people were stealing music for decades, and somehow Spotify and the music industry figured out how to actually sell $120 worth of music per year to people who were only buying two CDs per year prior to that. So maybe there’s a way to math yourself out of this, but we don’t know yet. There are other constraints on this deal. This deal is actually marked by constraints and challenges, in a particular way. The big one is that in order to settle the antitrust lawsuit filed by California and a bunch of other states, they agreed to put out 30 films per year or pay $30 million per film that they missed into healthcare and retirement funds managed by the unions. After two years, they have to go up to 32 movies per year, and if they don’t hit that, they’ve gotta sell their 49 percent stake in Miramax. This is a pretty intense constraint, right? They’ve gotta just make a bunch of movies; they do not make this many movies right now. So how are you gonna cut costs to make more movies? I think the math there is that we have these two studios. If you sort of totaled up what they were gonna do already, it’s close to 30. And, to be clear, this is not really a constraint from California. This is a pledge that David Ellison was shouting from the rooftop for months and months and months. And if you want to, we can talk about the non-settlement he extracted from California. But this has been David Ellison’s pitch for a long time. I think the main thing is that David Ellison has proved that he can sort of get California and regulators around the world, and definitely federal regulators in the Donald Trump era, to go along with whatever he asks for. I don’t think they’re gonna be constrained by regulation. I think they’re gonna be constrained by math and debt, and are you shaving that debt down fast enough to make bondholders happy? I’m actually asking about math here. I do want to talk about the non-settlement, but the 30 films per year going up to 32, I don’t know that there’s a market for that. It’s not like the box office is growing at the rate to support that, and if you need to pay down your debt, the first thing you would do is stop making things that people aren’t buying. I mean, there’s some finagling, right? Like, what is a movie? Does a movie have to be released in movie theaters? You know, is a piece of shit that no one watches a movie? And then again, I think, in that settlement in California, they said literally, like, “X number of movies have to be in a movie theater,” which means a lot of them don’t. So who knows what they will use to fulfill that obligation. But for the near term, I don’t think that is gonna be their primary problem. Let’s talk about California for one second. I actually got an email from a reader saying that I always call out Republicans by name, but I only say California. So I will say it appears [Governor] Gavin Newsom and [Attorney General] Rob Bonta totally caved here. Ellison threatened to move to Nashville or something, and they blinked, and I think the other states in that lawsuit were not happy that they blinked, but they totally blinked. What is the settlement? Does it have any teeth at all? No. It’s all the stuff that David Ellison was already proposing, and none of the things that Rob Bonta, the attorney general of California, said he was demanding. He was saying, “We need structural remedies.” I’m sure I don’t need to tell a Decoder audience what a structural remedy is. He was like, “Behavioral remedies are not adequate. It won’t work.” He was saying that up until the weekend that he caved, and then he caved, and he had this humiliating press conference where he had to stand up and say, “This is, this is a good deal. I really believe in it.” Apparently, he was considered, like, a rising star in Democratic politics, in California politics. I have not been exposed to him prior to that press conference, but it’s very hard to imagine that guy has a… He doesn’t seem to have a lot of juice. Anyway, enough about my political musings. There’s very little in here. I don’t think Paramount gave up a single thing to actually make this deal work. You got it right. They said, “We’re gonna leave if you don’t give us what we want.” Anyone who’s watched professional sports, who’s rooted for a professional sports team, knows how this goes. “If you don’t build me my new stadium, if you don’t give me billions of dollars to refurbish my stadium, I’m gonna leave.” And sometimes those teams do leave, but most of the time they stay and they get what they want, and that seems to have been the Ellison playbook here. David Ellison’s pitch to Hollywood for the last two years was like, “I grew up here. I love movies. I love Hollywood. I love film.” And then the last few months were, “I’m gonna ditch this and go to Tennessee or wherever else and fuck Hollywood,” which is kinda hard to square those two things. The second he got that settlement, he was like, “No, I love LA. I was never planning to leave.” I think they looked at this from the start as: We’ll say and do whatever we need to make this deal get done. And once it’s done, it’ll all be behind us; we can go back to loving LA, and no one’s ever gonna pay attention to this. And by the way, he might be right. I do have to note that Peter is a Vikings fan. I’m a Packers fan. I do not believe the Bears are gonna move to Indiana. We’re literally watching this situation play out in front of us right now. That’s a wild one. I will say the Minnesota North Stars no longer exist. The Dallas Stars. Minnesota was without hockey for several years. So sometimes these guys actually do follow through and move the team. Yeah. Speaking of Minnesota, who knew you didn’t need a quarterback to go four and 0? Just throwing that out there. Let’s talk about the NFL for one other second. The last time you were on the show, you pointed out that CBS broadcast television exists to sell the American people the NFL. That is the business. Speaking of math, of costs, there is a change of control clause in the NFL deal with CBS. They could come in there, they could raise rates, they could get Amazon or Apple or Google to throw a bunch of money on the table and basically tank this company. They could take CBS’s business away. Does that feel like a meaningful threat right now? No. I think CBS will pay whatever it needs to pay to keep the NFL. It is existential for them. I think the NFL knows that. But also, the NFL, as much as they like streaming stuff and streaming deals, they like broadcast TV. They like that distribution. It’s also a political football, pun intended. If the NFL went away from broadcast television, I think that would become an actual national political emergency. You’d actually have Republicans and Democrats united to sort of stop it or do something about it. It’s very hard for me to believe that the NFL leaves broadcast TV, and I think because CBS needs it so badly, I just think they’ll pay whatever they need to pay. Let’s talk about the structure of this deal. I love talking about corporate structure on the show, as you know. You have a profile of the new co-CEO of Skydance, Ynon Kreiz. He was most recently at Mattel. There’s actually a lot of Peter in this story because he left Mattel to go run Skydance. And the CEO of Condé Nast, Roger Lynch, is leaving Condé Nast to go to Mattel, and we’ll find out who the new CEO of Condé Nast will be. These are all Peter Kafka stories in a way. Oh, it goes deeper than that. I met Ynon Kreiz when he was running a company called Maker Studios back in the YouTube MCN days, for any of your ancient watchers and listeners. And he sold that company to Disney, and I actually broke that story. And at the time it was considered this huge deal, Disney’s big bet on digital media. The numbers are so small now it’s laughable. And that was a total failure. A long line of Disney digital acquisitions that did not work. They’re really snake-bitten there. Kreiz was the guy brought in. That was a really wooly company founded by a group of YouTubers who were dating each other but also harassing each other. And he was basically brought in, first as chairman, and then CEO, to be the grown-up and to sort of whip this thing into shape and sell it off, which he did. It’s funny, the MCN era ended because YouTube decided that MCNs shouldn’t exist, and they just killed them all. Again, another theme that will emerge somewhere down the line in this conversation. Tell me about Ynon. Ynon’s got lots and lots of media credentials. He ran Endemol back when that was a really important TV production company. He worked with Haim Saban, if any… No one knows who Haim Saban is anymore. Mighty Morphin Power Rangers? Exactly. He did Maker and then went to Mattel, where he gets credit for making the Barbie movie. Now, he didn’t actually make the Barbie movie, the long-running thing, but he put that deal together with Margot Robbie and it was a giant, giant success. So that counts as a big win. He also cut 22 percent of Mattel’s workforce, sort of immediately upon getting there. That’s sort of what you bring Ynon Kreiz in to do. You don’t bring him to have lunch at the Polo Lounge and make nice with talent. You bring him in because you need to whip things into shape and cut things, and that’s his deal. I was talking to a bunch of people the last few days. He strikes me as a guy who doesn’t have terribly high EQ. Other folks say, “No, no, no, no. He’s tough, but he’s actually a teddy bear if you get to know him.” I think most people who get laid off by him won’t consider him a teddy bear, but that’s his job: to go do the unpleasant work of finding $6 billion in synergy. Because you are a corporate structure lover, you probably have noticed that while Ynon Kreiz is co-CEO of Skydance, David Ellison is not the other co-CEO. David Ellison is the CEO. So at a minimum, we have a one A and one B thing. But also, let’s be clear, David Ellison and his father own the company, so ultimately it’s their deal. I think quite clearly what David Ellison wants to do is be able to have lunch at the Polo Lounge, the San Vicente Bungalows, or wherever they go, and someone will come up to him and say, “I’m really angry about this layoff or this movie project that you canceled.” And he’ll say, “Oh, that sounds terrible. You should really talk to Ynon about that. My hands are tied.” That’s Ynon Kreiz’s job. Ellison wants to hang out with Tom Cruise. This whole thing, from start to finish, is like, one guy wants to hang out with Tom Cruise, and he’s gonna manufacture a company that will allow him to do that at scale. I will give David Ellison more credit than that. David Ellison, when he ran Skydance, his primary achievement was befriending Tom Cruise. And I’m sure he liked hanging out with him, but that’s why Skydance was a company: David Ellison was in the Tom Cruise business. He was in the Mission Impossible business, the Top Gun business. That is what the job of a producer is: getting people to… You don’t really do anything as a producer. You just sort of package stuff, and he was able to be in the Tom Cruise business, and that’s what got him as far as he’s been able to get. And that is his job. That was his job. Now he’s got a different job. There’s probably a PhD thesis on the kind of personality that accepts a co-CEO title without another co-CEO. I’ve thought about that from the get-go because of the chain of events — was it last week? — Roger Lynch, CEO of Condé Nast, who said, “I’m now the CEO of Mattel.” For an hour or so, no one knew where Ynon Kreiz was going, and then the rumor was, “Oh, he’s gonna have a job at Warner’s. I’m like, well, what job could he take? He’s already been the CEO of a big publicly traded company. These guys don’t usually accept a demotion. And quite clearly what he’s… One, they said, “All right, you’re the co-CEO,” so it’s not a demotion. Two, there are only a handful of these giant media conglomerates. If you can run one, that’s just a big notch to have on your belt. Number three, they’re gonna pay him $50 million this year. So that will help salve some of those wounds, and I think everyone sort of acknowledged it. Like, he’s effectively the COO of Skydance, if you think about it. You just give him a different title so it sounds better. There’s some other shuffling under that to do. You’ve got two movie studios. You have James Gunn running DC really well, actually. I think Lanterns is just a bona fide hit for HBO. You’ve got two news divisions, which we should talk about. How are they going to resolve these conflicts? Are they just gonna pick one team or the other? Yeah. I mean, they’ve already done that with streaming. Cindy Holland, who pioneered Netflix’s move into original programming more than a decade ago, was brought in by David Ellison a year ago to run that streaming service. He’s just bought HBO, which is run by Casey Bloys, very well-regarded, who spent the last year making it clear to everyone that he would not work with or for Cindy Holland. I don’t think there was personal animus. He’s just like, “I already run HBO. Why would I want to share power with somebody else?” So it seemed pretty clear that David Ellison would pick that horse, and I think he’s gonna make a bunch of those calls. The people who ran the Warner Bros. studio, which a year ago was the toast of the town, were making tons of money and critical acclaim. This year, they produced Digger, Tom Cruise’s biggest bomb ever, and they’re having a rough year. But it was always sort of clear that David Ellison was gonna bring in his people. David Ellison is not an art film guy — he’s not a guy who’s gonna allow Paul Thomas Anderson to make One Battle After Another again. He’s in the Mission Impossible Tom Cruise-iverse, so that’s not surprising. CNN and CBS, people have been talking about merging those companies almost as long as I’ve been covering the media, so that’s not a new idea. They have said, I think wisely for now, “Well, we’re not gonna merge those two,” because we just know it’s a fucking shit storm politically if they touch that stuff. And this is pure speculation, but they might also say, “Well, we hired Bari Weiss and gave her CBS News to run, and maybe we told her she’d also get to play with CNN. But it’s been a rough year over at CBS in the Bari Weiss business, and maybe even if we’re gonna give it to Bari Weiss a couple years down the road, let’s not stir that nest right now.” So Mark Thompson, who’s been running CNN, is gonna continue to run CNN. But again, in the background, no matter what Mark Thompson… He has control of CNN. Ynon Kreiz is still gonna be in there saying, “I know this is your business, but it’s really my business, and you need to cut 10 percent or 20 percent,” or whatever it is, and everyone has to do it. And so in some ways, yes, it matters who’s running these individual studios and components, but again, the debt is hanging over everything. Everyone is gonna have to work to reduce that debt one way or the other. The Bari Weiss thesis at CBS, as charitably as I can put it, was that when she showed up, she was like, “No one trusts the news, and it’s because we’re not fair enough, and I’m gonna do more conservative stuff.” And that was part of the regulatory arbitrage with the Trump administration. They were gonna change CBS because Donald Trump did not like the coverage on CBS, and that worked or didn’t work. But I think we now know that she did not increase trust in CBS News by making it a more conservative-friendly organization. The ratings are down, like precipitously down, such that a lot of people think that she should just be fired and something else should happen. I would — Yeah, I don’t see that happening. Well, right, because he’s gotta do regulatory arbitrage on both sides. We have midterms — And I think he likes Bari Weiss. I think David Ellison is not a political person. I think his father, Larry Ellison, is probably not that political. Tom Dotan in Vanity Fair just did a profile of Larry Ellison and sort of gets at the idea of how he’s bought these big media empires. He also owns a chunk of TikTok. Is there a thing here? And his conclusion is no, it’s not. He really doesn’t have much politics. But the one thing the Ellison family cares a lot about is Israel. Bari Weiss cares a lot about Israel. That is the one ideological through line there. I think they’d be loath to sort of cut her loose. And also, it’s been a clusterfuck over at CBS, but I don’t know that she’s done a worse job running it than anybody else has recently. It’s just that there’s systemic decline. Now, she may make it even worse. It’s possible. And as a journalist, you may not like what she’s doing. But if you’re running the business, I don’t know that she has made it that much worse. I think the Ellisons probably don’t like the headaches and headlines generated by it, but I also don’t think they care that much. I mean, I go on TikTok, and I see any clip from any 60 Minutes or CBS News account, and all of the comments are, “You ruined this. I blame Bari Weiss. I can’t trust you.” That is a decline in trust from where they were before, when no one knew who was running CBS News. I would actually —. I think you should not know who the heads of network news are. Yeah. I think it’s bad that the kids on TikTok are like, “I hate this one person that has nothing to do with the video clip I’m seeing now.” I bring that up because of the TikTok of it all. The idea that TikTok was a national security threat, that the United States Congress voted unanimously to ban it, that Biden voted to ban it, but then he knew it was political suicide, so he kicked the imposition of the ban to the Trump administration. All of that, as you peel apart the reporting, what did members of Congress see in their closed-door meetings? It comes down, as far as any of the reporting I’ve ever seen, to how they thought it was spreading pro-Palestinian propaganda, anti-Israel propaganda. Now the Ellisons own it. As you said, they care very deeply about the issue of Israel, and I can’t say that their ownership of TikTok has meaningfully moved the needle on how people feel about the war in Gaza in any way, shape, or form. Did they try? Perhaps people were disappointed with Israel’s conduct prior to the invention of TikTok. Perhaps there are other reasons they may not be concerned. And, you know, the reason Congress voted for this. It’s maybe the only thing Congress has passed in years is this rule saying China can’t own TikTok, which they then immediately forgot about during the first year of the Trump administration. I do think the China of it all was meaningful for some people, but they clearly also just didn’t care. It’s kinda wild to see Congress pass a bill that becomes a law and then not try to enforce it at all. They knew it was suicide. I don’t know if you remember this, but there was a day when it was the House committee, and AOC was on this committee, and they went into a SCIF to view some intelligence about TikTok. They all came out and voted unanimously to ban this thing, and no one for months could figure out what they saw in there. And it was like, “Did you see a picture of Chinese intelligence services turning the knobs in the algorithm to poison the minds of American youth?” And they’re like, “No, no, no.” “They showed us some videos.” Yeah, it was like, “What, what are you looking at in there?” And then we just sold it to someone who may or may not have some political leanings, but they have some control that is equivalent to the Chinese control, which was so scary that we had to ban this platform. I’m bringing this all up because that is the thing that is reducing trust in the news media. It is not the news media itself, right? The news media makes its mistakes in whatever ways it makes its mistakes. But it’s a bunch of influencers on social platforms who start every video by saying, “Here’s what they’re not telling you,” which is actually the mechanism of reducing trust. And then they read you The New York Times. As somebody who now makes these videos — “No one’s covering this! Let me read you a New York Times story about it.” The other thing that has reduced trust in the media is that Republicans, for 40 years, have been saying the media is biased. And if you say something for 40 years and you’re one of the two parties running the country, I think that message sort of seeps in, before TikTok, before social media. But if I had to pick the two things that are the biggest threats to the businesses that David Ellison now owns, I would pick AI, and I would pick social media, and those are the other big investments of the Ellison family. Is this all just an elaborate hedge, or does he have a plan to use TikTok to amplify his content? To market these movies? I don’t think they have a plan. One of the through lines when David Ellison was buying Paramount was that David Ellison’s a successful producer. You add his dad, who runs Oracle; he’s got a lot of tech know-how. And also, David Ellison is not just a movie producer; he’s a technologist. This was the thing they stood up and said at a press conference. And he said, “Yes, yes, I was mentored by Steve Jobs.” He wasn’t mentored by Steve Jobs. But anyway, the whole premise was we’re gonna techify this and cloud and Oracle. And maybe they could save $10, $20, maybe $100 million on sort of back-office-y things by swapping in an Oracle contract for something else. Although, I think in the normal world, you’d say just because your dad owns this company, we don’t get to bring it in as a technology company for this publicly traded company. Whatever. But there’s never been any indication that they’ve got any other plan other than shaving some costs. I don’t think David Ellison is ideologically inclined. Maybe he will see something outrageous on TikTok that he doesn’t like and say, “Hey, Dad, could you bring that down?” I don’t even know if his dad has the capacity to bring something down. You know, TikTok is a black box. We don’t actually know how the algorithm works, who actually controls it, and who can steer it. The potential for TikTok content to end up on whatever this new Paramount HBO streaming service is high. Mm-hmm. I know the other big media companies have long looked at the user-generated content platforms and been envious of their cost structure. YouTube barely pays any money for its content, and it’s destroying this industry. YouTube pays the most. YouTube pays 55 percent. Everyone else pays zero percent. Right. But for an average creator on YouTube, you’re getting nothing, effectively. I’m just saying it is a great business model, and the Reels and TikTok business models are much better than the YouTube one because they pay zero percent for content. There’s something there. Like, Disney has made some noise about putting creator videos in Disney+. They’ve all looked at it. They’ve all talked about it. This one seems easy, right? It’s HBO Max plus your favorite commentary about whatever HBO Max show you’re watching, sourced directly from TikTok, right here. We’re all gonna integrate it. Maybe this is way harder than I’m making it sound. I think they all believe that… They all move in herds, right? All these companies always do. We’re all doing vertical video now. And you’re like, well, vertical video, yes, people like the format. What they really like is unlimited free content. Which, again, TikTok doesn’t pay anything for. So you, Paramount, or you, Peacock, or you, Disney, you are not in the business of getting free content from people. You are still paying for stuff, and also you care about your brand still, so you don’t wanna just have a platform where anyone can watch anything. And I think that is kind of the fundamental question for all these media companies. You’re not platforms. The dominant media companies are platforms. Can you turn yourself into a platform? Should you turn yourself into a platform? Should you just say, “Nope, what we make is super high-quality, specific stuff that people value as a brand, and maybe that’s just gonna be our place, and we’re not gonna compete with the YouTubes of the world”? Netflix seems to be going in that direction. They’re gonna be more platform-y. I do think you’ll probably see not just Paramount, but every company try to say, “Oh, we’re a platform, too.” I don’t think it will be successful, though Do you foresee a tighter connection between Skydance and TikTok? These are all companies operated by a family. They’re not close right now. They could get closer. I don’t know that TikTok cares, right? TikTok, which is still really run by ByteDance, I don’t know that they care about making Larry Ellison that much happier. I don’t think that’s the direction of travel here. I’m only curious because I’m watching Meta just relentlessly promote Muse, its AI agent, across all of its platforms. OpenAI launches Dots, and where do they go to buy ads? They go buy ads on Meta platforms. And like, this is a massive structural advantage for Meta, right? They are not buying their own ad space. And if I ran a movie studio and I had to put out 30 movies per year and pay to market them to try to get these kids to go to a theater, I’d be like, “Boy, I could really use that TikTok juice.” Do you know who’s winning the microdrama wars in the US? I don’t know if you’ve paid attention to microdramas yet, but they are what they sound like. Oh yes. Meta. Meta is not in the microdrama business. Meta is in the “Oh, you wanna advertise microdramas? Come talk to us.” So they are getting all of the microdrama money right now. It’s a great place to be if you’re, if you’re Meta. And by the way, the microdrama companies are uploading their content to Meta as ads, so Meta both gets paid for the advertising and then has free engaging content that it can show its users. It’s a great place to be. If only Meta cared about its actual businesses instead of trying to win in AI agents. The amount that they would succeed would be out of control. That’s another episode of the show. Let me end with the conspiracy theory that I brought up at the beginning. There was a bidding process. David Zaslav’s initial plan was to split Discovery into two, to sell the cable networks to whoever was dumb enough to buy them. Netflix really wanted Warner, and they bid. They were actually the announced winners until David Ellison did his regulatory arbitrage. They won the deal in December of last year. They gave up on it in February of this year. So they won for a couple of months. David is very good at just kicking the door back open. He made it happen. As Logan Roy said, “Congratulations on saying the biggest number.” No one has succeeded in buying Warner. You could argue that Netflix did nothing but make the price so high that it was unsustainable, that they had to create massive amounts of leverage on this deal, pay an unsustainable amount of debt. And at the end of this all, Ted Sarandos is gonna be standing there waiting to buy, yet again, the distressed assets of Warner Bros. at a fire-sale price. Do you think that’s likely? I think Netflix, and other people as well, will definitely be in the business of, “Oh, Ynon Kreiz fired you? Ynon Kreiz told you you couldn’t make your movie or television show? Come talk to us.” Which, by the way, a lot of other companies were doing to Netflix back in 2022 when Netflix went through its retrenchment. So I think that is likely but also standard, right? You just have this turmoil. You have a standard thing in any media company of, “Oh, this project this other guy brought in, we’re not doing that anymore. That was a failure. We’re doing new stuff. And oh, by the way, if the last guy’s project turns out to be successful, we’ll take credit for that. But we’re gonna bring in new stuff.” I don’t think Ted Sarandos was playing 3D/4D chess here. I think they thought this was a good idea. But I think the much more obvious answer is Wall Street hated the idea. Wall Street kept telling Netflix, “We hate this. We hate this. Please don’t spend $80 billion on this. And also, by the way, you’re gonna have a tough time getting this through regulation.” And I think Ted Sarandos eventually said, “Okay, you’re right.” I’ve seen him speak publicly about this and in other venues. He seems quite upset about the fact that he didn’t get this deal. I think there are also feelings involved here. But I don’t think this was all a master plan on their part. I think they went for it. They didn’t get it. They’re bummed out. They’re gonna move on. I think an angry, aggressive Netflix might actually be the best thing that could happen to Hollywood right now, because they were headed towards their own vertical video slop fest, and maybe now they’re not going to do that. I think that’s the question for — I mean, it’s a question for everybody. But for Netflix, it’s: you guys have been super successful for a couple of decades by doing one thing. Well, initially you were doing DVD by mail, then you went to streaming, and that’s all you did. And you didn’t ever sell movies. You didn’t do a la carte stuff. You didn’t do advertising. You didn’t do sports. Now you do advertising. Now you do sports. Now you’re doing games. Now you’re doing podcasts. Maybe you’re gonna integrate with other kinds of TV stuff. And so this laser focus that Netflix had, which proved very successful, they are moving away from. They may have to move away from it. They may have sort of reached the limit of that growth. But it gets trickier and trickier the more things you add to that stack to make sure you’re doing a good job. And I think that is the real challenge for them. We’ve been at it for about 45 minutes. I still don’t know how David Ellison is gonna make one more dollar than he made last year. Have you come to any conclusions? We’re recording this Tuesday morning. Tuesday night, like at 7:30? I don’t know why they’re doing it at 7:30 or 8:30. They’re gonna have a press conference, the first Skydance press conference. So if we re-record this on Wednesday, maybe all this will be answered, but maybe it won’t be answered. Well, Ynon will be there. He’ll be there wielding his scythe. It’s gonna be interesting because he is not gonna be a high-profile person, but I think a lot of people are gonna learn his name anyway. And this is a thing that Hollywood does, right? You find a person to blame for your troubles. Sometimes it’s a company like Netflix, sometimes it’s an evil Jason Kilar. Remember when he was running WarnerMedia for a minute or two? And everyone said, “You’re wrecking the business. Thank God we have David Zaslav, who’s an authentic media guy to come in and save us.” And then, you know, six months later, David Zaslav’s name is an epithet. Presumably there’ll be a new epithet associated with this company. Yeah. Well, this deal is gonna wind its way through. We’re gonna check in on it a lot. We’re gonna have you back, Peter. Thank you so much for being on Decoder. See you, Nilay. Thanks.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-10-10T14:00:00.000Z",
-            "fetchedAt": "2026-10-10T14:47:17.612Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [
-              "apple"
-            ],
-            "stakeholders": [
-              "oem",
-              "platform-partner"
-            ],
-            "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance.",
-            "id": "a1"
-          },
-          {
-            "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China - The Straits Times",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaWZpUmMxWlFHRGR6djZTUlhheXlCR1dBUXZJM3RQbXNSWTlsd1JSU2lELWdiWUNkWUl2eHFhVHF3QjZKVEdQWmZOME9WTC1BOVNCSXdka1pnUmlReW40MFVEb2xfaDlWM3JnYU1yaTNqLWZYbnlzeTQ5M2dFZjJsNFVDRmNXenFybzJWb1Z0c2NUWWFoeE9mdFJZOHdZOXJVMElhVTc4clBsRksxNmxGR0hHMUNxdk5od0p6dlNzYnNsOHIzZThGdVJNaGZuT2FXOFJUTGZzV19KcEROTmw0d3duRFNyNGxkYXJFVjFyWWxlTERHN1RZ?oc=5",
-            "description": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China The Straits Times",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-10T02:10:00.000Z",
-            "fetchedAt": "2026-10-10T14:47:23.265Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "The Straits Times",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China The Straits Times",
-            "id": "a3"
-          },
-          {
-            "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
-            "url": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
-            "description": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-10T02:09:00.000Z",
-            "fetchedAt": "2026-10-10T14:47:16.988Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
-            "id": "a4"
-          },
-          {
-            "title": "Qualcomm-Huawei deal lands as U.S. tightens China tech rules",
-            "url": "https://www.thestreet.com/investing/qualcomm-huawei-deal-lands-as-us-tightens-china-tech-rules?.tsrc=rss",
-            "description": "Qualcomm and Huawei deepen ties, despite a looming FCC vote on rules that would restrict Chinese electronics.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-10T01:03:00.000Z",
-            "fetchedAt": "2026-10-10T14:47:17.342Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm and Huawei deepen ties, despite a looming FCC vote on rules that would restrict Chinese electronics.",
-            "id": "a5"
-          },
-          {
-            "title": "Super Micro Case ‘Fixer’ Pleads Guilty to Diverting AI Tech",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-09/super-micro-case-fixer-pleads-guilty-to-diverting-ai-servers",
-            "description": "A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan “Wally” Liaw of conspiring to send cutting-edge chips to China in violation of US export controls pleaded guilty, according to court documents.",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-09T21:11:31.000Z",
-            "fetchedAt": "2026-10-10T14:47:17.285Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan “Wally” Liaw of conspiring to send cutting-edge chips to China in violation of US export controls pleaded guilty, according to court documents.",
-            "id": "a8"
-          },
-          {
-            "title": "Trump Visa Crackdown Raises Questions for Tech Talent",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-09/trump-visa-crackdown-raises-questions-for-tech-talent-video",
-            "description": "The Trump administration has suspended Microsoft, Adobe and several other companies and universities from a program used to sponsor foreign workers for permanent residency, citing concerns about potential abuse. Erickson Immigration Group attorney Hiba Anver explains why restrictions on employment-based immigration could have broader implications for the technology industry’s talent pipeline. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-09T17:58:44.000Z",
-            "fetchedAt": "2026-10-10T14:47:17.285Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "The Trump administration has suspended Microsoft, Adobe and several other companies and universities from a program used to sponsor foreign workers for permanent residency, citing concerns about potential abuse. Erickson Immigration Group attorney Hiba Anver explains why restrictions on employment-based immigration could have broader implications for the technology industry’s talent pipeline. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-            "id": "a10"
-          },
-          {
-            "title": "China & Taiwan Update, October 9, 2026 - Institute for the Study of War",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTmhrNF94Znk3YVRMSElZXzY0UThrTUFKWk0zTzlQWHRTb0tXNm1zZ0RRVDU0MGF5YmlVNDdDZjc0ZWtqZkpaMWh3cFJsN0VGczgtWlZKcEJYVXNubGtNOHFQS2ZBTjlUQ1NHaDh0UGk5b1YxZWdFaHU2WE1TQTFDRzhiNmRmUUdWaWJJSG5BMA?oc=5",
-            "description": "China & Taiwan Update, October 9, 2026 Institute for the Study of War",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-09T17:27:07.000Z",
-            "fetchedAt": "2026-10-10T14:47:23.265Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Institute for the Study of War",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China & Taiwan Update, October 9, 2026 Institute for the Study of War",
-            "id": "a12"
-          },
-          {
-            "title": "The banana chip witch hunt: China, CALE88 and the weaponization of national security against Sara Duterte - The Manila Times",
-            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPa3QxaDRwUllMRXpnLXc4c1IyMXoyeTlYU3FLTWxYei1naDJTYzhlRUVVNkx5Z1Azd1d0emZkZjVQamk3djF4aHdRNHVZQkgtd2ZKYlhMeEF1UVVMQ3hIdzdCQVUwR3lLWG5SWlNsTzNudnVKNU5uczlYN0V3NXlwVi0yaFZfX0FZZHFOVWthRTVXOG9pMFpxOGQ3YWhreTNIRm5BTVczQ0NwNXNBU013TlpMZjAxdWdUUlBDQVg5SmJiOVNJRE9UZXNwN1ktNnpIOXYyNXZFNkdkaV9XbWJpM3lOVkNwYU1LVmJQRVhCRWFLd1FlVVFleXRn0gH_AUFVX3lxTE5yMWdjejdaSmhnRVRLSmhieERPMGNkQmM1WU9uVDlRSVdWa240NVZreUZRX0Npbnhvc3JwOUJiM3RnY2tXUDFydjNWU0h6ZHZMeWNuWVZKRXVLUUJNMlpyZ2s5c29qNkhZb1gwUjJwaHQxa0d0cUdNUHpEQ2hYNUl0NGRreW13bDFvRW1NTTFBZC1CMURfaVcyeHlhOEJuVW0xdDJteGFCcmlVcWZ1dVZPRDMwQmZFRnFuRExhRWJYS3h6OFpUSmFNazhDQ3JkemZYYTNjb1NoQWZHSXN1ZXZPR0RSdm1mWE16MmRyU0hRQmZmX2lOTUtyX0QyMlpZVQ?oc=5",
-            "description": "The banana chip witch hunt: China, CALE88 and the weaponization of national security against Sara Duterte The Manila Times",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-09T16:03:00.000Z",
-            "fetchedAt": "2026-10-10T14:47:23.265Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "The Manila Times",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The banana chip witch hunt: China, CALE88 and the weaponization of national security against Sara Duterte The Manila Times",
-            "id": "a13"
-          },
-          {
-            "title": "China and Europe agree to cut Chinese hybrid vehicle exports by half",
-            "url": "https://www.cnbc.com/2026/10/09/china-europe-hybrid-vehicle-exports-deal.html",
-            "description": "Europe's trade chief Maroš Sefčovič cast the two days of talks with China's Commerce Minister Wang Wentao in Beijing as a positive first step.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-09T15:03:10.000Z",
-            "fetchedAt": "2026-10-10T14:47:16.988Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Europe's trade chief Maroš Sefčovič cast the two days of talks with China's Commerce Minister Wang Wentao in Beijing as a positive first step.",
-            "id": "a14"
-          },
-          {
-            "title": "Access Advance boosts China footprint with new hire, offices",
-            "url": "https://www.iam-media.com/article/access-advance-boosts-china-footprint-new-hire-offices",
-            "description": "Recent Access Advance and Nokia appointments in the country highlight the strategic importance of the Asian market",
-            "source": "IAM",
-            "sourceId": "iam",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-09T08:24:15.000Z",
-            "fetchedAt": "2026-10-10T14:47:19.638Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Recent Access Advance and Nokia appointments in the country highlight the strategic importance of the Asian market",
-            "id": "a17"
-          },
-          {
-            "title": "OPPO, Nidec have taken Qi Wireless Power patent pool license, Via announces during AI licensing-focused Summit",
-            "url": "https://ipfray.com/oppo-nidec-have-taken-qi-wireless-power-patent-pool-license-via-announces-during-ai-licensing-focused-summit/",
-            "description": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
-            "source": "IP Fray",
-            "sourceId": "ip-fray",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-08T16:30:00.000Z",
-            "fetchedAt": "2026-10-10T14:47:21.184Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
-            "id": "a19"
-          }
-        ]
-      },
-      "competitors": {
-        "generatedAt": "2026-10-10T14:47:23.303Z",
-        "date": "2026-10-10",
-        "section": "competitors",
-        "sectionTitle": "Competitors",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), Geopolitics & Export Controls (1 article), IP / Intellectual Property (1 article). A total of 4 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "Geopolitics & Export Controls: Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply",
-              "articleIds": [
-                "a1"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            },
-            {
-              "text": "IP / Intellectual Property: Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year pate",
-              "articleIds": [
-                "a6"
-              ],
-              "subCategory": "ip"
-            },
-            {
-              "text": "FRAND & Licensing: QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei pate",
-              "articleIds": [
-                "a18"
-              ],
-              "subCategory": "frand-licensing"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
-            "url": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
-            "description": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance. So I wanted to ask Peter if he thinks the Ellisons and Skydance have a real shot at succeeding where so many companies before them have hit the rocks. Okay: Peter Kafka on Warner Bros. and Skydance. Here we go. This interview has been lightly edited for length and clarity. Peter Kafka, you’re the chief correspondent at Business Insider, and you’re the host of the Channels podcast, our sister podcast here on the Vox Media Podcast Network. Welcome back to Decoder. Thanks for having me. It’s big media day again! A big media day. It’s an auspicious day, as my parents would say. It is the day that the Warner-Paramount merger closes. We’ve all been calling it Warner Mount, but I’m told this company will instead just be called Skydance. Skydance! Every time I see the word Skydance, I assume it is foreign-owned, which is maybe true in some way. Another way to think of it is that there are iconic names in Hollywood. Paramount is such an iconic name that Viacom turned itself into Paramount years ago. Warner Bros. is a legendary studio. Let’s get rid of those names. Let’s add Skydance, which no one’s ever heard of. Let’s just start at the start. There was Paramount. There’s Warner Bros. The deal closes today. That is all going to be a new company called Skydance. Is Skydance just a holding company? Are we as consumers meant to know that this thing exists? I think for the near term, you’re still gonna think of companies like Paramount, Warner Bros., and HBO as brands you know, but this is going to be one company. They’re going to merge everything. They’re likely going to merge the streaming services, Paramount and HBO, into a thing, not right away, but eventually. So I do think Skydance will be a name that consumers will probably know at some point. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. I just have to ask, what are the chances that HBO Max will be rebranded yet again into Skydance? There’s probably gonna be some branding stuff. Not again. In the near term, because this is still a cable TV company, there are actually some limits on what these guys can do with their brands and their services. And they won’t come out and say, “We’re gonna mush this stuff together.” But there’s likely to be one mega streaming service, and maybe you can get HBO separately, or maybe you can only get HBO or only Paramount. Still, it’s gonna be one thing, and one movie studio. It’s all gonna get mushed together, and it’s all gonna be run by David Ellison. David Ellison is just the latest to believe that he can buy Warner Bros. and make something good happen. I have joked many times on this show that maybe the only antitrust policy this country needs is to make it illegal to buy Warner Bros., and that would just solve a lot of problems. Why does he think he will be successful? Well, his dad’s the eighth richest man in the world, so that’s not nothing. That Oracle stock is tied up in a bunch of AI stuff. It’s moving up and down. We can talk about that. But one, that means that he literally has the money to buy this, and two, that this is a public company kind of in name only. David Ellison and Larry Ellison, his father, control this company effectively. They don’t really need to worry that much about equity shareholders. Debt’s a different issue. And he’s 43. He’s got a long run backed by tens of billions of dollars of his father’s money to take a stab at this. And as you said, he will not be the first person to do this. There’s a long list of failures. I think maybe that’s appealing to guys like him. It’s like, “Everyone else is dumb. I’m the smart guy who’s gonna figure it out.” “Everyone else is dumb, and I’m smarter than everyone else is,” is very appealing. But that long list of failures, if you just look at it — they’re all shaped like this idea. We’re gonna take iconic Warner Bros. content, we’re gonna marry it to new distribution, we’re gonna reduce the overhead and costs and decadence of Hollywood. Where does new revenue come from? There’s no plan for new revenue. There’s no announced plan for new revenue. Right now it’s shrinking; it’s cutting costs. It’s when we merge these two companies together, we’re gonna save $6 billion over the next three years. We promise that most of that’s not gonna come from layoffs, but a lot of it’s gonna come from layoffs. These are companies that have had many, many rounds of layoffs prior to this. And you could argue, well, there’s probably not that much more to cut. I think reasonably you could say, look, if you combine two big streaming operations, two big studio operations, there probably is stuff [to cut]. You can probably sell off some real estate. You probably don’t need all the executives you currently have. There’s some savings there. But how do you grow? No idea. And no one’s really articulated that. Growth is required for a couple of reasons here. One, yes, there are going to be shareholders; people will be looking at it. There’s David Ellison’s ego. Then there’s debt. This deal is levered to the max, right? Eighty billion dollars [in debt]. Eight zero. More important than the number is the reason that David Ellison was able to buy Warner Bros. was that the last owner couldn’t deal with the debt that he took on to buy the company. And that was a mere $43 or $50 billion, depending on who was counting. This is David Zaslav, the former CEO of Warner Bros. Discovery, who spent his entire tenure running that company telling Wall Street that, yes, he was gonna get the debt down, and that was his main focus, and debt, debt, debt, reduce, reduce, reduce. I mean, he did reduce some debt, but he never convinced Wall Street that he had a plan to grow. Wall Street gave up on this company years ago, which is why when David Ellison decided he wanted to buy it, the stock was, like, seven bucks or something like that. Eventually bought it for, you know, many, many times that. And now David Zaslav is considered — or he considers himself — a genius for selling the company at such a high price. You could also argue, as someone told me yesterday, that a unicorn sort of manifested itself and allowed David Zaslav to exit the situation he had put himself into. I don’t know who the next unicorn will be for this company if David Ellison at some point decides, “Ugh, actually this is a lot of debt and a lot of pain. I don’t wanna do this anymore.” I want to come back to that because I have a little bit of a conspiracy theory. It’s a little bit supported by the attitudes of some of the players here, but we’ll come back around. Even the previous owner, AT&T, which is remarkable that AT&T was the… Somewhere in this chain of ownership, AT&T owned Warner. Yes. They could not deal with these assets. Their plan was to distribute Warner content on AT&T phones, which never made any sense. But they were a more aggressive owner. It also wasn’t really their plan. Their plan was, “Hey, Netflix is a really valuable company. The stock is very high. We’re this boring telecoms company. Our stock is not moving. What if we owned a [version of] Netflix? I bet Wall Street would reward us as a high-flying tech company all of a sudden.” And Wall Street didn’t. Within a couple of years, AT&T said, “Uh, oh yeah, no, we’re out of this.” And yes, they had said a bunch of stuff about mobile, connectivity, ads, and targeting, and none of that ever went anywhere I will never forget covering their antitrust case when they had to get approval for that deal. They convinced the judge that they had a vision of the future. The judge in that case, in the appeals court opinion, wrote, “This is a vision deal.” And I thought, “We’re doomed.” Like, I don’t know what’s going on in our judiciary [system]. I want a Vision deal. How do I get one of those? I don’t know. I was like, “I don’t know what that is at all.” So, we have a lot of debt. The FCC had to waive the cap on foreign ownership. There’s 49 percent of the money from the Gulf in this company. Then there’s the Oracle of it. I’ve always wondered why anyone would trade what amounts to an AI stock for a media stock, especially right now. But the AI trade is a little shakier than it was before. Oracle has been punished a little bit for this deal. What do you make of that? Is that an effective backstop? I don’t know if Oracle was punished for this deal. I mean, there was a period a year ago when Larry Ellison’s net worth was double what it is now. And you could say, “Well, that was just a weird AI blip.” It’s still a very highly valued company. He is still the eighth richest man in the world because of his Oracle holdings. Wall Street is a little bit nervous now about the fact that Larry Ellison’s source of wealth is Oracle. He’s borrowing from Oracle. He has backstopped the Warner Bros. deal by pledging to come up with $40 or $50 billion if he needs to. And there is a question of, like, all right, not only is Oracle sort of intimately tied into this new media company, but Oracle’s also entirely dependent on one AI company, OpenAI, for its new plan. So late in life — Larry Ellison is 82 years old — he’s decided he’s kind of putting the entire company on AI and on OpenAI specifically. And while he’s not doing that, he’s going to use some of that money to fund his son’s media empire. I don’t know if it’s rickety, but it’s definitely a question mark. I open Instagram. Right now my Instagram algorithm is crazy because I keep looking for Instagram’s tolerance for copyright infringement, and it is high. Instagram has basically unlimited tolerance for copyright infringement. Mark Zuckerberg is posting deepfake memes of himself doing rap videos now. These are details. By the way, Nilay, you know who’s figured out the Instagram and Reels algorithm? You! I get so much Nilay front-facing video. You’re very good at it. You should consider being an influencer. You have figured this out. I try to deeply understand the things that are gonna kill me, and so that’s… We’re just looking at that one, and I’m looking at my daughter. I’m like, “I should know what’s going on here.” All this AI makes it impossibly cheap and easy to just take the IP from these movie studios. I watched a video last night of the Heath Ledger Joker and the Christian Bale Batman just doing a Justin Bieber video, and then I was served 5,000 more videos like this. That’s the OpenAI business. They’re gonna destroy the creative foundations that make the IP valuable that Warner Bros. makes, and somewhere in there is a big problem that I can’t quite figure out. Yeah, I think it maybe is simpler than that. You’re right, there are all kinds of copyright issues. The value of your library may be much less if someone can just take it without paying you. But I think the bigger issue for David Ellison and anyone in the media business is that what you really want is people’s attention. You have this company saddled with $80 billion in debt because it makes all kinds of entertainment, really expensive movies, all this sort of stuff, and now anyone can make anything that will at least get your attention for a few seconds on Instagram and TikTok. And so there’s this flood of stuff, whether it’s copyright infringement or not, it’s just stuff that the David Ellisons of the world have to contend with because your daughter and my kids might easily watch that stuff rather than the original Batman movie. I think that is sort of the existential problem [not just] for Skydance, but every media company today. But the Skydance purchase is being funded by the OpenAI deal with Oracle money. OpenAI just took all the stuff, right? This is a thing I can’t quite square: If OpenAI succeeds at the level that is necessary for the Ellison family to stay wealthy, then they will have massively profited from overwhelming IP theft, and they will have a product that can make anyone a movie at any time for zero dollars, rendering Warner effectively useless. Maybe you’re right! Again, I think there is a core tension here in that the reason you say that Skydance is worth what it’s worth is because of its existing library and its ability to make new stuff. And a lot of that may be much, much less valuable going forward. There’s a counter that says, look, you know, people were stealing music for decades, and somehow Spotify and the music industry figured out how to actually sell $120 worth of music per year to people who were only buying two CDs per year prior to that. So maybe there’s a way to math yourself out of this, but we don’t know yet. There are other constraints on this deal. This deal is actually marked by constraints and challenges, in a particular way. The big one is that in order to settle the antitrust lawsuit filed by California and a bunch of other states, they agreed to put out 30 films per year or pay $30 million per film that they missed into healthcare and retirement funds managed by the unions. After two years, they have to go up to 32 movies per year, and if they don’t hit that, they’ve gotta sell their 49 percent stake in Miramax. This is a pretty intense constraint, right? They’ve gotta just make a bunch of movies; they do not make this many movies right now. So how are you gonna cut costs to make more movies? I think the math there is that we have these two studios. If you sort of totaled up what they were gonna do already, it’s close to 30. And, to be clear, this is not really a constraint from California. This is a pledge that David Ellison was shouting from the rooftop for months and months and months. And if you want to, we can talk about the non-settlement he extracted from California. But this has been David Ellison’s pitch for a long time. I think the main thing is that David Ellison has proved that he can sort of get California and regulators around the world, and definitely federal regulators in the Donald Trump era, to go along with whatever he asks for. I don’t think they’re gonna be constrained by regulation. I think they’re gonna be constrained by math and debt, and are you shaving that debt down fast enough to make bondholders happy? I’m actually asking about math here. I do want to talk about the non-settlement, but the 30 films per year going up to 32, I don’t know that there’s a market for that. It’s not like the box office is growing at the rate to support that, and if you need to pay down your debt, the first thing you would do is stop making things that people aren’t buying. I mean, there’s some finagling, right? Like, what is a movie? Does a movie have to be released in movie theaters? You know, is a piece of shit that no one watches a movie? And then again, I think, in that settlement in California, they said literally, like, “X number of movies have to be in a movie theater,” which means a lot of them don’t. So who knows what they will use to fulfill that obligation. But for the near term, I don’t think that is gonna be their primary problem. Let’s talk about California for one second. I actually got an email from a reader saying that I always call out Republicans by name, but I only say California. So I will say it appears [Governor] Gavin Newsom and [Attorney General] Rob Bonta totally caved here. Ellison threatened to move to Nashville or something, and they blinked, and I think the other states in that lawsuit were not happy that they blinked, but they totally blinked. What is the settlement? Does it have any teeth at all? No. It’s all the stuff that David Ellison was already proposing, and none of the things that Rob Bonta, the attorney general of California, said he was demanding. He was saying, “We need structural remedies.” I’m sure I don’t need to tell a Decoder audience what a structural remedy is. He was like, “Behavioral remedies are not adequate. It won’t work.” He was saying that up until the weekend that he caved, and then he caved, and he had this humiliating press conference where he had to stand up and say, “This is, this is a good deal. I really believe in it.” Apparently, he was considered, like, a rising star in Democratic politics, in California politics. I have not been exposed to him prior to that press conference, but it’s very hard to imagine that guy has a… He doesn’t seem to have a lot of juice. Anyway, enough about my political musings. There’s very little in here. I don’t think Paramount gave up a single thing to actually make this deal work. You got it right. They said, “We’re gonna leave if you don’t give us what we want.” Anyone who’s watched professional sports, who’s rooted for a professional sports team, knows how this goes. “If you don’t build me my new stadium, if you don’t give me billions of dollars to refurbish my stadium, I’m gonna leave.” And sometimes those teams do leave, but most of the time they stay and they get what they want, and that seems to have been the Ellison playbook here. David Ellison’s pitch to Hollywood for the last two years was like, “I grew up here. I love movies. I love Hollywood. I love film.” And then the last few months were, “I’m gonna ditch this and go to Tennessee or wherever else and fuck Hollywood,” which is kinda hard to square those two things. The second he got that settlement, he was like, “No, I love LA. I was never planning to leave.” I think they looked at this from the start as: We’ll say and do whatever we need to make this deal get done. And once it’s done, it’ll all be behind us; we can go back to loving LA, and no one’s ever gonna pay attention to this. And by the way, he might be right. I do have to note that Peter is a Vikings fan. I’m a Packers fan. I do not believe the Bears are gonna move to Indiana. We’re literally watching this situation play out in front of us right now. That’s a wild one. I will say the Minnesota North Stars no longer exist. The Dallas Stars. Minnesota was without hockey for several years. So sometimes these guys actually do follow through and move the team. Yeah. Speaking of Minnesota, who knew you didn’t need a quarterback to go four and 0? Just throwing that out there. Let’s talk about the NFL for one other second. The last time you were on the show, you pointed out that CBS broadcast television exists to sell the American people the NFL. That is the business. Speaking of math, of costs, there is a change of control clause in the NFL deal with CBS. They could come in there, they could raise rates, they could get Amazon or Apple or Google to throw a bunch of money on the table and basically tank this company. They could take CBS’s business away. Does that feel like a meaningful threat right now? No. I think CBS will pay whatever it needs to pay to keep the NFL. It is existential for them. I think the NFL knows that. But also, the NFL, as much as they like streaming stuff and streaming deals, they like broadcast TV. They like that distribution. It’s also a political football, pun intended. If the NFL went away from broadcast television, I think that would become an actual national political emergency. You’d actually have Republicans and Democrats united to sort of stop it or do something about it. It’s very hard for me to believe that the NFL leaves broadcast TV, and I think because CBS needs it so badly, I just think they’ll pay whatever they need to pay. Let’s talk about the structure of this deal. I love talking about corporate structure on the show, as you know. You have a profile of the new co-CEO of Skydance, Ynon Kreiz. He was most recently at Mattel. There’s actually a lot of Peter in this story because he left Mattel to go run Skydance. And the CEO of Condé Nast, Roger Lynch, is leaving Condé Nast to go to Mattel, and we’ll find out who the new CEO of Condé Nast will be. These are all Peter Kafka stories in a way. Oh, it goes deeper than that. I met Ynon Kreiz when he was running a company called Maker Studios back in the YouTube MCN days, for any of your ancient watchers and listeners. And he sold that company to Disney, and I actually broke that story. And at the time it was considered this huge deal, Disney’s big bet on digital media. The numbers are so small now it’s laughable. And that was a total failure. A long line of Disney digital acquisitions that did not work. They’re really snake-bitten there. Kreiz was the guy brought in. That was a really wooly company founded by a group of YouTubers who were dating each other but also harassing each other. And he was basically brought in, first as chairman, and then CEO, to be the grown-up and to sort of whip this thing into shape and sell it off, which he did. It’s funny, the MCN era ended because YouTube decided that MCNs shouldn’t exist, and they just killed them all. Again, another theme that will emerge somewhere down the line in this conversation. Tell me about Ynon. Ynon’s got lots and lots of media credentials. He ran Endemol back when that was a really important TV production company. He worked with Haim Saban, if any… No one knows who Haim Saban is anymore. Mighty Morphin Power Rangers? Exactly. He did Maker and then went to Mattel, where he gets credit for making the Barbie movie. Now, he didn’t actually make the Barbie movie, the long-running thing, but he put that deal together with Margot Robbie and it was a giant, giant success. So that counts as a big win. He also cut 22 percent of Mattel’s workforce, sort of immediately upon getting there. That’s sort of what you bring Ynon Kreiz in to do. You don’t bring him to have lunch at the Polo Lounge and make nice with talent. You bring him in because you need to whip things into shape and cut things, and that’s his deal. I was talking to a bunch of people the last few days. He strikes me as a guy who doesn’t have terribly high EQ. Other folks say, “No, no, no, no. He’s tough, but he’s actually a teddy bear if you get to know him.” I think most people who get laid off by him won’t consider him a teddy bear, but that’s his job: to go do the unpleasant work of finding $6 billion in synergy. Because you are a corporate structure lover, you probably have noticed that while Ynon Kreiz is co-CEO of Skydance, David Ellison is not the other co-CEO. David Ellison is the CEO. So at a minimum, we have a one A and one B thing. But also, let’s be clear, David Ellison and his father own the company, so ultimately it’s their deal. I think quite clearly what David Ellison wants to do is be able to have lunch at the Polo Lounge, the San Vicente Bungalows, or wherever they go, and someone will come up to him and say, “I’m really angry about this layoff or this movie project that you canceled.” And he’ll say, “Oh, that sounds terrible. You should really talk to Ynon about that. My hands are tied.” That’s Ynon Kreiz’s job. Ellison wants to hang out with Tom Cruise. This whole thing, from start to finish, is like, one guy wants to hang out with Tom Cruise, and he’s gonna manufacture a company that will allow him to do that at scale. I will give David Ellison more credit than that. David Ellison, when he ran Skydance, his primary achievement was befriending Tom Cruise. And I’m sure he liked hanging out with him, but that’s why Skydance was a company: David Ellison was in the Tom Cruise business. He was in the Mission Impossible business, the Top Gun business. That is what the job of a producer is: getting people to… You don’t really do anything as a producer. You just sort of package stuff, and he was able to be in the Tom Cruise business, and that’s what got him as far as he’s been able to get. And that is his job. That was his job. Now he’s got a different job. There’s probably a PhD thesis on the kind of personality that accepts a co-CEO title without another co-CEO. I’ve thought about that from the get-go because of the chain of events — was it last week? — Roger Lynch, CEO of Condé Nast, who said, “I’m now the CEO of Mattel.” For an hour or so, no one knew where Ynon Kreiz was going, and then the rumor was, “Oh, he’s gonna have a job at Warner’s. I’m like, well, what job could he take? He’s already been the CEO of a big publicly traded company. These guys don’t usually accept a demotion. And quite clearly what he’s… One, they said, “All right, you’re the co-CEO,” so it’s not a demotion. Two, there are only a handful of these giant media conglomerates. If you can run one, that’s just a big notch to have on your belt. Number three, they’re gonna pay him $50 million this year. So that will help salve some of those wounds, and I think everyone sort of acknowledged it. Like, he’s effectively the COO of Skydance, if you think about it. You just give him a different title so it sounds better. There’s some other shuffling under that to do. You’ve got two movie studios. You have James Gunn running DC really well, actually. I think Lanterns is just a bona fide hit for HBO. You’ve got two news divisions, which we should talk about. How are they going to resolve these conflicts? Are they just gonna pick one team or the other? Yeah. I mean, they’ve already done that with streaming. Cindy Holland, who pioneered Netflix’s move into original programming more than a decade ago, was brought in by David Ellison a year ago to run that streaming service. He’s just bought HBO, which is run by Casey Bloys, very well-regarded, who spent the last year making it clear to everyone that he would not work with or for Cindy Holland. I don’t think there was personal animus. He’s just like, “I already run HBO. Why would I want to share power with somebody else?” So it seemed pretty clear that David Ellison would pick that horse, and I think he’s gonna make a bunch of those calls. The people who ran the Warner Bros. studio, which a year ago was the toast of the town, were making tons of money and critical acclaim. This year, they produced Digger, Tom Cruise’s biggest bomb ever, and they’re having a rough year. But it was always sort of clear that David Ellison was gonna bring in his people. David Ellison is not an art film guy — he’s not a guy who’s gonna allow Paul Thomas Anderson to make One Battle After Another again. He’s in the Mission Impossible Tom Cruise-iverse, so that’s not surprising. CNN and CBS, people have been talking about merging those companies almost as long as I’ve been covering the media, so that’s not a new idea. They have said, I think wisely for now, “Well, we’re not gonna merge those two,” because we just know it’s a fucking shit storm politically if they touch that stuff. And this is pure speculation, but they might also say, “Well, we hired Bari Weiss and gave her CBS News to run, and maybe we told her she’d also get to play with CNN. But it’s been a rough year over at CBS in the Bari Weiss business, and maybe even if we’re gonna give it to Bari Weiss a couple years down the road, let’s not stir that nest right now.” So Mark Thompson, who’s been running CNN, is gonna continue to run CNN. But again, in the background, no matter what Mark Thompson… He has control of CNN. Ynon Kreiz is still gonna be in there saying, “I know this is your business, but it’s really my business, and you need to cut 10 percent or 20 percent,” or whatever it is, and everyone has to do it. And so in some ways, yes, it matters who’s running these individual studios and components, but again, the debt is hanging over everything. Everyone is gonna have to work to reduce that debt one way or the other. The Bari Weiss thesis at CBS, as charitably as I can put it, was that when she showed up, she was like, “No one trusts the news, and it’s because we’re not fair enough, and I’m gonna do more conservative stuff.” And that was part of the regulatory arbitrage with the Trump administration. They were gonna change CBS because Donald Trump did not like the coverage on CBS, and that worked or didn’t work. But I think we now know that she did not increase trust in CBS News by making it a more conservative-friendly organization. The ratings are down, like precipitously down, such that a lot of people think that she should just be fired and something else should happen. I would — Yeah, I don’t see that happening. Well, right, because he’s gotta do regulatory arbitrage on both sides. We have midterms — And I think he likes Bari Weiss. I think David Ellison is not a political person. I think his father, Larry Ellison, is probably not that political. Tom Dotan in Vanity Fair just did a profile of Larry Ellison and sort of gets at the idea of how he’s bought these big media empires. He also owns a chunk of TikTok. Is there a thing here? And his conclusion is no, it’s not. He really doesn’t have much politics. But the one thing the Ellison family cares a lot about is Israel. Bari Weiss cares a lot about Israel. That is the one ideological through line there. I think they’d be loath to sort of cut her loose. And also, it’s been a clusterfuck over at CBS, but I don’t know that she’s done a worse job running it than anybody else has recently. It’s just that there’s systemic decline. Now, she may make it even worse. It’s possible. And as a journalist, you may not like what she’s doing. But if you’re running the business, I don’t know that she has made it that much worse. I think the Ellisons probably don’t like the headaches and headlines generated by it, but I also don’t think they care that much. I mean, I go on TikTok, and I see any clip from any 60 Minutes or CBS News account, and all of the comments are, “You ruined this. I blame Bari Weiss. I can’t trust you.” That is a decline in trust from where they were before, when no one knew who was running CBS News. I would actually —. I think you should not know who the heads of network news are. Yeah. I think it’s bad that the kids on TikTok are like, “I hate this one person that has nothing to do with the video clip I’m seeing now.” I bring that up because of the TikTok of it all. The idea that TikTok was a national security threat, that the United States Congress voted unanimously to ban it, that Biden voted to ban it, but then he knew it was political suicide, so he kicked the imposition of the ban to the Trump administration. All of that, as you peel apart the reporting, what did members of Congress see in their closed-door meetings? It comes down, as far as any of the reporting I’ve ever seen, to how they thought it was spreading pro-Palestinian propaganda, anti-Israel propaganda. Now the Ellisons own it. As you said, they care very deeply about the issue of Israel, and I can’t say that their ownership of TikTok has meaningfully moved the needle on how people feel about the war in Gaza in any way, shape, or form. Did they try? Perhaps people were disappointed with Israel’s conduct prior to the invention of TikTok. Perhaps there are other reasons they may not be concerned. And, you know, the reason Congress voted for this. It’s maybe the only thing Congress has passed in years is this rule saying China can’t own TikTok, which they then immediately forgot about during the first year of the Trump administration. I do think the China of it all was meaningful for some people, but they clearly also just didn’t care. It’s kinda wild to see Congress pass a bill that becomes a law and then not try to enforce it at all. They knew it was suicide. I don’t know if you remember this, but there was a day when it was the House committee, and AOC was on this committee, and they went into a SCIF to view some intelligence about TikTok. They all came out and voted unanimously to ban this thing, and no one for months could figure out what they saw in there. And it was like, “Did you see a picture of Chinese intelligence services turning the knobs in the algorithm to poison the minds of American youth?” And they’re like, “No, no, no.” “They showed us some videos.” Yeah, it was like, “What, what are you looking at in there?” And then we just sold it to someone who may or may not have some political leanings, but they have some control that is equivalent to the Chinese control, which was so scary that we had to ban this platform. I’m bringing this all up because that is the thing that is reducing trust in the news media. It is not the news media itself, right? The news media makes its mistakes in whatever ways it makes its mistakes. But it’s a bunch of influencers on social platforms who start every video by saying, “Here’s what they’re not telling you,” which is actually the mechanism of reducing trust. And then they read you The New York Times. As somebody who now makes these videos — “No one’s covering this! Let me read you a New York Times story about it.” The other thing that has reduced trust in the media is that Republicans, for 40 years, have been saying the media is biased. And if you say something for 40 years and you’re one of the two parties running the country, I think that message sort of seeps in, before TikTok, before social media. But if I had to pick the two things that are the biggest threats to the businesses that David Ellison now owns, I would pick AI, and I would pick social media, and those are the other big investments of the Ellison family. Is this all just an elaborate hedge, or does he have a plan to use TikTok to amplify his content? To market these movies? I don’t think they have a plan. One of the through lines when David Ellison was buying Paramount was that David Ellison’s a successful producer. You add his dad, who runs Oracle; he’s got a lot of tech know-how. And also, David Ellison is not just a movie producer; he’s a technologist. This was the thing they stood up and said at a press conference. And he said, “Yes, yes, I was mentored by Steve Jobs.” He wasn’t mentored by Steve Jobs. But anyway, the whole premise was we’re gonna techify this and cloud and Oracle. And maybe they could save $10, $20, maybe $100 million on sort of back-office-y things by swapping in an Oracle contract for something else. Although, I think in the normal world, you’d say just because your dad owns this company, we don’t get to bring it in as a technology company for this publicly traded company. Whatever. But there’s never been any indication that they’ve got any other plan other than shaving some costs. I don’t think David Ellison is ideologically inclined. Maybe he will see something outrageous on TikTok that he doesn’t like and say, “Hey, Dad, could you bring that down?” I don’t even know if his dad has the capacity to bring something down. You know, TikTok is a black box. We don’t actually know how the algorithm works, who actually controls it, and who can steer it. The potential for TikTok content to end up on whatever this new Paramount HBO streaming service is high. Mm-hmm. I know the other big media companies have long looked at the user-generated content platforms and been envious of their cost structure. YouTube barely pays any money for its content, and it’s destroying this industry. YouTube pays the most. YouTube pays 55 percent. Everyone else pays zero percent. Right. But for an average creator on YouTube, you’re getting nothing, effectively. I’m just saying it is a great business model, and the Reels and TikTok business models are much better than the YouTube one because they pay zero percent for content. There’s something there. Like, Disney has made some noise about putting creator videos in Disney+. They’ve all looked at it. They’ve all talked about it. This one seems easy, right? It’s HBO Max plus your favorite commentary about whatever HBO Max show you’re watching, sourced directly from TikTok, right here. We’re all gonna integrate it. Maybe this is way harder than I’m making it sound. I think they all believe that… They all move in herds, right? All these companies always do. We’re all doing vertical video now. And you’re like, well, vertical video, yes, people like the format. What they really like is unlimited free content. Which, again, TikTok doesn’t pay anything for. So you, Paramount, or you, Peacock, or you, Disney, you are not in the business of getting free content from people. You are still paying for stuff, and also you care about your brand still, so you don’t wanna just have a platform where anyone can watch anything. And I think that is kind of the fundamental question for all these media companies. You’re not platforms. The dominant media companies are platforms. Can you turn yourself into a platform? Should you turn yourself into a platform? Should you just say, “Nope, what we make is super high-quality, specific stuff that people value as a brand, and maybe that’s just gonna be our place, and we’re not gonna compete with the YouTubes of the world”? Netflix seems to be going in that direction. They’re gonna be more platform-y. I do think you’ll probably see not just Paramount, but every company try to say, “Oh, we’re a platform, too.” I don’t think it will be successful, though Do you foresee a tighter connection between Skydance and TikTok? These are all companies operated by a family. They’re not close right now. They could get closer. I don’t know that TikTok cares, right? TikTok, which is still really run by ByteDance, I don’t know that they care about making Larry Ellison that much happier. I don’t think that’s the direction of travel here. I’m only curious because I’m watching Meta just relentlessly promote Muse, its AI agent, across all of its platforms. OpenAI launches Dots, and where do they go to buy ads? They go buy ads on Meta platforms. And like, this is a massive structural advantage for Meta, right? They are not buying their own ad space. And if I ran a movie studio and I had to put out 30 movies per year and pay to market them to try to get these kids to go to a theater, I’d be like, “Boy, I could really use that TikTok juice.” Do you know who’s winning the microdrama wars in the US? I don’t know if you’ve paid attention to microdramas yet, but they are what they sound like. Oh yes. Meta. Meta is not in the microdrama business. Meta is in the “Oh, you wanna advertise microdramas? Come talk to us.” So they are getting all of the microdrama money right now. It’s a great place to be if you’re, if you’re Meta. And by the way, the microdrama companies are uploading their content to Meta as ads, so Meta both gets paid for the advertising and then has free engaging content that it can show its users. It’s a great place to be. If only Meta cared about its actual businesses instead of trying to win in AI agents. The amount that they would succeed would be out of control. That’s another episode of the show. Let me end with the conspiracy theory that I brought up at the beginning. There was a bidding process. David Zaslav’s initial plan was to split Discovery into two, to sell the cable networks to whoever was dumb enough to buy them. Netflix really wanted Warner, and they bid. They were actually the announced winners until David Ellison did his regulatory arbitrage. They won the deal in December of last year. They gave up on it in February of this year. So they won for a couple of months. David is very good at just kicking the door back open. He made it happen. As Logan Roy said, “Congratulations on saying the biggest number.” No one has succeeded in buying Warner. You could argue that Netflix did nothing but make the price so high that it was unsustainable, that they had to create massive amounts of leverage on this deal, pay an unsustainable amount of debt. And at the end of this all, Ted Sarandos is gonna be standing there waiting to buy, yet again, the distressed assets of Warner Bros. at a fire-sale price. Do you think that’s likely? I think Netflix, and other people as well, will definitely be in the business of, “Oh, Ynon Kreiz fired you? Ynon Kreiz told you you couldn’t make your movie or television show? Come talk to us.” Which, by the way, a lot of other companies were doing to Netflix back in 2022 when Netflix went through its retrenchment. So I think that is likely but also standard, right? You just have this turmoil. You have a standard thing in any media company of, “Oh, this project this other guy brought in, we’re not doing that anymore. That was a failure. We’re doing new stuff. And oh, by the way, if the last guy’s project turns out to be successful, we’ll take credit for that. But we’re gonna bring in new stuff.” I don’t think Ted Sarandos was playing 3D/4D chess here. I think they thought this was a good idea. But I think the much more obvious answer is Wall Street hated the idea. Wall Street kept telling Netflix, “We hate this. We hate this. Please don’t spend $80 billion on this. And also, by the way, you’re gonna have a tough time getting this through regulation.” And I think Ted Sarandos eventually said, “Okay, you’re right.” I’ve seen him speak publicly about this and in other venues. He seems quite upset about the fact that he didn’t get this deal. I think there are also feelings involved here. But I don’t think this was all a master plan on their part. I think they went for it. They didn’t get it. They’re bummed out. They’re gonna move on. I think an angry, aggressive Netflix might actually be the best thing that could happen to Hollywood right now, because they were headed towards their own vertical video slop fest, and maybe now they’re not going to do that. I think that’s the question for — I mean, it’s a question for everybody. But for Netflix, it’s: you guys have been super successful for a couple of decades by doing one thing. Well, initially you were doing DVD by mail, then you went to streaming, and that’s all you did. And you didn’t ever sell movies. You didn’t do a la carte stuff. You didn’t do advertising. You didn’t do sports. Now you do advertising. Now you do sports. Now you’re doing games. Now you’re doing podcasts. Maybe you’re gonna integrate with other kinds of TV stuff. And so this laser focus that Netflix had, which proved very successful, they are moving away from. They may have to move away from it. They may have sort of reached the limit of that growth. But it gets trickier and trickier the more things you add to that stack to make sure you’re doing a good job. And I think that is the real challenge for them. We’ve been at it for about 45 minutes. I still don’t know how David Ellison is gonna make one more dollar than he made last year. Have you come to any conclusions? We’re recording this Tuesday morning. Tuesday night, like at 7:30? I don’t know why they’re doing it at 7:30 or 8:30. They’re gonna have a press conference, the first Skydance press conference. So if we re-record this on Wednesday, maybe all this will be answered, but maybe it won’t be answered. Well, Ynon will be there. He’ll be there wielding his scythe. It’s gonna be interesting because he is not gonna be a high-profile person, but I think a lot of people are gonna learn his name anyway. And this is a thing that Hollywood does, right? You find a person to blame for your troubles. Sometimes it’s a company like Netflix, sometimes it’s an evil Jason Kilar. Remember when he was running WarnerMedia for a minute or two? And everyone said, “You’re wrecking the business. Thank God we have David Zaslav, who’s an authentic media guy to come in and save us.” And then, you know, six months later, David Zaslav’s name is an epithet. Presumably there’ll be a new epithet associated with this company. Yeah. Well, this deal is gonna wind its way through. We’re gonna check in on it a lot. We’re gonna have you back, Peter. Thank you so much for being on Decoder. See you, Nilay. Thanks.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-10-10T14:00:00.000Z",
-            "fetchedAt": "2026-10-10T14:47:17.612Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [
-              "apple"
-            ],
-            "stakeholders": [
-              "oem",
-              "platform-partner"
-            ],
-            "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance.",
-            "id": "a1"
-          },
-          {
-            "title": "Should Qualcomm Stock Holders Look At First Solar Instead?",
-            "url": "https://www.trefis.com/articles/618142/should-qualcomm-stock-holders-look-at-first-solar-instead/2026-10-09?.tsrc=rss",
-            "description": "Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year patent licensing deal with Qualcomm. Meanwhile, the U.S. solar panel maker First Solar is actively suing rivals over its own patent rights. Yet when these two companies released their latest financial reports, they delivered completely different messages to shareholders. So which way does Qualcomm's out",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-09T23:13:09.000Z",
-            "fetchedAt": "2026-10-10T14:47:17.342Z",
-            "fetchStrategy": "rss",
-            "section": "ip-legal",
-            "subCategory": "ip",
-            "subLabel": "IP / Intellectual Property",
-            "competitors": [
-              "huawei"
-            ],
-            "stakeholders": [],
-            "summary": "Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year patent licensing deal with Qualcomm. solar panel maker First Solar is actively suing rivals over its own patent rights. Yet when these two companies released their latest financial reports, they delivered completely different messages to shareholders. So which way does Qualcomm's out",
-            "id": "a6"
-          },
-          {
-            "title": "Qualcomm (QCOM) Signs Broad Multi Year Patent Deal",
-            "url": "https://finance.yahoo.com/technology/articles/qualcomm-qcom-signs-broad-multi-231557188.html?.tsrc=rss",
-            "description": "QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei patents, which remains subject to regulatory approval in the United States. This is the first broad cross-license between Huawei and Qualcomm for 5G and emerging technologies, potentially affecting future royalty structures for both firms. The new Huawei Qualcomm cross-license and patent purchase is...",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-08T23:15:57.000Z",
-            "fetchedAt": "2026-10-10T14:47:17.342Z",
-            "fetchStrategy": "rss",
-            "section": "ip-legal",
-            "subCategory": "frand-licensing",
-            "subLabel": "FRAND & Licensing",
-            "competitors": [
-              "huawei"
-            ],
-            "stakeholders": [],
-            "summary": "QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei patents, which remains subject to regulatory approval in the United States. This is the first broad cross-license between Huawei and Qualcomm for 5G and emerging technologies, potentially affecting future royalty structures for both firms. The new Huawei Qualcomm cross-license and patent purchase is...",
-            "id": "a18"
-          },
-          {
-            "title": "Qualcomm-Huawei disagreement reflects inherently subjective nature of unpacking complex “license-plus” deals",
-            "url": "https://ipfray.com/qualcomm-huawei-disagreement-reflects-inherently-subjective-nature-of-unpacking-complex-license-plus-deals/",
-            "description": "Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal without anyone necessarily lying.",
-            "source": "IP Fray",
-            "sourceId": "ip-fray",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-07T15:09:28.000Z",
-            "fetchedAt": "2026-10-10T14:47:21.184Z",
-            "fetchStrategy": "rss",
-            "section": "ip-legal",
-            "subCategory": "frand-licensing",
-            "subLabel": "FRAND & Licensing",
-            "competitors": [
-              "huawei"
-            ],
-            "stakeholders": [],
-            "summary": "Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal without anyone necessarily lying.",
-            "id": "a20"
-          }
-        ]
-      },
-      "stakeholders": {
-        "generatedAt": "2026-10-10T14:47:23.303Z",
-        "date": "2026-10-10",
-        "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Semiconductors (1 article). A total of 4 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "Geopolitics & Export Controls: Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply",
-              "articleIds": [
-                "a1"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            },
-            {
-              "text": "Semiconductors: Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is ",
-              "articleIds": [
-                "a15"
-              ],
-              "subCategory": "semiconductors"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
-            "url": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
-            "description": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance. So I wanted to ask Peter if he thinks the Ellisons and Skydance have a real shot at succeeding where so many companies before them have hit the rocks. Okay: Peter Kafka on Warner Bros. and Skydance. Here we go. This interview has been lightly edited for length and clarity. Peter Kafka, you’re the chief correspondent at Business Insider, and you’re the host of the Channels podcast, our sister podcast here on the Vox Media Podcast Network. Welcome back to Decoder. Thanks for having me. It’s big media day again! A big media day. It’s an auspicious day, as my parents would say. It is the day that the Warner-Paramount merger closes. We’ve all been calling it Warner Mount, but I’m told this company will instead just be called Skydance. Skydance! Every time I see the word Skydance, I assume it is foreign-owned, which is maybe true in some way. Another way to think of it is that there are iconic names in Hollywood. Paramount is such an iconic name that Viacom turned itself into Paramount years ago. Warner Bros. is a legendary studio. Let’s get rid of those names. Let’s add Skydance, which no one’s ever heard of. Let’s just start at the start. There was Paramount. There’s Warner Bros. The deal closes today. That is all going to be a new company called Skydance. Is Skydance just a holding company? Are we as consumers meant to know that this thing exists? I think for the near term, you’re still gonna think of companies like Paramount, Warner Bros., and HBO as brands you know, but this is going to be one company. They’re going to merge everything. They’re likely going to merge the streaming services, Paramount and HBO, into a thing, not right away, but eventually. So I do think Skydance will be a name that consumers will probably know at some point. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. I just have to ask, what are the chances that HBO Max will be rebranded yet again into Skydance? There’s probably gonna be some branding stuff. Not again. In the near term, because this is still a cable TV company, there are actually some limits on what these guys can do with their brands and their services. And they won’t come out and say, “We’re gonna mush this stuff together.” But there’s likely to be one mega streaming service, and maybe you can get HBO separately, or maybe you can only get HBO or only Paramount. Still, it’s gonna be one thing, and one movie studio. It’s all gonna get mushed together, and it’s all gonna be run by David Ellison. David Ellison is just the latest to believe that he can buy Warner Bros. and make something good happen. I have joked many times on this show that maybe the only antitrust policy this country needs is to make it illegal to buy Warner Bros., and that would just solve a lot of problems. Why does he think he will be successful? Well, his dad’s the eighth richest man in the world, so that’s not nothing. That Oracle stock is tied up in a bunch of AI stuff. It’s moving up and down. We can talk about that. But one, that means that he literally has the money to buy this, and two, that this is a public company kind of in name only. David Ellison and Larry Ellison, his father, control this company effectively. They don’t really need to worry that much about equity shareholders. Debt’s a different issue. And he’s 43. He’s got a long run backed by tens of billions of dollars of his father’s money to take a stab at this. And as you said, he will not be the first person to do this. There’s a long list of failures. I think maybe that’s appealing to guys like him. It’s like, “Everyone else is dumb. I’m the smart guy who’s gonna figure it out.” “Everyone else is dumb, and I’m smarter than everyone else is,” is very appealing. But that long list of failures, if you just look at it — they’re all shaped like this idea. We’re gonna take iconic Warner Bros. content, we’re gonna marry it to new distribution, we’re gonna reduce the overhead and costs and decadence of Hollywood. Where does new revenue come from? There’s no plan for new revenue. There’s no announced plan for new revenue. Right now it’s shrinking; it’s cutting costs. It’s when we merge these two companies together, we’re gonna save $6 billion over the next three years. We promise that most of that’s not gonna come from layoffs, but a lot of it’s gonna come from layoffs. These are companies that have had many, many rounds of layoffs prior to this. And you could argue, well, there’s probably not that much more to cut. I think reasonably you could say, look, if you combine two big streaming operations, two big studio operations, there probably is stuff [to cut]. You can probably sell off some real estate. You probably don’t need all the executives you currently have. There’s some savings there. But how do you grow? No idea. And no one’s really articulated that. Growth is required for a couple of reasons here. One, yes, there are going to be shareholders; people will be looking at it. There’s David Ellison’s ego. Then there’s debt. This deal is levered to the max, right? Eighty billion dollars [in debt]. Eight zero. More important than the number is the reason that David Ellison was able to buy Warner Bros. was that the last owner couldn’t deal with the debt that he took on to buy the company. And that was a mere $43 or $50 billion, depending on who was counting. This is David Zaslav, the former CEO of Warner Bros. Discovery, who spent his entire tenure running that company telling Wall Street that, yes, he was gonna get the debt down, and that was his main focus, and debt, debt, debt, reduce, reduce, reduce. I mean, he did reduce some debt, but he never convinced Wall Street that he had a plan to grow. Wall Street gave up on this company years ago, which is why when David Ellison decided he wanted to buy it, the stock was, like, seven bucks or something like that. Eventually bought it for, you know, many, many times that. And now David Zaslav is considered — or he considers himself — a genius for selling the company at such a high price. You could also argue, as someone told me yesterday, that a unicorn sort of manifested itself and allowed David Zaslav to exit the situation he had put himself into. I don’t know who the next unicorn will be for this company if David Ellison at some point decides, “Ugh, actually this is a lot of debt and a lot of pain. I don’t wanna do this anymore.” I want to come back to that because I have a little bit of a conspiracy theory. It’s a little bit supported by the attitudes of some of the players here, but we’ll come back around. Even the previous owner, AT&T, which is remarkable that AT&T was the… Somewhere in this chain of ownership, AT&T owned Warner. Yes. They could not deal with these assets. Their plan was to distribute Warner content on AT&T phones, which never made any sense. But they were a more aggressive owner. It also wasn’t really their plan. Their plan was, “Hey, Netflix is a really valuable company. The stock is very high. We’re this boring telecoms company. Our stock is not moving. What if we owned a [version of] Netflix? I bet Wall Street would reward us as a high-flying tech company all of a sudden.” And Wall Street didn’t. Within a couple of years, AT&T said, “Uh, oh yeah, no, we’re out of this.” And yes, they had said a bunch of stuff about mobile, connectivity, ads, and targeting, and none of that ever went anywhere I will never forget covering their antitrust case when they had to get approval for that deal. They convinced the judge that they had a vision of the future. The judge in that case, in the appeals court opinion, wrote, “This is a vision deal.” And I thought, “We’re doomed.” Like, I don’t know what’s going on in our judiciary [system]. I want a Vision deal. How do I get one of those? I don’t know. I was like, “I don’t know what that is at all.” So, we have a lot of debt. The FCC had to waive the cap on foreign ownership. There’s 49 percent of the money from the Gulf in this company. Then there’s the Oracle of it. I’ve always wondered why anyone would trade what amounts to an AI stock for a media stock, especially right now. But the AI trade is a little shakier than it was before. Oracle has been punished a little bit for this deal. What do you make of that? Is that an effective backstop? I don’t know if Oracle was punished for this deal. I mean, there was a period a year ago when Larry Ellison’s net worth was double what it is now. And you could say, “Well, that was just a weird AI blip.” It’s still a very highly valued company. He is still the eighth richest man in the world because of his Oracle holdings. Wall Street is a little bit nervous now about the fact that Larry Ellison’s source of wealth is Oracle. He’s borrowing from Oracle. He has backstopped the Warner Bros. deal by pledging to come up with $40 or $50 billion if he needs to. And there is a question of, like, all right, not only is Oracle sort of intimately tied into this new media company, but Oracle’s also entirely dependent on one AI company, OpenAI, for its new plan. So late in life — Larry Ellison is 82 years old — he’s decided he’s kind of putting the entire company on AI and on OpenAI specifically. And while he’s not doing that, he’s going to use some of that money to fund his son’s media empire. I don’t know if it’s rickety, but it’s definitely a question mark. I open Instagram. Right now my Instagram algorithm is crazy because I keep looking for Instagram’s tolerance for copyright infringement, and it is high. Instagram has basically unlimited tolerance for copyright infringement. Mark Zuckerberg is posting deepfake memes of himself doing rap videos now. These are details. By the way, Nilay, you know who’s figured out the Instagram and Reels algorithm? You! I get so much Nilay front-facing video. You’re very good at it. You should consider being an influencer. You have figured this out. I try to deeply understand the things that are gonna kill me, and so that’s… We’re just looking at that one, and I’m looking at my daughter. I’m like, “I should know what’s going on here.” All this AI makes it impossibly cheap and easy to just take the IP from these movie studios. I watched a video last night of the Heath Ledger Joker and the Christian Bale Batman just doing a Justin Bieber video, and then I was served 5,000 more videos like this. That’s the OpenAI business. They’re gonna destroy the creative foundations that make the IP valuable that Warner Bros. makes, and somewhere in there is a big problem that I can’t quite figure out. Yeah, I think it maybe is simpler than that. You’re right, there are all kinds of copyright issues. The value of your library may be much less if someone can just take it without paying you. But I think the bigger issue for David Ellison and anyone in the media business is that what you really want is people’s attention. You have this company saddled with $80 billion in debt because it makes all kinds of entertainment, really expensive movies, all this sort of stuff, and now anyone can make anything that will at least get your attention for a few seconds on Instagram and TikTok. And so there’s this flood of stuff, whether it’s copyright infringement or not, it’s just stuff that the David Ellisons of the world have to contend with because your daughter and my kids might easily watch that stuff rather than the original Batman movie. I think that is sort of the existential problem [not just] for Skydance, but every media company today. But the Skydance purchase is being funded by the OpenAI deal with Oracle money. OpenAI just took all the stuff, right? This is a thing I can’t quite square: If OpenAI succeeds at the level that is necessary for the Ellison family to stay wealthy, then they will have massively profited from overwhelming IP theft, and they will have a product that can make anyone a movie at any time for zero dollars, rendering Warner effectively useless. Maybe you’re right! Again, I think there is a core tension here in that the reason you say that Skydance is worth what it’s worth is because of its existing library and its ability to make new stuff. And a lot of that may be much, much less valuable going forward. There’s a counter that says, look, you know, people were stealing music for decades, and somehow Spotify and the music industry figured out how to actually sell $120 worth of music per year to people who were only buying two CDs per year prior to that. So maybe there’s a way to math yourself out of this, but we don’t know yet. There are other constraints on this deal. This deal is actually marked by constraints and challenges, in a particular way. The big one is that in order to settle the antitrust lawsuit filed by California and a bunch of other states, they agreed to put out 30 films per year or pay $30 million per film that they missed into healthcare and retirement funds managed by the unions. After two years, they have to go up to 32 movies per year, and if they don’t hit that, they’ve gotta sell their 49 percent stake in Miramax. This is a pretty intense constraint, right? They’ve gotta just make a bunch of movies; they do not make this many movies right now. So how are you gonna cut costs to make more movies? I think the math there is that we have these two studios. If you sort of totaled up what they were gonna do already, it’s close to 30. And, to be clear, this is not really a constraint from California. This is a pledge that David Ellison was shouting from the rooftop for months and months and months. And if you want to, we can talk about the non-settlement he extracted from California. But this has been David Ellison’s pitch for a long time. I think the main thing is that David Ellison has proved that he can sort of get California and regulators around the world, and definitely federal regulators in the Donald Trump era, to go along with whatever he asks for. I don’t think they’re gonna be constrained by regulation. I think they’re gonna be constrained by math and debt, and are you shaving that debt down fast enough to make bondholders happy? I’m actually asking about math here. I do want to talk about the non-settlement, but the 30 films per year going up to 32, I don’t know that there’s a market for that. It’s not like the box office is growing at the rate to support that, and if you need to pay down your debt, the first thing you would do is stop making things that people aren’t buying. I mean, there’s some finagling, right? Like, what is a movie? Does a movie have to be released in movie theaters? You know, is a piece of shit that no one watches a movie? And then again, I think, in that settlement in California, they said literally, like, “X number of movies have to be in a movie theater,” which means a lot of them don’t. So who knows what they will use to fulfill that obligation. But for the near term, I don’t think that is gonna be their primary problem. Let’s talk about California for one second. I actually got an email from a reader saying that I always call out Republicans by name, but I only say California. So I will say it appears [Governor] Gavin Newsom and [Attorney General] Rob Bonta totally caved here. Ellison threatened to move to Nashville or something, and they blinked, and I think the other states in that lawsuit were not happy that they blinked, but they totally blinked. What is the settlement? Does it have any teeth at all? No. It’s all the stuff that David Ellison was already proposing, and none of the things that Rob Bonta, the attorney general of California, said he was demanding. He was saying, “We need structural remedies.” I’m sure I don’t need to tell a Decoder audience what a structural remedy is. He was like, “Behavioral remedies are not adequate. It won’t work.” He was saying that up until the weekend that he caved, and then he caved, and he had this humiliating press conference where he had to stand up and say, “This is, this is a good deal. I really believe in it.” Apparently, he was considered, like, a rising star in Democratic politics, in California politics. I have not been exposed to him prior to that press conference, but it’s very hard to imagine that guy has a… He doesn’t seem to have a lot of juice. Anyway, enough about my political musings. There’s very little in here. I don’t think Paramount gave up a single thing to actually make this deal work. You got it right. They said, “We’re gonna leave if you don’t give us what we want.” Anyone who’s watched professional sports, who’s rooted for a professional sports team, knows how this goes. “If you don’t build me my new stadium, if you don’t give me billions of dollars to refurbish my stadium, I’m gonna leave.” And sometimes those teams do leave, but most of the time they stay and they get what they want, and that seems to have been the Ellison playbook here. David Ellison’s pitch to Hollywood for the last two years was like, “I grew up here. I love movies. I love Hollywood. I love film.” And then the last few months were, “I’m gonna ditch this and go to Tennessee or wherever else and fuck Hollywood,” which is kinda hard to square those two things. The second he got that settlement, he was like, “No, I love LA. I was never planning to leave.” I think they looked at this from the start as: We’ll say and do whatever we need to make this deal get done. And once it’s done, it’ll all be behind us; we can go back to loving LA, and no one’s ever gonna pay attention to this. And by the way, he might be right. I do have to note that Peter is a Vikings fan. I’m a Packers fan. I do not believe the Bears are gonna move to Indiana. We’re literally watching this situation play out in front of us right now. That’s a wild one. I will say the Minnesota North Stars no longer exist. The Dallas Stars. Minnesota was without hockey for several years. So sometimes these guys actually do follow through and move the team. Yeah. Speaking of Minnesota, who knew you didn’t need a quarterback to go four and 0? Just throwing that out there. Let’s talk about the NFL for one other second. The last time you were on the show, you pointed out that CBS broadcast television exists to sell the American people the NFL. That is the business. Speaking of math, of costs, there is a change of control clause in the NFL deal with CBS. They could come in there, they could raise rates, they could get Amazon or Apple or Google to throw a bunch of money on the table and basically tank this company. They could take CBS’s business away. Does that feel like a meaningful threat right now? No. I think CBS will pay whatever it needs to pay to keep the NFL. It is existential for them. I think the NFL knows that. But also, the NFL, as much as they like streaming stuff and streaming deals, they like broadcast TV. They like that distribution. It’s also a political football, pun intended. If the NFL went away from broadcast television, I think that would become an actual national political emergency. You’d actually have Republicans and Democrats united to sort of stop it or do something about it. It’s very hard for me to believe that the NFL leaves broadcast TV, and I think because CBS needs it so badly, I just think they’ll pay whatever they need to pay. Let’s talk about the structure of this deal. I love talking about corporate structure on the show, as you know. You have a profile of the new co-CEO of Skydance, Ynon Kreiz. He was most recently at Mattel. There’s actually a lot of Peter in this story because he left Mattel to go run Skydance. And the CEO of Condé Nast, Roger Lynch, is leaving Condé Nast to go to Mattel, and we’ll find out who the new CEO of Condé Nast will be. These are all Peter Kafka stories in a way. Oh, it goes deeper than that. I met Ynon Kreiz when he was running a company called Maker Studios back in the YouTube MCN days, for any of your ancient watchers and listeners. And he sold that company to Disney, and I actually broke that story. And at the time it was considered this huge deal, Disney’s big bet on digital media. The numbers are so small now it’s laughable. And that was a total failure. A long line of Disney digital acquisitions that did not work. They’re really snake-bitten there. Kreiz was the guy brought in. That was a really wooly company founded by a group of YouTubers who were dating each other but also harassing each other. And he was basically brought in, first as chairman, and then CEO, to be the grown-up and to sort of whip this thing into shape and sell it off, which he did. It’s funny, the MCN era ended because YouTube decided that MCNs shouldn’t exist, and they just killed them all. Again, another theme that will emerge somewhere down the line in this conversation. Tell me about Ynon. Ynon’s got lots and lots of media credentials. He ran Endemol back when that was a really important TV production company. He worked with Haim Saban, if any… No one knows who Haim Saban is anymore. Mighty Morphin Power Rangers? Exactly. He did Maker and then went to Mattel, where he gets credit for making the Barbie movie. Now, he didn’t actually make the Barbie movie, the long-running thing, but he put that deal together with Margot Robbie and it was a giant, giant success. So that counts as a big win. He also cut 22 percent of Mattel’s workforce, sort of immediately upon getting there. That’s sort of what you bring Ynon Kreiz in to do. You don’t bring him to have lunch at the Polo Lounge and make nice with talent. You bring him in because you need to whip things into shape and cut things, and that’s his deal. I was talking to a bunch of people the last few days. He strikes me as a guy who doesn’t have terribly high EQ. Other folks say, “No, no, no, no. He’s tough, but he’s actually a teddy bear if you get to know him.” I think most people who get laid off by him won’t consider him a teddy bear, but that’s his job: to go do the unpleasant work of finding $6 billion in synergy. Because you are a corporate structure lover, you probably have noticed that while Ynon Kreiz is co-CEO of Skydance, David Ellison is not the other co-CEO. David Ellison is the CEO. So at a minimum, we have a one A and one B thing. But also, let’s be clear, David Ellison and his father own the company, so ultimately it’s their deal. I think quite clearly what David Ellison wants to do is be able to have lunch at the Polo Lounge, the San Vicente Bungalows, or wherever they go, and someone will come up to him and say, “I’m really angry about this layoff or this movie project that you canceled.” And he’ll say, “Oh, that sounds terrible. You should really talk to Ynon about that. My hands are tied.” That’s Ynon Kreiz’s job. Ellison wants to hang out with Tom Cruise. This whole thing, from start to finish, is like, one guy wants to hang out with Tom Cruise, and he’s gonna manufacture a company that will allow him to do that at scale. I will give David Ellison more credit than that. David Ellison, when he ran Skydance, his primary achievement was befriending Tom Cruise. And I’m sure he liked hanging out with him, but that’s why Skydance was a company: David Ellison was in the Tom Cruise business. He was in the Mission Impossible business, the Top Gun business. That is what the job of a producer is: getting people to… You don’t really do anything as a producer. You just sort of package stuff, and he was able to be in the Tom Cruise business, and that’s what got him as far as he’s been able to get. And that is his job. That was his job. Now he’s got a different job. There’s probably a PhD thesis on the kind of personality that accepts a co-CEO title without another co-CEO. I’ve thought about that from the get-go because of the chain of events — was it last week? — Roger Lynch, CEO of Condé Nast, who said, “I’m now the CEO of Mattel.” For an hour or so, no one knew where Ynon Kreiz was going, and then the rumor was, “Oh, he’s gonna have a job at Warner’s. I’m like, well, what job could he take? He’s already been the CEO of a big publicly traded company. These guys don’t usually accept a demotion. And quite clearly what he’s… One, they said, “All right, you’re the co-CEO,” so it’s not a demotion. Two, there are only a handful of these giant media conglomerates. If you can run one, that’s just a big notch to have on your belt. Number three, they’re gonna pay him $50 million this year. So that will help salve some of those wounds, and I think everyone sort of acknowledged it. Like, he’s effectively the COO of Skydance, if you think about it. You just give him a different title so it sounds better. There’s some other shuffling under that to do. You’ve got two movie studios. You have James Gunn running DC really well, actually. I think Lanterns is just a bona fide hit for HBO. You’ve got two news divisions, which we should talk about. How are they going to resolve these conflicts? Are they just gonna pick one team or the other? Yeah. I mean, they’ve already done that with streaming. Cindy Holland, who pioneered Netflix’s move into original programming more than a decade ago, was brought in by David Ellison a year ago to run that streaming service. He’s just bought HBO, which is run by Casey Bloys, very well-regarded, who spent the last year making it clear to everyone that he would not work with or for Cindy Holland. I don’t think there was personal animus. He’s just like, “I already run HBO. Why would I want to share power with somebody else?” So it seemed pretty clear that David Ellison would pick that horse, and I think he’s gonna make a bunch of those calls. The people who ran the Warner Bros. studio, which a year ago was the toast of the town, were making tons of money and critical acclaim. This year, they produced Digger, Tom Cruise’s biggest bomb ever, and they’re having a rough year. But it was always sort of clear that David Ellison was gonna bring in his people. David Ellison is not an art film guy — he’s not a guy who’s gonna allow Paul Thomas Anderson to make One Battle After Another again. He’s in the Mission Impossible Tom Cruise-iverse, so that’s not surprising. CNN and CBS, people have been talking about merging those companies almost as long as I’ve been covering the media, so that’s not a new idea. They have said, I think wisely for now, “Well, we’re not gonna merge those two,” because we just know it’s a fucking shit storm politically if they touch that stuff. And this is pure speculation, but they might also say, “Well, we hired Bari Weiss and gave her CBS News to run, and maybe we told her she’d also get to play with CNN. But it’s been a rough year over at CBS in the Bari Weiss business, and maybe even if we’re gonna give it to Bari Weiss a couple years down the road, let’s not stir that nest right now.” So Mark Thompson, who’s been running CNN, is gonna continue to run CNN. But again, in the background, no matter what Mark Thompson… He has control of CNN. Ynon Kreiz is still gonna be in there saying, “I know this is your business, but it’s really my business, and you need to cut 10 percent or 20 percent,” or whatever it is, and everyone has to do it. And so in some ways, yes, it matters who’s running these individual studios and components, but again, the debt is hanging over everything. Everyone is gonna have to work to reduce that debt one way or the other. The Bari Weiss thesis at CBS, as charitably as I can put it, was that when she showed up, she was like, “No one trusts the news, and it’s because we’re not fair enough, and I’m gonna do more conservative stuff.” And that was part of the regulatory arbitrage with the Trump administration. They were gonna change CBS because Donald Trump did not like the coverage on CBS, and that worked or didn’t work. But I think we now know that she did not increase trust in CBS News by making it a more conservative-friendly organization. The ratings are down, like precipitously down, such that a lot of people think that she should just be fired and something else should happen. I would — Yeah, I don’t see that happening. Well, right, because he’s gotta do regulatory arbitrage on both sides. We have midterms — And I think he likes Bari Weiss. I think David Ellison is not a political person. I think his father, Larry Ellison, is probably not that political. Tom Dotan in Vanity Fair just did a profile of Larry Ellison and sort of gets at the idea of how he’s bought these big media empires. He also owns a chunk of TikTok. Is there a thing here? And his conclusion is no, it’s not. He really doesn’t have much politics. But the one thing the Ellison family cares a lot about is Israel. Bari Weiss cares a lot about Israel. That is the one ideological through line there. I think they’d be loath to sort of cut her loose. And also, it’s been a clusterfuck over at CBS, but I don’t know that she’s done a worse job running it than anybody else has recently. It’s just that there’s systemic decline. Now, she may make it even worse. It’s possible. And as a journalist, you may not like what she’s doing. But if you’re running the business, I don’t know that she has made it that much worse. I think the Ellisons probably don’t like the headaches and headlines generated by it, but I also don’t think they care that much. I mean, I go on TikTok, and I see any clip from any 60 Minutes or CBS News account, and all of the comments are, “You ruined this. I blame Bari Weiss. I can’t trust you.” That is a decline in trust from where they were before, when no one knew who was running CBS News. I would actually —. I think you should not know who the heads of network news are. Yeah. I think it’s bad that the kids on TikTok are like, “I hate this one person that has nothing to do with the video clip I’m seeing now.” I bring that up because of the TikTok of it all. The idea that TikTok was a national security threat, that the United States Congress voted unanimously to ban it, that Biden voted to ban it, but then he knew it was political suicide, so he kicked the imposition of the ban to the Trump administration. All of that, as you peel apart the reporting, what did members of Congress see in their closed-door meetings? It comes down, as far as any of the reporting I’ve ever seen, to how they thought it was spreading pro-Palestinian propaganda, anti-Israel propaganda. Now the Ellisons own it. As you said, they care very deeply about the issue of Israel, and I can’t say that their ownership of TikTok has meaningfully moved the needle on how people feel about the war in Gaza in any way, shape, or form. Did they try? Perhaps people were disappointed with Israel’s conduct prior to the invention of TikTok. Perhaps there are other reasons they may not be concerned. And, you know, the reason Congress voted for this. It’s maybe the only thing Congress has passed in years is this rule saying China can’t own TikTok, which they then immediately forgot about during the first year of the Trump administration. I do think the China of it all was meaningful for some people, but they clearly also just didn’t care. It’s kinda wild to see Congress pass a bill that becomes a law and then not try to enforce it at all. They knew it was suicide. I don’t know if you remember this, but there was a day when it was the House committee, and AOC was on this committee, and they went into a SCIF to view some intelligence about TikTok. They all came out and voted unanimously to ban this thing, and no one for months could figure out what they saw in there. And it was like, “Did you see a picture of Chinese intelligence services turning the knobs in the algorithm to poison the minds of American youth?” And they’re like, “No, no, no.” “They showed us some videos.” Yeah, it was like, “What, what are you looking at in there?” And then we just sold it to someone who may or may not have some political leanings, but they have some control that is equivalent to the Chinese control, which was so scary that we had to ban this platform. I’m bringing this all up because that is the thing that is reducing trust in the news media. It is not the news media itself, right? The news media makes its mistakes in whatever ways it makes its mistakes. But it’s a bunch of influencers on social platforms who start every video by saying, “Here’s what they’re not telling you,” which is actually the mechanism of reducing trust. And then they read you The New York Times. As somebody who now makes these videos — “No one’s covering this! Let me read you a New York Times story about it.” The other thing that has reduced trust in the media is that Republicans, for 40 years, have been saying the media is biased. And if you say something for 40 years and you’re one of the two parties running the country, I think that message sort of seeps in, before TikTok, before social media. But if I had to pick the two things that are the biggest threats to the businesses that David Ellison now owns, I would pick AI, and I would pick social media, and those are the other big investments of the Ellison family. Is this all just an elaborate hedge, or does he have a plan to use TikTok to amplify his content? To market these movies? I don’t think they have a plan. One of the through lines when David Ellison was buying Paramount was that David Ellison’s a successful producer. You add his dad, who runs Oracle; he’s got a lot of tech know-how. And also, David Ellison is not just a movie producer; he’s a technologist. This was the thing they stood up and said at a press conference. And he said, “Yes, yes, I was mentored by Steve Jobs.” He wasn’t mentored by Steve Jobs. But anyway, the whole premise was we’re gonna techify this and cloud and Oracle. And maybe they could save $10, $20, maybe $100 million on sort of back-office-y things by swapping in an Oracle contract for something else. Although, I think in the normal world, you’d say just because your dad owns this company, we don’t get to bring it in as a technology company for this publicly traded company. Whatever. But there’s never been any indication that they’ve got any other plan other than shaving some costs. I don’t think David Ellison is ideologically inclined. Maybe he will see something outrageous on TikTok that he doesn’t like and say, “Hey, Dad, could you bring that down?” I don’t even know if his dad has the capacity to bring something down. You know, TikTok is a black box. We don’t actually know how the algorithm works, who actually controls it, and who can steer it. The potential for TikTok content to end up on whatever this new Paramount HBO streaming service is high. Mm-hmm. I know the other big media companies have long looked at the user-generated content platforms and been envious of their cost structure. YouTube barely pays any money for its content, and it’s destroying this industry. YouTube pays the most. YouTube pays 55 percent. Everyone else pays zero percent. Right. But for an average creator on YouTube, you’re getting nothing, effectively. I’m just saying it is a great business model, and the Reels and TikTok business models are much better than the YouTube one because they pay zero percent for content. There’s something there. Like, Disney has made some noise about putting creator videos in Disney+. They’ve all looked at it. They’ve all talked about it. This one seems easy, right? It’s HBO Max plus your favorite commentary about whatever HBO Max show you’re watching, sourced directly from TikTok, right here. We’re all gonna integrate it. Maybe this is way harder than I’m making it sound. I think they all believe that… They all move in herds, right? All these companies always do. We’re all doing vertical video now. And you’re like, well, vertical video, yes, people like the format. What they really like is unlimited free content. Which, again, TikTok doesn’t pay anything for. So you, Paramount, or you, Peacock, or you, Disney, you are not in the business of getting free content from people. You are still paying for stuff, and also you care about your brand still, so you don’t wanna just have a platform where anyone can watch anything. And I think that is kind of the fundamental question for all these media companies. You’re not platforms. The dominant media companies are platforms. Can you turn yourself into a platform? Should you turn yourself into a platform? Should you just say, “Nope, what we make is super high-quality, specific stuff that people value as a brand, and maybe that’s just gonna be our place, and we’re not gonna compete with the YouTubes of the world”? Netflix seems to be going in that direction. They’re gonna be more platform-y. I do think you’ll probably see not just Paramount, but every company try to say, “Oh, we’re a platform, too.” I don’t think it will be successful, though Do you foresee a tighter connection between Skydance and TikTok? These are all companies operated by a family. They’re not close right now. They could get closer. I don’t know that TikTok cares, right? TikTok, which is still really run by ByteDance, I don’t know that they care about making Larry Ellison that much happier. I don’t think that’s the direction of travel here. I’m only curious because I’m watching Meta just relentlessly promote Muse, its AI agent, across all of its platforms. OpenAI launches Dots, and where do they go to buy ads? They go buy ads on Meta platforms. And like, this is a massive structural advantage for Meta, right? They are not buying their own ad space. And if I ran a movie studio and I had to put out 30 movies per year and pay to market them to try to get these kids to go to a theater, I’d be like, “Boy, I could really use that TikTok juice.” Do you know who’s winning the microdrama wars in the US? I don’t know if you’ve paid attention to microdramas yet, but they are what they sound like. Oh yes. Meta. Meta is not in the microdrama business. Meta is in the “Oh, you wanna advertise microdramas? Come talk to us.” So they are getting all of the microdrama money right now. It’s a great place to be if you’re, if you’re Meta. And by the way, the microdrama companies are uploading their content to Meta as ads, so Meta both gets paid for the advertising and then has free engaging content that it can show its users. It’s a great place to be. If only Meta cared about its actual businesses instead of trying to win in AI agents. The amount that they would succeed would be out of control. That’s another episode of the show. Let me end with the conspiracy theory that I brought up at the beginning. There was a bidding process. David Zaslav’s initial plan was to split Discovery into two, to sell the cable networks to whoever was dumb enough to buy them. Netflix really wanted Warner, and they bid. They were actually the announced winners until David Ellison did his regulatory arbitrage. They won the deal in December of last year. They gave up on it in February of this year. So they won for a couple of months. David is very good at just kicking the door back open. He made it happen. As Logan Roy said, “Congratulations on saying the biggest number.” No one has succeeded in buying Warner. You could argue that Netflix did nothing but make the price so high that it was unsustainable, that they had to create massive amounts of leverage on this deal, pay an unsustainable amount of debt. And at the end of this all, Ted Sarandos is gonna be standing there waiting to buy, yet again, the distressed assets of Warner Bros. at a fire-sale price. Do you think that’s likely? I think Netflix, and other people as well, will definitely be in the business of, “Oh, Ynon Kreiz fired you? Ynon Kreiz told you you couldn’t make your movie or television show? Come talk to us.” Which, by the way, a lot of other companies were doing to Netflix back in 2022 when Netflix went through its retrenchment. So I think that is likely but also standard, right? You just have this turmoil. You have a standard thing in any media company of, “Oh, this project this other guy brought in, we’re not doing that anymore. That was a failure. We’re doing new stuff. And oh, by the way, if the last guy’s project turns out to be successful, we’ll take credit for that. But we’re gonna bring in new stuff.” I don’t think Ted Sarandos was playing 3D/4D chess here. I think they thought this was a good idea. But I think the much more obvious answer is Wall Street hated the idea. Wall Street kept telling Netflix, “We hate this. We hate this. Please don’t spend $80 billion on this. And also, by the way, you’re gonna have a tough time getting this through regulation.” And I think Ted Sarandos eventually said, “Okay, you’re right.” I’ve seen him speak publicly about this and in other venues. He seems quite upset about the fact that he didn’t get this deal. I think there are also feelings involved here. But I don’t think this was all a master plan on their part. I think they went for it. They didn’t get it. They’re bummed out. They’re gonna move on. I think an angry, aggressive Netflix might actually be the best thing that could happen to Hollywood right now, because they were headed towards their own vertical video slop fest, and maybe now they’re not going to do that. I think that’s the question for — I mean, it’s a question for everybody. But for Netflix, it’s: you guys have been super successful for a couple of decades by doing one thing. Well, initially you were doing DVD by mail, then you went to streaming, and that’s all you did. And you didn’t ever sell movies. You didn’t do a la carte stuff. You didn’t do advertising. You didn’t do sports. Now you do advertising. Now you do sports. Now you’re doing games. Now you’re doing podcasts. Maybe you’re gonna integrate with other kinds of TV stuff. And so this laser focus that Netflix had, which proved very successful, they are moving away from. They may have to move away from it. They may have sort of reached the limit of that growth. But it gets trickier and trickier the more things you add to that stack to make sure you’re doing a good job. And I think that is the real challenge for them. We’ve been at it for about 45 minutes. I still don’t know how David Ellison is gonna make one more dollar than he made last year. Have you come to any conclusions? We’re recording this Tuesday morning. Tuesday night, like at 7:30? I don’t know why they’re doing it at 7:30 or 8:30. They’re gonna have a press conference, the first Skydance press conference. So if we re-record this on Wednesday, maybe all this will be answered, but maybe it won’t be answered. Well, Ynon will be there. He’ll be there wielding his scythe. It’s gonna be interesting because he is not gonna be a high-profile person, but I think a lot of people are gonna learn his name anyway. And this is a thing that Hollywood does, right? You find a person to blame for your troubles. Sometimes it’s a company like Netflix, sometimes it’s an evil Jason Kilar. Remember when he was running WarnerMedia for a minute or two? And everyone said, “You’re wrecking the business. Thank God we have David Zaslav, who’s an authentic media guy to come in and save us.” And then, you know, six months later, David Zaslav’s name is an epithet. Presumably there’ll be a new epithet associated with this company. Yeah. Well, this deal is gonna wind its way through. We’re gonna check in on it a lot. We’re gonna have you back, Peter. Thank you so much for being on Decoder. See you, Nilay. Thanks.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-10-10T14:00:00.000Z",
-            "fetchedAt": "2026-10-10T14:47:17.612Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [
-              "apple"
-            ],
-            "stakeholders": [
-              "oem",
-              "platform-partner"
-            ],
-            "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance.",
-            "id": "a1"
-          },
-          {
-            "title": "Trump Visa Crackdown Raises Questions for Tech Talent",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-09/trump-visa-crackdown-raises-questions-for-tech-talent-video",
-            "description": "The Trump administration has suspended Microsoft, Adobe and several other companies and universities from a program used to sponsor foreign workers for permanent residency, citing concerns about potential abuse. Erickson Immigration Group attorney Hiba Anver explains why restrictions on employment-based immigration could have broader implications for the technology industry’s talent pipeline. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-09T17:58:44.000Z",
-            "fetchedAt": "2026-10-10T14:47:17.285Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "The Trump administration has suspended Microsoft, Adobe and several other companies and universities from a program used to sponsor foreign workers for permanent residency, citing concerns about potential abuse. Erickson Immigration Group attorney Hiba Anver explains why restrictions on employment-based immigration could have broader implications for the technology industry’s talent pipeline. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-            "id": "a10"
-          },
-          {
-            "title": "Apple Drops 3% on Reported iPhone 18 Pro Component Order Cuts; Skyworks Slips, Qualcomm Treads Water",
-            "url": "https://247wallst.com/investing/2026/10/09/apple-drops-3-on-reported-iphone-18-pro-component-order-cuts-skyworks-slips-qualcomm-treads-water/?.tsrc=rss",
-            "description": "Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is cracking at exactly the wrong moment.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-09T13:31:32.000Z",
-            "fetchedAt": "2026-10-10T14:47:17.342Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is cracking at exactly the wrong moment.",
-            "id": "a15"
-          },
-          {
-            "title": "OPPO, Nidec have taken Qi Wireless Power patent pool license, Via announces during AI licensing-focused Summit",
-            "url": "https://ipfray.com/oppo-nidec-have-taken-qi-wireless-power-patent-pool-license-via-announces-during-ai-licensing-focused-summit/",
-            "description": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
-            "source": "IP Fray",
-            "sourceId": "ip-fray",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-08T16:30:00.000Z",
-            "fetchedAt": "2026-10-10T14:47:21.184Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
-            "id": "a19"
-          }
-        ]
-      }
-    },
-    "totalArticles": 28
   },
   "archive-2026-10-11": {
     "generatedAt": "2026-10-11T15:58:42.522Z",
@@ -22095,41 +21555,66 @@ export const NEWS_DATA = {
     "totalArticles": 30
   },
   "archive-2026-11-10": {
-    "generatedAt": "2026-11-09T22:43:41.625Z",
+    "generatedAt": "2026-11-10T04:22:23.257Z",
     "date": "2026-11-10",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-11-09T22:43:41.622Z",
+        "generatedAt": "2026-11-10T04:22:23.255Z",
         "date": "2026-11-10",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (2 articles), IoT & XR (1 article). A total of 7 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (2 articles), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources.",
           "keyTakeaways": [
+            {
+              "text": "Mobile Chips: QCT revenue continues Y/Y decline for third straight quarter",
+              "articleIds": [
+                "a19"
+              ],
+              "subCategory": "mobile-chips"
+            },
             {
               "text": "Wireless Communication: Key TakeawaysJim Cramer told a Mad Money caller on Friday to sell AT&T. He did it two days after Qualcomm said SpaceX picked it to power Starlink Mobile’s nationwide 5G network.",
               "articleIds": [
-                "a6"
+                "a21"
               ],
               "subCategory": "wireless"
             },
             {
               "text": "Semiconductors: Qualcomm's smartphone business is shrinking, but the rest of the company is growing quickly.",
               "articleIds": [
-                "a11"
+                "a25"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "IoT & XR: Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those target",
               "articleIds": [
-                "a12"
+                "a26"
               ],
               "subCategory": "iot-xr"
             }
           ]
         },
         "articles": [
+          {
+            "title": "As Non-Handset Revenue Grows, Qualcomm Is Positioned for Recovery",
+            "url": "https://www.barchart.com/story/news/8740298/as-non-handset-revenue-grows-qualcomm-is-positioned-for-recovery?.tsrc=rss",
+            "description": "QCT revenue continues Y/Y decline for third straight quarter",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-09T18:48:04.000Z",
+            "fetchedAt": "2026-11-10T04:22:16.402Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "QCT revenue continues Y/Y decline for third straight quarter",
+            "id": "a19"
+          },
           {
             "title": "Jim Cramer: “You Should Not Own AT&T” as SpaceX Pushes Into Wireless",
             "url": "https://www.tikr.com/blog/jim-cramer-you-should-not-own-att-as-spacex-pushes-into-wireless?ref=yahoofinance&tlnk=yf-261109-9xhrr43g&.tsrc=rss",
@@ -22138,7 +21623,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T18:16:02.000Z",
-            "fetchedAt": "2026-11-09T22:43:35.353Z",
+            "fetchedAt": "2026-11-10T04:22:16.402Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "wireless",
@@ -22146,7 +21631,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Key TakeawaysJim Cramer told a Mad Money caller on Friday to sell AT&T. He did it two days after Qualcomm said SpaceX picked it to power Starlink Mobile’s nationwide 5G network.",
-            "id": "a6"
+            "id": "a21"
           },
           {
             "title": "Qualcomm Stock Is Down More Than 35% From Its High. Is The Stock a Buy?",
@@ -22156,7 +21641,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T16:32:02.000Z",
-            "fetchedAt": "2026-11-09T22:43:35.353Z",
+            "fetchedAt": "2026-11-10T04:22:16.402Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22164,7 +21649,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm's smartphone business is shrinking, but the rest of the company is growing quickly.",
-            "id": "a11"
+            "id": "a25"
           },
           {
             "title": "Qualcomm (QCOM) Stock Fair Value Edges Lower As Analysts Trim Targets",
@@ -22174,7 +21659,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T16:20:51.000Z",
-            "fetchedAt": "2026-11-09T22:43:35.353Z",
+            "fetchedAt": "2026-11-10T04:22:16.402Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "iot-xr",
@@ -22184,7 +21669,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those targets while still highlighting long term potential tied to data center, automotive and IoT growth, as well as Qualcomm’s role in smartphones and its renewed licensing agreement with Apple. As you read on, you will see how these shifting targets and opinions can help you track the evolving Qualcomm...",
-            "id": "a12"
+            "id": "a26"
           },
           {
             "title": "Is Trending Stock QUALCOMM Incorporated (QCOM) a Buy Now?",
@@ -22194,7 +21679,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T13:00:05.000Z",
-            "fetchedAt": "2026-11-09T22:43:35.353Z",
+            "fetchedAt": "2026-11-10T04:22:16.402Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22202,7 +21687,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-            "id": "a19"
+            "id": "a31"
           },
           {
             "title": "Alphabet Keeps Its Massive SpaceX Bet. Now It's Making a $548 Million Qualcomm Move",
@@ -22212,7 +21697,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T11:18:23.000Z",
-            "fetchedAt": "2026-11-09T22:43:35.353Z",
+            "fetchedAt": "2026-11-10T04:22:16.402Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22220,7 +21705,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Alphabet Sells Several Stock Holdings but Holds Firm on SpaceX",
-            "id": "a21"
+            "id": "a32"
           },
           {
             "title": "SpaceX and Qualcomm threaten to topple US market's cozy 5G order",
@@ -22230,7 +21715,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-09T08:30:00.000Z",
-            "fetchedAt": "2026-11-09T22:43:39.141Z",
+            "fetchedAt": "2026-11-10T04:22:21.440Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "wireless",
@@ -22238,30 +21723,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Elon Musk's plans for a fourth American 5G network look both reactionary and radical, with potential consequences for the whole telecom industry.",
-            "id": "a27"
-          },
-          {
-            "title": "Why Qualcomm Shares Are Swinging After Handset Weakness And AI Data Center Push",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-shares-swinging-handset-180659510.html?.tsrc=rss",
-            "description": "Qualcomm reported Q4 fiscal 2026 revenue of US$10.3b, with handset chip sales under pressure. Full year net income reached US$13.6b on US$43.1b in revenue, and management guided Q1 fiscal 2027 revenue to a range of US$10.4b to US$11.2b. The business is leaning harder into AI data center, automotive, and infrastructure deals, including the Dragonfly portfolio, an expanded automotive chip footprint, and long term agreements such as the SpaceX Starlink Mobile 5G partnership and custom silicon...",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-08T18:06:59.000Z",
-            "fetchedAt": "2026-11-09T22:43:35.353Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm reported Q4 fiscal 2026 revenue of US$10.3b, with handset chip sales under pressure. Full year net income reached US$13.6b on US$43.1b in revenue, and management guided Q1 fiscal 2027 revenue to a range of US$10.4b to US$11.2b. The business is leaning harder into AI data center, automotive, and infrastructure deals, including the Dragonfly portfolio, an expanded automotive chip footprint, and long term agreements such as the SpaceX Starlink Mobile 5G partnership and custom silicon...",
-            "id": "a32"
+            "id": "a38"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-11-09T22:43:41.622Z",
+        "generatedAt": "2026-11-10T04:22:23.255Z",
         "date": "2026-11-10",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -22271,7 +21738,7 @@ export const NEWS_DATA = {
             {
               "text": "FRAND & Licensing: Representatives from Warner Bros Discovery, Qualcomm, Avanci and LexisNexis debated revenue-based fees, technological lock-in and competing pools at LES meeting",
               "articleIds": [
-                "a18"
+                "a30"
               ],
               "subCategory": "frand-licensing"
             }
@@ -22286,7 +21753,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-09T13:18:05.000Z",
-            "fetchedAt": "2026-11-09T22:43:37.627Z",
+            "fetchedAt": "2026-11-10T04:22:18.894Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -22294,12 +21761,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Representatives from Warner Bros Discovery, Qualcomm, Avanci and LexisNexis debated revenue-based fees, technological lock-in and competing pools at LES meeting",
-            "id": "a18"
+            "id": "a30"
           }
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-11-09T22:43:41.622Z",
+        "generatedAt": "2026-11-10T04:22:23.255Z",
         "date": "2026-11-10",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -22310,30 +21777,301 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-11-09T22:43:41.622Z",
+        "generatedAt": "2026-11-10T04:22:23.255Z",
         "date": "2026-11-10",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (6 articles). A total of 26 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (28 articles), market-performance (7 articles). A total of 35 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Nvidia spy allegations likely to spur laws to tighten China’s access to AI chips, say some lawmakers The Straits Times",
+              "text": "Geopolitics & Export Controls: How Jensen Huang’s Affair Spiraled Into a National Security Nightmare WSJ",
               "articleIds": [
                 "a1"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
-              "text": "market-performance: Alphabet's filing shows about 2.98 million Qualcomm shares, as the chipmaker pushes into AI data centers to offset weaker handsets.",
+              "text": "market-performance: A number of stocks jumped in the morning session after dip-buyers moved into beaten-down semiconductor and hardware names following the sector's steepest one-day rout in 19 months.",
               "articleIds": [
-                "a5"
+                "a6"
               ],
               "subCategory": "market-performance"
             }
           ]
         },
         "articles": [
+          {
+            "title": "How Jensen Huang’s Affair Spiraled Into a National Security Nightmare - WSJ",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmZ1TVpQUUhJVElmUjZ3Ul9BSllfNXdJMTIwSHVlb0J6aXAzSDhPX1I0cnNQamd0cTBBY2VnVFVEVEo5VHNtT0l1RDV2OUNhelRWRV9ibXdhU1hyaW91SEtfVDZIbWRpWWg1R1RJeGpNWWJWOFI3d2RZbUREZkEzbkpUZzdfeUsyTWZUVTZQZEphbGhEY2NzaUd1R3VIMWZ1ekFjMTJFSXg?oc=5",
+            "description": "How Jensen Huang’s Affair Spiraled Into a National Security Nightmare WSJ",
+            "source": "Wall Street Journal",
+            "sourceId": "wsj",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-10T04:15:00.000Z",
+            "fetchedAt": "2026-11-10T04:22:22.048Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "WSJ",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "How Jensen Huang’s Affair Spiraled Into a National Security Nightmare WSJ",
+            "id": "a1"
+          },
+          {
+            "title": "Could Trump's Relationship With Nvidia CEO Jensen Huang Raise US National Security Concerns? - Modern Diplomacy",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYkFfVnM1TW5BTjhJRGNQb1RVN01UZHhxRVpENDhhZk9NZXNhT21YaU9wYldiMDhnSkNIdXRHR2tmOEpiY1Z1UU03ekxvSFhpY3FaVXc2aERVUmNudXdHTU8zYWxXcWRfcVQtSzc1Qzhpa3VOTVZLREJwekszeFJCdWM2eFVHZVVDYnR0eXFmQjE0OUhob25wbnA5Y2xhRlFlbmJFa0NpYVFxWF9ycVJocnVVaGlvSmFHZE56NFZJS1BJZTYwVE8wbg?oc=5",
+            "description": "Could Trump's Relationship With Nvidia CEO Jensen Huang Raise US National Security Concerns? Modern Diplomacy",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-10T04:04:05.000Z",
+            "fetchedAt": "2026-11-10T04:22:23.208Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Modern Diplomacy",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Could Trump's Relationship With Nvidia CEO Jensen Huang Raise US National Security Concerns?",
+            "id": "a2"
+          },
+          {
+            "title": "China exports, imports soar past expectations in October — surplus narrows sharply",
+            "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+            "description": "Goods exports soared by 35.2% last month from a year earlier, exceeding expectations for a 33.5% jump in a Reuters poll and slowing from a 36.3% jump in September.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-10T03:56:15.000Z",
+            "fetchedAt": "2026-11-10T04:22:16.204Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Goods exports soared by 35.2% last month from a year earlier, exceeding expectations for a 33.5% jump in a Reuters poll and slowing from a 36.3% jump in September.",
+            "id": "a3"
+          },
+          {
+            "title": "‘This is a serious national security issue.’ GOP bucks Trump on Nvidia - Politico",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLXNUSzZlRm5nMU5JS0tWMVk1b3hmTzFuZE5xdGtPeDFPVTFGUkJzV21Fb1FZbVJaclA4YWU1Tk5rSTBzeThXRXYxODFlNll3NUhQMENDTzJXY2o1TGM2ODNWV3o3cWJhYnE0dlgwTmx1eURIRkFMWFlqMFdaVzJrTlV4bGxneUVVdzVWY3lQV2NqQQ?oc=5",
+            "description": "‘This is a serious national security issue.’ GOP bucks Trump on Nvidia Politico",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-10T03:25:00.000Z",
+            "fetchedAt": "2026-11-10T04:22:23.208Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Politico",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "‘This is a serious national security issue.’ GOP bucks Trump on Nvidia Politico",
+            "id": "a4"
+          },
+          {
+            "title": "China’s trade surplus exceeds $1tn for first 10 months of year",
+            "url": "https://www.ft.com/content/a267d321-a489-4426-940e-1e4be712dc09?syn-25a6b1a6=1",
+            "description": "Balance is on course for new annual record that would intensify tensions with trade partners",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-10T03:09:14.000Z",
+            "fetchedAt": "2026-11-10T04:22:16.813Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Balance is on course for new annual record that would intensify tensions with trade partners",
+            "id": "a5"
+          },
+          {
+            "title": "Qualcomm, Impinj, Power Integrations, and Kulicke and Soffa shares are soaring, what you need to know",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-impinj-power-integrations-kulicke-025336657.html?.tsrc=rss",
+            "description": "A number of stocks jumped in the morning session after dip-buyers moved into beaten-down semiconductor and hardware names following the sector's steepest one-day rout in 19 months.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-10T02:53:36.000Z",
+            "fetchedAt": "2026-11-10T04:22:16.402Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "A number of stocks jumped in the morning session after dip-buyers moved into beaten-down semiconductor and hardware names following the sector's steepest one-day rout in 19 months.",
+            "id": "a6"
+          },
+          {
+            "title": "Citi's Rizvi Sees 100 Hires in China Over Next Years",
+            "url": "https://www.bloomberg.com/news/videos/2026-11-10/citi-s-rizvi-sees-100-hires-in-china-over-next-years-video",
+            "description": "Kaleem Rizvi, Global Co-head of Corporate Banking at Citi, says the bank envisions hiring 100 bankers over the next several years after it won approval for its securities venture in China. He speaks with Stephen Engle on the sidelines of the Citi China Conference in Shanghai. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-10T02:52:50.000Z",
+            "fetchedAt": "2026-11-10T04:22:16.798Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Kaleem Rizvi, Global Co-head of Corporate Banking at Citi, says the bank envisions hiring 100 bankers over the next several years after it won approval for its securities venture in China. He speaks with Stephen Engle on the sidelines of the Citi China Conference in Shanghai.",
+            "id": "a7"
+          },
+          {
+            "title": "Congress weighs tougher China chip controls amid Nvidia spy scandal, White House stance pivotal - Chosunbiz",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOREdNdUZQZXE2ZE5fN29yWHRuU1BlOXNER015akJQZk5oY05KRE0wbmtlT3pDX1ZLVWhrYWF4UUQ4MXQxNTJoTWtlbk82WGs4S3pOV05HRjZ4ZGdBSWVpTDh2cHpEd0N6Q09sQUxlUUJQWm9zbDBlNkQ3QTJXM3N4VXpkd0JDdE5U0gGcAUFVX3lxTFBrTVRrcHE5Qi1xdFVHaUQwMW5HT2R2Qkdma19CNVVfS2VGUmYyVEkteUlyYTB0VmtpeEhPeThPajZXS3RWY0JhMVBRajBrZHduR3lHbW5HeWJocmFxRnBpeHhqLXhiTnFhS3piaG9LYjNfNmN0V2ljbnlzMXg4bXlJLTRuekJQLTBldFF3cmtqVW55Uklkd2NUVGhIRQ?oc=5",
+            "description": "Congress weighs tougher China chip controls amid Nvidia spy scandal, White House stance pivotal Chosunbiz",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-10T01:59:00.000Z",
+            "fetchedAt": "2026-11-10T04:22:23.208Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Chosunbiz",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Congress weighs tougher China chip controls amid Nvidia spy scandal, White House stance pivotal Chosunbiz",
+            "id": "a8"
+          },
+          {
+            "title": "What could China get from Jensen Huang?",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+            "description": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about $99 billion worth of equity investments in frontier AI labs, neoclouds, infrastructure companies, and more. Its chief executive has even become close with President Donald Trump. This is why, as both cofounder and longtime CEO of Nvidia, Jensen Huang would be a valuable target for a foreign adversary with sig … Read the full story at The Verge.",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-11-09T23:51:58.000Z",
+            "fetchedAt": "2026-11-10T04:22:16.928Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about $99 billion worth of equity investments in frontier AI labs, neoclouds, infrastructure companies, and more. Its chief executive has even become close with President Donald Trump. This is why, as both cofounder and longtime CEO of Nvidia, Jensen Huang would be a valuable target for a foreign adversary with sig … Read the full story at The Verge.",
+            "id": "a9"
+          },
+          {
+            "title": "What to know about the China spy allegations involving Nvidia’s Jensen Huang - The Straits Times",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWGRaZnNHdXowSnh6ckhvRHNoWGIzQXB6ZS13MjA0alo2MGxBUHhQck1TbHBfdlRzQ3Rmb1JXUXZhUzRwSkR0dVpUZVBPeXhrZ2d2VzBwc3NlbWRFWTMtNTczM3JIYmFDa2FoMURkX1NhVmgwOEVYM3FacDBvY2JFZnhwaHhYc1FZU0NvM1pURWY2VVdDazd1VUlXQnNxLVFsWUhOUHhMU3NmNThQbTRGaFBpRXhvQVNjd2FlMmF3Y2hpZw?oc=5",
+            "description": "What to know about the China spy allegations involving Nvidia’s Jensen Huang The Straits Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-09T23:45:00.000Z",
+            "fetchedAt": "2026-11-10T04:22:23.208Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Straits Times",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "What to know about the China spy allegations involving Nvidia’s Jensen Huang The Straits Times",
+            "id": "a10"
+          },
+          {
+            "title": "China Chip Supplier Xinde Jumps in HK Debut as Denglin Slumps",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-chipmakers-to-debut-in-hk-in-test-of-tech-stock-demand",
+            "description": "Jiangsu Xinde Semiconductor Technology Co.’s shares surged in their Hong Kong debut, while Suzhou Denglin Technology Co.’s stock slumped on their first day after the Chinese chip suppliers raised a combined $301 million in their initial public offerings, entering the market at a time of extreme volatility especially for technology stocks.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-09T23:25:31.000Z",
+            "fetchedAt": "2026-11-10T04:22:16.798Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Jiangsu Xinde Semiconductor Technology Co.’s shares surged in their Hong Kong debut, while Suzhou Denglin Technology Co.’s stock slumped on their first day after the Chinese chip suppliers raised a combined $301 million in their initial public offerings, entering the market at a time of extreme volatility especially for technology stocks.",
+            "id": "a11"
+          },
+          {
+            "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+            "description": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to Nvidia GPUs, but also a spy for China’s Ministry of State Security. In recent years, Nvidia has become a key part of the Trump administration’s AI push, a central figure in negotiations over potential Chinese access to cutting-edge AI hardware, and a company that has used its now $4 trillion-plus market cap to finance other AI companies, including the “neoclouds” like Coreweave who have been some of its biggest customers. So far, Nvidia and Jensen Huang have said that they have “no reason to believe that either national security or NVIDIA secrets were compromised,” but that hasn’t settled things as the investigation continues. Here’s what Trump said he knew about Jensen Huang What could China get from Jensen Huang? The future of AI hinges on… Jensen Huang’s sex life? Here’s the full text of Jensen Huang’s memo to Nvidia Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-11-09T23:07:59.000Z",
+            "fetchedAt": "2026-11-10T04:22:16.928Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to Nvidia GPUs, but also a spy for China’s Ministry of State Security. In recent years, Nvidia has become a key part of the Trump administration’s AI push, a central figure in negotiations over potential Chinese access to cutting-edge AI hardware, and a company that has used its now $4 trillion-plus market cap to finance other AI companies, including the “neoclouds” like Coreweave who have been some of its biggest customers. So far, Nvidia and Jensen Huang have said that they have “no reason to believe that either national security or NVIDIA secrets were compromised,” but that hasn’t settled things as the investigation continues. Here’s what Trump said he knew about Jensen Huang What could China get from Jensen Huang?",
+            "id": "a12"
+          },
+          {
+            "title": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
+            "url": "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
+            "description": "Following the latest Trump-Xi summit, China pledged further opening of its financial market to companies from all countries, including the U.S.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-09T23:00:02.000Z",
+            "fetchedAt": "2026-11-10T04:22:16.205Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Following the latest Trump-Xi summit, China pledged further opening of its financial market to companies from all countries, including the U.S.",
+            "id": "a13"
+          },
+          {
+            "title": "Nvidia CEO’s scandal raises questions about US national security - Northeastern Global News",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnNpVXEyRDVpalhoRjVmZ1g0Rno4cjBrNHRIUUhOMWhuN21FWkhKNm9vUTRBUE5YUzhId05lWnNFXzlmNHN5d1prdlFUZ3lEcFUtMnZ6a1lqb3drbDZiWjQ3TVBGY3NfOC1DN3pMWWFIcXQ1di14WmloVnItcHJCQnVQd1o?oc=5",
+            "description": "Nvidia CEO’s scandal raises questions about US national security Northeastern Global News",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-09T22:59:03.000Z",
+            "fetchedAt": "2026-11-10T04:22:23.208Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Northeastern Global News",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia CEO’s scandal raises questions about US national security Northeastern Global News",
+            "id": "a14"
+          },
           {
             "title": "Nvidia spy allegations likely to spur laws to tighten China’s access to AI chips, say some lawmakers - The Straits Times",
             "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ3c3TjU1QzQ5WDE5eUI2NmViMzFOUUpDdi13UGVEYll6V1JyZm04TnZVamFZWFJGQ3ZyMVRMWkJJS2N2VnpXWXhfcUcxUUQweXZUWjNadWY1VGhucmhjQUdxRkd6bS0wS3dhS3kydkkxaHJGZWVLQkFJTzZnU29ORHVFMGVwMTJXc1BSa2M5dG9JMkswU1JBMkRHbUFIendPZTg2WDZDVTh2a3BKV0RUNV9KNlJVaEQwS1h6anlJc1JOcV82SmJhQUFYaVcyS0V1M2Rva3VWcw?oc=5",
@@ -22342,7 +22080,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T22:20:00.000Z",
-            "fetchedAt": "2026-11-09T22:43:41.577Z",
+            "fetchedAt": "2026-11-10T04:22:23.208Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Straits Times",
             "geopoliticalBypass": true,
@@ -22352,7 +22090,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Nvidia spy allegations likely to spur laws to tighten China’s access to AI chips, say some lawmakers The Straits Times",
-            "id": "a1"
+            "id": "a15"
           },
           {
             "title": "AI chip export controls to China likely to tighten; Trump also in hot water over allegations he turned a blind eye to the Jensen Huang affair - 파이낸셜뉴스",
@@ -22362,7 +22100,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T22:04:46.000Z",
-            "fetchedAt": "2026-11-09T22:43:41.577Z",
+            "fetchedAt": "2026-11-10T04:22:23.208Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "파이낸셜뉴스",
             "geopoliticalBypass": true,
@@ -22372,7 +22110,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "AI chip export controls to China likely to tighten; Trump also in hot water over allegations he turned a blind eye to the Jensen Huang affair 파이낸셜뉴스",
-            "id": "a2"
+            "id": "a16"
           },
           {
             "title": "US Lawmakers Demand Details on Nvidia Amid Jensen Huang Scandal",
@@ -22382,7 +22120,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T21:57:43.000Z",
-            "fetchedAt": "2026-11-09T22:43:35.348Z",
+            "fetchedAt": "2026-11-10T04:22:16.798Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22391,7 +22129,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Chief Executive Officer Jensen Huang’s affair with an alleged Chinese spy prompted bipartisan demands on Capitol Hill for more information as lawmakers rushed to assess the potential national security fallout from the scandal.",
-            "id": "a3"
+            "id": "a17"
           },
           {
             "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
@@ -22401,7 +22139,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-09T21:43:41.000Z",
-            "fetchedAt": "2026-11-09T22:43:35.974Z",
+            "fetchedAt": "2026-11-10T04:22:16.928Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22410,7 +22148,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $100 cheaper than the full MSRP of $399.99. MAG 272QP QD-OLED X24 (refurbished) Where to Buy: $399.99 $290.99 at Woot MSI’s 27-inch screen is well-featured for the price, with 1440p resolution, a 240Hz refresh rate, and both G-Sync and FreeSync compatibility, which help reduce screen tearing when your FPS is below the max refresh rate. PC games are particularly well-suited to take advantage of the deep black levels OLED panels produce, too, giving every game you play a deeper, more immersive feel. MSI’s budget OLED also features quantum dots for fuller, more vivid colors.",
-            "id": "a4"
+            "id": "a18"
           },
           {
             "title": "Qualcomm Stocks Jump 5.82% After Alphabet Discloses $548 Million Stake",
@@ -22420,7 +22158,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T18:21:24.000Z",
-            "fetchedAt": "2026-11-09T22:43:35.353Z",
+            "fetchedAt": "2026-11-10T04:22:16.402Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -22428,7 +22166,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Alphabet's filing shows about 2.98 million Qualcomm shares, as the chipmaker pushes into AI data centers to offset weaker handsets.",
-            "id": "a5"
+            "id": "a20"
           },
           {
             "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
@@ -22438,7 +22176,7 @@ export const NEWS_DATA = {
             "sourceId": "techcrunch",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-09T18:09:52.000Z",
-            "fetchedAt": "2026-11-09T22:43:35.269Z",
+            "fetchedAt": "2026-11-10T04:22:16.243Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22447,7 +22185,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-            "id": "a7"
+            "id": "a22"
           },
           {
             "title": "Did Jensen Huang know? Nvidia's CEO and an alleged spy",
@@ -22457,7 +22195,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T18:04:51.000Z",
-            "fetchedAt": "2026-11-09T22:43:35.353Z",
+            "fetchedAt": "2026-11-10T04:22:16.402Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22466,26 +22204,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Nvidia CEO Jensen Huang has admitted to an affair with Alice Huang, a Megaspeed executive US intelligence believes was recruited by China. Host Ejaaz Ahamadeen breaks down her alleged goal of loosening AI chip export controls, the classified memo, Nvidia's board investigation, why Commerce didn't act and whether Jensen knew.",
-            "id": "a8"
-          },
-          {
-            "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-            "description": "Step 1. Cut a hole in the box. | Image: The Verge I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - no relation to Jensen - is a former TV reporter. That was before she became \"an executive\" at Megaspeed, which bought $4.8 billion of hard-to-get Nvidia chips, starting around the time she was being photographed with Jensen in a Taipei bar in 2024. \"To many in the industry, the well-funded push by Megaspeed into A.I. appeared to come out of nowhe … Read the full story at The Verge.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-11-09T17:36:08.000Z",
-            "fetchedAt": "2026-11-09T22:43:35.975Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Cut a hole in the box. | Image: The Verge I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - no relation to Jensen - is a former TV reporter. That was before she became \"an executive\" at Megaspeed, which bought $4.8 billion of hard-to-get Nvidia chips, starting around the time she was being photographed with Jensen in a Taipei bar in 2024.",
-            "id": "a9"
+            "id": "a23"
           },
           {
             "title": "US Approval of Nvidia H200 Chip Sales to China Raises Questions Over Security Vetting - TechStory",
@@ -22495,7 +22214,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T17:04:42.000Z",
-            "fetchedAt": "2026-11-09T22:43:41.577Z",
+            "fetchedAt": "2026-11-10T04:22:23.208Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "TechStory",
             "geopoliticalBypass": true,
@@ -22505,7 +22224,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "US Approval of Nvidia H200 Chip Sales to China Raises Questions Over Security Vetting TechStory",
-            "id": "a10"
+            "id": "a24"
           },
           {
             "title": "Nvidia’s spy scandal hands Hill hawks fresh ammo on China chips - Politico",
@@ -22515,7 +22234,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T14:31:00.000Z",
-            "fetchedAt": "2026-11-09T22:43:41.576Z",
+            "fetchedAt": "2026-11-10T04:22:23.208Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Politico",
             "geopoliticalBypass": true,
@@ -22525,7 +22244,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Nvidia’s spy scandal hands Hill hawks fresh ammo on China chips Politico",
-            "id": "a13"
+            "id": "a27"
           },
           {
             "title": "Was Nvidia's Billionaire CEO Targeted By Chinese Intelligence? The Jensen Huang Affair, The Megaspeed Connection And A Growing US National Security Investigation - Inventiva",
@@ -22535,7 +22254,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T14:30:46.000Z",
-            "fetchedAt": "2026-11-09T22:43:41.577Z",
+            "fetchedAt": "2026-11-10T04:22:23.208Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Inventiva",
             "geopoliticalBypass": true,
@@ -22545,7 +22264,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Was Nvidia's Billionaire CEO Targeted By Chinese Intelligence? The Jensen Huang Affair, The Megaspeed Connection And A Growing US National Security Investigation Inventiva",
-            "id": "a14"
+            "id": "a28"
           },
           {
             "title": "Nvidia faces defining test as Jensen Huang probe adds to chip stock turbulence - South China Morning Post",
@@ -22555,7 +22274,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T14:30:07.000Z",
-            "fetchedAt": "2026-11-09T22:43:41.577Z",
+            "fetchedAt": "2026-11-10T04:22:23.208Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "South China Morning Post",
             "geopoliticalBypass": true,
@@ -22565,67 +22284,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Nvidia faces defining test as Jensen Huang probe adds to chip stock turbulence South China Morning Post",
-            "id": "a15"
-          },
-          {
-            "title": "What Jensen Huang has said about China in recent years as a spying probe roils Nvidia - Business Insider",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDBkVWw4THlId3g5d1JLSHRja2VrbEEwQVcwNjR2ZFAwSDV6ajd3TkFad0h1RkJhalpQY1pNYVdqd09HUnNqVHBXYWd0Q25KakZXUm1SbDY5NlNsMDNETGhSbllhUVZVTjlDQTRPeGxjM0lPY2ltMnBCZklBX0M5M3NvUy1SM0Y1WVdyWnVBeHF2VUxyVW51TkpB?oc=5",
-            "description": "What Jensen Huang has said about China in recent years as a spying probe roils Nvidia Business Insider",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-09T14:27:00.000Z",
-            "fetchedAt": "2026-11-09T22:43:41.577Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Business Insider",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "What Jensen Huang has said about China in recent years as a spying probe roils Nvidia Business Insider",
-            "id": "a16"
-          },
-          {
-            "title": "Nvidia’s AI Empire Faces a National Security Test as Spy Allegations Reach Its Chief Executive - The Zimbabwe Mail",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMnJwR1ZYcnQ4ZU5qazZ0QnplbEtWYUp2N2lDM1dScGlVaUh5X1kyNTMtejE1ODJ1bmNQZWp4V192bnBPMEN6N05tZTZ2enp2Wkt2bGhnN0xIWXdrYk5RYmZGRUVySWRscnAtNUZka2tPUnp1Qld3V2g5bzA5eV9NQkpKa0Jpci1sZ2xFY3N4Y0g5YVhUOXBHeFdZV0Qzd1BSR003RF9MMndnYUZNRjlZRnJ0dTlKRkdyTWxBaVBuc2xiUkdhUk9XeVA3U2lSckZQbnc?oc=5",
-            "description": "Nvidia’s AI Empire Faces a National Security Test as Spy Allegations Reach Its Chief Executive The Zimbabwe Mail",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-09T14:07:47.000Z",
-            "fetchedAt": "2026-11-09T22:43:41.577Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "The Zimbabwe Mail",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Nvidia’s AI Empire Faces a National Security Test as Spy Allegations Reach Its Chief Executive The Zimbabwe Mail",
-            "id": "a17"
-          },
-          {
-            "title": "What’s next for Nvidia and Jensen Huang after affair admission? - South China Morning Post",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMWJFenRfR01LdzRWa2xYNHdpQTctY3RqSEozQ1F5X2ZCQkdkaGUwNlEwWVpDV1pNaVBDcXExZkh3NnN6X3FOVjVXYXZWaWZseEZ6RTM1X3JvNXlIOTQ2bUNsM3lKOVdfV1VhTHJoNVNEV0Q5Yl9LUzNvNHhQeDhDRkUyQVN2Z0xramhRdVhlSlFZS0VENGg5aGhScDlwSDJULWZOTHhzbXVsU2VIVlVTbmNoS0NKVkZmaTBPQ0dCQTQ0a0hPWHpVUzR1SmhPM0xEZXdvY1d3?oc=5",
-            "description": "What’s next for Nvidia and Jensen Huang after affair admission? South China Morning Post",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-09T12:30:08.000Z",
-            "fetchedAt": "2026-11-09T22:43:41.577Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "South China Morning Post",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "What’s next for Nvidia and Jensen Huang after affair admission? South China Morning Post",
-            "id": "a20"
+            "id": "a29"
           },
           {
             "title": "Qualcomm (QCOM) Sees $28.3 Million in Net ETF Buying on Nov. 5",
@@ -22635,7 +22294,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T11:01:30.000Z",
-            "fetchedAt": "2026-11-09T22:43:35.353Z",
+            "fetchedAt": "2026-11-10T04:22:16.402Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -22643,7 +22302,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "ETFs bought $28.3 million of Qualcomm stock on Thursday, Nov. 5, as 49 funds added shares and 16 trimmed.",
-            "id": "a22"
+            "id": "a33"
           },
           {
             "title": "China rejects spying allegations as CEO scandal rocks Nvidia",
@@ -22653,7 +22312,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-09T10:58:11.000Z",
-            "fetchedAt": "2026-11-09T22:43:38.849Z",
+            "fetchedAt": "2026-11-10T04:22:21.040Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22662,7 +22321,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Beijing reportedly dismissed allegations that it has been spying on Nvidia, after the company opened a probe into CEO Jensen Huang (pictured) over his admission of an affair with a woman accused by the US of working for Chinese intelligence. The post China rejects spying allegations as CEO scandal rocks Nvidia appeared first on Mobile World Live.",
-            "id": "a23"
+            "id": "a34"
           },
           {
             "title": "Jensen Huang controversy: Megaspeed denies report on illegal Nvidia chip transfers to China, hints at legal action - Livemint",
@@ -22672,7 +22331,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T10:26:08.000Z",
-            "fetchedAt": "2026-11-09T22:43:41.577Z",
+            "fetchedAt": "2026-11-10T04:22:23.208Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Livemint",
             "geopoliticalBypass": true,
@@ -22682,7 +22341,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Jensen Huang controversy: Megaspeed denies report on illegal Nvidia chip transfers to China, hints at legal action Livemint",
-            "id": "a24"
+            "id": "a35"
           },
           {
             "title": "Arm and Qualcomm Lead Mobile Chip Design. 1 Stock Is the Better Buy.",
@@ -22692,7 +22351,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T09:52:00.000Z",
-            "fetchedAt": "2026-11-09T22:43:35.353Z",
+            "fetchedAt": "2026-11-10T04:22:16.402Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -22700,7 +22359,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Both of these stocks saw their shares in free fall following earnings.",
-            "id": "a25"
+            "id": "a36"
           },
           {
             "title": "Chinese ASI again targets European IP enforcement, prompting Dutch AASI backed by penalties of up to €100 million",
@@ -22710,7 +22369,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-09T08:30:00.000Z",
-            "fetchedAt": "2026-11-09T22:43:39.887Z",
+            "fetchedAt": "2026-11-10T04:22:20.855Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22719,7 +22378,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Years after China’s 2020 ASI wave, a Chinese ASI has again targeted European IP enforcement, prompting a Dutch AASI backed by penalties of €1 million per day, capped at €100 million. Although the Dutch case concerns trademarks, the confrontation has significant implications for cross-border patent litigation.",
-            "id": "a26"
+            "id": "a37"
           },
           {
             "title": "NVIDIA CEO's adultery scandal raises political and national security concerns - KuCoin",
@@ -22729,7 +22388,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T07:18:36.000Z",
-            "fetchedAt": "2026-11-09T22:43:41.577Z",
+            "fetchedAt": "2026-11-10T04:22:23.208Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "KuCoin",
             "geopoliticalBypass": true,
@@ -22739,7 +22398,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "NVIDIA CEO's adultery scandal raises political and national security concerns KuCoin",
-            "id": "a28"
+            "id": "a39"
           },
           {
             "title": "3 Stocks Riding The Export Control Boom In AI Hardware - Simply Wall St",
@@ -22749,7 +22408,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T05:27:18.000Z",
-            "fetchedAt": "2026-11-09T22:43:41.577Z",
+            "fetchedAt": "2026-11-10T04:22:23.208Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Simply Wall St",
             "geopoliticalBypass": true,
@@ -22759,7 +22418,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "3 Stocks Riding The Export Control Boom In AI Hardware Simply Wall St",
-            "id": "a29"
+            "id": "a40"
           },
           {
             "title": "NVDA, PLTR, QCOM, SPCX, MRVL: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
@@ -22769,7 +22428,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T02:04:55.000Z",
-            "fetchedAt": "2026-11-09T22:43:35.353Z",
+            "fetchedAt": "2026-11-10T04:22:16.402Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -22777,7 +22436,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The week was marked by developments, including a probe into Nvidia’s CEO, strong results from Palantir, and Musk’s ambitious revenue goals.",
-            "id": "a30"
+            "id": "a41"
           },
           {
             "title": "Starlink Deal Adds Yet Another Growth Engine for Qualcomm Stock",
@@ -22787,7 +22446,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-08T23:31:12.000Z",
-            "fetchedAt": "2026-11-09T22:43:35.353Z",
+            "fetchedAt": "2026-11-10T04:22:16.402Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -22795,25 +22454,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A new Starlink deal and Qualcomm's data-center and automotive businesses should help boost QCOM stock over the longer term.",
-            "id": "a31"
-          },
-          {
-            "title": "Qualcomm’s Car Chips Grew 89% as Handsets Fell 26%. Is 16.7x Earnings Too Cheap?",
-            "url": "https://www.tikr.com/blog/qualcomms-car-chips-grew-89-as-handsets-fell-26-is-16-7x-earnings-too-cheap?ref=yahoofinance&tlnk=yf-261108-3p86fw4m&.tsrc=rss",
-            "description": "Key TakeawaysQualcomm rose 5. 5% Friday after Alphabet disclosed a $548 million stake, days after weak handset sales hit the stock following earnings.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-08T15:59:59.000Z",
-            "fetchedAt": "2026-11-09T22:43:35.353Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Key TakeawaysQualcomm rose 5. 5% Friday after Alphabet disclosed a $548 million stake, days after weak handset sales hit the stock following earnings.",
-            "id": "a33"
+            "id": "a42"
           },
           {
             "title": "A new Congress, a new opportunity to protect American inventors",
@@ -22823,7 +22464,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-07T09:30:00.000Z",
-            "fetchedAt": "2026-11-09T22:43:37.627Z",
+            "fetchedAt": "2026-11-10T04:22:18.894Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22832,12 +22473,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Saturday Opinion: The new Congress must resist litigation funding restriction proposals that would weaken inventors’ ability to enforce their patents",
-            "id": "a34"
+            "id": "a43"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-11-09T22:43:41.622Z",
+        "generatedAt": "2026-11-10T04:22:23.255Z",
         "date": "2026-11-10",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -22848,7 +22489,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-11-09T22:43:41.623Z",
+        "generatedAt": "2026-11-10T04:22:23.255Z",
         "date": "2026-11-10",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -22858,7 +22499,7 @@ export const NEWS_DATA = {
             {
               "text": "IoT & XR: Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those target",
               "articleIds": [
-                "a12"
+                "a26"
               ],
               "subCategory": "iot-xr"
             }
@@ -22873,7 +22514,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-09T16:20:51.000Z",
-            "fetchedAt": "2026-11-09T22:43:35.353Z",
+            "fetchedAt": "2026-11-10T04:22:16.402Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "iot-xr",
@@ -22883,12 +22524,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those targets while still highlighting long term potential tied to data center, automotive and IoT growth, as well as Qualcomm’s role in smartphones and its renewed licensing agreement with Apple. As you read on, you will see how these shifting targets and opinions can help you track the evolving Qualcomm...",
-            "id": "a12"
+            "id": "a26"
           }
         ]
       }
     },
-    "totalArticles": 35
+    "totalArticles": 44
   }
 };
 

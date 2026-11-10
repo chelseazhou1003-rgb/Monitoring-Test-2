@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T22:43:41.623Z",
+  "generatedAt": "2026-11-10T04:22:23.255Z",
   "date": "2026-11-10",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,7 +9,7 @@
       {
         "text": "IoT & XR: Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those target",
         "articleIds": [
-          "a12"
+          "a26"
         ],
         "subCategory": "iot-xr"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-09T16:20:51.000Z",
-      "fetchedAt": "2026-11-09T22:43:35.353Z",
+      "fetchedAt": "2026-11-10T04:22:16.402Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "iot-xr",
@@ -34,7 +34,7 @@
         "oem"
       ],
       "summary": "Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those targets while still highlighting long term potential tied to data center, automotive and IoT growth, as well as Qualcomm’s role in smartphones and its renewed licensing agreement with Apple. As you read on, you will see how these shifting targets and opinions can help you track the evolving Qualcomm...",
-      "id": "a12"
+      "id": "a26"
     }
   ]
 }
