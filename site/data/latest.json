@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-10T13:01:48.076Z",
-  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T20:37:23.838Z",
+  "date": "2026-11-11",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 9,
-      "topHeadline": "ETFs Are Net Sellers of Qualcomm (QCOM) on Nov. 6",
+      "articleCount": 7,
+      "topHeadline": "Exclusive: Qualcomm begins job cuts; India and California among regions impacted",
       "topHeadlineId": "a5",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (2 articles), Mobile Chips (1 article). A total of 9 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles), Wireless Communication (1 article). A total of 7 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 1,
       "topHeadline": "Video streaming licensing divides deepen over royalties and codec choice",
-      "topHeadlineId": "a39",
+      "topHeadlineId": "a38",
       "briefingSummary": "One article today covering FRAND & Licensing. Representatives from Warner Bros Discovery, Qualcomm, Avanci and LexisNexis debated revenue-based fees, technological lock-in and competing pools at L"
     },
     "growth-areas": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 34,
-      "topHeadline": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+      "articleCount": 33,
+      "topHeadline": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (30 articles), market-performance (3 articles), Customers & Partners (1 article). A total of 34 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (25 articles), market-performance (5 articles), Customers & Partners (2 articles). A total of 33 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -40,10 +40,10 @@
     "stakeholders": {
       "title": "Key Stakeholders",
       "articleCount": 1,
-      "topHeadline": "Qualcomm (QCOM) Stock Fair Value Edges Lower As Analysts Trim Targets",
-      "topHeadlineId": "a35",
-      "briefingSummary": "One article today covering IoT & XR. Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across r"
+      "topHeadline": "Apple Just Hit $5 Trillion. Its “Biggest Competition” Is a SpaceX Phone, Says Gene Munster",
+      "topHeadlineId": "a6",
+      "briefingSummary": "One article today covering Mobile Chips. Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s bigge"
     }
   },
-  "totalArticles": 45
+  "totalArticles": 42
 }

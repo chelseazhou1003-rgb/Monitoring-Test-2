@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-11-10T13:01:48.074Z",
-  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T20:37:23.836Z",
+  "date": "2026-11-11",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "One article today covering IoT & XR. Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across r",
+    "summary": "One article today covering Mobile Chips. Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s bigge",
     "keyTakeaways": [
       {
-        "text": "IoT & XR: Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those target",
+        "text": "Mobile Chips: Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk ha",
         "articleIds": [
-          "a35"
+          "a6"
         ],
-        "subCategory": "iot-xr"
+        "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
     {
-      "title": "Qualcomm (QCOM) Stock Fair Value Edges Lower As Analysts Trim Targets",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-fair-value-162051691.html?.tsrc=rss",
-      "description": "Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those targets while still highlighting long term potential tied to data center, automotive and IoT growth, as well as Qualcomm’s role in smartphones and its renewed licensing agreement with Apple. As you read on, you will see how these shifting targets and opinions can help you track the evolving Qualcomm...",
+      "title": "Apple Just Hit $5 Trillion. Its “Biggest Competition” Is a SpaceX Phone, Says Gene Munster",
+      "url": "https://www.tikr.com/blog/apple-just-hit-5-trillion-its-biggest-competition-is-a-spacex-phone-says-gene-munster?ref=yahoofinance&tlnk=yf-261110-3p7pmqj7&.tsrc=rss",
+      "description": "Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk has called “utterly false,” and SpaceX is already building a nationwide 5G network with Qualcomm.",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-11-09T16:20:51.000Z",
-      "fetchedAt": "2026-11-10T13:01:42.577Z",
+      "publishedAt": "2026-11-10T17:39:51.000Z",
+      "fetchedAt": "2026-11-10T20:37:11.439Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
-      "subCategory": "iot-xr",
-      "subLabel": "IoT & XR",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
       "competitors": [],
       "stakeholders": [
         "oem"
       ],
-      "summary": "Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those targets while still highlighting long term potential tied to data center, automotive and IoT growth, as well as Qualcomm’s role in smartphones and its renewed licensing agreement with Apple. As you read on, you will see how these shifting targets and opinions can help you track the evolving Qualcomm...",
-      "id": "a35"
+      "summary": "Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk has called “utterly false,” and SpaceX is already building a nationwide 5G network with Qualcomm.",
+      "id": "a6"
     }
   ]
 }

@@ -1,42 +1,91 @@
 {
-  "generatedAt": "2026-11-10T13:01:48.074Z",
-  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T20:37:23.836Z",
+  "date": "2026-11-11",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (2 articles), Mobile Chips (1 article). A total of 9 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles), Wireless Communication (1 article). A total of 7 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: ETFs sold a net $199.6 million of Qualcomm stock on Friday, Nov.",
+        "text": "Semiconductors: Investing.com — Qualcomm has begun rolling out planned job cuts across its global operations, affecting employees in India and California, according to people familiar with the company’s plans.",
         "articleIds": [
           "a5"
         ],
         "subCategory": "semiconductors"
       },
       {
-        "text": "Mobile Chips: QCT revenue continues Y/Y decline for third straight quarter",
+        "text": "Mobile Chips: Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk ha",
         "articleIds": [
-          "a28"
+          "a6"
         ],
         "subCategory": "mobile-chips"
       },
       {
-        "text": "Wireless Communication: Key TakeawaysJim Cramer told a Mad Money caller on Friday to sell AT&T. He did it two days after Qualcomm said SpaceX picked it to power Starlink Mobile’s nationwide 5G network.",
+        "text": "Wireless Communication: Elon Musk's plans for a fourth American 5G network look both reactionary and radical, with potential consequences for the whole telecom industry.",
         "articleIds": [
-          "a30"
+          "a41"
         ],
         "subCategory": "wireless"
-      },
-      {
-        "text": "IoT & XR: Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those target",
-        "articleIds": [
-          "a35"
-        ],
-        "subCategory": "iot-xr"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Exclusive: Qualcomm begins job cuts; India and California among regions impacted",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exclusive-qualcomm-begins-job-cuts-184112803.html?.tsrc=rss",
+      "description": "Investing.com — Qualcomm has begun rolling out planned job cuts across its global operations, affecting employees in India and California, according to people familiar with the company’s plans.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-10T18:41:12.000Z",
+      "fetchedAt": "2026-11-10T20:37:11.439Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Investing.com — Qualcomm has begun rolling out planned job cuts across its global operations, affecting employees in India and California, according to people familiar with the company’s plans.",
+      "id": "a5"
+    },
+    {
+      "title": "Apple Just Hit $5 Trillion. Its “Biggest Competition” Is a SpaceX Phone, Says Gene Munster",
+      "url": "https://www.tikr.com/blog/apple-just-hit-5-trillion-its-biggest-competition-is-a-spacex-phone-says-gene-munster?ref=yahoofinance&tlnk=yf-261110-3p7pmqj7&.tsrc=rss",
+      "description": "Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk has called “utterly false,” and SpaceX is already building a nationwide 5G network with Qualcomm.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-10T17:39:51.000Z",
+      "fetchedAt": "2026-11-10T20:37:11.439Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk has called “utterly false,” and SpaceX is already building a nationwide 5G network with Qualcomm.",
+      "id": "a6"
+    },
+    {
+      "title": "Qualcomm vs. Western Digital: Which Tech Stock Is a Better Buy for 2027?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/11/10/qualcomm-vs-western-digital-which-tech-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "description": "Qualcomm's chip empire faces a customer concentration question, while Western Digital's storage margins look almost too good to be true.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-10T13:44:02.000Z",
+      "fetchedAt": "2026-11-10T20:37:11.439Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm's chip empire faces a customer concentration question, while Western Digital's storage margins look almost too good to be true.",
+      "id": "a19"
+    },
     {
       "title": "ETFs Are Net Sellers of Qualcomm (QCOM) on Nov. 6",
       "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-qualcomm-qcom-110254420.html?.tsrc=rss",
@@ -45,7 +94,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-10T11:02:54.000Z",
-      "fetchedAt": "2026-11-10T13:01:42.577Z",
+      "fetchedAt": "2026-11-10T20:37:11.439Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -53,7 +102,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "ETFs sold a net $199.6 million of Qualcomm stock on Friday, Nov.",
-      "id": "a5"
+      "id": "a24"
     },
     {
       "title": "At 13x earnings, is Qualcomm the most overlooked AI chip stock?",
@@ -63,7 +112,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-10T10:38:22.000Z",
-      "fetchedAt": "2026-11-10T13:01:42.577Z",
+      "fetchedAt": "2026-11-10T20:37:11.439Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -71,7 +120,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
-      "id": "a7"
+      "id": "a25"
     },
     {
       "title": "As Non-Handset Revenue Grows, Qualcomm Is Positioned for Recovery",
@@ -81,7 +130,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-09T18:48:04.000Z",
-      "fetchedAt": "2026-11-10T13:01:42.577Z",
+      "fetchedAt": "2026-11-10T20:37:11.439Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -89,99 +138,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QCT revenue continues Y/Y decline for third straight quarter",
-      "id": "a28"
-    },
-    {
-      "title": "Jim Cramer: “You Should Not Own AT&T” as SpaceX Pushes Into Wireless",
-      "url": "https://www.tikr.com/blog/jim-cramer-you-should-not-own-att-as-spacex-pushes-into-wireless?ref=yahoofinance&tlnk=yf-261109-9xhrr43g&.tsrc=rss",
-      "description": "Key TakeawaysJim Cramer told a Mad Money caller on Friday to sell AT&T. He did it two days after Qualcomm said SpaceX picked it to power Starlink Mobile’s nationwide 5G network.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-09T18:16:02.000Z",
-      "fetchedAt": "2026-11-10T13:01:42.577Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "wireless",
-      "subLabel": "Wireless Communication",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Key TakeawaysJim Cramer told a Mad Money caller on Friday to sell AT&T. He did it two days after Qualcomm said SpaceX picked it to power Starlink Mobile’s nationwide 5G network.",
-      "id": "a30"
-    },
-    {
-      "title": "Qualcomm Stock Is Down More Than 35% From Its High. Is The Stock a Buy?",
-      "url": "https://www.fool.com/investing/2026/11/09/qualcomm-stock-is-down-more-than-35-from-its-high-is-the-stock-a-buy/?.tsrc=rss",
-      "description": "Qualcomm's smartphone business is shrinking, but the rest of the company is growing quickly.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-09T16:32:02.000Z",
-      "fetchedAt": "2026-11-10T13:01:42.577Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm's smartphone business is shrinking, but the rest of the company is growing quickly.",
-      "id": "a34"
-    },
-    {
-      "title": "Qualcomm (QCOM) Stock Fair Value Edges Lower As Analysts Trim Targets",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-fair-value-162051691.html?.tsrc=rss",
-      "description": "Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those targets while still highlighting long term potential tied to data center, automotive and IoT growth, as well as Qualcomm’s role in smartphones and its renewed licensing agreement with Apple. As you read on, you will see how these shifting targets and opinions can help you track the evolving Qualcomm...",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-09T16:20:51.000Z",
-      "fetchedAt": "2026-11-10T13:01:42.577Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "iot-xr",
-      "subLabel": "IoT & XR",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those targets while still highlighting long term potential tied to data center, automotive and IoT growth, as well as Qualcomm’s role in smartphones and its renewed licensing agreement with Apple. As you read on, you will see how these shifting targets and opinions can help you track the evolving Qualcomm...",
-      "id": "a35"
-    },
-    {
-      "title": "Is Trending Stock QUALCOMM Incorporated (QCOM) a Buy Now?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trending-stock-qualcomm-incorporated-qcom-130005779.html?.tsrc=rss",
-      "description": "Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-09T13:00:05.000Z",
-      "fetchedAt": "2026-11-10T13:01:42.577Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-      "id": "a40"
-    },
-    {
-      "title": "Alphabet Keeps Its Massive SpaceX Bet. Now It's Making a $548 Million Qualcomm Move",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-keeps-massive-spacex-bet-111823968.html?.tsrc=rss",
-      "description": "Alphabet Sells Several Stock Holdings but Holds Firm on SpaceX",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-09T11:18:23.000Z",
-      "fetchedAt": "2026-11-10T13:01:42.577Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Alphabet Sells Several Stock Holdings but Holds Firm on SpaceX",
-      "id": "a41"
+      "id": "a37"
     },
     {
       "title": "SpaceX and Qualcomm threaten to topple US market's cozy 5G order",
@@ -191,7 +148,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-09T08:30:00.000Z",
-      "fetchedAt": "2026-11-10T13:01:46.288Z",
+      "fetchedAt": "2026-11-10T20:37:20.557Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -199,7 +156,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Elon Musk's plans for a fourth American 5G network look both reactionary and radical, with potential consequences for the whole telecom industry.",
-      "id": "a44"
+      "id": "a41"
     }
   ]
 }
