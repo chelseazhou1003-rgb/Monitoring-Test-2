@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-11-11T00:55:09.398Z",
+    "generatedAt": "2026-11-11T08:25:44.146Z",
     "date": "2026-11-11",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,26 +13,26 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-11-11T00:55:09.398Z",
+    "generatedAt": "2026-11-11T08:25:44.146Z",
     "date": "2026-11-11",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (2 articles), Wireless Communication (1 article). A total of 8 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (1 article), Wireless Communication (1 article). A total of 7 articles were aggregated from monitored sources.",
       "keyTakeaways": [
-        {
-          "text": "Mobile Chips: Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains WSJ",
-          "articleIds": [
-            "a1"
-          ],
-          "subCategory": "mobile-chips"
-        },
         {
           "text": "Semiconductors: The growth in Qualcomm's non-handset business could supercharge the stock's performance following poor returns in 2026.",
           "articleIds": [
-            "a7"
+            "a15"
           ],
           "subCategory": "semiconductors"
+        },
+        {
+          "text": "Mobile Chips: Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk ha",
+          "articleIds": [
+            "a19"
+          ],
+          "subCategory": "mobile-chips"
         },
         {
           "text": "Wireless Communication: Elon Musk's plans for a fourth American 5G network look both reactionary and radical, with potential consequences for the whole telecom industry.",
@@ -45,25 +45,6 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjRWZDhfZ1BEQ2tFQUVMZ0MzQTdvY1czUWxlcUVfU29QcldDSVU5eVRVeENnQ2pMQ1ppUmZvNThDVWtwUUFZY0djcG5CLVdmbDJ1WFpWRUMtVzhJcWZoRTVqd1JnTmVsN2I1T0ZIUHpxbEJhbjF2V1JVV1lBd1ZSZmZTS01BcFJsTkZnMGh3UEpfX1E4VlJFS3JnTUlfLXJsUmxqZGl0a0R0NDJUZC1YSUcxVkE?oc=5",
-        "description": "Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains WSJ",
-        "source": "Wall Street Journal",
-        "sourceId": "wsj",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-10T23:58:33.000Z",
-        "fetchedAt": "2026-11-11T00:55:08.222Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "WSJ",
-        "section": "core-businesses",
-        "subCategory": "mobile-chips",
-        "subLabel": "Mobile Chips",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains WSJ",
-        "id": "a1"
-      },
-      {
         "title": "Prediction: This Underrated Semiconductor Stock Will Jump 187% in 3 Years",
         "url": "https://www.fool.com/investing/2026/11/10/prediction-this-underrated-semiconductor-stock-will-jump-187-in-3-years/?.tsrc=rss",
         "description": "The growth in Qualcomm's non-handset business could supercharge the stock's performance following poor returns in 2026.",
@@ -71,7 +52,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T21:14:02.000Z",
-        "fetchedAt": "2026-11-11T00:55:02.685Z",
+        "fetchedAt": "2026-11-11T08:25:37.108Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -79,7 +60,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The growth in Qualcomm's non-handset business could supercharge the stock's performance following poor returns in 2026.",
-        "id": "a7"
+        "id": "a15"
       },
       {
         "title": "Exclusive: Qualcomm begins job cuts; India and California among regions impacted",
@@ -89,7 +70,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T18:41:12.000Z",
-        "fetchedAt": "2026-11-11T00:55:02.685Z",
+        "fetchedAt": "2026-11-11T08:25:37.108Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -97,7 +78,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Investing.com — Qualcomm has begun rolling out planned job cuts across its global operations, affecting employees in India and California, according to people familiar with the company’s plans.",
-        "id": "a10"
+        "id": "a18"
       },
       {
         "title": "Apple Just Hit $5 Trillion. Its “Biggest Competition” Is a SpaceX Phone, Says Gene Munster",
@@ -107,7 +88,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T17:39:51.000Z",
-        "fetchedAt": "2026-11-11T00:55:02.685Z",
+        "fetchedAt": "2026-11-11T08:25:37.109Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -117,7 +98,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk has called “utterly false,” and SpaceX is already building a nationwide 5G network with Qualcomm.",
-        "id": "a11"
+        "id": "a19"
       },
       {
         "title": "Qualcomm vs. Western Digital: Which Tech Stock Is a Better Buy for 2027?",
@@ -127,7 +108,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T13:44:02.000Z",
-        "fetchedAt": "2026-11-11T00:55:02.685Z",
+        "fetchedAt": "2026-11-11T08:25:37.108Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -135,7 +116,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm's chip empire faces a customer concentration question, while Western Digital's storage margins look almost too good to be true.",
-        "id": "a24"
+        "id": "a32"
       },
       {
         "title": "ETFs Are Net Sellers of Qualcomm (QCOM) on Nov. 6",
@@ -145,7 +126,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T11:02:54.000Z",
-        "fetchedAt": "2026-11-11T00:55:02.685Z",
+        "fetchedAt": "2026-11-11T08:25:37.109Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -153,7 +134,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "ETFs sold a net $199.6 million of Qualcomm stock on Friday, Nov.",
-        "id": "a30"
+        "id": "a37"
       },
       {
         "title": "At 13x earnings, is Qualcomm the most overlooked AI chip stock?",
@@ -163,7 +144,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T10:38:22.000Z",
-        "fetchedAt": "2026-11-11T00:55:02.685Z",
+        "fetchedAt": "2026-11-11T08:25:37.109Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -171,7 +152,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
-        "id": "a31"
+        "id": "a38"
       },
       {
         "title": "SpaceX and Qualcomm threaten to topple US market's cozy 5G order",
@@ -181,7 +162,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-09T08:30:00.000Z",
-        "fetchedAt": "2026-11-11T00:55:07.573Z",
+        "fetchedAt": "2026-11-11T08:25:42.040Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -194,7 +175,7 @@ export const NEWS_DATA = {
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-11-11T00:55:09.398Z",
+    "generatedAt": "2026-11-11T08:25:44.146Z",
     "date": "2026-11-11",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -205,7 +186,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-11-11T00:55:09.398Z",
+    "generatedAt": "2026-11-11T08:25:44.146Z",
     "date": "2026-11-11",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -230,7 +211,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-09T13:18:05.000Z",
-        "fetchedAt": "2026-11-11T00:55:05.184Z",
+        "fetchedAt": "2026-11-11T08:25:38.996Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -243,15 +224,15 @@ export const NEWS_DATA = {
     ]
   },
   "latest": {
-    "generatedAt": "2026-11-11T00:55:09.399Z",
+    "generatedAt": "2026-11-11T08:25:44.148Z",
     "date": "2026-11-11",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 8,
-        "topHeadline": "Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains - WSJ",
-        "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (2 articles), Wireless Communication (1 article). A total of 8 articles were aggregated from monitored sources."
+        "articleCount": 7,
+        "topHeadline": "Prediction: This Underrated Semiconductor Stock Will Jump 187% in 3 Years",
+        "topHeadlineId": "a15",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (1 article), Wireless Communication (1 article). A total of 7 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
@@ -269,10 +250,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 34,
-        "topHeadline": "Scoop: Commerce Department received national security warning on Nvidia CEO affair - Axios",
-        "topHeadlineId": "a2",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (25 articles), market-performance (6 articles), Customers & Partners (2 articles). A total of 34 articles were aggregated from monitored sources."
+        "articleCount": 36,
+        "topHeadline": "Chinese Flash Memory Giant YMTC Said to Target IPO in Early 2027",
+        "topHeadlineId": "a1",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (28 articles), market-performance (5 articles), Customers & Partners (2 articles). A total of 36 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -285,45 +266,45 @@ export const NEWS_DATA = {
         "title": "Key Stakeholders",
         "articleCount": 1,
         "topHeadline": "Apple Just Hit $5 Trillion. Its “Biggest Competition” Is a SpaceX Phone, Says Gene Munster",
-        "topHeadlineId": "a11",
+        "topHeadlineId": "a19",
         "briefingSummary": "One article today covering Mobile Chips. Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s bigge"
       }
     },
-    "totalArticles": 44
+    "totalArticles": 45
   },
   "macro-environment": {
-    "generatedAt": "2026-11-11T00:55:09.398Z",
+    "generatedAt": "2026-11-11T08:25:44.146Z",
     "date": "2026-11-11",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (25 articles), market-performance (6 articles), Customers & Partners (2 articles). A total of 34 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (28 articles), market-performance (5 articles), Customers & Partners (2 articles). A total of 36 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Scoop: Commerce Department received national security warning on Nvidia CEO affair Axios",
+          "text": "Geopolitics & Export Controls: Yangtze Memory Technologies Co., China’s biggest NAND flash memory maker, is targeting an initial public offering on the Shanghai Stock Exchange as soon as the first quarter of 2027, people familiar w",
           "articleIds": [
-            "a2"
+            "a1"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
           "text": "market-performance: Nvidia Stock News Has Investors Looking At US Chip Shares Exposed to China Simply Wall St",
           "articleIds": [
-            "a4"
+            "a13"
           ],
           "subCategory": "market-performance"
         },
         {
           "text": "Customers & Partners: The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software, today announced that Qualcomm Technologies has upgraded its membership to Gold to advance",
           "articleIds": [
-            "a15"
+            "a22"
           ],
           "subCategory": "customers-partners"
         },
         {
           "text": "Supply Chain: As electricity access becomes a financial barrier to AI expansion, the U.S. and China face different risks in building the infrastructure of the digital economy. The post The AI Power Bill: Who Gets G",
           "articleIds": [
-            "a20"
+            "a27"
           ],
           "subCategory": "supply-chain"
         }
@@ -331,14 +312,53 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
+        "title": "Chinese Flash Memory Giant YMTC Said to Target IPO in Early 2027",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/chinese-flash-memory-giant-ymtc-said-to-target-ipo-in-early-2027",
+        "description": "Yangtze Memory Technologies Co., China’s biggest NAND flash memory maker, is targeting an initial public offering on the Shanghai Stock Exchange as soon as the first quarter of 2027, people familiar with the matter said.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-11T07:27:25.000Z",
+        "fetchedAt": "2026-11-11T08:25:37.293Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Yangtze Memory Technologies Co., China’s biggest NAND flash memory maker, is targeting an initial public offering on the Shanghai Stock Exchange as soon as the first quarter of 2027, people familiar with the matter said.",
+        "id": "a1"
+      },
+      {
+        "title": "Commerce Department Delays Sanctions on Spy-Linked Firm Amid NVIDIA Influence - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMG5LOFZIVXRKaVJJTGZjdWpDQ1IzajZfaWJkVFQ3SlVjUkQ4WXYzRld3Z2JlMmhKLTVZaXR0X3BvNXVmN091WWlQSFFPT3lqTV9Td3pXVGp2TWJ4Qk5Ra09OVGVGSzVQRkFHU3VoUWFjdDBEVGtDYzdXYkdOQ2pmZkZaVDZWY2hi?oc=5",
+        "description": "Commerce Department Delays Sanctions on Spy-Linked Firm Amid NVIDIA Influence 조선일보",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-11T05:50:34.000Z",
+        "fetchedAt": "2026-11-11T08:25:44.093Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "조선일보",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Commerce Department Delays Sanctions on Spy-Linked Firm Amid NVIDIA Influence 조선일보",
+        "id": "a2"
+      },
+      {
         "title": "Scoop: Commerce Department received national security warning on Nvidia CEO affair - Axios",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NTWlEVTREeTZ0V3J5d1VBblV3Q1JiV0tqTWJUSGVJQ2MxSElWWHpVVG9lTkxKR3ctY2RDVHJUaTdWak1oS2lGSGhPbUJ6MU9CZ2xJdGY1Ui0zQy1uaFliV3c1MXprY3RDejF2eXp2WWc2WWJRSTZiOEljZw?oc=5",
         "description": "Scoop: Commerce Department received national security warning on Nvidia CEO affair Axios",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-10T23:48:33.000Z",
-        "fetchedAt": "2026-11-11T00:55:09.357Z",
+        "publishedAt": "2026-11-11T05:47:11.000Z",
+        "fetchedAt": "2026-11-11T08:25:44.092Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Axios",
         "geopoliticalBypass": true,
@@ -348,27 +368,184 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Scoop: Commerce Department received national security warning on Nvidia CEO affair Axios",
-        "id": "a2"
+        "id": "a3"
       },
       {
-        "title": "US lawmakers push China chip rules after Nvidia CEO allegations - The Mighty 790 KFGO",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ2ZFT0owTkdnN1dFV09vNEI1Z0hZbWFOZlh0OGFZRll3eWVNejdqVE9KYTlJVlNDcmhZSWI1RGY3X0ZEWTFQZ3JmM2xITDFxdlhTb1gwNGk0MzMwVWx3NGVwSHVkTjB2eXZDT18zT1dzMEVWNEVMVHJxQ2I0enZlTmdtU3lVSlVuVUlBYTZwb2pzRmExRTN3aDlKT1B2MEpE?oc=5",
-        "description": "US lawmakers push China chip rules after Nvidia CEO allegations The Mighty 790 KFGO",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
+        "title": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
+        "url": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+        "description": "During Xi's September visit, Washington and Beijing agreed to launch an AI dialogue with a communications channel to help defuse serious incidents.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-10T23:12:28.000Z",
-        "fetchedAt": "2026-11-11T00:55:09.357Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "The Mighty 790 KFGO",
+        "publishedAt": "2026-11-11T05:15:50.000Z",
+        "fetchedAt": "2026-11-11T08:25:36.997Z",
+        "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "US lawmakers push China chip rules after Nvidia CEO allegations The Mighty 790 KFGO",
-        "id": "a3"
+        "summary": "During Xi's September visit, Washington and Beijing agreed to launch an AI dialogue with a communications channel to help defuse serious incidents.",
+        "id": "a4"
+      },
+      {
+        "title": "How Singapore became a linchpin of China’s AI chip trade",
+        "url": "https://www.ft.com/content/52b5f9a8-346f-4dae-8a16-14d5d9eb1244?syn-25a6b1a6=1",
+        "description": "A suspected Chinese spy and Singaporean chip deal reveal the Asian networks testing Washington’s grip on AI technology",
+        "source": "Financial Times",
+        "sourceId": "ft",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-11T05:00:22.000Z",
+        "fetchedAt": "2026-11-11T08:25:37.425Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "A suspected Chinese spy and Singaporean chip deal reveal the Asian networks testing Washington’s grip on AI technology",
+        "id": "a5"
+      },
+      {
+        "title": "US lawmakers push tighter China chip curbs in defence bill after Nvidia spy scandal raises security concerns - Organiser",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMTQ5YWw2MHdYaTZ1RkFBRlBSTjZVQ09ZWmV6LUtQWG11Y01WaU9xREo4dHBCMi14MUFmZmFtaTZyLXduWnBJaUZaUUpHSjFYWGxESmlCc3JBdl9HYnlnS05Jek9jVGYxN3JwNlg4QXNfZ3FCWVhHaGY3cDQta3d4bjluY25oT2FYSi1yUUJqZVFRbkV0TG1YcmpZQ3hvYTAtVHM2VmRRM19ocERrTTVfdGdFUy1FR1E1MkpHQlNETHRkRzE3Z2FVYW45VE9fZHlqRHh1NWJGZnc2a2MyeXZJb1ptczRHY0ZHNUN4ME9HVk1rTHpWVWfSAfsBQVVfeXFMT25XZ1VsZ0cySE5aa2xqcC00UTJUTE95WEpKb19aOGRFTWp2ZGtudVdVd2pOOEp5LWRVVl96NjVUWlVFaTZHU19jTXNiaXZyM2VsQnZkR2llb2JxRmFpRkxzcHBrdXl2ck93c3N0d2hiZUU1ZHpMaUx2WWlRTGV6dEVoSkhtSWIxbVVhX2F6UkJja2QzQXFtZUNvWWVLcWFxQ1M0M3hFczNacVF4WTdIc0pzclV1YXItM2JLbi0teGJzSDVqLURXbVRNcFNpS1NtcVllczhiQ3ZjZ1UtVjJaQVhfNXlaOGVSeElmNXpJNzBNOVZzVGNTNFlOUVU?oc=5",
+        "description": "US lawmakers push tighter China chip curbs in defence bill after Nvidia spy scandal raises security concerns Organiser",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-11T04:31:59.000Z",
+        "fetchedAt": "2026-11-11T08:25:44.093Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Organiser",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US lawmakers push tighter China chip curbs in defence bill after Nvidia spy scandal raises security concerns Organiser",
+        "id": "a6"
+      },
+      {
+        "title": "Could Nvidia’s China Chip Ties and CEO Controversy Trigger a Major Governance Crisis? - Modern Diplomacy",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSHVqLUdOeFZVS3pIenVjT3JZNjgtbU9lY2pVRlF5c3ZMVmhUNUNneEVVcE91X3J1Y2dtRkM5d3BMbGZDVXdSTzNxbm1qRl9VUWVZWDIydkdHRVJ2c2tTcEZ5UDdLWlNxdW9Oc2VETkdJYTRHelRZcVZDVVpFLXIwa2N4UDZEaU44Nm14VGNnSnRIbDIyZ0d6TkFYdk5FdkpuR1Z1ald3NEFIZ0sxWGFzZHZwMFk1dU9yRFBkQU40VQ?oc=5",
+        "description": "Could Nvidia’s China Chip Ties and CEO Controversy Trigger a Major Governance Crisis? Modern Diplomacy",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-11T04:25:20.000Z",
+        "fetchedAt": "2026-11-11T08:25:44.092Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Modern Diplomacy",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Could Nvidia’s China Chip Ties and CEO Controversy Trigger a Major Governance Crisis?",
+        "id": "a7"
+      },
+      {
+        "title": "Citi's Poon Werkun on AI Trade, Fed, China",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-11/citi-s-poon-werkun-on-ai-trade-fed-china-video",
+        "description": "Erica Poon Werkun, Asia Pacific Head of Research at Citi, discusses the unwinding of the AI trade, the outlook for Federal Reserve policy, and China’s markets and economy. She speaks with Stephen Engle on the sidelines of the Citi China Conference in Shanghai. (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-11T03:51:00.000Z",
+        "fetchedAt": "2026-11-11T08:25:37.293Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Erica Poon Werkun, Asia Pacific Head of Research at Citi, discusses the unwinding of the AI trade, the outlook for Federal Reserve policy, and China’s markets and economy. She speaks with Stephen Engle on the sidelines of the Citi China Conference in Shanghai.",
+        "id": "a8"
+      },
+      {
+        "title": "Nvidia (NASDAQ: NVDA) Faces $70.3 Billion Share-Sale Risk And National Security Probe After CEO's Affair With Alleged Chinese Spy - Foreign Policy Journal",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZmFnbGdxcmJSNmZDMndBSWxINUJVZktVQWJrVEUzamJZTkVmQ1ZoemZDS2p3d0d6OEZxT0JwS0RyOGw5RGZPMTNnckdFWGh3ZjlPZ0xsYWE4d0JjakduVEN3NGtYNFVYZTdsa3JnZWQ4V0pQV0hUR2VoMWd2RmU1LTZuOUE1bWhZOHBDWUFXZGFHMlpmWmVNb01kUGlZTVFyZ0ZRVGtHU0E1aUN5dEdGYk53VFBYSkQ1V0RLNXBVRER6YVJBRFdaUVJCOUIwcXExekFwRzM2cEp6UWFSd3pEYVowa25RcmNTcERDdDBjUWd5TDhocTlQdmQ0WkdmTE1MNWE4?oc=5",
+        "description": "Nvidia (NASDAQ: NVDA) Faces $70.3 Billion Share-Sale Risk And National Security Probe After CEO's Affair With Alleged Chinese Spy Foreign Policy Journal",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-11T02:03:00.000Z",
+        "fetchedAt": "2026-11-11T08:25:44.093Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Foreign Policy Journal",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Nvidia (NASDAQ: NVDA) Faces $70.3 Billion Share-Sale Risk And National Security Probe After CEO's Affair With Alleged Chinese Spy Foreign Policy Journal",
+        "id": "a9"
+      },
+      {
+        "title": "US lawmakers push for tougher China export controls in defense bill amid Nvidia scrutiny - The Korea Times",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORDYwV0s4aDdiUW9zM2YzOHVZZ0t6X1VvaWgzbE9qUm1BZWlCYXhDSjZyN2w5S0lCNlhKbGtxZTVvWE5xWXNKUHFmVWRBcXJjczZZMF90d3NhMmJUX2NoT0lGZUVQWnlDMnY0Nm1TdXIxY0psX1VaODJ5X3lWOGgzOUpISWZHdzk2dzA2SEpEUlZESk5pc3djQXJkNmJhdkVNbGhDUjZ5NDV2LTlPS3N3Z09Uc2g5YVFpNF9DZWRYTzFLc0RvRjY0eE5XWETSAdIBQVVfeXFMT1hDMVdVa0k3YnFLVlpDRUl2U2xpSlhQLXFDREJDWEh3UXozVHVjb2wxUGVCUC1CQmd3Y2NJV3cyRl85LWxIS3ItVU80TXNrUExSMU5KWkFIYVQ1dFpMODM3ZFI1aWhxTFpkcV90N01sYTVPS0lIdVYwMTNvVUxZZWNfcHBkZW95RklqVEVSWG1mXzZJMEF3QUkxMGUyX3ZXX1VuNVRZZzA0RllPY3Z4aTV6dXY3bGlVbjlCazc5NExGNEdEc0NjbjdIWlFIVE1vRlln?oc=5",
+        "description": "US lawmakers push for tougher China export controls in defense bill amid Nvidia scrutiny The Korea Times",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-11T01:31:03.000Z",
+        "fetchedAt": "2026-11-11T08:25:44.092Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "The Korea Times",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US lawmakers push for tougher China export controls in defense bill amid Nvidia scrutiny The Korea Times",
+        "id": "a10"
+      },
+      {
+        "title": "US lawmakers push China chip rules after Nvidia CEO allegations - KELO-AM",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb0puMExITXFjZlpTME5fTzlnRUQ2UTFiRE9Vb2xvRTZFa3BXdGJuclNiNW5jbjZVd3MtZXdkal9rYjJ0MXljS2daeDRkdVltZFA5UUZoeUxpRWR5dHBOY2VzV2tqSk9mQ1ltY01kZzVLMXFnUDFINFhjWTBYcHFJMl9RRnF3STNKS2RjNE1PUFJNVlNUOG5taVM0eTZRZGtK?oc=5",
+        "description": "US lawmakers push China chip rules after Nvidia CEO allegations KELO-AM",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-11T00:37:23.000Z",
+        "fetchedAt": "2026-11-11T08:25:44.093Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "KELO-AM",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US lawmakers push China chip rules after Nvidia CEO allegations KELO-AM",
+        "id": "a11"
+      },
+      {
+        "title": "Megaspeed, Suspected in Nvidia Chip Diversion to China, Still Absent from U.S. Sanctions List as Commerce Department Review Drags On - BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ORjQ5UXB5LUQ3SkJiR0pwbTlUVVJhcUZuaHRGQXBaTktTNWFLU1A5ZlNVMUF6NVFHN05ZRW1RNHlUOUg2UWJIeTZCREN3ajFub2kyeWNsZ3hKaEtaNWZsWTFOdk14VzFKZmNTNUtaNW1ycDlkeWc?oc=5",
+        "description": "Megaspeed, Suspected in Nvidia Chip Diversion to China, Still Absent from U.S. Sanctions List as Commerce Department Review Drags On BigGo Finance",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-11T00:26:00.000Z",
+        "fetchedAt": "2026-11-11T08:25:44.093Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "BigGo Finance",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Megaspeed, Suspected in Nvidia Chip Diversion to China, Still Absent from U.S. Sanctions List as Commerce Department Review Drags On BigGo Finance",
+        "id": "a12"
       },
       {
         "title": "Nvidia Stock News Has Investors Looking At US Chip Shares Exposed to China - Simply Wall St",
@@ -378,7 +555,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T22:28:34.000Z",
-        "fetchedAt": "2026-11-11T00:55:09.357Z",
+        "fetchedAt": "2026-11-11T08:25:44.093Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Simply Wall St",
         "geopoliticalBypass": true,
@@ -388,7 +565,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia Stock News Has Investors Looking At US Chip Shares Exposed to China Simply Wall St",
-        "id": "a4"
+        "id": "a13"
       },
       {
         "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
@@ -398,7 +575,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T21:45:46.000Z",
-        "fetchedAt": "2026-11-11T00:55:02.758Z",
+        "fetchedAt": "2026-11-11T08:25:36.997Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -407,26 +584,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Business executives warned at a Washington summit of rising costs and shifting supply chains as polls showed growing opposition to Trump's tariffs.",
-        "id": "a5"
-      },
-      {
-        "title": "La crisis de Nvidia expone su dependencia de Jensen Huang",
-        "url": "https://www.bloomberg.com/news/features/2026-11-10/la-crisis-de-nvidia-expone-su-dependencia-de-jensen-huang",
-        "description": "La junta está investigando si su CEO fue objeto de una espía china y evalúa el riesgo de un futuro sin su singular líder.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-10T21:27:25.000Z",
-        "fetchedAt": "2026-11-11T00:55:02.764Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "La junta está investigando si su CEO fue objeto de una espía china y evalúa el riesgo de un futuro sin su singular líder.",
-        "id": "a6"
+        "id": "a14"
       },
       {
         "title": "US commerce department delays Megaspeed’s inclusion on trade blacklist",
@@ -436,7 +594,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T20:05:21.000Z",
-        "fetchedAt": "2026-11-11T00:55:03.241Z",
+        "fetchedAt": "2026-11-11T08:25:37.425Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -445,7 +603,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Company connected to alleged Chinese spy who had affair with Nvidia chief Jensen Huang was left off ‘entity list’",
-        "id": "a8"
+        "id": "a16"
       },
       {
         "title": "Op-ed: In Nvidia CEO Jensen Huang's alleged China spy scandal, there's plenty of blame to go around",
@@ -455,7 +613,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T19:40:41.000Z",
-        "fetchedAt": "2026-11-11T00:55:02.758Z",
+        "fetchedAt": "2026-11-11T08:25:36.997Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -464,27 +622,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "In the AI era, our economic competitiveness, military capabilities, and intelligence edge can be taken down by one man.",
-        "id": "a9"
-      },
-      {
-        "title": "‘Adding fuel to fire’: how Nvidia CEO’s troubles could tighten China chip curbs - South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTzV1Tng4S1JURUhDd1FZRXE1LTRGY1lsTFRqSUl3UHRmRURoXzIwVnRHUVBiU3A5VVZFUC1ibS02UmFnbXdWOHVzdWE2aE5pOUtBNWJNaWMtcTkwZ1ByUEt4Rk1mQXRzejQxS3Jadzh1c0hQdEg4SVlaejNwQ1pTZWN4eG1sM1ZqX1c4N3c3b0laNThfQXJkVk8xMTFzVVkydUtTcWlsSG1pWDVKRXFtb2lfWWg1cEJ6R1dEbWtQUzR0VV84SVMxREEtM3lHUdIBzgFBVV95cUxQeEYwVmNGY00tcnFCSnpIMFVOVXJINnp5SnFORWpXcXFJblBWMzdBOGVic2RpSjExT3JOVlZBck42TWc1TkNnRmNuN2xIS2ZHWmxHUWVIaURzMzVzVHRXc05KbGI4UjQzNEtmZ1pTZ1ZFNkRLTGNaWkpzZXlTR1lzeTlwQlRjLThhM04yQURLalkzdDI3a2RzWkY1dTl1bkhLVFVkdDc2dmdLbzUxS0MzZl9vRkFKYnZWWXF3NWlGMVhyZUc0czlwWDl0b2dKQQ?oc=5",
-        "description": "‘Adding fuel to fire’: how Nvidia CEO’s troubles could tighten China chip curbs South China Morning Post",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-10T17:32:24.000Z",
-        "fetchedAt": "2026-11-11T00:55:09.357Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "South China Morning Post",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "‘Adding fuel to fire’: how Nvidia CEO’s troubles could tighten China chip curbs South China Morning Post",
-        "id": "a12"
+        "id": "a17"
       },
       {
         "title": "NVIDIA CEO's affair linked to $7.5B chip exports to China, sparking export-control probe and stock drop. - Pluang",
@@ -494,7 +632,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T17:27:59.000Z",
-        "fetchedAt": "2026-11-11T00:55:09.357Z",
+        "fetchedAt": "2026-11-11T08:25:44.093Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Pluang",
         "geopoliticalBypass": true,
@@ -504,7 +642,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "NVIDIA CEO's affair linked to $7.5B chip exports to China, sparking export-control probe and stock drop.",
-        "id": "a13"
+        "id": "a20"
       },
       {
         "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
@@ -514,7 +652,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-10T17:04:19.000Z",
-        "fetchedAt": "2026-11-11T00:55:02.605Z",
+        "fetchedAt": "2026-11-11T08:25:37.004Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -523,7 +661,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-        "id": "a14"
+        "id": "a21"
       },
       {
         "title": "CNCF Welcomes Qualcomm Upgrade to Gold Membership to Advance AI Infrastructure Across the Edge-to-Cloud Continuum",
@@ -533,7 +671,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T16:00:00.000Z",
-        "fetchedAt": "2026-11-11T00:55:02.685Z",
+        "fetchedAt": "2026-11-11T08:25:37.108Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "customers-partners",
@@ -541,7 +679,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software, today announced that Qualcomm Technologies has upgraded its membership to Gold to advance open source infrastructure powering AI from the edge to the cloud. Through strengthened collaboration with CNCF, Qualcomm Technologies aims to help extend cloud native, open source infrastructure patterns across compute environments.",
-        "id": "a15"
+        "id": "a22"
       },
       {
         "title": "Commentary: Nvidia fails to grasp national security stakes in Huang affair - The Australian",
@@ -551,7 +689,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T15:54:29.000Z",
-        "fetchedAt": "2026-11-11T00:55:09.357Z",
+        "fetchedAt": "2026-11-11T08:25:44.093Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Australian",
         "geopoliticalBypass": true,
@@ -561,7 +699,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Commentary: Nvidia fails to grasp national security stakes in Huang affair The Australian",
-        "id": "a16"
+        "id": "a23"
       },
       {
         "title": "I Bonds Pay 5.51%. Why Retirees Might Still Prefer Dividend Stocks",
@@ -571,7 +709,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T15:47:02.000Z",
-        "fetchedAt": "2026-11-11T00:55:02.685Z",
+        "fetchedAt": "2026-11-11T08:25:37.108Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -579,7 +717,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A Treasury-backed bond out-yields Coca-Cola and Qualcomm by a wide margin, yet retirees keep buying dividend stocks. Between lockups, state taxes, and a missing paycheck, the real math may surprise you.",
-        "id": "a17"
+        "id": "a24"
       },
       {
         "title": "Could QUALCOMM (QCOM) Be 8% Undervalued Following Its Fresh Debt Raise?",
@@ -589,7 +727,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T15:08:23.000Z",
-        "fetchedAt": "2026-11-11T00:55:02.685Z",
+        "fetchedAt": "2026-11-11T08:25:37.108Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -597,7 +735,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "QUALCOMM (QCOM) just raised fresh debt capital through a series of fixed income offerings, issuing callable senior unsecured notes across 2028, 2029, 2031, 2033, and 2036 maturities to fund its longer term plans. The fresh bond sale lands after a busy stretch for QUALCOMM, where the stock has swung on mixed earnings reactions, cautious revenue guidance and headlines around AI data center deals and SpaceX partnerships, even as ETF flows have flipped between buying and selling.",
-        "id": "a18"
+        "id": "a25"
       },
       {
         "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
@@ -607,7 +745,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T15:04:23.000Z",
-        "fetchedAt": "2026-11-11T00:55:02.758Z",
+        "fetchedAt": "2026-11-11T08:25:36.997Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -616,7 +754,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The allegations against Jensen Huang have brought new attention to the Nvidia CEO's potential influence over U.S. policy on chip sales to China.",
-        "id": "a19"
+        "id": "a26"
       },
       {
         "title": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?",
@@ -626,7 +764,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-11-10T15:00:00.000Z",
-        "fetchedAt": "2026-11-11T00:55:03.461Z",
+        "fetchedAt": "2026-11-11T08:25:37.870Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -635,7 +773,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "As electricity access becomes a financial barrier to AI expansion, the U.S. and China face different risks in building the infrastructure of the digital economy. The post The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk? appeared first on EE Times.",
-        "id": "a20"
+        "id": "a27"
+      },
+      {
+        "title": "‘Adding fuel to fire’: how Nvidia CEO’s troubles could tighten China chip curbs - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTzV1Tng4S1JURUhDd1FZRXE1LTRGY1lsTFRqSUl3UHRmRURoXzIwVnRHUVBiU3A5VVZFUC1ibS02UmFnbXdWOHVzdWE2aE5pOUtBNWJNaWMtcTkwZ1ByUEt4Rk1mQXRzejQxS3Jadzh1c0hQdEg4SVlaejNwQ1pTZWN4eG1sM1ZqX1c4N3c3b0laNThfQXJkVk8xMTFzVVkydUtTcWlsSG1pWDVKRXFtb2lfWWg1cEJ6R1dEbWtQUzR0VV84SVMxREEtM3lHUdIBzgFBVV95cUxQeEYwVmNGY00tcnFCSnpIMFVOVXJINnp5SnFORWpXcXFJblBWMzdBOGVic2RpSjExT3JOVlZBck42TWc1TkNnRmNuN2xIS2ZHWmxHUWVIaURzMzVzVHRXc05KbGI4UjQzNEtmZ1pTZ1ZFNkRLTGNaWkpzZXlTR1lzeTlwQlRjLThhM04yQURLalkzdDI3a2RzWkY1dTl1bkhLVFVkdDc2dmdLbzUxS0MzZl9vRkFKYnZWWXF3NWlGMVhyZUc0czlwWDl0b2dKQQ?oc=5",
+        "description": "‘Adding fuel to fire’: how Nvidia CEO’s troubles could tighten China chip curbs South China Morning Post",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-10T14:30:22.000Z",
+        "fetchedAt": "2026-11-11T08:25:44.093Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "South China Morning Post",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "‘Adding fuel to fire’: how Nvidia CEO’s troubles could tighten China chip curbs South China Morning Post",
+        "id": "a28"
       },
       {
         "title": "Freedom Broker cuts Qualcomm rating as margin squeeze offsets growth upside",
@@ -645,7 +803,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T14:19:38.000Z",
-        "fetchedAt": "2026-11-11T00:55:02.685Z",
+        "fetchedAt": "2026-11-11T08:25:37.108Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -653,7 +811,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Investing.com -- Freedom Broker downgraded Qualcomm (NASDAQ: QCOM) from Buy to Hold and cut its price target to $185 from $200 in a note on Tuesday, saying the chipmaker’s shift toward new growth businesses will weigh on margins longer than expected.",
-        "id": "a21"
+        "id": "a29"
       },
       {
         "title": "Courts Should Employ a Simpler Fair Use Analysis for Noncompeting Criticism",
@@ -663,7 +821,7 @@ export const NEWS_DATA = {
         "sourceId": "ipwatchdog",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-10T14:15:42.000Z",
-        "fetchedAt": "2026-11-11T00:55:07.068Z",
+        "fetchedAt": "2026-11-11T08:25:41.428Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -672,7 +830,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Copyright and trademark rights act in tension with the First Amendment. Indeed, “unlike other property rights, [these] are a form of content-based, government-imposed speech restriction.” (Mark Lemley and Eugene Volokh, Freedom of Speech and Injunctions in Intellectual Property Cases, 48 Duke L.J. As such, courts have determined that criticism, generally, puts the critic beyond the reach of a copyright or trademark claim. The post Courts Should Employ a Simpler Fair Use Analysis for Noncompeting Criticism appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-        "id": "a22"
+        "id": "a30"
       },
       {
         "title": "Nvidia spy scandal revives push to write China chip export limits into the defense bill - MLQ.ai",
@@ -682,7 +840,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T13:53:00.000Z",
-        "fetchedAt": "2026-11-11T00:55:09.357Z",
+        "fetchedAt": "2026-11-11T08:25:44.093Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "MLQ.ai",
         "geopoliticalBypass": true,
@@ -692,7 +850,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia spy scandal revives push to write China chip export limits into the defense bill MLQ.ai",
-        "id": "a23"
+        "id": "a31"
       },
       {
         "title": "Qualcomm Price Prediction: Automotive Boom Could Spark a Surprise Rebound",
@@ -702,7 +860,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T13:33:05.000Z",
-        "fetchedAt": "2026-11-11T00:55:02.685Z",
+        "fetchedAt": "2026-11-11T08:25:37.109Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -710,7 +868,26 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm's handset business is shrinking fast, yet a quieter segment just posted a record quarter that few investors are watching. Can it outrun the earnings damage, and where does our model say the stock lands?",
-        "id": "a25"
+        "id": "a33"
+      },
+      {
+        "title": "Alibaba Chip Design Unit T-Head Files for Hong Kong IPO",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-10/alibaba-s-chip-design-unit-t-head-files-for-hong-kong-listing",
+        "description": "Alibaba Group Holding Ltd.’s chip design unit T-Head has filed for a Hong Kong initial public offering, moving ahead with a proposed spinoff of a business that supplies data center processors in China.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-10T12:51:26.000Z",
+        "fetchedAt": "2026-11-11T08:25:37.293Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Alibaba Group Holding Ltd.’s chip design unit T-Head has filed for a Hong Kong initial public offering, moving ahead with a proposed spinoff of a business that supplies data center processors in China.",
+        "id": "a34"
       },
       {
         "title": "Jensen Huang’s affair with alleged spy enabled $7B+ in Nvidia chip sales to China: Report - The Financial Express",
@@ -720,7 +897,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T12:40:49.000Z",
-        "fetchedAt": "2026-11-11T00:55:09.357Z",
+        "fetchedAt": "2026-11-11T08:25:44.093Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Financial Express",
         "geopoliticalBypass": true,
@@ -730,27 +907,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Jensen Huang’s affair with alleged spy enabled $7B+ in Nvidia chip sales to China: Report The Financial Express",
-        "id": "a26"
-      },
-      {
-        "title": "NVIDIA Espionage Probe 2025 National Security Impact - Rare Earth Exchanges",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYy1RWmVTUFVJdlZCcjJfOFVaYlBMa3pOSklNbDhhRUtzakFHU2NHSzJ3RXQwX2V4b0VRYzlPZ0JkU193U3VNeU5OOXV1eERsc3B6SFVDajA4QUVIZ3hyWEZXOUhMakpzbURzdWsxY0NEVUtLMlZWaVZTVjhVZEpUTEVacw?oc=5",
-        "description": "NVIDIA Espionage Probe 2025 National Security Impact Rare Earth Exchanges",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-10T12:27:15.000Z",
-        "fetchedAt": "2026-11-11T00:55:09.357Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Rare Earth Exchanges",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "NVIDIA Espionage Probe 2025 National Security Impact Rare Earth Exchanges",
-        "id": "a27"
+        "id": "a35"
       },
       {
         "title": "Nvidia’s Own Export Control Warning Tested By Alleged $7.5B China Chip Network - the deep dive",
@@ -760,7 +917,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T12:06:43.000Z",
-        "fetchedAt": "2026-11-11T00:55:09.357Z",
+        "fetchedAt": "2026-11-11T08:25:44.093Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "the deep dive",
         "geopoliticalBypass": true,
@@ -770,47 +927,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia’s Own Export Control Warning Tested By Alleged $7.5B China Chip Network the deep dive",
-        "id": "a28"
-      },
-      {
-        "title": "Congress steps up push for China chip export curbs following Nvidia controversy - South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdlRjQkI1eHcwVFd2bkhpMnNFSHpncE9GOGZSeEhQME1YN2JBLUxFVmcyRGNWaVBsdkpUQXpiU3ItWm5CVGJ6SnRBSFh1cjVJYkJvai0wVXp4c2g0ellEX2FhWDQ4a2VDbFZHVEUxbHlTd3pyNmZDeUhZaGVwRFliX3JnSVpfUm5MaV9fd1B6NFZBZlJWNWctSGF2SllCRmJwQ3dXRnlFMlpHdzhfV3hnbHZlQzZONWJ4NTBTUWd2bTJfMWN3bW1kVWNuUWXSAcwBQVVfeXFMTmoybC0ycVVvUzJzb1gzM1RKcm5HaEc0N1R0R09rZGlBdUFySGlVT0dGVnVhTEg2WUtLZEFnZ1RzSXNxWEF2VldjeXhWekZHMnJmY19TZVFMd1hER2VaeTRHMEhRdF9saEtiaWRoWktOYVgtakJyWXVBckhKdDEyUDFjUVJoOUUxSkgwcnhVejFKQWd0NlpxeUNlWDlrczM0R1A5bTc4eVBaeWRqR3FXSEQtTUc1VzFVbUJBN2RWbHV4N1UxcnY2QlBfZGd3?oc=5",
-        "description": "Congress steps up push for China chip export curbs following Nvidia controversy South China Morning Post",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-10T11:30:06.000Z",
-        "fetchedAt": "2026-11-11T00:55:09.357Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "South China Morning Post",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Congress steps up push for China chip export curbs following Nvidia controversy South China Morning Post",
-        "id": "a29"
-      },
-      {
-        "title": "US lawmakers' China chip push over Nvidia CEO's personal controversy reflects McCarthyist logic, turns national security into witch hunt: expert - Global Times",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tR0oyWjlGT3dMYlFKQWEzWTBqUzZyYU9LLUdRUHAyYTVzbXZSSHk3NUhRb1dVRTVGNDdTc2RhU1BzNERXLTNVcGRtVkYyNHFGLVJ1TUVRN2FHb2I1Y3VqUDBB?oc=5",
-        "description": "US lawmakers' China chip push over Nvidia CEO's personal controversy reflects McCarthyist logic, turns national security into witch hunt: expert Global Times",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-10T05:59:00.000Z",
-        "fetchedAt": "2026-11-11T00:55:09.357Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Global Times",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "US lawmakers' China chip push over Nvidia CEO's personal controversy reflects McCarthyist logic, turns national security into witch hunt: expert Global Times",
-        "id": "a32"
+        "id": "a36"
       },
       {
         "title": "Zacks Investment Ideas feature highlights: SpaceX and Qualcomm",
@@ -820,7 +937,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T05:35:00.000Z",
-        "fetchedAt": "2026-11-11T00:55:02.685Z",
+        "fetchedAt": "2026-11-11T08:25:37.109Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "customers-partners",
@@ -828,123 +945,6 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "SPCX is rebounding on Musk's ambitious $500 billion revenue forecast, surging earnings estimates and expanding AI infrastructure, while its Qualcomm partnership targets wireless growth.",
-        "id": "a33"
-      },
-      {
-        "title": "VW pivots again as ‘In China, For China’ runs out of road",
-        "url": "https://www.ft.com/content/1186c272-afc7-4561-9bf8-aa3bc0464a91?syn-25a6b1a6=1",
-        "description": "The German group is changing its strategy in the world’s largest car market as it struggles with a sharp downturn",
-        "source": "Financial Times",
-        "sourceId": "ft",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-10T05:00:21.000Z",
-        "fetchedAt": "2026-11-11T00:55:03.241Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The German group is changing its strategy in the world’s largest car market as it struggles with a sharp downturn",
-        "id": "a34"
-      },
-      {
-        "title": "How Jensen Huang’s Affair Spiraled Into a National Security Nightmare - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmZ1TVpQUUhJVElmUjZ3Ul9BSllfNXdJMTIwSHVlb0J6aXAzSDhPX1I0cnNQamd0cTBBY2VnVFVEVEo5VHNtT0l1RDV2OUNhelRWRV9ibXdhU1hyaW91SEtfVDZIbWRpWWg1R1RJeGpNWWJWOFI3d2RZbUREZkEzbkpUZzdfeUsyTWZUVTZQZEphbGhEY2NzaUd1R3VIMWZ1ekFjMTJFSXg?oc=5",
-        "description": "How Jensen Huang’s Affair Spiraled Into a National Security Nightmare WSJ",
-        "source": "Wall Street Journal",
-        "sourceId": "wsj",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-10T04:15:00.000Z",
-        "fetchedAt": "2026-11-11T00:55:08.222Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "WSJ",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "How Jensen Huang’s Affair Spiraled Into a National Security Nightmare WSJ",
-        "id": "a35"
-      },
-      {
-        "title": "Could Trump's Relationship With Nvidia CEO Jensen Huang Raise US National Security Concerns? - Modern Diplomacy",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYkFfVnM1TW5BTjhJRGNQb1RVN01UZHhxRVpENDhhZk9NZXNhT21YaU9wYldiMDhnSkNIdXRHR2tmOEpiY1Z1UU03ekxvSFhpY3FaVXc2aERVUmNudXdHTU8zYWxXcWRfcVQtSzc1Qzhpa3VOTVZLREJwekszeFJCdWM2eFVHZVVDYnR0eXFmQjE0OUhob25wbnA5Y2xhRlFlbmJFa0NpYVFxWF9ycVJocnVVaGlvSmFHZE56NFZJS1BJZTYwVE8wbg?oc=5",
-        "description": "Could Trump's Relationship With Nvidia CEO Jensen Huang Raise US National Security Concerns? Modern Diplomacy",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-10T04:04:05.000Z",
-        "fetchedAt": "2026-11-11T00:55:09.357Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Modern Diplomacy",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Could Trump's Relationship With Nvidia CEO Jensen Huang Raise US National Security Concerns?",
-        "id": "a36"
-      },
-      {
-        "title": "‘This is a serious national security issue.’ GOP bucks Trump on Nvidia - Politico",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLXNUSzZlRm5nMU5JS0tWMVk1b3hmTzFuZE5xdGtPeDFPVTFGUkJzV21Fb1FZbVJaclA4YWU1Tk5rSTBzeThXRXYxODFlNll3NUhQMENDTzJXY2o1TGM2ODNWV3o3cWJhYnE0dlgwTmx1eURIRkFMWFlqMFdaVzJrTlV4bGxneUVVdzVWY3lQV2NqQQ?oc=5",
-        "description": "‘This is a serious national security issue.’ GOP bucks Trump on Nvidia Politico",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-10T03:25:00.000Z",
-        "fetchedAt": "2026-11-11T00:55:09.357Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Politico",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "‘This is a serious national security issue.’ GOP bucks Trump on Nvidia Politico",
-        "id": "a37"
-      },
-      {
-        "title": "Qualcomm, Impinj, Power Integrations, and Kulicke and Soffa shares are soaring, what you need to know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-impinj-power-integrations-kulicke-025336657.html?.tsrc=rss",
-        "description": "A number of stocks jumped in the morning session after dip-buyers moved into beaten-down semiconductor and hardware names following the sector's steepest one-day rout in 19 months.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-10T02:53:36.000Z",
-        "fetchedAt": "2026-11-11T00:55:02.685Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "A number of stocks jumped in the morning session after dip-buyers moved into beaten-down semiconductor and hardware names following the sector's steepest one-day rout in 19 months.",
-        "id": "a38"
-      },
-      {
-        "title": "Spy scandal fuels Congress push to tighten China AI chip controls; White House stance key - Chosunbiz",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOREdNdUZQZXE2ZE5fN29yWHRuU1BlOXNER015akJQZk5oY05KRE0wbmtlT3pDX1ZLVWhrYWF4UUQ4MXQxNTJoTWtlbk82WGs4S3pOV05HRjZ4ZGdBSWVpTDh2cHpEd0N6Q09sQUxlUUJQWm9zbDBlNkQ3QTJXM3N4VXpkd0JDdE5U0gGcAUFVX3lxTFBrTVRrcHE5Qi1xdFVHaUQwMW5HT2R2Qkdma19CNVVfS2VGUmYyVEkteUlyYTB0VmtpeEhPeThPajZXS3RWY0JhMVBRajBrZHduR3lHbW5HeWJocmFxRnBpeHhqLXhiTnFhS3piaG9LYjNfNmN0V2ljbnlzMXg4bXlJLTRuekJQLTBldFF3cmtqVW55Uklkd2NUVGhIRQ?oc=5",
-        "description": "Spy scandal fuels Congress push to tighten China AI chip controls; White House stance key Chosunbiz",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-10T01:59:00.000Z",
-        "fetchedAt": "2026-11-11T00:55:09.357Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Chosunbiz",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Spy scandal fuels Congress push to tighten China AI chip controls; White House stance key Chosunbiz",
         "id": "a39"
       },
       {
@@ -955,7 +955,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-09T10:58:11.000Z",
-        "fetchedAt": "2026-11-11T00:55:07.400Z",
+        "fetchedAt": "2026-11-11T08:25:41.859Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -974,7 +974,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-09T08:30:00.000Z",
-        "fetchedAt": "2026-11-11T00:55:07.763Z",
+        "fetchedAt": "2026-11-11T08:25:42.140Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -984,6 +984,25 @@ export const NEWS_DATA = {
         "stakeholders": [],
         "summary": "Years after China’s 2020 ASI wave, a Chinese ASI has again targeted European IP enforcement, prompting a Dutch AASI backed by penalties of €1 million per day, capped at €100 million. Although the Dutch case concerns trademarks, the confrontation has significant implications for cross-border patent litigation.",
         "id": "a42"
+      },
+      {
+        "title": "China rechaza las acusaciones de espionaje mientras el escándalo del CEO sacude a Nvidia",
+        "url": "https://www.mobileworldlive.com/spanish/china-rechaza-las-acusaciones-de-espionaje-mientras-el-escandalo-del-ceo-sacude-a-nvidia/",
+        "description": "Pekín rechaza las acusaciones de espionaje contra Nvidia, después de que la empresa abriera una investigación sobre su CEO, Jensen Read more... The post China rechaza las acusaciones de espionaje mientras el escándalo del CEO sacude a Nvidia appeared first on Mobile World Live.",
+        "source": "Mobile World Live",
+        "sourceId": "mobile-world-live",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-11-09T08:00:19.000Z",
+        "fetchedAt": "2026-11-11T08:25:41.859Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Pekín rechaza las acusaciones de espionaje contra Nvidia, después de que la empresa abriera una investigación sobre su CEO, Jensen Read more... The post China rechaza las acusaciones de espionaje mientras el escándalo del CEO sacude a Nvidia appeared first on Mobile World Live.",
+        "id": "a44"
       }
     ]
   },
@@ -1179,7 +1198,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-11-11T00:55:09.398Z",
+    "generatedAt": "2026-11-11T08:25:44.146Z",
     "date": "2026-11-11",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -1189,7 +1208,7 @@ export const NEWS_DATA = {
         {
           "text": "Mobile Chips: Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk ha",
           "articleIds": [
-            "a11"
+            "a19"
           ],
           "subCategory": "mobile-chips"
         }
@@ -1204,7 +1223,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-10T17:39:51.000Z",
-        "fetchedAt": "2026-11-11T00:55:02.685Z",
+        "fetchedAt": "2026-11-11T08:25:37.109Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -1214,7 +1233,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk has called “utterly false,” and SpaceX is already building a nationwide 5G network with Qualcomm.",
-        "id": "a11"
+        "id": "a19"
       }
     ]
   },
@@ -21935,30 +21954,30 @@ export const NEWS_DATA = {
     "totalArticles": 45
   },
   "archive-2026-11-11": {
-    "generatedAt": "2026-11-11T00:55:09.399Z",
+    "generatedAt": "2026-11-11T08:25:44.148Z",
     "date": "2026-11-11",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-11-11T00:55:09.398Z",
+        "generatedAt": "2026-11-11T08:25:44.146Z",
         "date": "2026-11-11",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (2 articles), Wireless Communication (1 article). A total of 8 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (1 article), Wireless Communication (1 article). A total of 7 articles were aggregated from monitored sources.",
           "keyTakeaways": [
-            {
-              "text": "Mobile Chips: Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains WSJ",
-              "articleIds": [
-                "a1"
-              ],
-              "subCategory": "mobile-chips"
-            },
             {
               "text": "Semiconductors: The growth in Qualcomm's non-handset business could supercharge the stock's performance following poor returns in 2026.",
               "articleIds": [
-                "a7"
+                "a15"
               ],
               "subCategory": "semiconductors"
+            },
+            {
+              "text": "Mobile Chips: Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk ha",
+              "articleIds": [
+                "a19"
+              ],
+              "subCategory": "mobile-chips"
             },
             {
               "text": "Wireless Communication: Elon Musk's plans for a fourth American 5G network look both reactionary and radical, with potential consequences for the whole telecom industry.",
@@ -21971,25 +21990,6 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
-            "title": "Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains - WSJ",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjRWZDhfZ1BEQ2tFQUVMZ0MzQTdvY1czUWxlcUVfU29QcldDSVU5eVRVeENnQ2pMQ1ppUmZvNThDVWtwUUFZY0djcG5CLVdmbDJ1WFpWRUMtVzhJcWZoRTVqd1JnTmVsN2I1T0ZIUHpxbEJhbjF2V1JVV1lBd1ZSZmZTS01BcFJsTkZnMGh3UEpfX1E4VlJFS3JnTUlfLXJsUmxqZGl0a0R0NDJUZC1YSUcxVkE?oc=5",
-            "description": "Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains WSJ",
-            "source": "Wall Street Journal",
-            "sourceId": "wsj",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-10T23:58:33.000Z",
-            "fetchedAt": "2026-11-11T00:55:08.222Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "WSJ",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains WSJ",
-            "id": "a1"
-          },
-          {
             "title": "Prediction: This Underrated Semiconductor Stock Will Jump 187% in 3 Years",
             "url": "https://www.fool.com/investing/2026/11/10/prediction-this-underrated-semiconductor-stock-will-jump-187-in-3-years/?.tsrc=rss",
             "description": "The growth in Qualcomm's non-handset business could supercharge the stock's performance following poor returns in 2026.",
@@ -21997,7 +21997,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T21:14:02.000Z",
-            "fetchedAt": "2026-11-11T00:55:02.685Z",
+            "fetchedAt": "2026-11-11T08:25:37.108Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22005,7 +22005,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The growth in Qualcomm's non-handset business could supercharge the stock's performance following poor returns in 2026.",
-            "id": "a7"
+            "id": "a15"
           },
           {
             "title": "Exclusive: Qualcomm begins job cuts; India and California among regions impacted",
@@ -22015,7 +22015,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T18:41:12.000Z",
-            "fetchedAt": "2026-11-11T00:55:02.685Z",
+            "fetchedAt": "2026-11-11T08:25:37.108Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22023,7 +22023,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Investing.com — Qualcomm has begun rolling out planned job cuts across its global operations, affecting employees in India and California, according to people familiar with the company’s plans.",
-            "id": "a10"
+            "id": "a18"
           },
           {
             "title": "Apple Just Hit $5 Trillion. Its “Biggest Competition” Is a SpaceX Phone, Says Gene Munster",
@@ -22033,7 +22033,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T17:39:51.000Z",
-            "fetchedAt": "2026-11-11T00:55:02.685Z",
+            "fetchedAt": "2026-11-11T08:25:37.109Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -22043,7 +22043,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk has called “utterly false,” and SpaceX is already building a nationwide 5G network with Qualcomm.",
-            "id": "a11"
+            "id": "a19"
           },
           {
             "title": "Qualcomm vs. Western Digital: Which Tech Stock Is a Better Buy for 2027?",
@@ -22053,7 +22053,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T13:44:02.000Z",
-            "fetchedAt": "2026-11-11T00:55:02.685Z",
+            "fetchedAt": "2026-11-11T08:25:37.108Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22061,7 +22061,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm's chip empire faces a customer concentration question, while Western Digital's storage margins look almost too good to be true.",
-            "id": "a24"
+            "id": "a32"
           },
           {
             "title": "ETFs Are Net Sellers of Qualcomm (QCOM) on Nov. 6",
@@ -22071,7 +22071,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T11:02:54.000Z",
-            "fetchedAt": "2026-11-11T00:55:02.685Z",
+            "fetchedAt": "2026-11-11T08:25:37.109Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22079,7 +22079,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "ETFs sold a net $199.6 million of Qualcomm stock on Friday, Nov.",
-            "id": "a30"
+            "id": "a37"
           },
           {
             "title": "At 13x earnings, is Qualcomm the most overlooked AI chip stock?",
@@ -22089,7 +22089,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T10:38:22.000Z",
-            "fetchedAt": "2026-11-11T00:55:02.685Z",
+            "fetchedAt": "2026-11-11T08:25:37.109Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22097,7 +22097,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
-            "id": "a31"
+            "id": "a38"
           },
           {
             "title": "SpaceX and Qualcomm threaten to topple US market's cozy 5G order",
@@ -22107,7 +22107,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-09T08:30:00.000Z",
-            "fetchedAt": "2026-11-11T00:55:07.573Z",
+            "fetchedAt": "2026-11-11T08:25:42.040Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "wireless",
@@ -22120,7 +22120,7 @@ export const NEWS_DATA = {
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-11-11T00:55:09.398Z",
+        "generatedAt": "2026-11-11T08:25:44.146Z",
         "date": "2026-11-11",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -22145,7 +22145,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-09T13:18:05.000Z",
-            "fetchedAt": "2026-11-11T00:55:05.184Z",
+            "fetchedAt": "2026-11-11T08:25:38.996Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -22158,7 +22158,7 @@ export const NEWS_DATA = {
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-11-11T00:55:09.398Z",
+        "generatedAt": "2026-11-11T08:25:44.146Z",
         "date": "2026-11-11",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -22169,38 +22169,38 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-11-11T00:55:09.398Z",
+        "generatedAt": "2026-11-11T08:25:44.146Z",
         "date": "2026-11-11",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (25 articles), market-performance (6 articles), Customers & Partners (2 articles). A total of 34 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (28 articles), market-performance (5 articles), Customers & Partners (2 articles). A total of 36 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Scoop: Commerce Department received national security warning on Nvidia CEO affair Axios",
+              "text": "Geopolitics & Export Controls: Yangtze Memory Technologies Co., China’s biggest NAND flash memory maker, is targeting an initial public offering on the Shanghai Stock Exchange as soon as the first quarter of 2027, people familiar w",
               "articleIds": [
-                "a2"
+                "a1"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
               "text": "market-performance: Nvidia Stock News Has Investors Looking At US Chip Shares Exposed to China Simply Wall St",
               "articleIds": [
-                "a4"
+                "a13"
               ],
               "subCategory": "market-performance"
             },
             {
               "text": "Customers & Partners: The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software, today announced that Qualcomm Technologies has upgraded its membership to Gold to advance",
               "articleIds": [
-                "a15"
+                "a22"
               ],
               "subCategory": "customers-partners"
             },
             {
               "text": "Supply Chain: As electricity access becomes a financial barrier to AI expansion, the U.S. and China face different risks in building the infrastructure of the digital economy. The post The AI Power Bill: Who Gets G",
               "articleIds": [
-                "a20"
+                "a27"
               ],
               "subCategory": "supply-chain"
             }
@@ -22208,14 +22208,53 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
+            "title": "Chinese Flash Memory Giant YMTC Said to Target IPO in Early 2027",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-11/chinese-flash-memory-giant-ymtc-said-to-target-ipo-in-early-2027",
+            "description": "Yangtze Memory Technologies Co., China’s biggest NAND flash memory maker, is targeting an initial public offering on the Shanghai Stock Exchange as soon as the first quarter of 2027, people familiar with the matter said.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-11T07:27:25.000Z",
+            "fetchedAt": "2026-11-11T08:25:37.293Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Yangtze Memory Technologies Co., China’s biggest NAND flash memory maker, is targeting an initial public offering on the Shanghai Stock Exchange as soon as the first quarter of 2027, people familiar with the matter said.",
+            "id": "a1"
+          },
+          {
+            "title": "Commerce Department Delays Sanctions on Spy-Linked Firm Amid NVIDIA Influence - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMG5LOFZIVXRKaVJJTGZjdWpDQ1IzajZfaWJkVFQ3SlVjUkQ4WXYzRld3Z2JlMmhKLTVZaXR0X3BvNXVmN091WWlQSFFPT3lqTV9Td3pXVGp2TWJ4Qk5Ra09OVGVGSzVQRkFHU3VoUWFjdDBEVGtDYzdXYkdOQ2pmZkZaVDZWY2hi?oc=5",
+            "description": "Commerce Department Delays Sanctions on Spy-Linked Firm Amid NVIDIA Influence 조선일보",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-11T05:50:34.000Z",
+            "fetchedAt": "2026-11-11T08:25:44.093Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "조선일보",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Commerce Department Delays Sanctions on Spy-Linked Firm Amid NVIDIA Influence 조선일보",
+            "id": "a2"
+          },
+          {
             "title": "Scoop: Commerce Department received national security warning on Nvidia CEO affair - Axios",
             "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NTWlEVTREeTZ0V3J5d1VBblV3Q1JiV0tqTWJUSGVJQ2MxSElWWHpVVG9lTkxKR3ctY2RDVHJUaTdWak1oS2lGSGhPbUJ6MU9CZ2xJdGY1Ui0zQy1uaFliV3c1MXprY3RDejF2eXp2WWc2WWJRSTZiOEljZw?oc=5",
             "description": "Scoop: Commerce Department received national security warning on Nvidia CEO affair Axios",
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
-            "publishedAt": "2026-11-10T23:48:33.000Z",
-            "fetchedAt": "2026-11-11T00:55:09.357Z",
+            "publishedAt": "2026-11-11T05:47:11.000Z",
+            "fetchedAt": "2026-11-11T08:25:44.092Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Axios",
             "geopoliticalBypass": true,
@@ -22225,27 +22264,184 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Scoop: Commerce Department received national security warning on Nvidia CEO affair Axios",
-            "id": "a2"
+            "id": "a3"
           },
           {
-            "title": "US lawmakers push China chip rules after Nvidia CEO allegations - The Mighty 790 KFGO",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ2ZFT0owTkdnN1dFV09vNEI1Z0hZbWFOZlh0OGFZRll3eWVNejdqVE9KYTlJVlNDcmhZSWI1RGY3X0ZEWTFQZ3JmM2xITDFxdlhTb1gwNGk0MzMwVWx3NGVwSHVkTjB2eXZDT18zT1dzMEVWNEVMVHJxQ2I0enZlTmdtU3lVSlVuVUlBYTZwb2pzRmExRTN3aDlKT1B2MEpE?oc=5",
-            "description": "US lawmakers push China chip rules after Nvidia CEO allegations The Mighty 790 KFGO",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
+            "title": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
+            "url": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+            "description": "During Xi's September visit, Washington and Beijing agreed to launch an AI dialogue with a communications channel to help defuse serious incidents.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
             "sourceGroup": "finance",
-            "publishedAt": "2026-11-10T23:12:28.000Z",
-            "fetchedAt": "2026-11-11T00:55:09.357Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "The Mighty 790 KFGO",
+            "publishedAt": "2026-11-11T05:15:50.000Z",
+            "fetchedAt": "2026-11-11T08:25:36.997Z",
+            "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "US lawmakers push China chip rules after Nvidia CEO allegations The Mighty 790 KFGO",
-            "id": "a3"
+            "summary": "During Xi's September visit, Washington and Beijing agreed to launch an AI dialogue with a communications channel to help defuse serious incidents.",
+            "id": "a4"
+          },
+          {
+            "title": "How Singapore became a linchpin of China’s AI chip trade",
+            "url": "https://www.ft.com/content/52b5f9a8-346f-4dae-8a16-14d5d9eb1244?syn-25a6b1a6=1",
+            "description": "A suspected Chinese spy and Singaporean chip deal reveal the Asian networks testing Washington’s grip on AI technology",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-11T05:00:22.000Z",
+            "fetchedAt": "2026-11-11T08:25:37.425Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "A suspected Chinese spy and Singaporean chip deal reveal the Asian networks testing Washington’s grip on AI technology",
+            "id": "a5"
+          },
+          {
+            "title": "US lawmakers push tighter China chip curbs in defence bill after Nvidia spy scandal raises security concerns - Organiser",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMTQ5YWw2MHdYaTZ1RkFBRlBSTjZVQ09ZWmV6LUtQWG11Y01WaU9xREo4dHBCMi14MUFmZmFtaTZyLXduWnBJaUZaUUpHSjFYWGxESmlCc3JBdl9HYnlnS05Jek9jVGYxN3JwNlg4QXNfZ3FCWVhHaGY3cDQta3d4bjluY25oT2FYSi1yUUJqZVFRbkV0TG1YcmpZQ3hvYTAtVHM2VmRRM19ocERrTTVfdGdFUy1FR1E1MkpHQlNETHRkRzE3Z2FVYW45VE9fZHlqRHh1NWJGZnc2a2MyeXZJb1ptczRHY0ZHNUN4ME9HVk1rTHpWVWfSAfsBQVVfeXFMT25XZ1VsZ0cySE5aa2xqcC00UTJUTE95WEpKb19aOGRFTWp2ZGtudVdVd2pOOEp5LWRVVl96NjVUWlVFaTZHU19jTXNiaXZyM2VsQnZkR2llb2JxRmFpRkxzcHBrdXl2ck93c3N0d2hiZUU1ZHpMaUx2WWlRTGV6dEVoSkhtSWIxbVVhX2F6UkJja2QzQXFtZUNvWWVLcWFxQ1M0M3hFczNacVF4WTdIc0pzclV1YXItM2JLbi0teGJzSDVqLURXbVRNcFNpS1NtcVllczhiQ3ZjZ1UtVjJaQVhfNXlaOGVSeElmNXpJNzBNOVZzVGNTNFlOUVU?oc=5",
+            "description": "US lawmakers push tighter China chip curbs in defence bill after Nvidia spy scandal raises security concerns Organiser",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-11T04:31:59.000Z",
+            "fetchedAt": "2026-11-11T08:25:44.093Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Organiser",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US lawmakers push tighter China chip curbs in defence bill after Nvidia spy scandal raises security concerns Organiser",
+            "id": "a6"
+          },
+          {
+            "title": "Could Nvidia’s China Chip Ties and CEO Controversy Trigger a Major Governance Crisis? - Modern Diplomacy",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSHVqLUdOeFZVS3pIenVjT3JZNjgtbU9lY2pVRlF5c3ZMVmhUNUNneEVVcE91X3J1Y2dtRkM5d3BMbGZDVXdSTzNxbm1qRl9VUWVZWDIydkdHRVJ2c2tTcEZ5UDdLWlNxdW9Oc2VETkdJYTRHelRZcVZDVVpFLXIwa2N4UDZEaU44Nm14VGNnSnRIbDIyZ0d6TkFYdk5FdkpuR1Z1ald3NEFIZ0sxWGFzZHZwMFk1dU9yRFBkQU40VQ?oc=5",
+            "description": "Could Nvidia’s China Chip Ties and CEO Controversy Trigger a Major Governance Crisis? Modern Diplomacy",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-11T04:25:20.000Z",
+            "fetchedAt": "2026-11-11T08:25:44.092Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Modern Diplomacy",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Could Nvidia’s China Chip Ties and CEO Controversy Trigger a Major Governance Crisis?",
+            "id": "a7"
+          },
+          {
+            "title": "Citi's Poon Werkun on AI Trade, Fed, China",
+            "url": "https://www.bloomberg.com/news/videos/2026-11-11/citi-s-poon-werkun-on-ai-trade-fed-china-video",
+            "description": "Erica Poon Werkun, Asia Pacific Head of Research at Citi, discusses the unwinding of the AI trade, the outlook for Federal Reserve policy, and China’s markets and economy. She speaks with Stephen Engle on the sidelines of the Citi China Conference in Shanghai. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-11T03:51:00.000Z",
+            "fetchedAt": "2026-11-11T08:25:37.293Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Erica Poon Werkun, Asia Pacific Head of Research at Citi, discusses the unwinding of the AI trade, the outlook for Federal Reserve policy, and China’s markets and economy. She speaks with Stephen Engle on the sidelines of the Citi China Conference in Shanghai.",
+            "id": "a8"
+          },
+          {
+            "title": "Nvidia (NASDAQ: NVDA) Faces $70.3 Billion Share-Sale Risk And National Security Probe After CEO's Affair With Alleged Chinese Spy - Foreign Policy Journal",
+            "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZmFnbGdxcmJSNmZDMndBSWxINUJVZktVQWJrVEUzamJZTkVmQ1ZoemZDS2p3d0d6OEZxT0JwS0RyOGw5RGZPMTNnckdFWGh3ZjlPZ0xsYWE4d0JjakduVEN3NGtYNFVYZTdsa3JnZWQ4V0pQV0hUR2VoMWd2RmU1LTZuOUE1bWhZOHBDWUFXZGFHMlpmWmVNb01kUGlZTVFyZ0ZRVGtHU0E1aUN5dEdGYk53VFBYSkQ1V0RLNXBVRER6YVJBRFdaUVJCOUIwcXExekFwRzM2cEp6UWFSd3pEYVowa25RcmNTcERDdDBjUWd5TDhocTlQdmQ0WkdmTE1MNWE4?oc=5",
+            "description": "Nvidia (NASDAQ: NVDA) Faces $70.3 Billion Share-Sale Risk And National Security Probe After CEO's Affair With Alleged Chinese Spy Foreign Policy Journal",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-11T02:03:00.000Z",
+            "fetchedAt": "2026-11-11T08:25:44.093Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Foreign Policy Journal",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia (NASDAQ: NVDA) Faces $70.3 Billion Share-Sale Risk And National Security Probe After CEO's Affair With Alleged Chinese Spy Foreign Policy Journal",
+            "id": "a9"
+          },
+          {
+            "title": "US lawmakers push for tougher China export controls in defense bill amid Nvidia scrutiny - The Korea Times",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORDYwV0s4aDdiUW9zM2YzOHVZZ0t6X1VvaWgzbE9qUm1BZWlCYXhDSjZyN2w5S0lCNlhKbGtxZTVvWE5xWXNKUHFmVWRBcXJjczZZMF90d3NhMmJUX2NoT0lGZUVQWnlDMnY0Nm1TdXIxY0psX1VaODJ5X3lWOGgzOUpISWZHdzk2dzA2SEpEUlZESk5pc3djQXJkNmJhdkVNbGhDUjZ5NDV2LTlPS3N3Z09Uc2g5YVFpNF9DZWRYTzFLc0RvRjY0eE5XWETSAdIBQVVfeXFMT1hDMVdVa0k3YnFLVlpDRUl2U2xpSlhQLXFDREJDWEh3UXozVHVjb2wxUGVCUC1CQmd3Y2NJV3cyRl85LWxIS3ItVU80TXNrUExSMU5KWkFIYVQ1dFpMODM3ZFI1aWhxTFpkcV90N01sYTVPS0lIdVYwMTNvVUxZZWNfcHBkZW95RklqVEVSWG1mXzZJMEF3QUkxMGUyX3ZXX1VuNVRZZzA0RllPY3Z4aTV6dXY3bGlVbjlCazc5NExGNEdEc0NjbjdIWlFIVE1vRlln?oc=5",
+            "description": "US lawmakers push for tougher China export controls in defense bill amid Nvidia scrutiny The Korea Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-11T01:31:03.000Z",
+            "fetchedAt": "2026-11-11T08:25:44.092Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Korea Times",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US lawmakers push for tougher China export controls in defense bill amid Nvidia scrutiny The Korea Times",
+            "id": "a10"
+          },
+          {
+            "title": "US lawmakers push China chip rules after Nvidia CEO allegations - KELO-AM",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb0puMExITXFjZlpTME5fTzlnRUQ2UTFiRE9Vb2xvRTZFa3BXdGJuclNiNW5jbjZVd3MtZXdkal9rYjJ0MXljS2daeDRkdVltZFA5UUZoeUxpRWR5dHBOY2VzV2tqSk9mQ1ltY01kZzVLMXFnUDFINFhjWTBYcHFJMl9RRnF3STNKS2RjNE1PUFJNVlNUOG5taVM0eTZRZGtK?oc=5",
+            "description": "US lawmakers push China chip rules after Nvidia CEO allegations KELO-AM",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-11T00:37:23.000Z",
+            "fetchedAt": "2026-11-11T08:25:44.093Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "KELO-AM",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US lawmakers push China chip rules after Nvidia CEO allegations KELO-AM",
+            "id": "a11"
+          },
+          {
+            "title": "Megaspeed, Suspected in Nvidia Chip Diversion to China, Still Absent from U.S. Sanctions List as Commerce Department Review Drags On - BigGo Finance",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ORjQ5UXB5LUQ3SkJiR0pwbTlUVVJhcUZuaHRGQXBaTktTNWFLU1A5ZlNVMUF6NVFHN05ZRW1RNHlUOUg2UWJIeTZCREN3ajFub2kyeWNsZ3hKaEtaNWZsWTFOdk14VzFKZmNTNUtaNW1ycDlkeWc?oc=5",
+            "description": "Megaspeed, Suspected in Nvidia Chip Diversion to China, Still Absent from U.S. Sanctions List as Commerce Department Review Drags On BigGo Finance",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-11T00:26:00.000Z",
+            "fetchedAt": "2026-11-11T08:25:44.093Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "BigGo Finance",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Megaspeed, Suspected in Nvidia Chip Diversion to China, Still Absent from U.S. Sanctions List as Commerce Department Review Drags On BigGo Finance",
+            "id": "a12"
           },
           {
             "title": "Nvidia Stock News Has Investors Looking At US Chip Shares Exposed to China - Simply Wall St",
@@ -22255,7 +22451,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T22:28:34.000Z",
-            "fetchedAt": "2026-11-11T00:55:09.357Z",
+            "fetchedAt": "2026-11-11T08:25:44.093Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Simply Wall St",
             "geopoliticalBypass": true,
@@ -22265,7 +22461,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Nvidia Stock News Has Investors Looking At US Chip Shares Exposed to China Simply Wall St",
-            "id": "a4"
+            "id": "a13"
           },
           {
             "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
@@ -22275,7 +22471,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T21:45:46.000Z",
-            "fetchedAt": "2026-11-11T00:55:02.758Z",
+            "fetchedAt": "2026-11-11T08:25:36.997Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22284,26 +22480,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Business executives warned at a Washington summit of rising costs and shifting supply chains as polls showed growing opposition to Trump's tariffs.",
-            "id": "a5"
-          },
-          {
-            "title": "La crisis de Nvidia expone su dependencia de Jensen Huang",
-            "url": "https://www.bloomberg.com/news/features/2026-11-10/la-crisis-de-nvidia-expone-su-dependencia-de-jensen-huang",
-            "description": "La junta está investigando si su CEO fue objeto de una espía china y evalúa el riesgo de un futuro sin su singular líder.",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-10T21:27:25.000Z",
-            "fetchedAt": "2026-11-11T00:55:02.764Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "La junta está investigando si su CEO fue objeto de una espía china y evalúa el riesgo de un futuro sin su singular líder.",
-            "id": "a6"
+            "id": "a14"
           },
           {
             "title": "US commerce department delays Megaspeed’s inclusion on trade blacklist",
@@ -22313,7 +22490,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T20:05:21.000Z",
-            "fetchedAt": "2026-11-11T00:55:03.241Z",
+            "fetchedAt": "2026-11-11T08:25:37.425Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22322,7 +22499,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Company connected to alleged Chinese spy who had affair with Nvidia chief Jensen Huang was left off ‘entity list’",
-            "id": "a8"
+            "id": "a16"
           },
           {
             "title": "Op-ed: In Nvidia CEO Jensen Huang's alleged China spy scandal, there's plenty of blame to go around",
@@ -22332,7 +22509,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T19:40:41.000Z",
-            "fetchedAt": "2026-11-11T00:55:02.758Z",
+            "fetchedAt": "2026-11-11T08:25:36.997Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22341,27 +22518,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "In the AI era, our economic competitiveness, military capabilities, and intelligence edge can be taken down by one man.",
-            "id": "a9"
-          },
-          {
-            "title": "‘Adding fuel to fire’: how Nvidia CEO’s troubles could tighten China chip curbs - South China Morning Post",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTzV1Tng4S1JURUhDd1FZRXE1LTRGY1lsTFRqSUl3UHRmRURoXzIwVnRHUVBiU3A5VVZFUC1ibS02UmFnbXdWOHVzdWE2aE5pOUtBNWJNaWMtcTkwZ1ByUEt4Rk1mQXRzejQxS3Jadzh1c0hQdEg4SVlaejNwQ1pTZWN4eG1sM1ZqX1c4N3c3b0laNThfQXJkVk8xMTFzVVkydUtTcWlsSG1pWDVKRXFtb2lfWWg1cEJ6R1dEbWtQUzR0VV84SVMxREEtM3lHUdIBzgFBVV95cUxQeEYwVmNGY00tcnFCSnpIMFVOVXJINnp5SnFORWpXcXFJblBWMzdBOGVic2RpSjExT3JOVlZBck42TWc1TkNnRmNuN2xIS2ZHWmxHUWVIaURzMzVzVHRXc05KbGI4UjQzNEtmZ1pTZ1ZFNkRLTGNaWkpzZXlTR1lzeTlwQlRjLThhM04yQURLalkzdDI3a2RzWkY1dTl1bkhLVFVkdDc2dmdLbzUxS0MzZl9vRkFKYnZWWXF3NWlGMVhyZUc0czlwWDl0b2dKQQ?oc=5",
-            "description": "‘Adding fuel to fire’: how Nvidia CEO’s troubles could tighten China chip curbs South China Morning Post",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-10T17:32:24.000Z",
-            "fetchedAt": "2026-11-11T00:55:09.357Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "South China Morning Post",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "‘Adding fuel to fire’: how Nvidia CEO’s troubles could tighten China chip curbs South China Morning Post",
-            "id": "a12"
+            "id": "a17"
           },
           {
             "title": "NVIDIA CEO's affair linked to $7.5B chip exports to China, sparking export-control probe and stock drop. - Pluang",
@@ -22371,7 +22528,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T17:27:59.000Z",
-            "fetchedAt": "2026-11-11T00:55:09.357Z",
+            "fetchedAt": "2026-11-11T08:25:44.093Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Pluang",
             "geopoliticalBypass": true,
@@ -22381,7 +22538,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "NVIDIA CEO's affair linked to $7.5B chip exports to China, sparking export-control probe and stock drop.",
-            "id": "a13"
+            "id": "a20"
           },
           {
             "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
@@ -22391,7 +22548,7 @@ export const NEWS_DATA = {
             "sourceId": "techcrunch",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-10T17:04:19.000Z",
-            "fetchedAt": "2026-11-11T00:55:02.605Z",
+            "fetchedAt": "2026-11-11T08:25:37.004Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22400,7 +22557,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-            "id": "a14"
+            "id": "a21"
           },
           {
             "title": "CNCF Welcomes Qualcomm Upgrade to Gold Membership to Advance AI Infrastructure Across the Edge-to-Cloud Continuum",
@@ -22410,7 +22567,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T16:00:00.000Z",
-            "fetchedAt": "2026-11-11T00:55:02.685Z",
+            "fetchedAt": "2026-11-11T08:25:37.108Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "customers-partners",
@@ -22418,7 +22575,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software, today announced that Qualcomm Technologies has upgraded its membership to Gold to advance open source infrastructure powering AI from the edge to the cloud. Through strengthened collaboration with CNCF, Qualcomm Technologies aims to help extend cloud native, open source infrastructure patterns across compute environments.",
-            "id": "a15"
+            "id": "a22"
           },
           {
             "title": "Commentary: Nvidia fails to grasp national security stakes in Huang affair - The Australian",
@@ -22428,7 +22585,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T15:54:29.000Z",
-            "fetchedAt": "2026-11-11T00:55:09.357Z",
+            "fetchedAt": "2026-11-11T08:25:44.093Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Australian",
             "geopoliticalBypass": true,
@@ -22438,7 +22595,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Commentary: Nvidia fails to grasp national security stakes in Huang affair The Australian",
-            "id": "a16"
+            "id": "a23"
           },
           {
             "title": "I Bonds Pay 5.51%. Why Retirees Might Still Prefer Dividend Stocks",
@@ -22448,7 +22605,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T15:47:02.000Z",
-            "fetchedAt": "2026-11-11T00:55:02.685Z",
+            "fetchedAt": "2026-11-11T08:25:37.108Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -22456,7 +22613,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A Treasury-backed bond out-yields Coca-Cola and Qualcomm by a wide margin, yet retirees keep buying dividend stocks. Between lockups, state taxes, and a missing paycheck, the real math may surprise you.",
-            "id": "a17"
+            "id": "a24"
           },
           {
             "title": "Could QUALCOMM (QCOM) Be 8% Undervalued Following Its Fresh Debt Raise?",
@@ -22466,7 +22623,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T15:08:23.000Z",
-            "fetchedAt": "2026-11-11T00:55:02.685Z",
+            "fetchedAt": "2026-11-11T08:25:37.108Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -22474,7 +22631,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "QUALCOMM (QCOM) just raised fresh debt capital through a series of fixed income offerings, issuing callable senior unsecured notes across 2028, 2029, 2031, 2033, and 2036 maturities to fund its longer term plans. The fresh bond sale lands after a busy stretch for QUALCOMM, where the stock has swung on mixed earnings reactions, cautious revenue guidance and headlines around AI data center deals and SpaceX partnerships, even as ETF flows have flipped between buying and selling.",
-            "id": "a18"
+            "id": "a25"
           },
           {
             "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
@@ -22484,7 +22641,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T15:04:23.000Z",
-            "fetchedAt": "2026-11-11T00:55:02.758Z",
+            "fetchedAt": "2026-11-11T08:25:36.997Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22493,7 +22650,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The allegations against Jensen Huang have brought new attention to the Nvidia CEO's potential influence over U.S. policy on chip sales to China.",
-            "id": "a19"
+            "id": "a26"
           },
           {
             "title": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?",
@@ -22503,7 +22660,7 @@ export const NEWS_DATA = {
             "sourceId": "eetimes",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-11-10T15:00:00.000Z",
-            "fetchedAt": "2026-11-11T00:55:03.461Z",
+            "fetchedAt": "2026-11-11T08:25:37.870Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22512,7 +22669,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "As electricity access becomes a financial barrier to AI expansion, the U.S. and China face different risks in building the infrastructure of the digital economy. The post The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk? appeared first on EE Times.",
-            "id": "a20"
+            "id": "a27"
+          },
+          {
+            "title": "‘Adding fuel to fire’: how Nvidia CEO’s troubles could tighten China chip curbs - South China Morning Post",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTzV1Tng4S1JURUhDd1FZRXE1LTRGY1lsTFRqSUl3UHRmRURoXzIwVnRHUVBiU3A5VVZFUC1ibS02UmFnbXdWOHVzdWE2aE5pOUtBNWJNaWMtcTkwZ1ByUEt4Rk1mQXRzejQxS3Jadzh1c0hQdEg4SVlaejNwQ1pTZWN4eG1sM1ZqX1c4N3c3b0laNThfQXJkVk8xMTFzVVkydUtTcWlsSG1pWDVKRXFtb2lfWWg1cEJ6R1dEbWtQUzR0VV84SVMxREEtM3lHUdIBzgFBVV95cUxQeEYwVmNGY00tcnFCSnpIMFVOVXJINnp5SnFORWpXcXFJblBWMzdBOGVic2RpSjExT3JOVlZBck42TWc1TkNnRmNuN2xIS2ZHWmxHUWVIaURzMzVzVHRXc05KbGI4UjQzNEtmZ1pTZ1ZFNkRLTGNaWkpzZXlTR1lzeTlwQlRjLThhM04yQURLalkzdDI3a2RzWkY1dTl1bkhLVFVkdDc2dmdLbzUxS0MzZl9vRkFKYnZWWXF3NWlGMVhyZUc0czlwWDl0b2dKQQ?oc=5",
+            "description": "‘Adding fuel to fire’: how Nvidia CEO’s troubles could tighten China chip curbs South China Morning Post",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-10T14:30:22.000Z",
+            "fetchedAt": "2026-11-11T08:25:44.093Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "South China Morning Post",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "‘Adding fuel to fire’: how Nvidia CEO’s troubles could tighten China chip curbs South China Morning Post",
+            "id": "a28"
           },
           {
             "title": "Freedom Broker cuts Qualcomm rating as margin squeeze offsets growth upside",
@@ -22522,7 +22699,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T14:19:38.000Z",
-            "fetchedAt": "2026-11-11T00:55:02.685Z",
+            "fetchedAt": "2026-11-11T08:25:37.108Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -22530,7 +22707,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Investing.com -- Freedom Broker downgraded Qualcomm (NASDAQ: QCOM) from Buy to Hold and cut its price target to $185 from $200 in a note on Tuesday, saying the chipmaker’s shift toward new growth businesses will weigh on margins longer than expected.",
-            "id": "a21"
+            "id": "a29"
           },
           {
             "title": "Courts Should Employ a Simpler Fair Use Analysis for Noncompeting Criticism",
@@ -22540,7 +22717,7 @@ export const NEWS_DATA = {
             "sourceId": "ipwatchdog",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-10T14:15:42.000Z",
-            "fetchedAt": "2026-11-11T00:55:07.068Z",
+            "fetchedAt": "2026-11-11T08:25:41.428Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22549,7 +22726,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Copyright and trademark rights act in tension with the First Amendment. Indeed, “unlike other property rights, [these] are a form of content-based, government-imposed speech restriction.” (Mark Lemley and Eugene Volokh, Freedom of Speech and Injunctions in Intellectual Property Cases, 48 Duke L.J. As such, courts have determined that criticism, generally, puts the critic beyond the reach of a copyright or trademark claim. The post Courts Should Employ a Simpler Fair Use Analysis for Noncompeting Criticism appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-            "id": "a22"
+            "id": "a30"
           },
           {
             "title": "Nvidia spy scandal revives push to write China chip export limits into the defense bill - MLQ.ai",
@@ -22559,7 +22736,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T13:53:00.000Z",
-            "fetchedAt": "2026-11-11T00:55:09.357Z",
+            "fetchedAt": "2026-11-11T08:25:44.093Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "MLQ.ai",
             "geopoliticalBypass": true,
@@ -22569,7 +22746,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Nvidia spy scandal revives push to write China chip export limits into the defense bill MLQ.ai",
-            "id": "a23"
+            "id": "a31"
           },
           {
             "title": "Qualcomm Price Prediction: Automotive Boom Could Spark a Surprise Rebound",
@@ -22579,7 +22756,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T13:33:05.000Z",
-            "fetchedAt": "2026-11-11T00:55:02.685Z",
+            "fetchedAt": "2026-11-11T08:25:37.109Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -22587,7 +22764,26 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm's handset business is shrinking fast, yet a quieter segment just posted a record quarter that few investors are watching. Can it outrun the earnings damage, and where does our model say the stock lands?",
-            "id": "a25"
+            "id": "a33"
+          },
+          {
+            "title": "Alibaba Chip Design Unit T-Head Files for Hong Kong IPO",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-10/alibaba-s-chip-design-unit-t-head-files-for-hong-kong-listing",
+            "description": "Alibaba Group Holding Ltd.’s chip design unit T-Head has filed for a Hong Kong initial public offering, moving ahead with a proposed spinoff of a business that supplies data center processors in China.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-10T12:51:26.000Z",
+            "fetchedAt": "2026-11-11T08:25:37.293Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Alibaba Group Holding Ltd.’s chip design unit T-Head has filed for a Hong Kong initial public offering, moving ahead with a proposed spinoff of a business that supplies data center processors in China.",
+            "id": "a34"
           },
           {
             "title": "Jensen Huang’s affair with alleged spy enabled $7B+ in Nvidia chip sales to China: Report - The Financial Express",
@@ -22597,7 +22793,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T12:40:49.000Z",
-            "fetchedAt": "2026-11-11T00:55:09.357Z",
+            "fetchedAt": "2026-11-11T08:25:44.093Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Financial Express",
             "geopoliticalBypass": true,
@@ -22607,27 +22803,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Jensen Huang’s affair with alleged spy enabled $7B+ in Nvidia chip sales to China: Report The Financial Express",
-            "id": "a26"
-          },
-          {
-            "title": "NVIDIA Espionage Probe 2025 National Security Impact - Rare Earth Exchanges",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYy1RWmVTUFVJdlZCcjJfOFVaYlBMa3pOSklNbDhhRUtzakFHU2NHSzJ3RXQwX2V4b0VRYzlPZ0JkU193U3VNeU5OOXV1eERsc3B6SFVDajA4QUVIZ3hyWEZXOUhMakpzbURzdWsxY0NEVUtLMlZWaVZTVjhVZEpUTEVacw?oc=5",
-            "description": "NVIDIA Espionage Probe 2025 National Security Impact Rare Earth Exchanges",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-10T12:27:15.000Z",
-            "fetchedAt": "2026-11-11T00:55:09.357Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Rare Earth Exchanges",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "NVIDIA Espionage Probe 2025 National Security Impact Rare Earth Exchanges",
-            "id": "a27"
+            "id": "a35"
           },
           {
             "title": "Nvidia’s Own Export Control Warning Tested By Alleged $7.5B China Chip Network - the deep dive",
@@ -22637,7 +22813,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T12:06:43.000Z",
-            "fetchedAt": "2026-11-11T00:55:09.357Z",
+            "fetchedAt": "2026-11-11T08:25:44.093Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "the deep dive",
             "geopoliticalBypass": true,
@@ -22647,47 +22823,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Nvidia’s Own Export Control Warning Tested By Alleged $7.5B China Chip Network the deep dive",
-            "id": "a28"
-          },
-          {
-            "title": "Congress steps up push for China chip export curbs following Nvidia controversy - South China Morning Post",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdlRjQkI1eHcwVFd2bkhpMnNFSHpncE9GOGZSeEhQME1YN2JBLUxFVmcyRGNWaVBsdkpUQXpiU3ItWm5CVGJ6SnRBSFh1cjVJYkJvai0wVXp4c2g0ellEX2FhWDQ4a2VDbFZHVEUxbHlTd3pyNmZDeUhZaGVwRFliX3JnSVpfUm5MaV9fd1B6NFZBZlJWNWctSGF2SllCRmJwQ3dXRnlFMlpHdzhfV3hnbHZlQzZONWJ4NTBTUWd2bTJfMWN3bW1kVWNuUWXSAcwBQVVfeXFMTmoybC0ycVVvUzJzb1gzM1RKcm5HaEc0N1R0R09rZGlBdUFySGlVT0dGVnVhTEg2WUtLZEFnZ1RzSXNxWEF2VldjeXhWekZHMnJmY19TZVFMd1hER2VaeTRHMEhRdF9saEtiaWRoWktOYVgtakJyWXVBckhKdDEyUDFjUVJoOUUxSkgwcnhVejFKQWd0NlpxeUNlWDlrczM0R1A5bTc4eVBaeWRqR3FXSEQtTUc1VzFVbUJBN2RWbHV4N1UxcnY2QlBfZGd3?oc=5",
-            "description": "Congress steps up push for China chip export curbs following Nvidia controversy South China Morning Post",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-10T11:30:06.000Z",
-            "fetchedAt": "2026-11-11T00:55:09.357Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "South China Morning Post",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Congress steps up push for China chip export curbs following Nvidia controversy South China Morning Post",
-            "id": "a29"
-          },
-          {
-            "title": "US lawmakers' China chip push over Nvidia CEO's personal controversy reflects McCarthyist logic, turns national security into witch hunt: expert - Global Times",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tR0oyWjlGT3dMYlFKQWEzWTBqUzZyYU9LLUdRUHAyYTVzbXZSSHk3NUhRb1dVRTVGNDdTc2RhU1BzNERXLTNVcGRtVkYyNHFGLVJ1TUVRN2FHb2I1Y3VqUDBB?oc=5",
-            "description": "US lawmakers' China chip push over Nvidia CEO's personal controversy reflects McCarthyist logic, turns national security into witch hunt: expert Global Times",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-10T05:59:00.000Z",
-            "fetchedAt": "2026-11-11T00:55:09.357Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Global Times",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "US lawmakers' China chip push over Nvidia CEO's personal controversy reflects McCarthyist logic, turns national security into witch hunt: expert Global Times",
-            "id": "a32"
+            "id": "a36"
           },
           {
             "title": "Zacks Investment Ideas feature highlights: SpaceX and Qualcomm",
@@ -22697,7 +22833,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T05:35:00.000Z",
-            "fetchedAt": "2026-11-11T00:55:02.685Z",
+            "fetchedAt": "2026-11-11T08:25:37.109Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "customers-partners",
@@ -22705,123 +22841,6 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "SPCX is rebounding on Musk's ambitious $500 billion revenue forecast, surging earnings estimates and expanding AI infrastructure, while its Qualcomm partnership targets wireless growth.",
-            "id": "a33"
-          },
-          {
-            "title": "VW pivots again as ‘In China, For China’ runs out of road",
-            "url": "https://www.ft.com/content/1186c272-afc7-4561-9bf8-aa3bc0464a91?syn-25a6b1a6=1",
-            "description": "The German group is changing its strategy in the world’s largest car market as it struggles with a sharp downturn",
-            "source": "Financial Times",
-            "sourceId": "ft",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-10T05:00:21.000Z",
-            "fetchedAt": "2026-11-11T00:55:03.241Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The German group is changing its strategy in the world’s largest car market as it struggles with a sharp downturn",
-            "id": "a34"
-          },
-          {
-            "title": "How Jensen Huang’s Affair Spiraled Into a National Security Nightmare - WSJ",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmZ1TVpQUUhJVElmUjZ3Ul9BSllfNXdJMTIwSHVlb0J6aXAzSDhPX1I0cnNQamd0cTBBY2VnVFVEVEo5VHNtT0l1RDV2OUNhelRWRV9ibXdhU1hyaW91SEtfVDZIbWRpWWg1R1RJeGpNWWJWOFI3d2RZbUREZkEzbkpUZzdfeUsyTWZUVTZQZEphbGhEY2NzaUd1R3VIMWZ1ekFjMTJFSXg?oc=5",
-            "description": "How Jensen Huang’s Affair Spiraled Into a National Security Nightmare WSJ",
-            "source": "Wall Street Journal",
-            "sourceId": "wsj",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-10T04:15:00.000Z",
-            "fetchedAt": "2026-11-11T00:55:08.222Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "WSJ",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "How Jensen Huang’s Affair Spiraled Into a National Security Nightmare WSJ",
-            "id": "a35"
-          },
-          {
-            "title": "Could Trump's Relationship With Nvidia CEO Jensen Huang Raise US National Security Concerns? - Modern Diplomacy",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYkFfVnM1TW5BTjhJRGNQb1RVN01UZHhxRVpENDhhZk9NZXNhT21YaU9wYldiMDhnSkNIdXRHR2tmOEpiY1Z1UU03ekxvSFhpY3FaVXc2aERVUmNudXdHTU8zYWxXcWRfcVQtSzc1Qzhpa3VOTVZLREJwekszeFJCdWM2eFVHZVVDYnR0eXFmQjE0OUhob25wbnA5Y2xhRlFlbmJFa0NpYVFxWF9ycVJocnVVaGlvSmFHZE56NFZJS1BJZTYwVE8wbg?oc=5",
-            "description": "Could Trump's Relationship With Nvidia CEO Jensen Huang Raise US National Security Concerns? Modern Diplomacy",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-10T04:04:05.000Z",
-            "fetchedAt": "2026-11-11T00:55:09.357Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Modern Diplomacy",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Could Trump's Relationship With Nvidia CEO Jensen Huang Raise US National Security Concerns?",
-            "id": "a36"
-          },
-          {
-            "title": "‘This is a serious national security issue.’ GOP bucks Trump on Nvidia - Politico",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLXNUSzZlRm5nMU5JS0tWMVk1b3hmTzFuZE5xdGtPeDFPVTFGUkJzV21Fb1FZbVJaclA4YWU1Tk5rSTBzeThXRXYxODFlNll3NUhQMENDTzJXY2o1TGM2ODNWV3o3cWJhYnE0dlgwTmx1eURIRkFMWFlqMFdaVzJrTlV4bGxneUVVdzVWY3lQV2NqQQ?oc=5",
-            "description": "‘This is a serious national security issue.’ GOP bucks Trump on Nvidia Politico",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-10T03:25:00.000Z",
-            "fetchedAt": "2026-11-11T00:55:09.357Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Politico",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "‘This is a serious national security issue.’ GOP bucks Trump on Nvidia Politico",
-            "id": "a37"
-          },
-          {
-            "title": "Qualcomm, Impinj, Power Integrations, and Kulicke and Soffa shares are soaring, what you need to know",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-impinj-power-integrations-kulicke-025336657.html?.tsrc=rss",
-            "description": "A number of stocks jumped in the morning session after dip-buyers moved into beaten-down semiconductor and hardware names following the sector's steepest one-day rout in 19 months.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-10T02:53:36.000Z",
-            "fetchedAt": "2026-11-11T00:55:02.685Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "A number of stocks jumped in the morning session after dip-buyers moved into beaten-down semiconductor and hardware names following the sector's steepest one-day rout in 19 months.",
-            "id": "a38"
-          },
-          {
-            "title": "Spy scandal fuels Congress push to tighten China AI chip controls; White House stance key - Chosunbiz",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOREdNdUZQZXE2ZE5fN29yWHRuU1BlOXNER015akJQZk5oY05KRE0wbmtlT3pDX1ZLVWhrYWF4UUQ4MXQxNTJoTWtlbk82WGs4S3pOV05HRjZ4ZGdBSWVpTDh2cHpEd0N6Q09sQUxlUUJQWm9zbDBlNkQ3QTJXM3N4VXpkd0JDdE5U0gGcAUFVX3lxTFBrTVRrcHE5Qi1xdFVHaUQwMW5HT2R2Qkdma19CNVVfS2VGUmYyVEkteUlyYTB0VmtpeEhPeThPajZXS3RWY0JhMVBRajBrZHduR3lHbW5HeWJocmFxRnBpeHhqLXhiTnFhS3piaG9LYjNfNmN0V2ljbnlzMXg4bXlJLTRuekJQLTBldFF3cmtqVW55Uklkd2NUVGhIRQ?oc=5",
-            "description": "Spy scandal fuels Congress push to tighten China AI chip controls; White House stance key Chosunbiz",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-10T01:59:00.000Z",
-            "fetchedAt": "2026-11-11T00:55:09.357Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Chosunbiz",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Spy scandal fuels Congress push to tighten China AI chip controls; White House stance key Chosunbiz",
             "id": "a39"
           },
           {
@@ -22832,7 +22851,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-09T10:58:11.000Z",
-            "fetchedAt": "2026-11-11T00:55:07.400Z",
+            "fetchedAt": "2026-11-11T08:25:41.859Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22851,7 +22870,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-09T08:30:00.000Z",
-            "fetchedAt": "2026-11-11T00:55:07.763Z",
+            "fetchedAt": "2026-11-11T08:25:42.140Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22861,11 +22880,30 @@ export const NEWS_DATA = {
             "stakeholders": [],
             "summary": "Years after China’s 2020 ASI wave, a Chinese ASI has again targeted European IP enforcement, prompting a Dutch AASI backed by penalties of €1 million per day, capped at €100 million. Although the Dutch case concerns trademarks, the confrontation has significant implications for cross-border patent litigation.",
             "id": "a42"
+          },
+          {
+            "title": "China rechaza las acusaciones de espionaje mientras el escándalo del CEO sacude a Nvidia",
+            "url": "https://www.mobileworldlive.com/spanish/china-rechaza-las-acusaciones-de-espionaje-mientras-el-escandalo-del-ceo-sacude-a-nvidia/",
+            "description": "Pekín rechaza las acusaciones de espionaje contra Nvidia, después de que la empresa abriera una investigación sobre su CEO, Jensen Read more... The post China rechaza las acusaciones de espionaje mientras el escándalo del CEO sacude a Nvidia appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-11-09T08:00:19.000Z",
+            "fetchedAt": "2026-11-11T08:25:41.859Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Pekín rechaza las acusaciones de espionaje contra Nvidia, después de que la empresa abriera una investigación sobre su CEO, Jensen Read more... The post China rechaza las acusaciones de espionaje mientras el escándalo del CEO sacude a Nvidia appeared first on Mobile World Live.",
+            "id": "a44"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-11-11T00:55:09.398Z",
+        "generatedAt": "2026-11-11T08:25:44.146Z",
         "date": "2026-11-11",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -22876,7 +22914,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-11-11T00:55:09.398Z",
+        "generatedAt": "2026-11-11T08:25:44.146Z",
         "date": "2026-11-11",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -22886,7 +22924,7 @@ export const NEWS_DATA = {
             {
               "text": "Mobile Chips: Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk ha",
               "articleIds": [
-                "a11"
+                "a19"
               ],
               "subCategory": "mobile-chips"
             }
@@ -22901,7 +22939,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-10T17:39:51.000Z",
-            "fetchedAt": "2026-11-11T00:55:02.685Z",
+            "fetchedAt": "2026-11-11T08:25:37.109Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -22911,12 +22949,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk has called “utterly false,” and SpaceX is already building a nationwide 5G network with Qualcomm.",
-            "id": "a11"
+            "id": "a19"
           }
         ]
       }
     },
-    "totalArticles": 44
+    "totalArticles": 45
   }
 };
 
