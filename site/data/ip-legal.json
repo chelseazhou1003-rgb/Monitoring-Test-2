@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T16:38:35.919Z",
+  "generatedAt": "2026-11-11T23:06:36.394Z",
   "date": "2026-11-12",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
@@ -9,7 +9,7 @@
       {
         "text": "FRAND & Licensing: Representatives from Warner Bros Discovery, Qualcomm, Avanci and LexisNexis debated revenue-based fees, technological lock-in and competing pools at LES meeting",
         "articleIds": [
-          "a36"
+          "a41"
         ],
         "subCategory": "frand-licensing"
       }
@@ -24,7 +24,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-09T13:18:05.000Z",
-      "fetchedAt": "2026-11-11T16:38:26.005Z",
+      "fetchedAt": "2026-11-11T23:06:33.203Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Representatives from Warner Bros Discovery, Qualcomm, Avanci and LexisNexis debated revenue-based fees, technological lock-in and competing pools at LES meeting",
-      "id": "a36"
+      "id": "a41"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T16:38:35.919Z",
+  "generatedAt": "2026-11-11T23:06:36.394Z",
   "date": "2026-11-12",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,7 +9,7 @@
       {
         "text": "Mobile Chips: Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk ha",
         "articleIds": [
-          "a25"
+          "a35"
         ],
         "subCategory": "mobile-chips"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-10T17:39:51.000Z",
-      "fetchedAt": "2026-11-11T16:38:23.686Z",
+      "fetchedAt": "2026-11-11T23:06:31.137Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -34,7 +34,7 @@
         "oem"
       ],
       "summary": "Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk has called “utterly false,” and SpaceX is already building a nationwide 5G network with Qualcomm.",
-      "id": "a25"
+      "id": "a35"
     }
   ]
 }

@@ -1,11 +1,38 @@
 {
-  "generatedAt": "2026-11-11T16:38:35.919Z",
+  "generatedAt": "2026-11-11T23:06:36.394Z",
   "date": "2026-11-12",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "One article today covering Data Center. Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI), is positioning itself as a full-stack supplier to AI data centres, with ambitions to capture up to $50 billion ",
+    "keyTakeaways": [
+      {
+        "text": "Data Center: Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI), is positioning itself as a full-stack supplier to AI data centres, with ambitions to capture up to $50 billion of a rapidly expanding market. Bank of America (Bo",
+        "articleIds": [
+          "a11"
+        ],
+        "subCategory": "data-center"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Qualcomm's AI data centre ambitions offer upside, but Bank of America remains cautious",
+      "url": "https://www.proactiveinvestors.com/companies/news/1101613/qualcomm-s-ai-data-centre-ambitions-offer-upside-but-bank-of-america-remains-cautious-1101613.html?.tsrc=rss",
+      "description": "Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI), is positioning itself as a full-stack supplier to AI data centres, with ambitions to capture up to $50 billion of a rapidly expanding market. Bank of America (BoA) maintained its 'underperform' rating despite growing confidence in Qualcomm's emerging...",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-11T17:50:00.000Z",
+      "fetchedAt": "2026-11-11T23:06:31.137Z",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "data-center",
+      "subLabel": "Data Center",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI), is positioning itself as a full-stack supplier to AI data centres, with ambitions to capture up to $50 billion of a rapidly expanding market. Bank of America (BoA) maintained its 'underperform' rating despite growing confidence in Qualcomm's emerging...",
+      "id": "a11"
+    }
+  ]
 }
