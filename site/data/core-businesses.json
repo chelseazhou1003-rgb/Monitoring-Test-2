@@ -1,35 +1,89 @@
 {
-  "generatedAt": "2026-11-11T08:25:44.146Z",
-  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T16:38:35.919Z",
+  "date": "2026-11-12",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (1 article), Wireless Communication (1 article). A total of 7 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (2 articles), Wireless Communication (1 article). A total of 8 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: The growth in Qualcomm's non-handset business could supercharge the stock's performance following poor returns in 2026.",
+        "text": "Semiconductors: ETFs bought $293.8 million of Qualcomm (QCOM) on Monday, Nov. 9, with 35 buyers against 17 sellers.",
         "articleIds": [
-          "a15"
+          "a7"
         ],
         "subCategory": "semiconductors"
       },
       {
-        "text": "Mobile Chips: Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk ha",
+        "text": "Mobile Chips: QUALCOMM (NasdaqGS:QCOM) is working with Kora Systems on a new Linux-based AI desktop operating system tuned for Snapdragon chips. Kora Systems, founded by Cyanogen co-founder Kirt McMaster, unveiled ",
         "articleIds": [
-          "a19"
+          "a8"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Wireless Communication: Elon Musk's plans for a fourth American 5G network look both reactionary and radical, with potential consequences for the whole telecom industry.",
         "articleIds": [
-          "a43"
+          "a37"
         ],
         "subCategory": "wireless"
       }
     ]
   },
   "articles": [
+    {
+      "title": "ETFs Bought $293.8 Million of Qualcomm (QCOM) on Nov. 9",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-293-8-million-110143068.html?.tsrc=rss",
+      "description": "ETFs bought $293.8 million of Qualcomm (QCOM) on Monday, Nov. 9, with 35 buyers against 17 sellers.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-11T11:01:43.000Z",
+      "fetchedAt": "2026-11-11T16:38:23.686Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "ETFs bought $293.8 million of Qualcomm (QCOM) on Monday, Nov. 9, with 35 buyers against 17 sellers.",
+      "id": "a7"
+    },
+    {
+      "title": "What Is QUALCOMM (QCOM) Signaling With Its New AI PC OS Partnership?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-signaling-ai-pc-101351663.html?.tsrc=rss",
+      "description": "QUALCOMM (NasdaqGS:QCOM) is working with Kora Systems on a new Linux-based AI desktop operating system tuned for Snapdragon chips. Kora Systems, founded by Cyanogen co-founder Kirt McMaster, unveiled the AI focused desktop OS for Snapdragon powered PCs. The platform is built around on device AI workloads, aligning with Qualcomm's push into AI capable personal computers beyond smartphones. This new Kora Systems Linux AI OS for Snapdragon PCs is only one piece of what is changing for Qualcomm...",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-11T10:13:51.000Z",
+      "fetchedAt": "2026-11-11T16:38:23.686Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "QUALCOMM (NasdaqGS:QCOM) is working with Kora Systems on a new Linux-based AI desktop operating system tuned for Snapdragon chips. Kora Systems, founded by Cyanogen co-founder Kirt McMaster, unveiled the AI focused desktop OS for Snapdragon powered PCs. The platform is built around on device AI workloads, aligning with Qualcomm's push into AI capable personal computers beyond smartphones. This new Kora Systems Linux AI OS for Snapdragon PCs is only one piece of what is changing for Qualcomm...",
+      "id": "a8"
+    },
+    {
+      "title": "Sandisk Sinks 24% in a Week on “Industry-Wide Memory Dynamics”: Time to Sell, or Load Up?",
+      "url": "https://www.tikr.com/blog/sandisk-sinks-24-in-a-week-on-industry-wide-memory-dynamics-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261111-cqrh6hh8&.tsrc=rss",
+      "description": "Key TakeawaysSandisk fell 24% in a week after the midterms and a Qualcomm warning on memory costs, and Micron and SK hynix fell too. Sandisk’s own quarter held up, but its flash price gains are slowing.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-11T03:42:59.000Z",
+      "fetchedAt": "2026-11-11T16:38:23.686Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Key TakeawaysSandisk fell 24% in a week after the midterms and a Qualcomm warning on memory costs, and Micron and SK hynix fell too. Sandisk’s own quarter held up, but its flash price gains are slowing.",
+      "id": "a17"
+    },
     {
       "title": "Prediction: This Underrated Semiconductor Stock Will Jump 187% in 3 Years",
       "url": "https://www.fool.com/investing/2026/11/10/prediction-this-underrated-semiconductor-stock-will-jump-187-in-3-years/?.tsrc=rss",
@@ -38,7 +92,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-10T21:14:02.000Z",
-      "fetchedAt": "2026-11-11T08:25:37.108Z",
+      "fetchedAt": "2026-11-11T16:38:23.686Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -46,7 +100,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The growth in Qualcomm's non-handset business could supercharge the stock's performance following poor returns in 2026.",
-      "id": "a15"
+      "id": "a23"
     },
     {
       "title": "Exclusive: Qualcomm begins job cuts; India and California among regions impacted",
@@ -56,7 +110,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-10T18:41:12.000Z",
-      "fetchedAt": "2026-11-11T08:25:37.108Z",
+      "fetchedAt": "2026-11-11T16:38:23.686Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -64,7 +118,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Investing.com — Qualcomm has begun rolling out planned job cuts across its global operations, affecting employees in India and California, according to people familiar with the company’s plans.",
-      "id": "a18"
+      "id": "a24"
     },
     {
       "title": "Apple Just Hit $5 Trillion. Its “Biggest Competition” Is a SpaceX Phone, Says Gene Munster",
@@ -74,7 +128,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-10T17:39:51.000Z",
-      "fetchedAt": "2026-11-11T08:25:37.109Z",
+      "fetchedAt": "2026-11-11T16:38:23.686Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -84,7 +138,7 @@
         "oem"
       ],
       "summary": "Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk has called “utterly false,” and SpaceX is already building a nationwide 5G network with Qualcomm.",
-      "id": "a19"
+      "id": "a25"
     },
     {
       "title": "Qualcomm vs. Western Digital: Which Tech Stock Is a Better Buy for 2027?",
@@ -94,7 +148,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-10T13:44:02.000Z",
-      "fetchedAt": "2026-11-11T08:25:37.108Z",
+      "fetchedAt": "2026-11-11T16:38:23.686Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -102,43 +156,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm's chip empire faces a customer concentration question, while Western Digital's storage margins look almost too good to be true.",
-      "id": "a32"
-    },
-    {
-      "title": "ETFs Are Net Sellers of Qualcomm (QCOM) on Nov. 6",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-qualcomm-qcom-110254420.html?.tsrc=rss",
-      "description": "ETFs sold a net $199.6 million of Qualcomm stock on Friday, Nov. 6.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-10T11:02:54.000Z",
-      "fetchedAt": "2026-11-11T08:25:37.109Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "ETFs sold a net $199.6 million of Qualcomm stock on Friday, Nov.",
-      "id": "a37"
-    },
-    {
-      "title": "At 13x earnings, is Qualcomm the most overlooked AI chip stock?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/13x-earnings-qualcomm-most-overlooked-103822244.html?.tsrc=rss",
-      "description": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-10T10:38:22.000Z",
-      "fetchedAt": "2026-11-11T08:25:37.109Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
-      "id": "a38"
+      "id": "a34"
     },
     {
       "title": "SpaceX and Qualcomm threaten to topple US market's cozy 5G order",
@@ -148,7 +166,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-09T08:30:00.000Z",
-      "fetchedAt": "2026-11-11T08:25:42.040Z",
+      "fetchedAt": "2026-11-11T16:38:33.998Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -156,7 +174,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Elon Musk's plans for a fourth American 5G network look both reactionary and radical, with potential consequences for the whole telecom industry.",
-      "id": "a43"
+      "id": "a37"
     }
   ]
 }
