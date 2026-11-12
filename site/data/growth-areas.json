@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-12T13:17:53.389Z",
-  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T21:08:03.388Z",
+  "date": "2026-11-13",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "One article today covering Data Center. Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI), is positioning itself as a full-stack supplier to AI data centres, with ambitions to capture up to $50 billion ",
+    "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Data Center: Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI), is positioning itself as a full-stack supplier to AI data centres, with ambitions to capture up to $50 billion of a rapidly expanding market. Bank of America (Bo",
+        "text": "Data Center: QCOM targets $5 billion in fiscal 2027 data center sales, but customer concentration, margin pressure and heavy investments put its execution to the test.",
         "articleIds": [
-          "a31"
+          "a11"
         ],
         "subCategory": "data-center"
       }
@@ -17,22 +17,40 @@
   },
   "articles": [
     {
-      "title": "Qualcomm's AI data centre ambitions offer upside, but Bank of America remains cautious",
-      "url": "https://www.proactiveinvestors.com/companies/news/1101613/qualcomm-s-ai-data-centre-ambitions-offer-upside-but-bank-of-america-remains-cautious-1101613.html?.tsrc=rss",
-      "description": "Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI), is positioning itself as a full-stack supplier to AI data centres, with ambitions to capture up to $50 billion of a rapidly expanding market. Bank of America (BoA) maintained its 'underperform' rating despite growing confidence in Qualcomm's emerging...",
+      "title": "Qualcomm's $5 Billion Data Center Ramp Puts Execution in Focus Now",
+      "url": "https://finance.yahoo.com/technology/articles/qualcomms-5-billion-data-center-174700875.html?.tsrc=rss",
+      "description": "QCOM targets $5 billion in fiscal 2027 data center sales, but customer concentration, margin pressure and heavy investments put its execution to the test.",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-11-11T17:50:00.000Z",
-      "fetchedAt": "2026-11-12T13:17:45.916Z",
+      "publishedAt": "2026-11-12T17:47:00.000Z",
+      "fetchedAt": "2026-11-12T21:07:57.583Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
       "subLabel": "Data Center",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI), is positioning itself as a full-stack supplier to AI data centres, with ambitions to capture up to $50 billion of a rapidly expanding market. Bank of America (BoA) maintained its 'underperform' rating despite growing confidence in Qualcomm's emerging...",
-      "id": "a31"
+      "summary": "QCOM targets $5 billion in fiscal 2027 data center sales, but customer concentration, margin pressure and heavy investments put its execution to the test.",
+      "id": "a11"
+    },
+    {
+      "title": "Qualcomm CEO on $15B data-center goal: 'We're very confident'",
+      "url": "https://finance.yahoo.com/video/qualcomm-ceo-on-15b-data-center-goal-were-very-confident-134257800.html?.tsrc=rss",
+      "description": "Qualcomm (QCOM) CEO Cristiano Amon joins Yahoo Finance Executive Editor Brian Sozzi and Yahoo Finance host Deirdre Bosa at Yahoo Finance's 2026 Invest conference to defend the company's data center targets of $5 billion next fiscal year and $15 billion in fiscal 2029.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-12T13:42:57.000Z",
+      "fetchedAt": "2026-11-12T21:07:57.583Z",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "data-center",
+      "subLabel": "Data Center",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm (QCOM) CEO Cristiano Amon joins Yahoo Finance Executive Editor Brian Sozzi and Yahoo Finance host Deirdre Bosa at Yahoo Finance's 2026 Invest conference to defend the company's data center targets of $5 billion next fiscal year and $15 billion in fiscal 2029.",
+      "id": "a29"
     }
   ]
 }

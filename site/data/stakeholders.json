@@ -1,40 +1,42 @@
 {
-  "generatedAt": "2026-11-12T13:17:53.389Z",
-  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T21:08:03.388Z",
+  "date": "2026-11-13",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "One article today covering Mobile Chips. Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s bigge",
+    "summary": "One article today covering Geopolitics & Export Controls. Microsoft Pushes Trump Administration to Avoid China Optical Chip Ban That Could Slow US AI Data Centre Expansion Tekedia",
     "keyTakeaways": [
       {
-        "text": "Mobile Chips: Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk ha",
+        "text": "Geopolitics & Export Controls: Microsoft Pushes Trump Administration to Avoid China Optical Chip Ban That Could Slow US AI Data Centre Expansion Tekedia",
         "articleIds": [
-          "a40"
+          "a33"
         ],
-        "subCategory": "mobile-chips"
+        "subCategory": "geopolitics-export-controls"
       }
     ]
   },
   "articles": [
     {
-      "title": "Apple Just Hit $5 Trillion. Its “Biggest Competition” Is a SpaceX Phone, Says Gene Munster",
-      "url": "https://www.tikr.com/blog/apple-just-hit-5-trillion-its-biggest-competition-is-a-spacex-phone-says-gene-munster?ref=yahoofinance&tlnk=yf-261110-3p7pmqj7&.tsrc=rss",
-      "description": "Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk has called “utterly false,” and SpaceX is already building a nationwide 5G network with Qualcomm.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
+      "title": "Microsoft Pushes Trump Administration to Avoid China Optical Chip Ban That Could Slow US AI Data Centre Expansion - Tekedia",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdXJJYVFJandESU5uenJvT2tfZVU5eUk3cXk4WEstUGplZTY1eC1LbmpoNHNMYWpiY19HVmlhbG4yeEJTR0JuZUNOUkt0THRHQWJXY3VMSXhxLWJEVmlHQWw2M1RZTE5CYVFvaWtDWVo1amhNOXRkQ1ExQ2RuamZyOE0tcUJJVVNRbmpkX0lXSGhwcWxCVFA2cTJqcXhKb0lJNF9lY1FCYjBxaXhVWFJWZnFMVW5zOEtLdWFyV3hmVFkxaE1Xc1dBS2V4QlF2QmVDQ1RoYQ?oc=5",
+      "description": "Microsoft Pushes Trump Administration to Avoid China Optical Chip Ban That Could Slow US AI Data Centre Expansion Tekedia",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
       "sourceGroup": "finance",
-      "publishedAt": "2026-11-10T17:39:51.000Z",
-      "fetchedAt": "2026-11-12T13:17:45.916Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
+      "publishedAt": "2026-11-12T12:39:41.000Z",
+      "fetchedAt": "2026-11-12T21:08:03.346Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Tekedia",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [
-        "oem"
+        "platform-partner"
       ],
-      "summary": "Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s biggest competition is a SpaceX phone that Elon Musk has called “utterly false,” and SpaceX is already building a nationwide 5G network with Qualcomm.",
-      "id": "a40"
+      "summary": "Microsoft Pushes Trump Administration to Avoid China Optical Chip Ban That Could Slow US AI Data Centre Expansion Tekedia",
+      "id": "a33"
     }
   ]
 }

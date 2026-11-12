@@ -1,38 +1,11 @@
 {
-  "generatedAt": "2026-11-12T13:17:53.389Z",
-  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T21:08:03.388Z",
+  "date": "2026-11-13",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "One article today covering FRAND & Licensing. Representatives from Warner Bros Discovery, Qualcomm, Avanci and LexisNexis debated revenue-based fees, technological lock-in and competing pools at L",
-    "keyTakeaways": [
-      {
-        "text": "FRAND & Licensing: Representatives from Warner Bros Discovery, Qualcomm, Avanci and LexisNexis debated revenue-based fees, technological lock-in and competing pools at LES meeting",
-        "articleIds": [
-          "a43"
-        ],
-        "subCategory": "frand-licensing"
-      }
-    ]
+    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+    "keyTakeaways": []
   },
-  "articles": [
-    {
-      "title": "Video streaming licensing divides deepen over royalties and codec choice",
-      "url": "https://www.iam-media.com/article/video-streaming-licensing-divides-deepen-over-royalties-and-codec-choice",
-      "description": "Representatives from Warner Bros Discovery, Qualcomm, Avanci and LexisNexis debated revenue-based fees, technological lock-in and competing pools at LES meeting",
-      "source": "IAM",
-      "sourceId": "iam",
-      "sourceGroup": "ip",
-      "publishedAt": "2026-11-09T13:18:05.000Z",
-      "fetchedAt": "2026-11-12T13:17:48.827Z",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "frand-licensing",
-      "subLabel": "FRAND & Licensing",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Representatives from Warner Bros Discovery, Qualcomm, Avanci and LexisNexis debated revenue-based fees, technological lock-in and competing pools at LES meeting",
-      "id": "a43"
-    }
-  ]
+  "articles": []
 }
