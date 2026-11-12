@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-12T04:21:23.620Z",
+  "generatedAt": "2026-11-12T13:17:53.391Z",
   "date": "2026-11-12",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 7,
-      "topHeadline": "ETFs Bought $293.8 Million of Qualcomm (QCOM) on Nov. 9",
-      "topHeadlineId": "a26",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles), Wireless Communication (1 article). A total of 7 articles were aggregated from monitored sources."
+      "topHeadline": "Semiconductor ETFs to Buy as Qualcomm Plunges Despite Q4 Earnings Beat",
+      "topHeadlineId": "a8",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (2 articles). A total of 7 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 1,
       "topHeadline": "Video streaming licensing divides deepen over royalties and codec choice",
-      "topHeadlineId": "a44",
+      "topHeadlineId": "a43",
       "briefingSummary": "One article today covering FRAND & Licensing. Representatives from Warner Bros Discovery, Qualcomm, Avanci and LexisNexis debated revenue-based fees, technological lock-in and competing pools at L"
     },
     "growth-areas": {
       "title": "Growth Areas",
       "articleCount": 1,
       "topHeadline": "Qualcomm's AI data centre ambitions offer upside, but Bank of America remains cautious",
-      "topHeadlineId": "a22",
+      "topHeadlineId": "a31",
       "briefingSummary": "One article today covering Data Center. Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI), is positioning itself as a full-stack supplier to AI data centres, with ambitions to capture up to $50 billion "
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 36,
-      "topHeadline": "What we know so far about Nvidia partner Megaspeed’s Asia footprint",
+      "articleCount": 34,
+      "topHeadline": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (30 articles), market-performance (4 articles), Customers & Partners (2 articles). A total of 36 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (31 articles), Customers & Partners (2 articles), market-performance (1 article). A total of 34 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -41,9 +41,9 @@
       "title": "Key Stakeholders",
       "articleCount": 1,
       "topHeadline": "Apple Just Hit $5 Trillion. Its “Biggest Competition” Is a SpaceX Phone, Says Gene Munster",
-      "topHeadlineId": "a38",
+      "topHeadlineId": "a40",
       "briefingSummary": "One article today covering Mobile Chips. Key TakeawaysApple closed above $350 for the first time on Monday, which took its market value back above $5 trillion. Gene Munster says Apple’s bigge"
     }
   },
-  "totalArticles": 46
+  "totalArticles": 44
 }
