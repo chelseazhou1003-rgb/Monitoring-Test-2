@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T23:06:36.394Z",
+  "generatedAt": "2026-11-12T04:21:23.619Z",
   "date": "2026-11-12",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -9,7 +9,7 @@
       {
         "text": "Data Center: Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI), is positioning itself as a full-stack supplier to AI data centres, with ambitions to capture up to $50 billion of a rapidly expanding market. Bank of America (Bo",
         "articleIds": [
-          "a11"
+          "a22"
         ],
         "subCategory": "data-center"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-11T17:50:00.000Z",
-      "fetchedAt": "2026-11-11T23:06:31.137Z",
+      "fetchedAt": "2026-11-12T04:21:17.033Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI), is positioning itself as a full-stack supplier to AI data centres, with ambitions to capture up to $50 billion of a rapidly expanding market. Bank of America (BoA) maintained its 'underperform' rating despite growing confidence in Qualcomm's emerging...",
-      "id": "a11"
+      "id": "a22"
     }
   ]
 }
