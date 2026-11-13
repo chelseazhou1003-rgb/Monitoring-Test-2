@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T02:09:47.096Z",
+  "generatedAt": "2026-11-13T10:03:13.975Z",
   "date": "2026-11-13",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,7 +9,7 @@
       {
         "text": "Geopolitics & Export Controls: Microsoft Pushes Trump Administration to Avoid China Optical Chip Ban That Could Slow US AI Data Centre Expansion Tekedia",
         "articleIds": [
-          "a34"
+          "a37"
         ],
         "subCategory": "geopolitics-export-controls"
       }
@@ -24,7 +24,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-12T12:39:41.000Z",
-      "fetchedAt": "2026-11-13T02:09:47.042Z",
+      "fetchedAt": "2026-11-13T10:03:13.928Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Tekedia",
       "geopoliticalBypass": true,
@@ -36,7 +36,7 @@
         "platform-partner"
       ],
       "summary": "Microsoft Pushes Trump Administration to Avoid China Optical Chip Ban That Could Slow US AI Data Centre Expansion Tekedia",
-      "id": "a34"
+      "id": "a37"
     }
   ]
 }
