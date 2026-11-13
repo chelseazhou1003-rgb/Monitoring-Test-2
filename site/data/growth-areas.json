@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T18:07:27.750Z",
+  "generatedAt": "2026-11-13T23:55:16.248Z",
   "date": "2026-11-14",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -9,7 +9,7 @@
       {
         "text": "Data Center: QCOM targets $5 billion in fiscal 2027 data center sales, but customer concentration, margin pressure and heavy investments put its execution to the test.",
         "articleIds": [
-          "a37"
+          "a32"
         ],
         "subCategory": "data-center"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-12T17:47:00.000Z",
-      "fetchedAt": "2026-11-13T18:07:21.124Z",
+      "fetchedAt": "2026-11-13T23:55:09.640Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QCOM targets $5 billion in fiscal 2027 data center sales, but customer concentration, margin pressure and heavy investments put its execution to the test.",
-      "id": "a37"
+      "id": "a32"
     }
   ]
 }

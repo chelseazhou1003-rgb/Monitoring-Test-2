@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-13T18:07:27.750Z",
+  "generatedAt": "2026-11-13T23:55:16.247Z",
   "date": "2026-11-14",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (2 articles). A total of 8 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles). A total of 6 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Semiconductors: Qualcomm CEO Cristiano Amon joins Deirdre Bosa and Brian Sozzi at Yahoo Finance's 2026 Invest conference.",
         "articleIds": [
-          "a12"
+          "a16"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Starlink Mobile will face some hurdles, but it has a few things working in its favor, too.",
         "articleIds": [
-          "a41"
+          "a35"
         ],
         "subCategory": "mobile-chips"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-13T15:08:49.000Z",
-      "fetchedAt": "2026-11-13T18:07:21.124Z",
+      "fetchedAt": "2026-11-13T23:55:09.640Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -39,7 +39,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm CEO Cristiano Amon joins Deirdre Bosa and Brian Sozzi at Yahoo Finance's 2026 Invest conference.",
-      "id": "a12"
+      "id": "a16"
     },
     {
       "title": "Is Freedom Capital Markets Wrong to Give Up on Qualcomm? Wall Street Still Sees $185",
@@ -49,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-13T09:23:03.000Z",
-      "fetchedAt": "2026-11-13T18:07:21.124Z",
+      "fetchedAt": "2026-11-13T23:55:09.640Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -57,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysFreedom Capital Markets downgraded Qualcomm to Hold from Buy on Nov. 9 and cut its price target to $185 from $200, the same as the consensus target.",
-      "id": "a22"
+      "id": "a24"
     },
     {
       "title": "SpaceX's New Deal with Qualcomm Aims to Take on Mobile Carriers. History Says It's Going to Be an Uphill Battle.",
@@ -67,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-12T15:41:02.000Z",
-      "fetchedAt": "2026-11-13T18:07:21.124Z",
+      "fetchedAt": "2026-11-13T23:55:09.640Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -75,7 +75,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Starlink Mobile will face some hurdles, but it has a few things working in its favor, too.",
-      "id": "a41"
+      "id": "a35"
     },
     {
       "title": "How Much Should One Number Worry Qualcomm Stock Holders?",
@@ -85,7 +85,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-12T15:13:00.000Z",
-      "fetchedAt": "2026-11-13T18:07:21.124Z",
+      "fetchedAt": "2026-11-13T23:55:09.640Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -93,7 +93,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "id": "a42"
+      "id": "a36"
     },
     {
       "title": "Qualcomm CEO: AI won't replace your smartphone anytime soon",
@@ -103,7 +103,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-12T15:01:40.000Z",
-      "fetchedAt": "2026-11-13T18:07:21.124Z",
+      "fetchedAt": "2026-11-13T23:55:09.640Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -111,7 +111,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm CEO Cristiano Amon says how you use your phone will change because of AI.",
-      "id": "a43"
+      "id": "a37"
     },
     {
       "title": "Qualcomm CEO on tech stock meltdown: 'There is no AI correction' for us",
@@ -121,7 +121,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-12T14:21:55.000Z",
-      "fetchedAt": "2026-11-13T18:07:21.124Z",
+      "fetchedAt": "2026-11-13T23:55:09.640Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -129,43 +129,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm CEO Cristiano Amon is staying bullish on his prospects despite the tech stock meltdown.",
-      "id": "a44"
-    },
-    {
-      "title": "Silicon Motion Vs. Qualcomm: Which Chipmaker Has More Potential?",
-      "url": "https://finance.yahoo.com/technology/articles/silicon-motion-vs-qualcomm-chipmaker-140700645.html?.tsrc=rss",
-      "description": "SIMO outshines QCOM in stock performance, earnings estimates and valuation to be the better semiconductor investment.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-12T14:07:00.000Z",
-      "fetchedAt": "2026-11-13T18:07:21.124Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "SIMO outshines QCOM in stock performance, earnings estimates and valuation to be the better semiconductor investment.",
-      "id": "a45"
-    },
-    {
-      "title": "A $548 Million Reason to Watch Qualcomm Stock Here",
-      "url": "https://www.barchart.com/story/news/8801121/a-548-million-reason-to-watch-qualcomm-stock-here?.tsrc=rss",
-      "description": "Alphabet just invested in Qualcomm for the first time ever.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-12T14:00:03.000Z",
-      "fetchedAt": "2026-11-13T18:07:21.124Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Alphabet just invested in Qualcomm for the first time ever.",
-      "id": "a46"
+      "id": "a38"
     }
   ]
 }

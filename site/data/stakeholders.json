@@ -1,41 +1,11 @@
 {
-  "generatedAt": "2026-11-13T18:07:27.750Z",
+  "generatedAt": "2026-11-13T23:55:16.248Z",
   "date": "2026-11-14",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "One article today covering Geopolitics & Export Controls. Get a jump start on the US trading day on \"Bloomberg Open Interest.\"Microsoft races to recover from a global outage disrupting users worldwide. Plus, ",
-    "keyTakeaways": [
-      {
-        "text": "Geopolitics & Export Controls: Get a jump start on the US trading day on \"Bloomberg Open Interest.\"Microsoft races to recover from a global outage disrupting users worldwide. Plus, Nvidia’s crisis turns into a US, China chip showdo",
-        "articleIds": [
-          "a5"
-        ],
-        "subCategory": "geopolitics-export-controls"
-      }
-    ]
+    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+    "keyTakeaways": []
   },
-  "articles": [
-    {
-      "title": "Nvidia Crisis Fuels US and China Chip Showdown",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-13/open-interest-11-13-2026-video",
-      "description": "Get a jump start on the US trading day on \"Bloomberg Open Interest.\"Microsoft races to recover from a global outage disrupting users worldwide. Plus, Nvidia’s crisis turns into a US, China chip showdown ahead of a Trump-Xi meeting. Plus, Anthropic’s blockbuster IPO demand, what lingering Iran risks could mean for markets and Boston Fed President Susan Collins join us for an exclusive interview on why more rate tightening is needed. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-13T17:09:57.000Z",
-      "fetchedAt": "2026-11-13T18:07:21.210Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Get a jump start on the US trading day on \"Bloomberg Open Interest.\"Microsoft races to recover from a global outage disrupting users worldwide. Plus, Nvidia’s crisis turns into a US, China chip showdown ahead of a Trump-Xi meeting. Plus, Anthropic’s blockbuster IPO demand, what lingering Iran risks could mean for markets and Boston Fed President Susan Collins join us for an exclusive interview on why more rate tightening is needed.",
-      "id": "a5"
-    }
-  ]
+  "articles": []
 }
