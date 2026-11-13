@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-13T10:03:13.975Z",
-  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T18:07:27.750Z",
+  "date": "2026-11-14",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "One article today covering Data Center. QCOM targets $5 billion in fiscal 2027 data center sales, but customer concentration, margin pressure and heavy investments put its execution to the t",
     "keyTakeaways": [
       {
         "text": "Data Center: QCOM targets $5 billion in fiscal 2027 data center sales, but customer concentration, margin pressure and heavy investments put its execution to the test.",
         "articleIds": [
-          "a20"
+          "a37"
         ],
         "subCategory": "data-center"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-12T17:47:00.000Z",
-      "fetchedAt": "2026-11-13T10:03:08.155Z",
+      "fetchedAt": "2026-11-13T18:07:21.124Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -32,25 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QCOM targets $5 billion in fiscal 2027 data center sales, but customer concentration, margin pressure and heavy investments put its execution to the test.",
-      "id": "a20"
-    },
-    {
-      "title": "Qualcomm CEO on $15B data-center goal: 'We're very confident'",
-      "url": "https://finance.yahoo.com/video/qualcomm-ceo-on-15b-data-center-goal-were-very-confident-134257800.html?.tsrc=rss",
-      "description": "Qualcomm (QCOM) CEO Cristiano Amon joins Yahoo Finance Executive Editor Brian Sozzi and Yahoo Finance host Deirdre Bosa at Yahoo Finance's 2026 Invest conference to defend the company's data center targets of $5 billion next fiscal year and $15 billion in fiscal 2029.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-12T13:42:57.000Z",
-      "fetchedAt": "2026-11-13T10:03:08.155Z",
-      "fetchStrategy": "rss",
-      "section": "growth-areas",
-      "subCategory": "data-center",
-      "subLabel": "Data Center",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm (QCOM) CEO Cristiano Amon joins Yahoo Finance Executive Editor Brian Sozzi and Yahoo Finance host Deirdre Bosa at Yahoo Finance's 2026 Invest conference to defend the company's data center targets of $5 billion next fiscal year and $15 billion in fiscal 2029.",
-      "id": "a34"
+      "id": "a37"
     }
   ]
 }

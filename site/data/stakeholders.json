@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-13T10:03:13.975Z",
-  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T18:07:27.750Z",
+  "date": "2026-11-14",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "One article today covering Geopolitics & Export Controls. Microsoft Pushes Trump Administration to Avoid China Optical Chip Ban That Could Slow US AI Data Centre Expansion Tekedia",
+    "summary": "One article today covering Geopolitics & Export Controls. Get a jump start on the US trading day on \"Bloomberg Open Interest.\"Microsoft races to recover from a global outage disrupting users worldwide. Plus, ",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Microsoft Pushes Trump Administration to Avoid China Optical Chip Ban That Could Slow US AI Data Centre Expansion Tekedia",
+        "text": "Geopolitics & Export Controls: Get a jump start on the US trading day on \"Bloomberg Open Interest.\"Microsoft races to recover from a global outage disrupting users worldwide. Plus, Nvidia’s crisis turns into a US, China chip showdo",
         "articleIds": [
-          "a37"
+          "a5"
         ],
         "subCategory": "geopolitics-export-controls"
       }
@@ -17,16 +17,15 @@
   },
   "articles": [
     {
-      "title": "Microsoft Pushes Trump Administration to Avoid China Optical Chip Ban That Could Slow US AI Data Centre Expansion - Tekedia",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdXJJYVFJandESU5uenJvT2tfZVU5eUk3cXk4WEstUGplZTY1eC1LbmpoNHNMYWpiY19HVmlhbG4yeEJTR0JuZUNOUkt0THRHQWJXY3VMSXhxLWJEVmlHQWw2M1RZTE5CYVFvaWtDWVo1amhNOXRkQ1ExQ2RuamZyOE0tcUJJVVNRbmpkX0lXSGhwcWxCVFA2cTJqcXhKb0lJNF9lY1FCYjBxaXhVWFJWZnFMVW5zOEtLdWFyV3hmVFkxaE1Xc1dBS2V4QlF2QmVDQ1RoYQ?oc=5",
-      "description": "Microsoft Pushes Trump Administration to Avoid China Optical Chip Ban That Could Slow US AI Data Centre Expansion Tekedia",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
+      "title": "Nvidia Crisis Fuels US and China Chip Showdown",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-13/open-interest-11-13-2026-video",
+      "description": "Get a jump start on the US trading day on \"Bloomberg Open Interest.\"Microsoft races to recover from a global outage disrupting users worldwide. Plus, Nvidia’s crisis turns into a US, China chip showdown ahead of a Trump-Xi meeting. Plus, Anthropic’s blockbuster IPO demand, what lingering Iran risks could mean for markets and Boston Fed President Susan Collins join us for an exclusive interview on why more rate tightening is needed. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
       "sourceGroup": "finance",
-      "publishedAt": "2026-11-12T12:39:41.000Z",
-      "fetchedAt": "2026-11-13T10:03:13.928Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Tekedia",
+      "publishedAt": "2026-11-13T17:09:57.000Z",
+      "fetchedAt": "2026-11-13T18:07:21.210Z",
+      "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
@@ -35,8 +34,8 @@
       "stakeholders": [
         "platform-partner"
       ],
-      "summary": "Microsoft Pushes Trump Administration to Avoid China Optical Chip Ban That Could Slow US AI Data Centre Expansion Tekedia",
-      "id": "a37"
+      "summary": "Get a jump start on the US trading day on \"Bloomberg Open Interest.\"Microsoft races to recover from a global outage disrupting users worldwide. Plus, Nvidia’s crisis turns into a US, China chip showdown ahead of a Trump-Xi meeting. Plus, Anthropic’s blockbuster IPO demand, what lingering Iran risks could mean for markets and Boston Fed President Susan Collins join us for an exclusive interview on why more rate tightening is needed.",
+      "id": "a5"
     }
   ]
 }
