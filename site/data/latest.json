@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-12T21:08:03.390Z",
+  "generatedAt": "2026-11-13T02:09:47.098Z",
   "date": "2026-11-13",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 10,
-      "topHeadline": "SpaceX's New Deal with Qualcomm Aims to Take on Mobile Carriers. History Says It's Going to Be an Uphill Battle.",
-      "topHeadlineId": "a18",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (7 articles), Mobile Chips (2 articles), Wireless Communication (1 article). A total of 10 articles were aggregated from monitored sources."
+      "topHeadline": "Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains - WSJ",
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (3 articles), Wireless Communication (1 article). A total of 10 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -20,15 +20,15 @@
       "title": "Growth Areas",
       "articleCount": 2,
       "topHeadline": "Qualcomm's $5 Billion Data Center Ramp Puts Execution in Focus Now",
-      "topHeadlineId": "a11",
+      "topHeadlineId": "a14",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources."
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 34,
-      "topHeadline": "Nvidia, AI Industry Face Prospect of Future Without Huang",
+      "articleCount": 31,
+      "topHeadline": "U.S. Republican Senator Urges Export Controls on China’s CXMT - Businesskorea",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (32 articles), market-performance (1 article), Customers & Partners (1 article). A total of 34 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (28 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 31 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -41,9 +41,9 @@
       "title": "Key Stakeholders",
       "articleCount": 1,
       "topHeadline": "Microsoft Pushes Trump Administration to Avoid China Optical Chip Ban That Could Slow US AI Data Centre Expansion - Tekedia",
-      "topHeadlineId": "a33",
+      "topHeadlineId": "a34",
       "briefingSummary": "One article today covering Geopolitics & Export Controls. Microsoft Pushes Trump Administration to Avoid China Optical Chip Ban That Could Slow US AI Data Centre Expansion Tekedia"
     }
   },
-  "totalArticles": 47
+  "totalArticles": 44
 }
