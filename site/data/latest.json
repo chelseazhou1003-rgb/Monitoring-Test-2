@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T23:55:16.249Z",
+  "generatedAt": "2026-11-14T07:04:03.905Z",
   "date": "2026-11-14",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 6,
-      "topHeadline": "Qualcomm CEO Cristiano Amon on fueling the AI boom",
-      "topHeadlineId": "a16",
+      "topHeadline": "Micron Technology vs. Qualcomm: Which Tech Stock Is the Better Buy for 2027?",
+      "topHeadlineId": "a3",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles). A total of 6 articles were aggregated from monitored sources."
     },
     "ip-legal": {
@@ -20,15 +20,15 @@
       "title": "Growth Areas",
       "articleCount": 1,
       "topHeadline": "Qualcomm's $5 Billion Data Center Ramp Puts Execution in Focus Now",
-      "topHeadlineId": "a32",
+      "topHeadlineId": "a23",
       "briefingSummary": "One article today covering Data Center. QCOM targets $5 billion in fiscal 2027 data center sales, but customer concentration, margin pressure and heavy investments put its execution to the t"
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 32,
-      "topHeadline": "Backdoor subsidy for AI data centers? Cato analyst says let CHIPS Act tax credit expire - fox23maine.com",
+      "articleCount": 22,
+      "topHeadline": "Bessent Blames Lutnick's Commerce Department For Not Restricting Nvidia Chip Exports - Broadband Breakfast",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (29 articles), market-performance (2 articles), Supply Chain (1 article). A total of 32 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (2 articles), Supply Chain (1 article). A total of 22 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -45,5 +45,5 @@
       "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
     }
   },
-  "totalArticles": 39
+  "totalArticles": 29
 }

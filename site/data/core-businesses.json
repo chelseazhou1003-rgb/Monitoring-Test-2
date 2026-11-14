@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T23:55:16.247Z",
+  "generatedAt": "2026-11-14T07:04:03.903Z",
   "date": "2026-11-14",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -7,22 +7,40 @@
     "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles). A total of 6 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: Qualcomm CEO Cristiano Amon joins Deirdre Bosa and Brian Sozzi at Yahoo Finance's 2026 Invest conference.",
+        "text": "Semiconductors: One of these chipmakers is riding a record AI-driven surge, while the other is working to reinvent itself beyond the smartphone.",
         "articleIds": [
-          "a16"
+          "a3"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Starlink Mobile will face some hurdles, but it has a few things working in its favor, too.",
         "articleIds": [
-          "a35"
+          "a26"
         ],
         "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Micron Technology vs. Qualcomm: Which Tech Stock Is the Better Buy for 2027?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/11/13/micron-technology-qualcomm-which-tech-stock-better-buy-for-2027/?.tsrc=rss",
+      "description": "One of these chipmakers is riding a record AI-driven surge, while the other is working to reinvent itself beyond the smartphone.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-14T01:31:02.000Z",
+      "fetchedAt": "2026-11-14T07:03:57.097Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "One of these chipmakers is riding a record AI-driven surge, while the other is working to reinvent itself beyond the smartphone.",
+      "id": "a3"
+    },
     {
       "title": "Qualcomm CEO Cristiano Amon on fueling the AI boom",
       "url": "https://finance.yahoo.com/video/qualcomm-ceo-cristiano-amon-on-fueling-the-ai-boom-150849126.html?.tsrc=rss",
@@ -31,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-13T15:08:49.000Z",
-      "fetchedAt": "2026-11-13T23:55:09.640Z",
+      "fetchedAt": "2026-11-14T07:03:57.097Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -39,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm CEO Cristiano Amon joins Deirdre Bosa and Brian Sozzi at Yahoo Finance's 2026 Invest conference.",
-      "id": "a16"
+      "id": "a13"
     },
     {
       "title": "Is Freedom Capital Markets Wrong to Give Up on Qualcomm? Wall Street Still Sees $185",
@@ -49,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-13T09:23:03.000Z",
-      "fetchedAt": "2026-11-13T23:55:09.640Z",
+      "fetchedAt": "2026-11-14T07:03:57.097Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -57,7 +75,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysFreedom Capital Markets downgraded Qualcomm to Hold from Buy on Nov. 9 and cut its price target to $185 from $200, the same as the consensus target.",
-      "id": "a24"
+      "id": "a19"
     },
     {
       "title": "SpaceX's New Deal with Qualcomm Aims to Take on Mobile Carriers. History Says It's Going to Be an Uphill Battle.",
@@ -67,7 +85,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-12T15:41:02.000Z",
-      "fetchedAt": "2026-11-13T23:55:09.640Z",
+      "fetchedAt": "2026-11-14T07:03:57.097Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -75,7 +93,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Starlink Mobile will face some hurdles, but it has a few things working in its favor, too.",
-      "id": "a35"
+      "id": "a26"
     },
     {
       "title": "How Much Should One Number Worry Qualcomm Stock Holders?",
@@ -85,7 +103,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-12T15:13:00.000Z",
-      "fetchedAt": "2026-11-13T23:55:09.640Z",
+      "fetchedAt": "2026-11-14T07:03:57.097Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -93,7 +111,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "id": "a36"
+      "id": "a27"
     },
     {
       "title": "Qualcomm CEO: AI won't replace your smartphone anytime soon",
@@ -103,7 +121,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-12T15:01:40.000Z",
-      "fetchedAt": "2026-11-13T23:55:09.640Z",
+      "fetchedAt": "2026-11-14T07:03:57.097Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -111,25 +129,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm CEO Cristiano Amon says how you use your phone will change because of AI.",
-      "id": "a37"
-    },
-    {
-      "title": "Qualcomm CEO on tech stock meltdown: 'There is no AI correction' for us",
-      "url": "https://finance.yahoo.com/technology/article/qualcomm-ceo-on-tech-stock-meltdown-there-is-no-ai-correction-for-us-142155683.html?.tsrc=rss",
-      "description": "Qualcomm CEO Cristiano Amon is staying bullish on his prospects despite the tech stock meltdown.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-12T14:21:55.000Z",
-      "fetchedAt": "2026-11-13T23:55:09.640Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm CEO Cristiano Amon is staying bullish on his prospects despite the tech stock meltdown.",
-      "id": "a38"
+      "id": "a28"
     }
   ]
 }
