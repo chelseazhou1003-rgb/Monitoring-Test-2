@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T19:30:16.558Z",
+  "generatedAt": "2026-11-14T23:25:21.192Z",
   "date": "2026-11-15",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-12T17:47:00.000Z",
-      "fetchedAt": "2026-11-14T19:30:05.620Z",
+      "fetchedAt": "2026-11-14T23:25:11.693Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",

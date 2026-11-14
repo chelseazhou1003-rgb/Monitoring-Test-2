@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T19:30:16.558Z",
+  "generatedAt": "2026-11-14T23:25:21.192Z",
   "date": "2026-11-15",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles). A total of 5 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Semiconductors: One of these chipmakers is riding a record AI-driven surge, while the other is working to reinvent itself beyond the smartphone.",
@@ -14,9 +14,9 @@
         "subCategory": "semiconductors"
       },
       {
-        "text": "Mobile Chips: Starlink Mobile will face some hurdles, but it has a few things working in its favor, too.",
+        "text": "Mobile Chips: Key TakeawaysQualcomm shares fell about 10% on Nov. 5 after its fiscal fourth-quarter handset revenue dropped 26%, while Texas Instruments grew third-quarter revenue 28% and raised its dividend 7% in ",
         "articleIds": [
-          "a24"
+          "a13"
         ],
         "subCategory": "mobile-chips"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-14T01:31:02.000Z",
-      "fetchedAt": "2026-11-14T19:30:05.620Z",
+      "fetchedAt": "2026-11-14T23:25:11.693Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -42,6 +42,24 @@
       "id": "a10"
     },
     {
+      "title": "Qualcomm or Texas Instruments: The One Dividend Stock I’d Hold for the Next 10 Years",
+      "url": "https://www.tikr.com/blog/qualcomm-or-texas-instruments-the-one-dividend-stock-id-hold-for-the-next-10-years?ref=yahoofinancedividend&tlnk=yf-261114-xpp9wg7j&.tsrc=rss",
+      "description": "Key TakeawaysQualcomm shares fell about 10% on Nov. 5 after its fiscal fourth-quarter handset revenue dropped 26%, while Texas Instruments grew third-quarter revenue 28% and raised its dividend 7% in September.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-13T17:40:13.000Z",
+      "fetchedAt": "2026-11-14T23:25:11.693Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Key TakeawaysQualcomm shares fell about 10% on Nov. 5 after its fiscal fourth-quarter handset revenue dropped 26%, while Texas Instruments grew third-quarter revenue 28% and raised its dividend 7% in September.",
+      "id": "a13"
+    },
+    {
       "title": "Qualcomm CEO Cristiano Amon on fueling the AI boom",
       "url": "https://finance.yahoo.com/video/qualcomm-ceo-cristiano-amon-on-fueling-the-ai-boom-150849126.html?.tsrc=rss",
       "description": "Qualcomm CEO Cristiano Amon joins Deirdre Bosa and Brian Sozzi at Yahoo Finance's 2026 Invest conference.",
@@ -49,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-13T15:08:49.000Z",
-      "fetchedAt": "2026-11-14T19:30:05.620Z",
+      "fetchedAt": "2026-11-14T23:25:11.693Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -67,7 +85,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-13T09:23:03.000Z",
-      "fetchedAt": "2026-11-14T19:30:05.620Z",
+      "fetchedAt": "2026-11-14T23:25:11.693Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -85,7 +103,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-12T15:41:02.000Z",
-      "fetchedAt": "2026-11-14T19:30:05.620Z",
+      "fetchedAt": "2026-11-14T23:25:11.693Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -94,24 +112,6 @@
       "stakeholders": [],
       "summary": "Starlink Mobile will face some hurdles, but it has a few things working in its favor, too.",
       "id": "a24"
-    },
-    {
-      "title": "How Much Should One Number Worry Qualcomm Stock Holders?",
-      "url": "https://www.trefis.com/stock/qcom/articles/624743/how-much-should-one-number-worry-qualcomm-stock-holders/2026-11-12?.tsrc=rss",
-      "description": "For questions about this article or underlying research, email help@trefis.com.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-12T15:13:00.000Z",
-      "fetchedAt": "2026-11-14T19:30:05.620Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "id": "a25"
     }
   ]
 }

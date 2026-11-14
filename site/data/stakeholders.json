@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T19:30:16.558Z",
+  "generatedAt": "2026-11-14T23:25:21.192Z",
   "date": "2026-11-15",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,7 +9,7 @@
       {
         "text": "Geopolitics & Export Controls: Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Hele",
         "articleIds": [
-          "a3"
+          "a4"
         ],
         "subCategory": "geopolitics-export-controls"
       }
@@ -24,7 +24,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-11-14T15:00:00.000Z",
-      "fetchedAt": "2026-11-14T19:30:06.328Z",
+      "fetchedAt": "2026-11-14T23:25:12.377Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -35,7 +35,7 @@
         "platform-partner"
       ],
       "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on the board of OpenAI, when she was one of four board members who voted to fire Sam Altman. That incident, now sometimes referred to as “the blip,” ended with Sam coming back as CEO, Helen resigning, and a new board of directors. OpenAI has since restructured entirely.",
-      "id": "a3"
+      "id": "a4"
     }
   ]
 }
