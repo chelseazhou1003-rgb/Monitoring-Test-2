@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-14T07:04:03.905Z",
+  "generatedAt": "2026-11-14T14:32:53.920Z",
   "date": "2026-11-14",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 6,
       "topHeadline": "Micron Technology vs. Qualcomm: Which Tech Stock Is the Better Buy for 2027?",
-      "topHeadlineId": "a3",
+      "topHeadlineId": "a7",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles). A total of 6 articles were aggregated from monitored sources."
     },
     "ip-legal": {
@@ -20,15 +20,15 @@
       "title": "Growth Areas",
       "articleCount": 1,
       "topHeadline": "Qualcomm's $5 Billion Data Center Ramp Puts Execution in Focus Now",
-      "topHeadlineId": "a23",
+      "topHeadlineId": "a21",
       "briefingSummary": "One article today covering Data Center. QCOM targets $5 billion in fiscal 2027 data center sales, but customer concentration, margin pressure and heavy investments put its execution to the t"
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 22,
-      "topHeadline": "Bessent Blames Lutnick's Commerce Department For Not Restricting Nvidia Chip Exports - Broadband Breakfast",
+      "articleCount": 20,
+      "topHeadline": "Nvidia Looks for a New Era After Huang",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (2 articles), Supply Chain (1 article). A total of 22 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (16 articles), market-performance (3 articles), Supply Chain (1 article). A total of 20 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -45,5 +45,5 @@
       "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
     }
   },
-  "totalArticles": 29
+  "totalArticles": 27
 }

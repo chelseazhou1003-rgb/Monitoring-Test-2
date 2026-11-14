@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-11-14T07:04:03.903Z",
+    "generatedAt": "2026-11-14T14:32:53.918Z",
     "date": "2026-11-14",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,7 +13,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-11-14T07:04:03.903Z",
+    "generatedAt": "2026-11-14T14:32:53.918Z",
     "date": "2026-11-14",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -23,14 +23,14 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: One of these chipmakers is riding a record AI-driven surge, while the other is working to reinvent itself beyond the smartphone.",
           "articleIds": [
-            "a3"
+            "a7"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Mobile Chips: Starlink Mobile will face some hurdles, but it has a few things working in its favor, too.",
           "articleIds": [
-            "a26"
+            "a24"
           ],
           "subCategory": "mobile-chips"
         }
@@ -45,7 +45,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-14T01:31:02.000Z",
-        "fetchedAt": "2026-11-14T07:03:57.097Z",
+        "fetchedAt": "2026-11-14T14:32:47.032Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -53,7 +53,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "One of these chipmakers is riding a record AI-driven surge, while the other is working to reinvent itself beyond the smartphone.",
-        "id": "a3"
+        "id": "a7"
       },
       {
         "title": "Qualcomm CEO Cristiano Amon on fueling the AI boom",
@@ -63,7 +63,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-13T15:08:49.000Z",
-        "fetchedAt": "2026-11-14T07:03:57.097Z",
+        "fetchedAt": "2026-11-14T14:32:47.032Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -71,7 +71,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm CEO Cristiano Amon joins Deirdre Bosa and Brian Sozzi at Yahoo Finance's 2026 Invest conference.",
-        "id": "a13"
+        "id": "a14"
       },
       {
         "title": "Is Freedom Capital Markets Wrong to Give Up on Qualcomm? Wall Street Still Sees $185",
@@ -81,7 +81,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-13T09:23:03.000Z",
-        "fetchedAt": "2026-11-14T07:03:57.097Z",
+        "fetchedAt": "2026-11-14T14:32:47.032Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -89,7 +89,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Key TakeawaysFreedom Capital Markets downgraded Qualcomm to Hold from Buy on Nov. 9 and cut its price target to $185 from $200, the same as the consensus target.",
-        "id": "a19"
+        "id": "a17"
       },
       {
         "title": "SpaceX's New Deal with Qualcomm Aims to Take on Mobile Carriers. History Says It's Going to Be an Uphill Battle.",
@@ -99,7 +99,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-12T15:41:02.000Z",
-        "fetchedAt": "2026-11-14T07:03:57.097Z",
+        "fetchedAt": "2026-11-14T14:32:47.032Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -107,7 +107,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Starlink Mobile will face some hurdles, but it has a few things working in its favor, too.",
-        "id": "a26"
+        "id": "a24"
       },
       {
         "title": "How Much Should One Number Worry Qualcomm Stock Holders?",
@@ -117,7 +117,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-12T15:13:00.000Z",
-        "fetchedAt": "2026-11-14T07:03:57.097Z",
+        "fetchedAt": "2026-11-14T14:32:47.032Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -125,7 +125,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "For questions about this article or underlying research, email help@trefis.com.",
-        "id": "a27"
+        "id": "a25"
       },
       {
         "title": "Qualcomm CEO: AI won't replace your smartphone anytime soon",
@@ -135,7 +135,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-12T15:01:40.000Z",
-        "fetchedAt": "2026-11-14T07:03:57.097Z",
+        "fetchedAt": "2026-11-14T14:32:47.032Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -143,12 +143,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm CEO Cristiano Amon says how you use your phone will change because of AI.",
-        "id": "a28"
+        "id": "a26"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-11-14T07:04:03.903Z",
+    "generatedAt": "2026-11-14T14:32:53.918Z",
     "date": "2026-11-14",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -158,7 +158,7 @@ export const NEWS_DATA = {
         {
           "text": "Data Center: QCOM targets $5 billion in fiscal 2027 data center sales, but customer concentration, margin pressure and heavy investments put its execution to the test.",
           "articleIds": [
-            "a23"
+            "a21"
           ],
           "subCategory": "data-center"
         }
@@ -173,7 +173,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-12T17:47:00.000Z",
-        "fetchedAt": "2026-11-14T07:03:57.097Z",
+        "fetchedAt": "2026-11-14T14:32:47.032Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -181,12 +181,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "QCOM targets $5 billion in fiscal 2027 data center sales, but customer concentration, margin pressure and heavy investments put its execution to the test.",
-        "id": "a23"
+        "id": "a21"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-11-14T07:04:03.903Z",
+    "generatedAt": "2026-11-14T14:32:53.918Z",
     "date": "2026-11-14",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -197,14 +197,14 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-11-14T07:04:03.905Z",
+    "generatedAt": "2026-11-14T14:32:53.920Z",
     "date": "2026-11-14",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 6,
         "topHeadline": "Micron Technology vs. Qualcomm: Which Tech Stock Is the Better Buy for 2027?",
-        "topHeadlineId": "a3",
+        "topHeadlineId": "a7",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles). A total of 6 articles were aggregated from monitored sources."
       },
       "ip-legal": {
@@ -218,15 +218,15 @@ export const NEWS_DATA = {
         "title": "Growth Areas",
         "articleCount": 1,
         "topHeadline": "Qualcomm's $5 Billion Data Center Ramp Puts Execution in Focus Now",
-        "topHeadlineId": "a23",
+        "topHeadlineId": "a21",
         "briefingSummary": "One article today covering Data Center. QCOM targets $5 billion in fiscal 2027 data center sales, but customer concentration, margin pressure and heavy investments put its execution to the t"
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 22,
-        "topHeadline": "Bessent Blames Lutnick's Commerce Department For Not Restricting Nvidia Chip Exports - Broadband Breakfast",
+        "articleCount": 20,
+        "topHeadline": "Nvidia Looks for a New Era After Huang",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (2 articles), Supply Chain (1 article). A total of 22 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (16 articles), market-performance (3 articles), Supply Chain (1 article). A total of 20 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -243,40 +243,116 @@ export const NEWS_DATA = {
         "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
       }
     },
-    "totalArticles": 29
+    "totalArticles": 27
   },
   "macro-environment": {
-    "generatedAt": "2026-11-14T07:04:03.903Z",
+    "generatedAt": "2026-11-14T14:32:53.918Z",
     "date": "2026-11-14",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (2 articles), Supply Chain (1 article). A total of 22 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (16 articles), market-performance (3 articles), Supply Chain (1 article). A total of 20 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Bessent Blames Lutnick's Commerce Department For Not Restricting Nvidia Chip Exports Broadband Breakfast",
+          "text": "Geopolitics & Export Controls: Bloomberg’s Emily Chang tells Bloomberg This Weekend what her recent interview with Jensen Huang reveals about Nvidia’s succession challenge after the longtime CEO’s abrupt departure. Speaking with ho",
           "articleIds": [
             "a1"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
-          "text": "Supply Chain: Qualcomm's chief executive says supply is tight, yet his own company claims to have all the chips it needs and investors shrugged. The real story sits in margins, unnamed suppliers, and one number tha",
+          "text": "market-performance: Qualcomm stock has fallen by 33% from its high, and now trades at just a single-digit multiple of management's fiscal 2029 earnings target.",
           "articleIds": [
-            "a11"
-          ],
-          "subCategory": "supply-chain"
-        },
-        {
-          "text": "market-performance: If you had tuned in only for the legal headlines around Arm and Qualcomm, you might assume Arm’s shareholders were punished, not rewarded. Holding Arm from the start of the year would have returned 77",
-          "articleIds": [
-            "a21"
+            "a3"
           ],
           "subCategory": "market-performance"
+        },
+        {
+          "text": "Supply Chain: Qualcomm's chief executive says supply is tight, yet his own company claims to have all the chips it needs and investors shrugged. The real story sits in margins, unnamed suppliers, and one number tha",
+          "articleIds": [
+            "a12"
+          ],
+          "subCategory": "supply-chain"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Nvidia Looks for a New Era After Huang",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-looks-for-a-new-era-after-huang-video",
+        "description": "Bloomberg’s Emily Chang tells Bloomberg This Weekend what her recent interview with Jensen Huang reveals about Nvidia’s succession challenge after the longtime CEO’s abrupt departure. Speaking with hosts David Gura and Christina Ruffini, Chang examines who could succeed Huang, the questions surrounding Nvidia’s China strategy and whether the AI giant can preserve the influence and relationships Huang built over more than three decades. (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-14T14:25:34.000Z",
+        "fetchedAt": "2026-11-14T14:32:47.358Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Bloomberg’s Emily Chang tells Bloomberg This Weekend what her recent interview with Jensen Huang reveals about Nvidia’s succession challenge after the longtime CEO’s abrupt departure. Speaking with hosts David Gura and Christina Ruffini, Chang examines who could succeed Huang, the questions surrounding Nvidia’s China strategy and whether the AI giant can preserve the influence and relationships Huang built over more than three decades.",
+        "id": "a1"
+      },
+      {
+        "title": "“Bigger Than a Business Story”: Nvidia Shakeup",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-14/-bigger-than-a-business-story-nvidia-shakeup-video",
+        "description": "At the end of a week that saw revelations of ousted Nvidia CEO Jensen Huang’s alleged affairs with employees and a suspected Chinese spy, Centerview Partners Senior Counselor Richard Haass says the national security implications go beyond the consequences for the company itself. (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-14T13:03:52.000Z",
+        "fetchedAt": "2026-11-14T14:32:47.358Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "At the end of a week that saw revelations of ousted Nvidia CEO Jensen Huang’s alleged affairs with employees and a suspected Chinese spy, Centerview Partners Senior Counselor Richard Haass says the national security implications go beyond the consequences for the company itself.",
+        "id": "a2"
+      },
+      {
+        "title": "Qualcomm Is Cheap Enough to Hold Through 2030",
+        "url": "https://www.fool.com/investing/2026/11/14/qualcomm-is-cheap-enough-to-hold-through-2030/?.tsrc=rss",
+        "description": "Qualcomm stock has fallen by 33% from its high, and now trades at just a single-digit multiple of management's fiscal 2029 earnings target.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-14T11:40:02.000Z",
+        "fetchedAt": "2026-11-14T14:32:47.032Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm stock has fallen by 33% from its high, and now trades at just a single-digit multiple of management's fiscal 2029 earnings target.",
+        "id": "a3"
+      },
+      {
+        "title": "Jensen Huang’s Nvidia Exit Exposes US-China Semiconductor Trade Fault Lines as Singapore Faces Export-Control Scrutiny - Business Upturn",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSGtjVlhHb19kQjh3LVNvM3NqbFVsTTJpemJfSEIxVGZPbmFrd1B1WXdXQjY0ODFxYTVndWRMcVJ2a3htWEhkZ1d3TEZUN1lkM0Vfb2xIbWNpLTRnWTlmVGd3QTl0UTcxbHk4aXlzZmVna1R1RXM2dGNHNDZDM2dUN1FkdDJfcFFrWXd1a3NpdHNhUWw0MW9DV3VablphU1ZyTUQ2SnR1V1docjF1OWI3d2Z3bzRyd2U1UGMtZTJxNHNtR3RXRUJHeEhfb3lzRzBnQy11TXVUTGVOUldjOGwxcVZJd3kyUHRhZXRBX05hRm5WUGotV2xaTEIxaGpaZWJ1alE?oc=5",
+        "description": "Jensen Huang’s Nvidia Exit Exposes US-China Semiconductor Trade Fault Lines as Singapore Faces Export-Control Scrutiny Business Upturn",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-14T11:22:51.000Z",
+        "fetchedAt": "2026-11-14T14:32:53.887Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Business Upturn",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Jensen Huang’s Nvidia Exit Exposes US-China Semiconductor Trade Fault Lines as Singapore Faces Export-Control Scrutiny Business Upturn",
+        "id": "a4"
+      },
       {
         "title": "Bessent Blames Lutnick's Commerce Department For Not Restricting Nvidia Chip Exports - Broadband Breakfast",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORFdzZWl6eU8zUzhfWWpXclRSclhFdmlINndpUGpMYmlBeU83VVJ6RkJBWDVQbTRJekNlb0FNbHFydkpEc2ROZ3N0cWZnVTZKeVV2Q0FGOFVLRnNHT1p3QVViRnYwbFIwOFVua1ZKamRKWTBOTEM1bkdDMG9QTlZSeUJ4OVcybktoSWlJVG9GZVc0ZE9KY3FfNkJpSFdQOWJ5dTcwRXdGVlA0UHJUZk1iRkd2OTRKdw?oc=5",
@@ -285,7 +361,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-14T02:40:28.000Z",
-        "fetchedAt": "2026-11-14T07:04:03.870Z",
+        "fetchedAt": "2026-11-14T14:32:53.886Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Broadband Breakfast",
         "geopoliticalBypass": true,
@@ -295,7 +371,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Bessent Blames Lutnick's Commerce Department For Not Restricting Nvidia Chip Exports Broadband Breakfast",
-        "id": "a1"
+        "id": "a5"
       },
       {
         "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
@@ -305,7 +381,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-14T01:34:11.000Z",
-        "fetchedAt": "2026-11-14T07:03:56.902Z",
+        "fetchedAt": "2026-11-14T14:32:46.996Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -314,7 +390,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
-        "id": "a2"
+        "id": "a6"
       },
       {
         "title": "Backdoor subsidy for AI data centers? Cato analyst says let CHIPS Act tax credit expire - WBFF",
@@ -324,7 +400,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-13T23:55:37.000Z",
-        "fetchedAt": "2026-11-14T07:04:03.870Z",
+        "fetchedAt": "2026-11-14T14:32:53.886Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "WBFF",
         "geopoliticalBypass": true,
@@ -334,7 +410,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Backdoor subsidy for AI data centers? Cato analyst says let CHIPS Act tax credit expire WBFF",
-        "id": "a4"
+        "id": "a8"
       },
       {
         "title": "Nvidia Crisis Spurs Scrutiny of Agency That Oversees Chip Curbs",
@@ -344,7 +420,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-13T21:45:38.000Z",
-        "fetchedAt": "2026-11-14T07:03:57.176Z",
+        "fetchedAt": "2026-11-14T14:32:47.358Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -353,7 +429,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The Trump administration official who runs US export control programs was looking for marquee names for his agency’s upcoming annual conference and threw an unusual option into the mix: Nvidia Corp. Chief Executive Officer Jensen Huang.",
-        "id": "a5"
+        "id": "a9"
       },
       {
         "title": "Nvidia Spy Scandal Sparks White House Finger-Pointing Over Blocked Chip Ban - Tampa Free Press",
@@ -363,7 +439,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-13T21:05:10.000Z",
-        "fetchedAt": "2026-11-14T07:04:03.870Z",
+        "fetchedAt": "2026-11-14T14:32:53.887Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Tampa Free Press",
         "geopoliticalBypass": true,
@@ -373,45 +449,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia Spy Scandal Sparks White House Finger-Pointing Over Blocked Chip Ban Tampa Free Press",
-        "id": "a6"
-      },
-      {
-        "title": "People Have 'No Idea' How Much Nvidia Impacts Daily Life, Says Aaron Brown",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-13/people-have-no-idea-how-much-nvidia-impacts-life-brown-video",
-        "description": "Aaron Brown, founder and CEO of Lumbra, said that the average person has 'no idea' how much Nvidia impacts their lives and that it remains a messaging issue the AI industry at large needs to solve. Brown, who is a former CIA officer, said that it is hard to know exactly how the woman accused of spying on Jensen Huang came to be involved, as China is good at identifying potential resources who may have inroads with business. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-13T20:13:13.000Z",
-        "fetchedAt": "2026-11-14T07:03:57.176Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Aaron Brown, founder and CEO of Lumbra, said that the average person has 'no idea' how much Nvidia impacts their lives and that it remains a messaging issue the AI industry at large needs to solve. Brown, who is a former CIA officer, said that it is hard to know exactly how the woman accused of spying on Jensen Huang came to be involved, as China is good at identifying potential resources who may have inroads with business.",
-        "id": "a7"
-      },
-      {
-        "title": "Everybody’s Business: China Is Writing Its Own AI Playbook",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-13/everybody-s-business-china-is-writing-its-own-ai-story-video",
-        "description": "While US AI companies are struggling with a public image problem, Chinese attitudes towards AI are generally more positive with the government leading the charge to turn its rural and inland regions into AI-driven manufacturing hubs. Brad Stone joins Stacey Vanek Smith and Max Chafkin on the Everybody’s Business podcast to discuss his factory tour of EV maker Zeekr and how China is writing its own AI story. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-13T20:02:27.000Z",
-        "fetchedAt": "2026-11-14T07:03:57.176Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "While US AI companies are struggling with a public image problem, Chinese attitudes towards AI are generally more positive with the government leading the charge to turn its rural and inland regions into AI-driven manufacturing hubs. Brad Stone joins Stacey Vanek Smith and Max Chafkin on the Everybody’s Business podcast to discuss his factory tour of EV maker Zeekr and how China is writing its own AI story.",
-        "id": "a8"
+        "id": "a10"
       },
       {
         "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
@@ -421,7 +459,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-13T18:40:30.000Z",
-        "fetchedAt": "2026-11-14T07:03:56.897Z",
+        "fetchedAt": "2026-11-14T14:32:47.025Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -430,26 +468,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-        "id": "a9"
-      },
-      {
-        "title": "Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed",
-        "url": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1",
-        "description": "Salvo from US Treasury secretary risks stoking tensions within Trump administration over Nvidia scandal",
-        "source": "Financial Times",
-        "sourceId": "ft",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-13T17:06:01.000Z",
-        "fetchedAt": "2026-11-14T07:03:57.425Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Salvo from US Treasury secretary risks stoking tensions within Trump administration over Nvidia scandal",
-        "id": "a10"
+        "id": "a11"
       },
       {
         "title": "Qualcomm’s CEO Says Chipmakers Are in an “Extreme Shortage”",
@@ -459,7 +478,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-13T16:28:51.000Z",
-        "fetchedAt": "2026-11-14T07:03:57.097Z",
+        "fetchedAt": "2026-11-14T14:32:47.032Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "supply-chain",
@@ -467,7 +486,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm's chief executive says supply is tight, yet his own company claims to have all the chips it needs and investors shrugged. The real story sits in margins, unnamed suppliers, and one number that could expose what the talk really means.",
-        "id": "a11"
+        "id": "a12"
       },
       {
         "title": "The unfolding Jensen Huang scandal: a timeline",
@@ -477,7 +496,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-13T15:58:00.000Z",
-        "fetchedAt": "2026-11-14T07:03:56.897Z",
+        "fetchedAt": "2026-11-14T14:32:47.025Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -486,7 +505,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-        "id": "a12"
+        "id": "a13"
       },
       {
         "title": "Chip export controls on China key to US national security - Fox News",
@@ -496,7 +515,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-13T14:44:17.000Z",
-        "fetchedAt": "2026-11-14T07:04:03.870Z",
+        "fetchedAt": "2026-11-14T14:32:53.887Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Fox News",
         "geopoliticalBypass": true,
@@ -506,46 +525,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Chip export controls on China key to US national security Fox News",
-        "id": "a14"
-      },
-      {
-        "title": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans",
-        "url": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html",
-        "description": "The dispute comes after Stellantis scrapped planned Jeep Compass production in Brampton and shifted future output to Illinois amid U.S. auto tariffs.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-13T14:24:57.000Z",
-        "fetchedAt": "2026-11-14T07:03:56.902Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The dispute comes after Stellantis scrapped planned Jeep Compass production in Brampton and shifted future output to Illinois amid U.S.",
         "id": "a15"
-      },
-      {
-        "title": "Nvidia scrutiny raises questions over U.S. chip exports, China and national security - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWVdnSjh5d2dmb0x6aUJJdkFvR1NKTm8ydlR4N0RGczlHNTVHR1R3R01QSGkxaU81Wi1rQS1zSTFUTHV5TXpnTGMtZzRuclZrZDljdGlNVUo4Y2FPWGc1VFUzLUM5TDIwVk9vczlHZ05ES28yUFh1eUt0Y0tmVmI4SmdMZUdQX2U0cVBtS2FsTWl4RXA5ZlExMjNtRzZhd0ticU9KZV9KZ1NFQl9HYjVpZTZXQ2JWYmtHQ1RleWpTMmktZw?oc=5",
-        "description": "Nvidia scrutiny raises questions over U.S. chip exports, China and national security CNBC",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-13T12:29:55.000Z",
-        "fetchedAt": "2026-11-14T07:04:03.870Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "CNBC",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Nvidia scrutiny raises questions over U.S. chip exports, China and national security CNBC",
-        "id": "a16"
       },
       {
         "title": "China expands drug protection regime with rare-disease, paediatric medicine exclusivity framework",
@@ -555,7 +535,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-13T12:00:00.000Z",
-        "fetchedAt": "2026-11-14T07:03:59.555Z",
+        "fetchedAt": "2026-11-14T14:32:50.485Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -564,27 +544,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Draft implementing rules introduce market exclusivity periods of up to seven years for rare-disease drugs and up to two years for paediatric medicines",
-        "id": "a17"
-      },
-      {
-        "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wMjVwVXVjeGhLbERpVG81ZXFmakJVRVF3cmdCZWNhTUQzdTR4TXlBeWo0LUYxSGhMNlNjS19FWUs1WXplUjk3eEVtUG1sSTlhM1RGTDRTcHZYbE9MVkNMWHozLWZaQlFROFZoUGNZVHZPUzdEU1Fzdmln0gF_QVVfeXFMTUxaWHpOeEtydmE4Zk9zRm52ODloaUlYamZlYUM1R29KOEh5MF9KY1d3anhYNHEzaFFpX2gzOC12bnBYRW5tYnlseUlqckxsa0FKT3hRV1RpaDQwNTU2c0s5QXlybkVRR0pNZUlsQzhjM1Y3bjdtTGllRDNuT3VHcw?oc=5",
-        "description": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales CNBC",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-13T10:54:40.000Z",
-        "fetchedAt": "2026-11-14T07:04:03.870Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "CNBC",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales CNBC",
-        "id": "a18"
+        "id": "a16"
       },
       {
         "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
@@ -594,7 +554,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-12T22:42:51.000Z",
-        "fetchedAt": "2026-11-14T07:03:56.897Z",
+        "fetchedAt": "2026-11-14T14:32:47.025Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -603,7 +563,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-        "id": "a20"
+        "id": "a18"
       },
       {
         "title": "Arm Is Up 77% Even As Profit Fell",
@@ -613,7 +573,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-12T21:11:20.000Z",
-        "fetchedAt": "2026-11-14T07:03:57.097Z",
+        "fetchedAt": "2026-11-14T14:32:47.032Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -621,7 +581,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "If you had tuned in only for the legal headlines around Arm and Qualcomm, you might assume Arm’s shareholders were punished, not rewarded. Holding Arm from the start of the year would have returned 77.3%, including dividends. That gain came through a period that featured sector selloffs, supply concerns, and valuation debates. If you were deciding on 1 January 2026, what did the available information really say about taking that ride with Arm? Narratives are how investors here put a case on...",
-        "id": "a21"
+        "id": "a19"
       },
       {
         "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
@@ -631,7 +591,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-12T18:39:23.000Z",
-        "fetchedAt": "2026-11-14T07:03:56.897Z",
+        "fetchedAt": "2026-11-14T14:32:47.025Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -640,7 +600,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-        "id": "a22"
+        "id": "a20"
       },
       {
         "title": "Is Qualcomm Stock Worth Buying as Diversification Meets Margin Risk?",
@@ -650,7 +610,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-12T17:27:00.000Z",
-        "fetchedAt": "2026-11-14T07:03:57.097Z",
+        "fetchedAt": "2026-11-14T14:32:47.032Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -658,7 +618,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "QCOM's automotive and data center growth strengthens diversification, but falling earnings estimates, margin pressure and mixed valuation cloud its buy case.",
-        "id": "a24"
+        "id": "a22"
       },
       {
         "title": "China refines its Hatch-Waxman counterpart as Beijing IP Court highlights nine pharma patent cases",
@@ -668,7 +628,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-12T16:01:14.000Z",
-        "fetchedAt": "2026-11-14T07:04:01.768Z",
+        "fetchedAt": "2026-11-14T14:32:52.238Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -677,7 +637,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nine selected Beijing IP Court cases clarify pharmaceutical patent protection and the operation of China’s Hatch-Waxman counterpart, addressing claim scope, the boundaries of linkage litigation and generic applicants’ declarations and evidence.",
-        "id": "a25"
+        "id": "a23"
       },
       {
         "title": "Topco Scientific Establishes Dresden Hub, Makes SEMICON Europa Debut",
@@ -687,7 +647,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-digest",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-11-11T19:17:20.000Z",
-        "fetchedAt": "2026-11-14T07:04:01.323Z",
+        "fetchedAt": "2026-11-14T14:32:51.708Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -696,7 +656,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Driven by the European Chips Act and the trend toward localized semiconductor manufacturing, demand for materials, equipment, and technical services in Europe has attracted growing attention. The post Topco Scientific Establishes Dresden Hub, Makes SEMICON Europa Debut appeared first on Semiconductor Digest.",
-        "id": "a29"
+        "id": "a27"
       }
     ]
   },
@@ -892,7 +852,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-11-14T07:04:03.903Z",
+    "generatedAt": "2026-11-14T14:32:53.918Z",
     "date": "2026-11-14",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -22409,11 +22369,11 @@ export const NEWS_DATA = {
     "totalArticles": 41
   },
   "archive-2026-11-14": {
-    "generatedAt": "2026-11-14T07:04:03.905Z",
+    "generatedAt": "2026-11-14T14:32:53.920Z",
     "date": "2026-11-14",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-11-14T07:04:03.903Z",
+        "generatedAt": "2026-11-14T14:32:53.918Z",
         "date": "2026-11-14",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -22423,14 +22383,14 @@ export const NEWS_DATA = {
             {
               "text": "Semiconductors: One of these chipmakers is riding a record AI-driven surge, while the other is working to reinvent itself beyond the smartphone.",
               "articleIds": [
-                "a3"
+                "a7"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Mobile Chips: Starlink Mobile will face some hurdles, but it has a few things working in its favor, too.",
               "articleIds": [
-                "a26"
+                "a24"
               ],
               "subCategory": "mobile-chips"
             }
@@ -22445,7 +22405,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-14T01:31:02.000Z",
-            "fetchedAt": "2026-11-14T07:03:57.097Z",
+            "fetchedAt": "2026-11-14T14:32:47.032Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22453,7 +22413,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "One of these chipmakers is riding a record AI-driven surge, while the other is working to reinvent itself beyond the smartphone.",
-            "id": "a3"
+            "id": "a7"
           },
           {
             "title": "Qualcomm CEO Cristiano Amon on fueling the AI boom",
@@ -22463,7 +22423,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-13T15:08:49.000Z",
-            "fetchedAt": "2026-11-14T07:03:57.097Z",
+            "fetchedAt": "2026-11-14T14:32:47.032Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22471,7 +22431,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm CEO Cristiano Amon joins Deirdre Bosa and Brian Sozzi at Yahoo Finance's 2026 Invest conference.",
-            "id": "a13"
+            "id": "a14"
           },
           {
             "title": "Is Freedom Capital Markets Wrong to Give Up on Qualcomm? Wall Street Still Sees $185",
@@ -22481,7 +22441,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-13T09:23:03.000Z",
-            "fetchedAt": "2026-11-14T07:03:57.097Z",
+            "fetchedAt": "2026-11-14T14:32:47.032Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22489,7 +22449,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Key TakeawaysFreedom Capital Markets downgraded Qualcomm to Hold from Buy on Nov. 9 and cut its price target to $185 from $200, the same as the consensus target.",
-            "id": "a19"
+            "id": "a17"
           },
           {
             "title": "SpaceX's New Deal with Qualcomm Aims to Take on Mobile Carriers. History Says It's Going to Be an Uphill Battle.",
@@ -22499,7 +22459,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-12T15:41:02.000Z",
-            "fetchedAt": "2026-11-14T07:03:57.097Z",
+            "fetchedAt": "2026-11-14T14:32:47.032Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -22507,7 +22467,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Starlink Mobile will face some hurdles, but it has a few things working in its favor, too.",
-            "id": "a26"
+            "id": "a24"
           },
           {
             "title": "How Much Should One Number Worry Qualcomm Stock Holders?",
@@ -22517,7 +22477,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-12T15:13:00.000Z",
-            "fetchedAt": "2026-11-14T07:03:57.097Z",
+            "fetchedAt": "2026-11-14T14:32:47.032Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22525,7 +22485,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "For questions about this article or underlying research, email help@trefis.com.",
-            "id": "a27"
+            "id": "a25"
           },
           {
             "title": "Qualcomm CEO: AI won't replace your smartphone anytime soon",
@@ -22535,7 +22495,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-12T15:01:40.000Z",
-            "fetchedAt": "2026-11-14T07:03:57.097Z",
+            "fetchedAt": "2026-11-14T14:32:47.032Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -22543,12 +22503,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm CEO Cristiano Amon says how you use your phone will change because of AI.",
-            "id": "a28"
+            "id": "a26"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-11-14T07:04:03.903Z",
+        "generatedAt": "2026-11-14T14:32:53.918Z",
         "date": "2026-11-14",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -22559,7 +22519,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-11-14T07:04:03.903Z",
+        "generatedAt": "2026-11-14T14:32:53.918Z",
         "date": "2026-11-14",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -22569,7 +22529,7 @@ export const NEWS_DATA = {
             {
               "text": "Data Center: QCOM targets $5 billion in fiscal 2027 data center sales, but customer concentration, margin pressure and heavy investments put its execution to the test.",
               "articleIds": [
-                "a23"
+                "a21"
               ],
               "subCategory": "data-center"
             }
@@ -22584,7 +22544,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-12T17:47:00.000Z",
-            "fetchedAt": "2026-11-14T07:03:57.097Z",
+            "fetchedAt": "2026-11-14T14:32:47.032Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "data-center",
@@ -22592,42 +22552,118 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "QCOM targets $5 billion in fiscal 2027 data center sales, but customer concentration, margin pressure and heavy investments put its execution to the test.",
-            "id": "a23"
+            "id": "a21"
           }
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-11-14T07:04:03.903Z",
+        "generatedAt": "2026-11-14T14:32:53.918Z",
         "date": "2026-11-14",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (2 articles), Supply Chain (1 article). A total of 22 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (16 articles), market-performance (3 articles), Supply Chain (1 article). A total of 20 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Bessent Blames Lutnick's Commerce Department For Not Restricting Nvidia Chip Exports Broadband Breakfast",
+              "text": "Geopolitics & Export Controls: Bloomberg’s Emily Chang tells Bloomberg This Weekend what her recent interview with Jensen Huang reveals about Nvidia’s succession challenge after the longtime CEO’s abrupt departure. Speaking with ho",
               "articleIds": [
                 "a1"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
-              "text": "Supply Chain: Qualcomm's chief executive says supply is tight, yet his own company claims to have all the chips it needs and investors shrugged. The real story sits in margins, unnamed suppliers, and one number tha",
+              "text": "market-performance: Qualcomm stock has fallen by 33% from its high, and now trades at just a single-digit multiple of management's fiscal 2029 earnings target.",
               "articleIds": [
-                "a11"
-              ],
-              "subCategory": "supply-chain"
-            },
-            {
-              "text": "market-performance: If you had tuned in only for the legal headlines around Arm and Qualcomm, you might assume Arm’s shareholders were punished, not rewarded. Holding Arm from the start of the year would have returned 77",
-              "articleIds": [
-                "a21"
+                "a3"
               ],
               "subCategory": "market-performance"
+            },
+            {
+              "text": "Supply Chain: Qualcomm's chief executive says supply is tight, yet his own company claims to have all the chips it needs and investors shrugged. The real story sits in margins, unnamed suppliers, and one number tha",
+              "articleIds": [
+                "a12"
+              ],
+              "subCategory": "supply-chain"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Nvidia Looks for a New Era After Huang",
+            "url": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-looks-for-a-new-era-after-huang-video",
+            "description": "Bloomberg’s Emily Chang tells Bloomberg This Weekend what her recent interview with Jensen Huang reveals about Nvidia’s succession challenge after the longtime CEO’s abrupt departure. Speaking with hosts David Gura and Christina Ruffini, Chang examines who could succeed Huang, the questions surrounding Nvidia’s China strategy and whether the AI giant can preserve the influence and relationships Huang built over more than three decades. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-14T14:25:34.000Z",
+            "fetchedAt": "2026-11-14T14:32:47.358Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Bloomberg’s Emily Chang tells Bloomberg This Weekend what her recent interview with Jensen Huang reveals about Nvidia’s succession challenge after the longtime CEO’s abrupt departure. Speaking with hosts David Gura and Christina Ruffini, Chang examines who could succeed Huang, the questions surrounding Nvidia’s China strategy and whether the AI giant can preserve the influence and relationships Huang built over more than three decades.",
+            "id": "a1"
+          },
+          {
+            "title": "“Bigger Than a Business Story”: Nvidia Shakeup",
+            "url": "https://www.bloomberg.com/news/videos/2026-11-14/-bigger-than-a-business-story-nvidia-shakeup-video",
+            "description": "At the end of a week that saw revelations of ousted Nvidia CEO Jensen Huang’s alleged affairs with employees and a suspected Chinese spy, Centerview Partners Senior Counselor Richard Haass says the national security implications go beyond the consequences for the company itself. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-14T13:03:52.000Z",
+            "fetchedAt": "2026-11-14T14:32:47.358Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "At the end of a week that saw revelations of ousted Nvidia CEO Jensen Huang’s alleged affairs with employees and a suspected Chinese spy, Centerview Partners Senior Counselor Richard Haass says the national security implications go beyond the consequences for the company itself.",
+            "id": "a2"
+          },
+          {
+            "title": "Qualcomm Is Cheap Enough to Hold Through 2030",
+            "url": "https://www.fool.com/investing/2026/11/14/qualcomm-is-cheap-enough-to-hold-through-2030/?.tsrc=rss",
+            "description": "Qualcomm stock has fallen by 33% from its high, and now trades at just a single-digit multiple of management's fiscal 2029 earnings target.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-14T11:40:02.000Z",
+            "fetchedAt": "2026-11-14T14:32:47.032Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm stock has fallen by 33% from its high, and now trades at just a single-digit multiple of management's fiscal 2029 earnings target.",
+            "id": "a3"
+          },
+          {
+            "title": "Jensen Huang’s Nvidia Exit Exposes US-China Semiconductor Trade Fault Lines as Singapore Faces Export-Control Scrutiny - Business Upturn",
+            "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSGtjVlhHb19kQjh3LVNvM3NqbFVsTTJpemJfSEIxVGZPbmFrd1B1WXdXQjY0ODFxYTVndWRMcVJ2a3htWEhkZ1d3TEZUN1lkM0Vfb2xIbWNpLTRnWTlmVGd3QTl0UTcxbHk4aXlzZmVna1R1RXM2dGNHNDZDM2dUN1FkdDJfcFFrWXd1a3NpdHNhUWw0MW9DV3VablphU1ZyTUQ2SnR1V1docjF1OWI3d2Z3bzRyd2U1UGMtZTJxNHNtR3RXRUJHeEhfb3lzRzBnQy11TXVUTGVOUldjOGwxcVZJd3kyUHRhZXRBX05hRm5WUGotV2xaTEIxaGpaZWJ1alE?oc=5",
+            "description": "Jensen Huang’s Nvidia Exit Exposes US-China Semiconductor Trade Fault Lines as Singapore Faces Export-Control Scrutiny Business Upturn",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-14T11:22:51.000Z",
+            "fetchedAt": "2026-11-14T14:32:53.887Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Business Upturn",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Jensen Huang’s Nvidia Exit Exposes US-China Semiconductor Trade Fault Lines as Singapore Faces Export-Control Scrutiny Business Upturn",
+            "id": "a4"
+          },
           {
             "title": "Bessent Blames Lutnick's Commerce Department For Not Restricting Nvidia Chip Exports - Broadband Breakfast",
             "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORFdzZWl6eU8zUzhfWWpXclRSclhFdmlINndpUGpMYmlBeU83VVJ6RkJBWDVQbTRJekNlb0FNbHFydkpEc2ROZ3N0cWZnVTZKeVV2Q0FGOFVLRnNHT1p3QVViRnYwbFIwOFVua1ZKamRKWTBOTEM1bkdDMG9QTlZSeUJ4OVcybktoSWlJVG9GZVc0ZE9KY3FfNkJpSFdQOWJ5dTcwRXdGVlA0UHJUZk1iRkd2OTRKdw?oc=5",
@@ -22636,7 +22672,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-14T02:40:28.000Z",
-            "fetchedAt": "2026-11-14T07:04:03.870Z",
+            "fetchedAt": "2026-11-14T14:32:53.886Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Broadband Breakfast",
             "geopoliticalBypass": true,
@@ -22646,7 +22682,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Bessent Blames Lutnick's Commerce Department For Not Restricting Nvidia Chip Exports Broadband Breakfast",
-            "id": "a1"
+            "id": "a5"
           },
           {
             "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
@@ -22656,7 +22692,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-14T01:34:11.000Z",
-            "fetchedAt": "2026-11-14T07:03:56.902Z",
+            "fetchedAt": "2026-11-14T14:32:46.996Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22665,7 +22701,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
-            "id": "a2"
+            "id": "a6"
           },
           {
             "title": "Backdoor subsidy for AI data centers? Cato analyst says let CHIPS Act tax credit expire - WBFF",
@@ -22675,7 +22711,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-13T23:55:37.000Z",
-            "fetchedAt": "2026-11-14T07:04:03.870Z",
+            "fetchedAt": "2026-11-14T14:32:53.886Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "WBFF",
             "geopoliticalBypass": true,
@@ -22685,7 +22721,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Backdoor subsidy for AI data centers? Cato analyst says let CHIPS Act tax credit expire WBFF",
-            "id": "a4"
+            "id": "a8"
           },
           {
             "title": "Nvidia Crisis Spurs Scrutiny of Agency That Oversees Chip Curbs",
@@ -22695,7 +22731,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-13T21:45:38.000Z",
-            "fetchedAt": "2026-11-14T07:03:57.176Z",
+            "fetchedAt": "2026-11-14T14:32:47.358Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22704,7 +22740,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The Trump administration official who runs US export control programs was looking for marquee names for his agency’s upcoming annual conference and threw an unusual option into the mix: Nvidia Corp. Chief Executive Officer Jensen Huang.",
-            "id": "a5"
+            "id": "a9"
           },
           {
             "title": "Nvidia Spy Scandal Sparks White House Finger-Pointing Over Blocked Chip Ban - Tampa Free Press",
@@ -22714,7 +22750,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-13T21:05:10.000Z",
-            "fetchedAt": "2026-11-14T07:04:03.870Z",
+            "fetchedAt": "2026-11-14T14:32:53.887Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Tampa Free Press",
             "geopoliticalBypass": true,
@@ -22724,45 +22760,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Nvidia Spy Scandal Sparks White House Finger-Pointing Over Blocked Chip Ban Tampa Free Press",
-            "id": "a6"
-          },
-          {
-            "title": "People Have 'No Idea' How Much Nvidia Impacts Daily Life, Says Aaron Brown",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-13/people-have-no-idea-how-much-nvidia-impacts-life-brown-video",
-            "description": "Aaron Brown, founder and CEO of Lumbra, said that the average person has 'no idea' how much Nvidia impacts their lives and that it remains a messaging issue the AI industry at large needs to solve. Brown, who is a former CIA officer, said that it is hard to know exactly how the woman accused of spying on Jensen Huang came to be involved, as China is good at identifying potential resources who may have inroads with business. (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-13T20:13:13.000Z",
-            "fetchedAt": "2026-11-14T07:03:57.176Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Aaron Brown, founder and CEO of Lumbra, said that the average person has 'no idea' how much Nvidia impacts their lives and that it remains a messaging issue the AI industry at large needs to solve. Brown, who is a former CIA officer, said that it is hard to know exactly how the woman accused of spying on Jensen Huang came to be involved, as China is good at identifying potential resources who may have inroads with business.",
-            "id": "a7"
-          },
-          {
-            "title": "Everybody’s Business: China Is Writing Its Own AI Playbook",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-13/everybody-s-business-china-is-writing-its-own-ai-story-video",
-            "description": "While US AI companies are struggling with a public image problem, Chinese attitudes towards AI are generally more positive with the government leading the charge to turn its rural and inland regions into AI-driven manufacturing hubs. Brad Stone joins Stacey Vanek Smith and Max Chafkin on the Everybody’s Business podcast to discuss his factory tour of EV maker Zeekr and how China is writing its own AI story. (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-13T20:02:27.000Z",
-            "fetchedAt": "2026-11-14T07:03:57.176Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "While US AI companies are struggling with a public image problem, Chinese attitudes towards AI are generally more positive with the government leading the charge to turn its rural and inland regions into AI-driven manufacturing hubs. Brad Stone joins Stacey Vanek Smith and Max Chafkin on the Everybody’s Business podcast to discuss his factory tour of EV maker Zeekr and how China is writing its own AI story.",
-            "id": "a8"
+            "id": "a10"
           },
           {
             "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
@@ -22772,7 +22770,7 @@ export const NEWS_DATA = {
             "sourceId": "techcrunch",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-13T18:40:30.000Z",
-            "fetchedAt": "2026-11-14T07:03:56.897Z",
+            "fetchedAt": "2026-11-14T14:32:47.025Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22781,26 +22779,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-            "id": "a9"
-          },
-          {
-            "title": "Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed",
-            "url": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1",
-            "description": "Salvo from US Treasury secretary risks stoking tensions within Trump administration over Nvidia scandal",
-            "source": "Financial Times",
-            "sourceId": "ft",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-13T17:06:01.000Z",
-            "fetchedAt": "2026-11-14T07:03:57.425Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Salvo from US Treasury secretary risks stoking tensions within Trump administration over Nvidia scandal",
-            "id": "a10"
+            "id": "a11"
           },
           {
             "title": "Qualcomm’s CEO Says Chipmakers Are in an “Extreme Shortage”",
@@ -22810,7 +22789,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-13T16:28:51.000Z",
-            "fetchedAt": "2026-11-14T07:03:57.097Z",
+            "fetchedAt": "2026-11-14T14:32:47.032Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "supply-chain",
@@ -22818,7 +22797,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm's chief executive says supply is tight, yet his own company claims to have all the chips it needs and investors shrugged. The real story sits in margins, unnamed suppliers, and one number that could expose what the talk really means.",
-            "id": "a11"
+            "id": "a12"
           },
           {
             "title": "The unfolding Jensen Huang scandal: a timeline",
@@ -22828,7 +22807,7 @@ export const NEWS_DATA = {
             "sourceId": "techcrunch",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-13T15:58:00.000Z",
-            "fetchedAt": "2026-11-14T07:03:56.897Z",
+            "fetchedAt": "2026-11-14T14:32:47.025Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22837,7 +22816,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-            "id": "a12"
+            "id": "a13"
           },
           {
             "title": "Chip export controls on China key to US national security - Fox News",
@@ -22847,7 +22826,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-13T14:44:17.000Z",
-            "fetchedAt": "2026-11-14T07:04:03.870Z",
+            "fetchedAt": "2026-11-14T14:32:53.887Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Fox News",
             "geopoliticalBypass": true,
@@ -22857,46 +22836,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Chip export controls on China key to US national security Fox News",
-            "id": "a14"
-          },
-          {
-            "title": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans",
-            "url": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html",
-            "description": "The dispute comes after Stellantis scrapped planned Jeep Compass production in Brampton and shifted future output to Illinois amid U.S. auto tariffs.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-13T14:24:57.000Z",
-            "fetchedAt": "2026-11-14T07:03:56.902Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The dispute comes after Stellantis scrapped planned Jeep Compass production in Brampton and shifted future output to Illinois amid U.S.",
             "id": "a15"
-          },
-          {
-            "title": "Nvidia scrutiny raises questions over U.S. chip exports, China and national security - CNBC",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWVdnSjh5d2dmb0x6aUJJdkFvR1NKTm8ydlR4N0RGczlHNTVHR1R3R01QSGkxaU81Wi1rQS1zSTFUTHV5TXpnTGMtZzRuclZrZDljdGlNVUo4Y2FPWGc1VFUzLUM5TDIwVk9vczlHZ05ES28yUFh1eUt0Y0tmVmI4SmdMZUdQX2U0cVBtS2FsTWl4RXA5ZlExMjNtRzZhd0ticU9KZV9KZ1NFQl9HYjVpZTZXQ2JWYmtHQ1RleWpTMmktZw?oc=5",
-            "description": "Nvidia scrutiny raises questions over U.S. chip exports, China and national security CNBC",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-13T12:29:55.000Z",
-            "fetchedAt": "2026-11-14T07:04:03.870Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "CNBC",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Nvidia scrutiny raises questions over U.S. chip exports, China and national security CNBC",
-            "id": "a16"
           },
           {
             "title": "China expands drug protection regime with rare-disease, paediatric medicine exclusivity framework",
@@ -22906,7 +22846,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-13T12:00:00.000Z",
-            "fetchedAt": "2026-11-14T07:03:59.555Z",
+            "fetchedAt": "2026-11-14T14:32:50.485Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22915,27 +22855,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Draft implementing rules introduce market exclusivity periods of up to seven years for rare-disease drugs and up to two years for paediatric medicines",
-            "id": "a17"
-          },
-          {
-            "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales - CNBC",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wMjVwVXVjeGhLbERpVG81ZXFmakJVRVF3cmdCZWNhTUQzdTR4TXlBeWo0LUYxSGhMNlNjS19FWUs1WXplUjk3eEVtUG1sSTlhM1RGTDRTcHZYbE9MVkNMWHozLWZaQlFROFZoUGNZVHZPUzdEU1Fzdmln0gF_QVVfeXFMTUxaWHpOeEtydmE4Zk9zRm52ODloaUlYamZlYUM1R29KOEh5MF9KY1d3anhYNHEzaFFpX2gzOC12bnBYRW5tYnlseUlqckxsa0FKT3hRV1RpaDQwNTU2c0s5QXlybkVRR0pNZUlsQzhjM1Y3bjdtTGllRDNuT3VHcw?oc=5",
-            "description": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales CNBC",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-13T10:54:40.000Z",
-            "fetchedAt": "2026-11-14T07:04:03.870Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "CNBC",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales CNBC",
-            "id": "a18"
+            "id": "a16"
           },
           {
             "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
@@ -22945,7 +22865,7 @@ export const NEWS_DATA = {
             "sourceId": "techcrunch",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-12T22:42:51.000Z",
-            "fetchedAt": "2026-11-14T07:03:56.897Z",
+            "fetchedAt": "2026-11-14T14:32:47.025Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22954,7 +22874,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-            "id": "a20"
+            "id": "a18"
           },
           {
             "title": "Arm Is Up 77% Even As Profit Fell",
@@ -22964,7 +22884,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-12T21:11:20.000Z",
-            "fetchedAt": "2026-11-14T07:03:57.097Z",
+            "fetchedAt": "2026-11-14T14:32:47.032Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -22972,7 +22892,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "If you had tuned in only for the legal headlines around Arm and Qualcomm, you might assume Arm’s shareholders were punished, not rewarded. Holding Arm from the start of the year would have returned 77.3%, including dividends. That gain came through a period that featured sector selloffs, supply concerns, and valuation debates. If you were deciding on 1 January 2026, what did the available information really say about taking that ride with Arm? Narratives are how investors here put a case on...",
-            "id": "a21"
+            "id": "a19"
           },
           {
             "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
@@ -22982,7 +22902,7 @@ export const NEWS_DATA = {
             "sourceId": "techcrunch",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-12T18:39:23.000Z",
-            "fetchedAt": "2026-11-14T07:03:56.897Z",
+            "fetchedAt": "2026-11-14T14:32:47.025Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22991,7 +22911,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-            "id": "a22"
+            "id": "a20"
           },
           {
             "title": "Is Qualcomm Stock Worth Buying as Diversification Meets Margin Risk?",
@@ -23001,7 +22921,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-12T17:27:00.000Z",
-            "fetchedAt": "2026-11-14T07:03:57.097Z",
+            "fetchedAt": "2026-11-14T14:32:47.032Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -23009,7 +22929,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "QCOM's automotive and data center growth strengthens diversification, but falling earnings estimates, margin pressure and mixed valuation cloud its buy case.",
-            "id": "a24"
+            "id": "a22"
           },
           {
             "title": "China refines its Hatch-Waxman counterpart as Beijing IP Court highlights nine pharma patent cases",
@@ -23019,7 +22939,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-12T16:01:14.000Z",
-            "fetchedAt": "2026-11-14T07:04:01.768Z",
+            "fetchedAt": "2026-11-14T14:32:52.238Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23028,7 +22948,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Nine selected Beijing IP Court cases clarify pharmaceutical patent protection and the operation of China’s Hatch-Waxman counterpart, addressing claim scope, the boundaries of linkage litigation and generic applicants’ declarations and evidence.",
-            "id": "a25"
+            "id": "a23"
           },
           {
             "title": "Topco Scientific Establishes Dresden Hub, Makes SEMICON Europa Debut",
@@ -23038,7 +22958,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-digest",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-11-11T19:17:20.000Z",
-            "fetchedAt": "2026-11-14T07:04:01.323Z",
+            "fetchedAt": "2026-11-14T14:32:51.708Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23047,12 +22967,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Driven by the European Chips Act and the trend toward localized semiconductor manufacturing, demand for materials, equipment, and technical services in Europe has attracted growing attention. The post Topco Scientific Establishes Dresden Hub, Makes SEMICON Europa Debut appeared first on Semiconductor Digest.",
-            "id": "a29"
+            "id": "a27"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-11-14T07:04:03.903Z",
+        "generatedAt": "2026-11-14T14:32:53.918Z",
         "date": "2026-11-14",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -23063,7 +22983,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-11-14T07:04:03.903Z",
+        "generatedAt": "2026-11-14T14:32:53.918Z",
         "date": "2026-11-14",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -23074,7 +22994,7 @@ export const NEWS_DATA = {
         "articles": []
       }
     },
-    "totalArticles": 29
+    "totalArticles": 27
   }
 };
 
