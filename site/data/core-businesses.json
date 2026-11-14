@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-14T14:32:53.918Z",
-  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T19:30:16.558Z",
+  "date": "2026-11-15",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles). A total of 6 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Semiconductors: One of these chipmakers is riding a record AI-driven surge, while the other is working to reinvent itself beyond the smartphone.",
         "articleIds": [
-          "a7"
+          "a10"
         ],
         "subCategory": "semiconductors"
       },
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-14T01:31:02.000Z",
-      "fetchedAt": "2026-11-14T14:32:47.032Z",
+      "fetchedAt": "2026-11-14T19:30:05.620Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -39,7 +39,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "One of these chipmakers is riding a record AI-driven surge, while the other is working to reinvent itself beyond the smartphone.",
-      "id": "a7"
+      "id": "a10"
     },
     {
       "title": "Qualcomm CEO Cristiano Amon on fueling the AI boom",
@@ -49,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-13T15:08:49.000Z",
-      "fetchedAt": "2026-11-14T14:32:47.032Z",
+      "fetchedAt": "2026-11-14T19:30:05.620Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -57,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm CEO Cristiano Amon joins Deirdre Bosa and Brian Sozzi at Yahoo Finance's 2026 Invest conference.",
-      "id": "a14"
+      "id": "a16"
     },
     {
       "title": "Is Freedom Capital Markets Wrong to Give Up on Qualcomm? Wall Street Still Sees $185",
@@ -67,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-13T09:23:03.000Z",
-      "fetchedAt": "2026-11-14T14:32:47.032Z",
+      "fetchedAt": "2026-11-14T19:30:05.620Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -75,7 +75,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysFreedom Capital Markets downgraded Qualcomm to Hold from Buy on Nov. 9 and cut its price target to $185 from $200, the same as the consensus target.",
-      "id": "a17"
+      "id": "a18"
     },
     {
       "title": "SpaceX's New Deal with Qualcomm Aims to Take on Mobile Carriers. History Says It's Going to Be an Uphill Battle.",
@@ -85,7 +85,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-12T15:41:02.000Z",
-      "fetchedAt": "2026-11-14T14:32:47.032Z",
+      "fetchedAt": "2026-11-14T19:30:05.620Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -103,7 +103,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-12T15:13:00.000Z",
-      "fetchedAt": "2026-11-14T14:32:47.032Z",
+      "fetchedAt": "2026-11-14T19:30:05.620Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -112,24 +112,6 @@
       "stakeholders": [],
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
       "id": "a25"
-    },
-    {
-      "title": "Qualcomm CEO: AI won't replace your smartphone anytime soon",
-      "url": "https://finance.yahoo.com/technology/article/qualcomm-ceo-ai-wont-replace-your-smartphone-anytime-soon-150140110.html?.tsrc=rss",
-      "description": "Qualcomm CEO Cristiano Amon says how you use your phone will change because of AI.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-12T15:01:40.000Z",
-      "fetchedAt": "2026-11-14T14:32:47.032Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm CEO Cristiano Amon says how you use your phone will change because of AI.",
-      "id": "a26"
     }
   ]
 }
