@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-16T12:05:57.966Z",
-  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T22:33:24.013Z",
+  "date": "2026-11-17",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 6,
-      "topHeadline": "If Phone Sales Keep Shrinking, What Happens To Your Qualcomm Stock?",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (3 articles), Semiconductors (3 articles). A total of 6 articles were aggregated from monitored sources."
+      "topHeadline": "Best semiconductor ETFs: SMH leads on cost, liquidity and momentum",
+      "topHeadlineId": "a5",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles). A total of 6 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 29,
-      "topHeadline": "Jensen Huang’s China Views Preceded the Nvidia Scandal",
+      "articleCount": 38,
+      "topHeadline": "Trump's New Chip Export Rule Targets China but Exempts TikTok's Parent Company - Reason Magazine",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (26 articles), market-performance (2 articles), Supply Chain (1 article). A total of 29 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (37 articles), market-performance (1 article). A total of 38 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -45,5 +45,5 @@
       "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
     }
   },
-  "totalArticles": 35
+  "totalArticles": 44
 }

@@ -1,28 +1,64 @@
 {
-  "generatedAt": "2026-11-16T12:05:57.964Z",
-  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T22:33:24.012Z",
+  "date": "2026-11-17",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (3 articles), Semiconductors (3 articles). A total of 6 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles). A total of 6 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Semiconductors: Investing.com -- No single chip ETF stands out as \"the best\" right now, but VanEck Semiconductor ETF (SMH) screens as the strongest all-round candidate on the data pulled. The trigger was a post-elect",
+        "articleIds": [
+          "a5"
+        ],
+        "subCategory": "semiconductors"
+      },
       {
         "text": "Mobile Chips: For questions about this article or underlying research, email help@trefis.com.",
         "articleIds": [
-          "a2"
+          "a35"
         ],
         "subCategory": "mobile-chips"
-      },
-      {
-        "text": "Semiconductors: ETFs sold a net $51.7 million of Qualcomm stock last Thursday.",
-        "articleIds": [
-          "a3"
-        ],
-        "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Best semiconductor ETFs: SMH leads on cost, liquidity and momentum",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-etfs-smh-leads-210610694.html?.tsrc=rss",
+      "description": "Investing.com -- No single chip ETF stands out as \"the best\" right now, but VanEck Semiconductor ETF (SMH) screens as the strongest all-round candidate on the data pulled. The trigger was a post-election rotation out of chips and AI stocks on regulation and export-control fears. On Nov 5, 2026, Applied Materials fell 11.7% and a chip ETF dropped more than 7%. Qualcomm’s weak smartphone-chip sales added to the pressure.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-16T21:06:10.000Z",
+      "fetchedAt": "2026-11-16T22:33:16.500Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Investing.com -- No single chip ETF stands out as \"the best\" right now, but VanEck Semiconductor ETF (SMH) screens as the strongest all-round candidate on the data pulled. The trigger was a post-election rotation out of chips and AI stocks on regulation and export-control fears. On Nov 5, 2026, Applied Materials fell 11.7% and a chip ETF dropped more than 7%. Qualcomm’s weak smartphone-chip sales added to the pressure.",
+      "id": "a5"
+    },
+    {
+      "title": "Signals of Opportunity (SoOp) Market 2026: Global Forecast to 2030 | Capitalize on 17.2% CAGR and GPS-Denied Navigation with Qualcomm, BAE Systems, Safran and L3Harris",
+      "url": "https://finance.yahoo.com/technology/articles/signals-opportunity-soop-market-2026-152800734.html?.tsrc=rss",
+      "description": "Boost ROI by scaling PNT-as-a-Service globally, targeting defense and GPS-denied navigation, advancing AI-driven signal fusion, and forming space-industry partnerships.Dublin, Nov. 16, 2026 (GLOBE NEWSWIRE) -- \"Signals of Opportunity (SoOp) Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global signals of opportunity (SoOp) market is experiencing rapid growth as governments, defense agencies, and technology providers increase investment in resilient positioning, navi",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-16T15:28:00.000Z",
+      "fetchedAt": "2026-11-16T22:33:16.500Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Boost ROI by scaling PNT-as-a-Service globally, targeting defense and GPS-denied navigation, advancing AI-driven signal fusion, and forming space-industry partnerships.Dublin, Nov. 16, 2026 (GLOBE NEWSWIRE) -- \"Signals of Opportunity (SoOp) Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global signals of opportunity (SoOp) market is experiencing rapid growth as governments, defense agencies, and technology providers increase investment in resilient positioning, navi",
+      "id": "a20"
+    },
     {
       "title": "If Phone Sales Keep Shrinking, What Happens To Your Qualcomm Stock?",
       "url": "https://www.trefis.com/stock/qcom/articles/625248/if-phone-sales-keep-shrinking-what-happens-to-your-qualcomm-stock/2026-11-16?.tsrc=rss",
@@ -31,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-16T11:42:11.000Z",
-      "fetchedAt": "2026-11-16T12:05:49.851Z",
+      "fetchedAt": "2026-11-16T22:33:16.500Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -39,7 +75,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "id": "a2"
+      "id": "a35"
     },
     {
       "title": "ETFs Are Net Sellers of Qualcomm (QCOM) on Nov. 12",
@@ -49,7 +85,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-16T11:03:35.000Z",
-      "fetchedAt": "2026-11-16T12:05:49.851Z",
+      "fetchedAt": "2026-11-16T22:33:16.500Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -57,7 +93,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "ETFs sold a net $51.7 million of Qualcomm stock last Thursday.",
-      "id": "a3"
+      "id": "a36"
     },
     {
       "title": "Bernstein Says Qualcomm’s “Margin Outlook Is Lousy.” Is the 6% Slide a Buying Chance?",
@@ -67,7 +103,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-15T04:33:21.000Z",
-      "fetchedAt": "2026-11-16T12:05:49.851Z",
+      "fetchedAt": "2026-11-16T22:33:16.500Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -75,7 +111,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysQualcomm’s handset revenue fell 26% to $5. 14 billion, missing estimates, while automotive revenue jumped 89% to a record $1.",
-      "id": "a28"
+      "id": "a42"
     },
     {
       "title": "Micron Technology vs. Qualcomm: Which Tech Stock Is the Better Buy for 2027?",
@@ -85,7 +121,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-14T01:31:02.000Z",
-      "fetchedAt": "2026-11-16T12:05:49.851Z",
+      "fetchedAt": "2026-11-16T22:33:16.500Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -93,43 +129,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "One of these chipmakers is riding a record AI-driven surge, while the other is working to reinvent itself beyond the smartphone.",
-      "id": "a32"
-    },
-    {
-      "title": "Qualcomm or Texas Instruments: The One Dividend Stock I’d Hold for the Next 10 Years",
-      "url": "https://www.tikr.com/blog/qualcomm-or-texas-instruments-the-one-dividend-stock-id-hold-for-the-next-10-years?ref=yahoofinancedividend&tlnk=yf-261114-xpp9wg7j&.tsrc=rss",
-      "description": "Key TakeawaysQualcomm shares fell about 10% on Nov. 5 after its fiscal fourth-quarter handset revenue dropped 26%, while Texas Instruments grew third-quarter revenue 28% and raised its dividend 7% in September.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-13T17:40:13.000Z",
-      "fetchedAt": "2026-11-16T12:05:49.851Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Key TakeawaysQualcomm shares fell about 10% on Nov. 5 after its fiscal fourth-quarter handset revenue dropped 26%, while Texas Instruments grew third-quarter revenue 28% and raised its dividend 7% in September.",
-      "id": "a33"
-    },
-    {
-      "title": "Qualcomm CEO Cristiano Amon on fueling the AI boom",
-      "url": "https://finance.yahoo.com/video/qualcomm-ceo-cristiano-amon-on-fueling-the-ai-boom-150849126.html?.tsrc=rss",
-      "description": "Qualcomm CEO Cristiano Amon joins Deirdre Bosa and Brian Sozzi at Yahoo Finance's 2026 Invest conference.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-13T15:08:49.000Z",
-      "fetchedAt": "2026-11-16T12:05:49.851Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm CEO Cristiano Amon joins Deirdre Bosa and Brian Sozzi at Yahoo Finance's 2026 Invest conference.",
-      "id": "a35"
+      "id": "a44"
     }
   ]
 }
