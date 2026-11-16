@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T23:11:36.888Z",
+  "generatedAt": "2026-11-16T03:13:00.308Z",
   "date": "2026-11-16",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,14 +9,14 @@
       {
         "text": "Mobile Chips: Key TakeawaysQualcomm’s handset revenue fell 26% to $5. 14 billion, missing estimates, while automotive revenue jumped 89% to a record $1.",
         "articleIds": [
-          "a22"
+          "a24"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Semiconductors: One of these chipmakers is riding a record AI-driven surge, while the other is working to reinvent itself beyond the smartphone.",
         "articleIds": [
-          "a26"
+          "a28"
         ],
         "subCategory": "semiconductors"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-15T04:33:21.000Z",
-      "fetchedAt": "2026-11-15T23:11:30.157Z",
+      "fetchedAt": "2026-11-16T03:12:54.590Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -39,7 +39,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysQualcomm’s handset revenue fell 26% to $5. 14 billion, missing estimates, while automotive revenue jumped 89% to a record $1.",
-      "id": "a22"
+      "id": "a24"
     },
     {
       "title": "Micron Technology vs. Qualcomm: Which Tech Stock Is the Better Buy for 2027?",
@@ -49,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-14T01:31:02.000Z",
-      "fetchedAt": "2026-11-15T23:11:30.157Z",
+      "fetchedAt": "2026-11-16T03:12:54.590Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -57,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "One of these chipmakers is riding a record AI-driven surge, while the other is working to reinvent itself beyond the smartphone.",
-      "id": "a26"
+      "id": "a28"
     },
     {
       "title": "Qualcomm or Texas Instruments: The One Dividend Stock I’d Hold for the Next 10 Years",
@@ -67,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-13T17:40:13.000Z",
-      "fetchedAt": "2026-11-15T23:11:30.157Z",
+      "fetchedAt": "2026-11-16T03:12:54.590Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -75,7 +75,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysQualcomm shares fell about 10% on Nov. 5 after its fiscal fourth-quarter handset revenue dropped 26%, while Texas Instruments grew third-quarter revenue 28% and raised its dividend 7% in September.",
-      "id": "a28"
+      "id": "a30"
     },
     {
       "title": "Qualcomm CEO Cristiano Amon on fueling the AI boom",
@@ -85,7 +85,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-13T15:08:49.000Z",
-      "fetchedAt": "2026-11-15T23:11:30.157Z",
+      "fetchedAt": "2026-11-16T03:12:54.590Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -93,7 +93,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm CEO Cristiano Amon joins Deirdre Bosa and Brian Sozzi at Yahoo Finance's 2026 Invest conference.",
-      "id": "a31"
+      "id": "a32"
     },
     {
       "title": "Is Freedom Capital Markets Wrong to Give Up on Qualcomm? Wall Street Still Sees $185",
@@ -103,7 +103,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-13T09:23:03.000Z",
-      "fetchedAt": "2026-11-15T23:11:30.157Z",
+      "fetchedAt": "2026-11-16T03:12:54.590Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -111,7 +111,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysFreedom Capital Markets downgraded Qualcomm to Hold from Buy on Nov. 9 and cut its price target to $185 from $200, the same as the consensus target.",
-      "id": "a33"
+      "id": "a34"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T23:11:36.890Z",
+  "generatedAt": "2026-11-16T03:13:00.310Z",
   "date": "2026-11-16",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 5,
       "topHeadline": "Bernstein Says Qualcomm’s “Margin Outlook Is Lousy.” Is the 6% Slide a Buying Chance?",
-      "topHeadlineId": "a22",
+      "topHeadlineId": "a24",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles). A total of 5 articles were aggregated from monitored sources."
     },
     "ip-legal": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 28,
-      "topHeadline": "Jensen Huang Resigns Amid Spy Scandal, Intensifying Scrutiny of Trump’s China Policy - RadarOnline",
+      "articleCount": 29,
+      "topHeadline": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (24 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 28 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (26 articles), market-performance (2 articles), Supply Chain (1 article). A total of 29 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -45,5 +45,5 @@
       "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
     }
   },
-  "totalArticles": 33
+  "totalArticles": 34
 }
