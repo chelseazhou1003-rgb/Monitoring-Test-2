@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-17T14:55:54.444Z",
-  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T23:11:20.145Z",
+  "date": "2026-11-18",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 6,
-      "topHeadline": "Can Qualcomm Stock Jump 40%?",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), Automotive (1 article). A total of 6 articles were aggregated from monitored sources."
+      "articleCount": 4,
+      "topHeadline": "Why Qualcomm teamed with F1’s new star in race for sports marketing ROI",
+      "topHeadlineId": "a4",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -18,17 +18,17 @@
     },
     "growth-areas": {
       "title": "Growth Areas",
-      "articleCount": 1,
-      "topHeadline": "Own Qualcomm? Your Stock Rides On Data Center Now",
-      "topHeadlineId": "a25",
-      "briefingSummary": "One article today covering Data Center. Today's big story: Could Nvidia Stock Fall 50%?"
+      "articleCount": 0,
+      "topHeadline": null,
+      "topHeadlineId": null,
+      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 40,
-      "topHeadline": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (38 articles), market-performance (2 articles). A total of 40 articles were aggregated from monitored sources."
+      "articleCount": 39,
+      "topHeadline": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (37 articles), market-performance (2 articles). A total of 39 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -40,10 +40,10 @@
     "stakeholders": {
       "title": "Key Stakeholders",
       "articleCount": 3,
-      "topHeadline": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO",
-      "topHeadlineId": "a5",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles). A total of 3 articles were aggregated from monitored sources."
+      "topHeadline": "Brad Gerstner Dumps These 3 Stocks",
+      "topHeadlineId": "a12",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), market-performance (1 article). A total of 3 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 50
+  "totalArticles": 46
 }

@@ -2,8 +2,8 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-11-17T14:55:54.442Z",
-    "date": "2026-11-17",
+    "generatedAt": "2026-11-17T23:11:20.144Z",
+    "date": "2026-11-18",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
@@ -13,44 +13,73 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-11-17T14:55:54.442Z",
-    "date": "2026-11-17",
+    "generatedAt": "2026-11-17T23:11:20.144Z",
+    "date": "2026-11-18",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), Automotive (1 article). A total of 6 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: Today's big story: Could Nvidia Stock Fall 50%?",
+          "text": "Mobile Chips: CMO Don McGuire explains how Snapdragon’s deal with Formula One phenom Kimi Antonelli helps the brand connect with racing’s growing audience.",
           "articleIds": [
-            "a1"
+            "a4"
+          ],
+          "subCategory": "mobile-chips"
+        },
+        {
+          "text": "Semiconductors: SK Hynix's quarterly revenue has surged from $12.1 billion to $73.3 billion in under two years, while Qualcomm's has barely budged.",
+          "articleIds": [
+            "a8"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Wireless Communication: CHICAGO, November 17, 2026--Qualcomm Technologies, Inc. and Cirrascale Cloud Services today announced that Qualcomm Dragonfly™ AI200, a next-generation, purpose-built solution for rack-scale AI infere",
           "articleIds": [
-            "a3"
+            "a17"
           ],
           "subCategory": "wireless"
-        },
-        {
-          "text": "Automotive: Qualcomm (NasdaqGS:QCOM) reports growing traction for its Snapdragon intelligent cockpit SoCs in new vehicle programs across global automakers. The company is increasingly referenced by industry group",
-          "articleIds": [
-            "a36"
-          ],
-          "subCategory": "automotive"
-        },
-        {
-          "text": "Mobile Chips: For questions about this article or underlying research, email help@trefis.com.",
-          "articleIds": [
-            "a46"
-          ],
-          "subCategory": "mobile-chips"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Why Qualcomm teamed with F1’s new star in race for sports marketing ROI",
+        "url": "https://www.marketingdive.com/news/why-qualcomm-teamed-with-f1s-new-star-in-race-for-sports-marketing-roi/874895/?.tsrc=rss",
+        "description": "CMO Don McGuire explains how Snapdragon’s deal with Formula One phenom Kimi Antonelli helps the brand connect with racing’s growing audience.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T20:00:00.000Z",
+        "fetchedAt": "2026-11-17T23:11:08.392Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "CMO Don McGuire explains how Snapdragon’s deal with Formula One phenom Kimi Antonelli helps the brand connect with racing’s growing audience.",
+        "id": "a4"
+      },
+      {
+        "title": "Qualcomm vs. SK Hynix: Stable Revenue vs. Rapid Acceleration",
+        "url": "https://www.fool.com/coverage/charts/2026/11/17/qualcomm-vs-sk-hynix-stable-revenue-vs-rapid-acceleration/?.tsrc=rss",
+        "description": "SK Hynix's quarterly revenue has surged from $12.1 billion to $73.3 billion in under two years, while Qualcomm's has barely budged.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T18:20:02.000Z",
+        "fetchedAt": "2026-11-17T23:11:08.392Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "SK Hynix's quarterly revenue has surged from $12.1 billion to $73.3 billion in under two years, while Qualcomm's has barely budged.",
+        "id": "a8"
+      },
       {
         "title": "Can Qualcomm Stock Jump 40%?",
         "url": "https://www.trefis.com/stock/qcom/articles/625730/can-qualcomm-stock-jump-40/2026-11-17?.tsrc=rss",
@@ -59,7 +88,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-17T14:13:44.000Z",
-        "fetchedAt": "2026-11-17T14:55:47.938Z",
+        "fetchedAt": "2026-11-17T23:11:08.393Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -67,7 +96,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Today's big story: Could Nvidia Stock Fall 50%?",
-        "id": "a1"
+        "id": "a16"
       },
       {
         "title": "Qualcomm and Cirrascale Collaborate to Advance Next-Generation, Energy-Efficient AI Inference",
@@ -77,7 +106,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-17T14:00:00.000Z",
-        "fetchedAt": "2026-11-17T14:55:47.938Z",
+        "fetchedAt": "2026-11-17T23:11:08.393Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -85,123 +114,24 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "CHICAGO, November 17, 2026--Qualcomm Technologies, Inc. and Cirrascale Cloud Services today announced that Qualcomm Dragonfly™ AI200, a next-generation, purpose-built solution for rack-scale AI inference, is now available for evaluation by select customers through Cirrascale.",
-        "id": "a3"
-      },
-      {
-        "title": "What Is Qualcomm (QCOM) Gaining From Its Cockpit And SoOp Momentum?",
-        "url": "https://finance.yahoo.com/technology/articles/qualcomm-qcom-gaining-cockpit-soop-001825325.html?.tsrc=rss",
-        "description": "Qualcomm (NasdaqGS:QCOM) reports growing traction for its Snapdragon intelligent cockpit SoCs in new vehicle programs across global automakers. The company is increasingly referenced by industry groups as a core supplier in the emerging signals of opportunity, or SoOp, navigation market. Government and defense agencies are exploring SoOp systems that pair advanced Qualcomm silicon with AI for autonomous and GPS limited settings. Qualcomm's push into intelligent cockpit SoCs and SoOp...",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-17T00:18:25.000Z",
-        "fetchedAt": "2026-11-17T14:55:47.938Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "automotive",
-        "subLabel": "Automotive",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm (NasdaqGS:QCOM) reports growing traction for its Snapdragon intelligent cockpit SoCs in new vehicle programs across global automakers. The company is increasingly referenced by industry groups as a core supplier in the emerging signals of opportunity, or SoOp, navigation market. Government and defense agencies are exploring SoOp systems that pair advanced Qualcomm silicon with AI for autonomous and GPS limited settings. Qualcomm's push into intelligent cockpit SoCs and SoOp...",
-        "id": "a36"
-      },
-      {
-        "title": "Best semiconductor ETFs: SMH leads on cost, liquidity and momentum",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-etfs-smh-leads-210610694.html?.tsrc=rss",
-        "description": "Investing.com -- No single chip ETF stands out as \"the best\" right now, but VanEck Semiconductor ETF (SMH) screens as the strongest all-round candidate on the data pulled. The trigger was a post-election rotation out of chips and AI stocks on regulation and export-control fears. On Nov 5, 2026, Applied Materials fell 11.7% and a chip ETF dropped more than 7%. Qualcomm’s weak smartphone-chip sales added to the pressure.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T21:06:10.000Z",
-        "fetchedAt": "2026-11-17T14:55:47.938Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Investing.com -- No single chip ETF stands out as \"the best\" right now, but VanEck Semiconductor ETF (SMH) screens as the strongest all-round candidate on the data pulled. The trigger was a post-election rotation out of chips and AI stocks on regulation and export-control fears. On Nov 5, 2026, Applied Materials fell 11.7% and a chip ETF dropped more than 7%. Qualcomm’s weak smartphone-chip sales added to the pressure.",
-        "id": "a39"
-      },
-      {
-        "title": "Signals of Opportunity (SoOp) Market 2026: Global Forecast to 2030 | Capitalize on 17.2% CAGR and GPS-Denied Navigation with Qualcomm, BAE Systems, Safran and L3Harris",
-        "url": "https://finance.yahoo.com/technology/articles/signals-opportunity-soop-market-2026-152800734.html?.tsrc=rss",
-        "description": "Boost ROI by scaling PNT-as-a-Service globally, targeting defense and GPS-denied navigation, advancing AI-driven signal fusion, and forming space-industry partnerships.Dublin, Nov. 16, 2026 (GLOBE NEWSWIRE) -- \"Signals of Opportunity (SoOp) Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global signals of opportunity (SoOp) market is experiencing rapid growth as governments, defense agencies, and technology providers increase investment in resilient positioning, navi",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T15:28:00.000Z",
-        "fetchedAt": "2026-11-17T14:55:47.938Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Boost ROI by scaling PNT-as-a-Service globally, targeting defense and GPS-denied navigation, advancing AI-driven signal fusion, and forming space-industry partnerships.Dublin, Nov. 16, 2026 (GLOBE NEWSWIRE) -- \"Signals of Opportunity (SoOp) Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global signals of opportunity (SoOp) market is experiencing rapid growth as governments, defense agencies, and technology providers increase investment in resilient positioning, navi",
-        "id": "a44"
-      },
-      {
-        "title": "If Phone Sales Keep Shrinking, What Happens To Your Qualcomm Stock?",
-        "url": "https://www.trefis.com/stock/qcom/articles/625248/if-phone-sales-keep-shrinking-what-happens-to-your-qualcomm-stock/2026-11-16?.tsrc=rss",
-        "description": "For questions about this article or underlying research, email help@trefis.com.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T11:42:11.000Z",
-        "fetchedAt": "2026-11-17T14:55:47.938Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "mobile-chips",
-        "subLabel": "Mobile Chips",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "For questions about this article or underlying research, email help@trefis.com.",
-        "id": "a46"
+        "id": "a17"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-11-17T14:55:54.442Z",
-    "date": "2026-11-17",
+    "generatedAt": "2026-11-17T23:11:20.144Z",
+    "date": "2026-11-18",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
-      "summary": "One article today covering Data Center. Today's big story: Could Nvidia Stock Fall 50%?",
-      "keyTakeaways": [
-        {
-          "text": "Data Center: Today's big story: Could Nvidia Stock Fall 50%?",
-          "articleIds": [
-            "a25"
-          ],
-          "subCategory": "data-center"
-        }
-      ]
+      "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+      "keyTakeaways": []
     },
-    "articles": [
-      {
-        "title": "Own Qualcomm? Your Stock Rides On Data Center Now",
-        "url": "https://www.trefis.com/stock/qcom/articles/625596/own-qualcomm-your-stock-rides-on-data-center-now/2026-11-17?.tsrc=rss",
-        "description": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-17T10:38:56.000Z",
-        "fetchedAt": "2026-11-17T14:55:47.938Z",
-        "fetchStrategy": "rss",
-        "section": "growth-areas",
-        "subCategory": "data-center",
-        "subLabel": "Data Center",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Today's big story: Could Nvidia Stock Fall 50%?",
-        "id": "a25"
-      }
-    ]
+    "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-11-17T14:55:54.442Z",
-    "date": "2026-11-17",
+    "generatedAt": "2026-11-17T23:11:20.144Z",
+    "date": "2026-11-18",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
@@ -211,15 +141,15 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-11-17T14:55:54.444Z",
-    "date": "2026-11-17",
+    "generatedAt": "2026-11-17T23:11:20.145Z",
+    "date": "2026-11-18",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 6,
-        "topHeadline": "Can Qualcomm Stock Jump 40%?",
-        "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), Automotive (1 article). A total of 6 articles were aggregated from monitored sources."
+        "articleCount": 4,
+        "topHeadline": "Why Qualcomm teamed with F1’s new star in race for sports marketing ROI",
+        "topHeadlineId": "a4",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
@@ -230,17 +160,17 @@ export const NEWS_DATA = {
       },
       "growth-areas": {
         "title": "Growth Areas",
-        "articleCount": 1,
-        "topHeadline": "Own Qualcomm? Your Stock Rides On Data Center Now",
-        "topHeadlineId": "a25",
-        "briefingSummary": "One article today covering Data Center. Today's big story: Could Nvidia Stock Fall 50%?"
+        "articleCount": 0,
+        "topHeadline": null,
+        "topHeadlineId": null,
+        "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 40,
-        "topHeadline": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-        "topHeadlineId": "a2",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (38 articles), market-performance (2 articles). A total of 40 articles were aggregated from monitored sources."
+        "articleCount": 39,
+        "topHeadline": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
+        "topHeadlineId": "a1",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (37 articles), market-performance (2 articles). A total of 39 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -252,66 +182,66 @@ export const NEWS_DATA = {
       "stakeholders": {
         "title": "Key Stakeholders",
         "articleCount": 3,
-        "topHeadline": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO",
-        "topHeadlineId": "a5",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles). A total of 3 articles were aggregated from monitored sources."
+        "topHeadline": "Brad Gerstner Dumps These 3 Stocks",
+        "topHeadlineId": "a12",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), market-performance (1 article). A total of 3 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 50
+    "totalArticles": 46
   },
   "macro-environment": {
-    "generatedAt": "2026-11-17T14:55:54.442Z",
-    "date": "2026-11-17",
+    "generatedAt": "2026-11-17T23:11:20.144Z",
+    "date": "2026-11-18",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (38 articles), market-performance (2 articles). A total of 40 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (37 articles), market-performance (2 articles). A total of 39 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+          "text": "market-performance: Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. The leadership change followed Jensen ",
+          "articleIds": [
+            "a1"
+          ],
+          "subCategory": "market-performance"
+        },
+        {
+          "text": "Geopolitics & Export Controls: Technology failures disrupting everything from Americans’ air travel and banking transactions to secretive work at the US National Security Agency are fueling public distrust and paranoia about aging ",
           "articleIds": [
             "a2"
           ],
           "subCategory": "geopolitics-export-controls"
-        },
-        {
-          "text": "market-performance: US equity futures waver ahead of Nvidia’s earnings as the chip giant forms a new committee to oversee national security policy and export control following US semiconductor curbs. President Trump arri",
-          "articleIds": [
-            "a7"
-          ],
-          "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
       {
-        "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-        "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-        "description": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
-        "source": "TechCrunch",
-        "sourceId": "techcrunch",
+        "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
+        "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+        "description": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chinese asset Alice Huang and one with a direct report, Kimberly Powell. Nvidia is investigating whether Huang's relationship with the former compromised national security or company secrets. Huang will also testify before lawmakers on December 1st. Ahead of Tuesday's earnings, Huang said he would be willing to … Read the full story at The Verge.",
+        "source": "The Verge",
+        "sourceId": "the-verge",
         "sourceGroup": "tech",
-        "publishedAt": "2026-11-17T14:05:30.000Z",
-        "fetchedAt": "2026-11-17T14:55:47.814Z",
+        "publishedAt": "2026-11-17T22:32:50.000Z",
+        "fetchedAt": "2026-11-17T23:11:09.039Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
         "competitors": [],
         "stakeholders": [],
-        "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
-        "id": "a2"
+        "summary": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chinese asset Alice Huang and one with a direct report, Kimberly Powell. Nvidia is investigating whether Huang's relationship with the former compromised national security or company secrets. Huang will also testify before lawmakers on December 1st. Ahead of Tuesday's earnings, Huang said he would be willing to … Read the full story at The Verge.",
+        "id": "a1"
       },
       {
-        "title": "China Warns US of Retaliation Over Chip Curbs, Urges Dialogue",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-17/china-warns-us-of-retaliation-over-chip-curbs-urges-dialogue",
-        "description": "China warned the US it would retaliate if Washington proceeds with curbs on remote access to advanced chips, while urging the Trump administration to resolve differences through dialogue.",
+        "title": "Tech Paranoia Intensifies After Outages Roil Public Trust",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-17/tech-paranoia-intensifies-after-outages-roil-public-trust",
+        "description": "Technology failures disrupting everything from Americans’ air travel and banking transactions to secretive work at the US National Security Agency are fueling public distrust and paranoia about aging tech infrastructure — even with no sign the episodes are linked or the work of malicious actors.",
         "source": "Bloomberg",
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-17T13:58:37.000Z",
-        "fetchedAt": "2026-11-17T14:55:48.147Z",
+        "publishedAt": "2026-11-17T22:08:21.000Z",
+        "fetchedAt": "2026-11-17T23:11:08.636Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -319,8 +249,224 @@ export const NEWS_DATA = {
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "China warned the US it would retaliate if Washington proceeds with curbs on remote access to advanced chips, while urging the Trump administration to resolve differences through dialogue.",
-        "id": "a4"
+        "summary": "Technology failures disrupting everything from Americans’ air travel and banking transactions to secretive work at the US National Security Agency are fueling public distrust and paranoia about aging tech infrastructure — even with no sign the episodes are linked or the work of malicious actors.",
+        "id": "a2"
+      },
+      {
+        "title": "Nvidia creates committee to oversee national security, chip exports - TechTarget",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdXVzZHFDUHV1YjBFMTFUajM3dlhQRHJSNFQ2M0U3SGUtd0JDWlBUQTh3em9OaXdMVWlnODlocTNHNlpHMnhrMFlQSnpGdlF5WldMQTc0X3U5ZlRzXzdObUdral9IUEVVdEM0cmdFTFhUSkdxaFZlVjVvckFmRktLMV9iNVNILUl2OFg3QWZzTXJRUlg5RXNmNmVhZWg4ZllidjUwZ0RxTUtEQQ?oc=5",
+        "description": "Nvidia creates committee to oversee national security, chip exports TechTarget",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T21:06:23.000Z",
+        "fetchedAt": "2026-11-17T23:11:20.115Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "TechTarget",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Nvidia creates committee to oversee national security, chip exports TechTarget",
+        "id": "a3"
+      },
+      {
+        "title": "Nvidia Creates Board Committee to Oversee National Security and Chip Exports - CEO Magazyn",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xZlRIYlg0R1lUVDBwMVhQdzZWdWwzYWF5N1k2Nk1XVktIcW15aHI4c2NsQ2loRXBSYzRXZkxxZUotUHVEQXJyOGJYNGJxQWdGQjRyX3dZZFI2QjdWUUU4aHBpWlhSTzFjQXM5M1pITTBTR1JaNGdvdnB4OTJLMDQ?oc=5",
+        "description": "Nvidia Creates Board Committee to Oversee National Security and Chip Exports CEO Magazyn",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T19:53:28.000Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "CEO Magazyn",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Nvidia Creates Board Committee to Oversee National Security and Chip Exports CEO Magazyn",
+        "id": "a5"
+      },
+      {
+        "title": "Waymo suspends freeway rides nationwide after California DMV order",
+        "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+        "description": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety. Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
+        "source": "TechCrunch",
+        "sourceId": "techcrunch",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-11-17T19:49:41.000Z",
+        "fetchedAt": "2026-11-17T23:11:08.332Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety. Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
+        "id": "a6"
+      },
+      {
+        "title": "Carlos Gimenez warns lax AI chip export controls threaten US national security - Fox Business",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsNGdoZ2VEekpIdkFEX1BUdGxJVjR3SkdpeEJidUF5QUR6bEhHZU40QWxlS2UzV0VCOXpiRG91blpqckNyd215TG5KdGdvSmExa3BnelpsTmhVNzQ?oc=5",
+        "description": "Carlos Gimenez warns lax AI chip export controls threaten US national security Fox Business",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T19:14:46.000Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Fox Business",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Carlos Gimenez warns lax AI chip export controls threaten US national security Fox Business",
+        "id": "a7"
+      },
+      {
+        "title": "US Electronic Spy Agency Suffers Classified Network Outage",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-electronic-spy-agency-suffers-outage-of-classified-network",
+        "description": "The National Security Agency suffered an outage of a classified computer network it uses for internal communications and other daily work functions, according to a US official and another person familiar with the matter.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T17:41:13.000Z",
+        "fetchedAt": "2026-11-17T23:11:08.636Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "The National Security Agency suffered an outage of a classified computer network it uses for internal communications and other daily work functions, according to a US official and another person familiar with the matter.",
+        "id": "a9"
+      },
+      {
+        "title": "US tightens AI chip restrictions on China following Nvidia scandal - National Security News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcWVFaXRpeHduckY1TURSbkR0VmljVnkxSEFmZWlreGRGV2s4Q20tdkMzdzRHcHFIemItcWk3R0loMVpxSDE3UFRlb01iT2NMUllkV0tySUhXdXpybE9JUFd6bWp3QlNvQ1Fub0VUZmxtUFVfZ0lKREFldW0tMWNUMlBWR2dHZDNwbTFHX29IRlZmMFhUZnc2bE5qTl9IWURuVlB2M0xKY3ZrUkxD?oc=5",
+        "description": "US tightens AI chip restrictions on China following Nvidia scandal National Security News",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T17:12:41.000Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "National Security News",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US tightens AI chip restrictions on China following Nvidia scandal National Security News",
+        "id": "a10"
+      },
+      {
+        "title": "Nvidia forms export control board committee after chip curbs - Taipei Times",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94LTZVUlFwSGZyOS00cGpfTkFIbTBQbXlkTlJKTGRpMHU5MWpUU0x3UE90S2YtZW8xdWxSVWdtaXNCWUhkWEE3a0MwLXJzV0E0TkExczM0bTMxbktRdDR1dmdFeXh0SkdIcndGdTVYZ3JEQnluQnc?oc=5",
+        "description": "Nvidia forms export control board committee after chip curbs Taipei Times",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T16:00:00.000Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Taipei Times",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Nvidia forms export control board committee after chip curbs Taipei Times",
+        "id": "a11"
+      },
+      {
+        "title": "Brad Gerstner Dumps These 3 Stocks",
+        "url": "https://www.tikr.com/blog/brad-gerstner-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261117-79fc3fv5&.tsrc=rss",
+        "description": "Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarter it added to Meta Platforms and opened a position in Tesla. Applied Materials and KLA have each fallen 52% since June 30, even though both just reported strong quarters, and analysts’ average targets sit more than 50% above both stocks.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T15:58:09.000Z",
+        "fetchedAt": "2026-11-17T23:11:08.392Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarter it added to Meta Platforms and opened a position in Tesla. Applied Materials and KLA have each fallen 52% since June 30, even though both just reported strong quarters, and analysts’ average targets sit more than 50% above both stocks.",
+        "id": "a12"
+      },
+      {
+        "title": "Nvidia board creates oversight committee",
+        "url": "https://www.mobileworldlive.com/nvidia/nvidia-board-creates-oversight-committee/",
+        "description": "Nvidia’s board of directors formed a board-level committee to oversee national security and export controls, in its first major governance move since CEO Jensen ‌Huang resigned after revelations of extramarital affairs which intensified scrutiny of the chip firm's business in China. The post Nvidia board creates oversight committee appeared first on Mobile World Live.",
+        "source": "Mobile World Live",
+        "sourceId": "mobile-world-live",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-11-17T15:38:16.000Z",
+        "fetchedAt": "2026-11-17T23:11:17.786Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Nvidia’s board of directors formed a board-level committee to oversee national security and export controls, in its first major governance move since CEO Jensen ‌Huang resigned after revelations of extramarital affairs which intensified scrutiny of the chip firm's business in China. The post Nvidia board creates oversight committee appeared first on Mobile World Live.",
+        "id": "a13"
+      },
+      {
+        "title": "NVIDIA and Jensen Huang Fallout: US Chip Ban Pops the Southeast Asia Data Center Bubble - Smartkarma",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdzNCQ2xBaE0yd2Jrdk5HWVJISTFueGJjODNSaEVnVGpJb0RIV1lIZkxldEVZQ1ZPZ3MyWUpHemI0V2tzbWI5SGlpVEFQMU5DMWhHcHVISEV1ekZxdEN0enl2V1RfWEpBZXpmdGM4NzkwaTR1aGNCRlJ1RlNNdWdjT0pwc05DQlluVEU2NUJFVnNKY3lxdmxlb240eEFsZWxDc29aYjNUSHpTWUdkMHVqRURtc3RjYkNzUXI4dVlNR0t3OUhSMzEtM1RfT2Y1UWpxczdPZUZLYVVlcndNWmYtUDk5VGpZOEVF?oc=5",
+        "description": "NVIDIA and Jensen Huang Fallout: US Chip Ban Pops the Southeast Asia Data Center Bubble Smartkarma",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T15:14:38.000Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Smartkarma",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "NVIDIA and Jensen Huang Fallout: US Chip Ban Pops the Southeast Asia Data Center Bubble Smartkarma",
+        "id": "a14"
+      },
+      {
+        "title": "Huawei poised to top pre-sanction sales peak",
+        "url": "https://www.mobileworldlive.com/ranvendors/huawei-poised-to-top-pre-sanction-sales-peak/",
+        "description": "Six years after Huawei’s revenue peaked at CNY891.4 billion ($133.6 billion), the company is on track to significantly surpass that figure in 2026, shrugging off a widening range of trade sanctions by many western countries as its diversification efforts reap dividends. The post Huawei poised to top pre-sanction sales peak appeared first on Mobile World Live.",
+        "source": "Mobile World Live",
+        "sourceId": "mobile-world-live",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-11-17T14:58:41.000Z",
+        "fetchedAt": "2026-11-17T23:11:17.786Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Six years after Huawei’s revenue peaked at CNY891.4 billion ($133.6 billion), the company is on track to significantly surpass that figure in 2026, shrugging off a widening range of trade sanctions by many western countries as its diversification efforts reap dividends. The post Huawei poised to top pre-sanction sales peak appeared first on Mobile World Live.",
+        "id": "a15"
       },
       {
         "title": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO",
@@ -330,7 +476,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-17T13:58:07.000Z",
-        "fetchedAt": "2026-11-17T14:55:47.943Z",
+        "fetchedAt": "2026-11-17T23:11:08.358Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -341,46 +487,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Isomorphic Labs is looking to develop new medicines using AI.",
-        "id": "a5"
-      },
-      {
-        "title": "Carlos Gimenez warns lax AI chip export controls threaten US national security - Fox Business",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsNGdoZ2VEekpIdkFEX1BUdGxJVjR3SkdpeEJidUF5QUR6bEhHZU40QWxlS2UzV0VCOXpiRG91blpqckNyd215TG5KdGdvSmExa3BnelpsTmhVNzQ?oc=5",
-        "description": "Carlos Gimenez warns lax AI chip export controls threaten US national security Fox Business",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-17T13:57:15.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Fox Business",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Carlos Gimenez warns lax AI chip export controls threaten US national security Fox Business",
-        "id": "a6"
-      },
-      {
-        "title": "Stocks Waver Ahead of Nvidia Earnings; Trump Kicks Off Asia Trip",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-17/bloomberg-brief-11-17-2026-video",
-        "description": "US equity futures waver ahead of Nvidia’s earnings as the chip giant forms a new committee to oversee national security policy and export control following US semiconductor curbs. President Trump arrives in Manila to meet the leaders of India, Australia, and Japan ahead of the summit with President Xi Jinping. Alexandra Mousavizadeh, CEO of Evident, joins “Bloomberg Brief” to look ahead to Nvidia’s earnings. Lauren van Biljon of Allspring discusses fiscal risks in 2027. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-17T13:55:29.000Z",
-        "fetchedAt": "2026-11-17T14:55:48.147Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "US equity futures waver ahead of Nvidia’s earnings as the chip giant forms a new committee to oversee national security policy and export control following US semiconductor curbs. President Trump arrives in Manila to meet the leaders of India, Australia, and Japan ahead of the summit with President Xi Jinping. Alexandra Mousavizadeh, CEO of Evident, joins “Bloomberg Brief” to look ahead to Nvidia’s earnings. Lauren van Biljon of Allspring discusses fiscal risks in 2027.",
-        "id": "a7"
+        "id": "a18"
       },
       {
         "title": "Nvidia's board forms export oversight panel after scrutiny over China chip sales - CBS News",
@@ -389,8 +496,8 @@ export const NEWS_DATA = {
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-17T13:35:55.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
+        "publishedAt": "2026-11-17T13:35:00.000Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "CBS News",
         "geopoliticalBypass": true,
@@ -400,7 +507,47 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia's board forms export oversight panel after scrutiny over China chip sales CBS News",
-        "id": "a8"
+        "id": "a19"
+      },
+      {
+        "title": "Nvidia forms export-control panel as Huang affair puts China ties in focus - WTVB",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVnU0TVhla1dWaWtsMk1VbGNWZ0ZudngxS3QtRWw2cTV3N1JieGg1Ni1VRTN5UlJULTlNdHo4Q2h4dlUyRTlrMmtoTzdENElQeTg5ekk3elNyNVAzSVUxdjA4bWs2aHdGalU4RGVzcmtHbVV6NzRORkRUX0ZfbjFicklmb3ZadWd1czhaTmRhT3ZfUlpoUklycXB3djRLdzFnaGl0Wm0yejMzWTMxdE80?oc=5",
+        "description": "Nvidia forms export-control panel as Huang affair puts China ties in focus WTVB",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T13:07:57.000Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "WTVB",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Nvidia forms export-control panel as Huang affair puts China ties in focus WTVB",
+        "id": "a20"
+      },
+      {
+        "title": "Video | Nvidia Sets Up National Security Committee Amid China Chip Probe - NDTV",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGJmQnR2RmZSM3NIS0dyU0NkSng3azFRcGtnRElfajZ2aEVYR0pxeWlwTUlTbmlSSlFNUmhxUVVVRk9FdTNhOHpreWFLTUkyRmh3WldmQlo3M2t0M0hkdk1kaFk2c1lqbUpseE9NTFFSSnlxWnJYdF9LUnZEVlc4UXcyZEs1S0VndlRHR2s1Qk1GTVdCQzRnemRMd19Ma2dr?oc=5",
+        "description": "Video | Nvidia Sets Up National Security Committee Amid China Chip Probe NDTV",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T12:56:13.000Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "NDTV",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Video | Nvidia Sets Up National Security Committee Amid China Chip Probe NDTV",
+        "id": "a21"
       },
       {
         "title": "Nvidia Board Adds National Security Committee as Jensen Huang's Departure Tightens Chip Export Firewall - BigGo Finance",
@@ -410,7 +557,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-17T12:35:00.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "BigGo Finance",
         "geopoliticalBypass": true,
@@ -420,7 +567,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia Board Adds National Security Committee as Jensen Huang's Departure Tightens Chip Export Firewall BigGo Finance",
-        "id": "a9"
+        "id": "a22"
       },
       {
         "title": "China’s Automotive Surge in Brazil Is Reshaping the Patent Landscape",
@@ -430,7 +577,7 @@ export const NEWS_DATA = {
         "sourceId": "ipwatchdog",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-17T12:15:30.000Z",
-        "fetchedAt": "2026-11-17T14:55:50.641Z",
+        "fetchedAt": "2026-11-17T23:11:12.269Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -439,7 +586,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Imports of Chinese electric and hybrid vehicles are transforming Brazil’s automotive market. At the same time, data from the Brazilian Patent and Trademark Office (BPTO) show Chinese companies expanding their patent presence. Together, these trends suggest a new phase of competition in which electrification, software and artificial intelligence (AI) may matter as much as manufacturing scale and dealer networks. The post China’s Automotive Surge in Brazil Is Reshaping the Patent Landscape appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-        "id": "a10"
+        "id": "a23"
       },
       {
         "title": "Nvidia Forms Export Control Board Committee After Chip Curbs - Bloomberg.com",
@@ -449,7 +596,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-17T12:14:39.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Bloomberg.com",
         "geopoliticalBypass": true,
@@ -459,46 +606,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia Forms Export Control Board Committee After Chip Curbs Bloomberg.com",
-        "id": "a11"
-      },
-      {
-        "title": "Jensen Huang’s Shock Exit From NVIDIA Is Followed By A New National Security Committee To Oversee The Chip Giant’s Export Compliance - Wccftech",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOVJLY3FMbUwzUTk1bHc5Nks0bUdvdkcwOUhDRzkxNXVSWXc4ZE9OUXVNaDFTSUY4SzI3dXlBeGtrYlpZVW4xWk5DbEJ2YXMxZ1hnSXNvcm1MREcySXhpdWhJVEFXMlhuQ1lVams2cWZoakEtaFg4RzBHUFlfeVJrUUo3QWlsTUtpd3NrUmxISWhyV0s0aWpmdm9xYlVZbXJKTk94R1FLT1Jaa09HVmttTWMySlluLXItNEUwUDhtVUFxUHA3UHpFbXlSMDFneDVkanJZYU1Nd1Q5XzkybTFENFJKU3VIMTjSAewBQVVfeXFMTUZpbFc5cmxDV2x2d0Q3LVFvMVl6X190R3JBUEVjQWl5YTVnUEpqVG1rVEI1NnRXUDVWNjR0MnFhQnNNQ0VsektDekl4eDhWcXdsWVdsUW0zaUhjbkFxM2NOdmg4WDZlc3AxUVZEMFlHN3RpOXY5M1lvUGZteFc5UkhBZ2lwWU5OMXB2WjB3RTZQUFZzZHM0M3NaTF9NRnBmSldkVUxVTmNBdUh2ejVoUGt2ZjlwVmM1Ukh1b05fSGhPMGJ1TUV1YTdILUFxaFBRWjRTcEM2Z0FoWnpwakdCSGxzQ2cxZzhwTGVwSm8?oc=5",
-        "description": "Jensen Huang’s Shock Exit From NVIDIA Is Followed By A New National Security Committee To Oversee The Chip Giant’s Export Compliance Wccftech",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-17T11:47:25.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Wccftech",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Jensen Huang’s Shock Exit From NVIDIA Is Followed By A New National Security Committee To Oversee The Chip Giant’s Export Compliance Wccftech",
-        "id": "a12"
-      },
-      {
-        "title": "US Chip Curbs a Dilemma for Xi Ahead of Trump Meeting",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-17/us-chip-curbs-a-dilemma-for-xi-ahead-of-trump-meeting-video",
-        "description": "The US’s sweeping new curbs on China’s access to high-end AI chips risk putting the technology restrictions back at the center of US-China tensions just days before President Xi Jinping meets with President Donald Trump. Tyler Kendall reports on Bloomberg Television. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-17T11:46:21.000Z",
-        "fetchedAt": "2026-11-17T14:55:48.147Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The US’s sweeping new curbs on China’s access to high-end AI chips risk putting the technology restrictions back at the center of US-China tensions just days before President Xi Jinping meets with President Donald Trump. Tyler Kendall reports on Bloomberg Television.",
-        "id": "a13"
+        "id": "a24"
       },
       {
         "title": "Nvidia Creates Board Committee To Oversee National Security and Chip Exports - tippinsights",
@@ -508,7 +616,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-17T11:40:37.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "tippinsights",
         "geopoliticalBypass": true,
@@ -518,7 +626,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia Creates Board Committee To Oversee National Security and Chip Exports tippinsights",
-        "id": "a14"
+        "id": "a25"
       },
       {
         "title": "Nvidia forms board committee to oversee national security, chip exports (NVDA:NASDAQ) - Seeking Alpha",
@@ -528,7 +636,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-17T11:29:39.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Seeking Alpha",
         "geopoliticalBypass": true,
@@ -538,45 +646,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia forms board committee to oversee national security, chip exports (NVDA:NASDAQ) Seeking Alpha",
-        "id": "a15"
-      },
-      {
-        "title": "Nvidia Forms Export Control Committee After US Chip Curbs",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-sets-export-control-committee-after-us-chip-curbs-video",
-        "description": "Nvidia has formed a new committee to oversee national security policy and export control following a move by the US to cut off China’s access to the company’s powerful artificial intelligence chips. Mandeep Singh of Bloomberg Intelligence has more. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-17T11:28:09.000Z",
-        "fetchedAt": "2026-11-17T14:55:48.147Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Nvidia has formed a new committee to oversee national security policy and export control following a move by the US to cut off China’s access to the company’s powerful artificial intelligence chips. Mandeep Singh of Bloomberg Intelligence has more.",
-        "id": "a16"
-      },
-      {
-        "title": "Nvidia creates committee to oversee compliance with US chip export controls",
-        "url": "https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb?syn-25a6b1a6=1",
-        "description": "Move comes as US chipmaker faces criticism in Washington over its ambition to increase revenues in China",
-        "source": "Financial Times",
-        "sourceId": "ft",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-17T11:24:44.000Z",
-        "fetchedAt": "2026-11-17T14:55:48.169Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Move comes as US chipmaker faces criticism in Washington over its ambition to increase revenues in China",
-        "id": "a17"
+        "id": "a26"
       },
       {
         "title": "Nvidia forms board committee to oversee national security and export control risks - The News International",
@@ -586,7 +656,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-17T11:24:00.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The News International",
         "geopoliticalBypass": true,
@@ -596,7 +666,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia forms board committee to oversee national security and export control risks The News International",
-        "id": "a18"
+        "id": "a27"
       },
       {
         "title": "Nvidia sets up committee for national security, export controls | Daily Sabah - Daily Sabah",
@@ -606,7 +676,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-17T10:56:00.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Daily Sabah",
         "geopoliticalBypass": true,
@@ -616,7 +686,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia sets up committee for national security, export controls | Daily Sabah Daily Sabah",
-        "id": "a19"
+        "id": "a28"
       },
       {
         "title": "Nvidia Sets Up Board Committee To Oversee National Security, Chip Export Controls — Names Suzanne Nora Johnson Chair - Yahoo Finance",
@@ -626,7 +696,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-17T10:55:23.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Yahoo Finance",
         "geopoliticalBypass": true,
@@ -636,7 +706,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia Sets Up Board Committee To Oversee National Security, Chip Export Controls — Names Suzanne Nora Johnson Chair Yahoo Finance",
-        "id": "a20"
+        "id": "a29"
       },
       {
         "title": "Nvidia forms board committee to oversee national security, export controls - The Straits Times",
@@ -646,7 +716,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-17T10:55:00.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Straits Times",
         "geopoliticalBypass": true,
@@ -656,7 +726,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia forms board committee to oversee national security, export controls The Straits Times",
-        "id": "a21"
+        "id": "a30"
       },
       {
         "title": "Nvidia Forms Export Control Board Committee After Chip Curbs - Yahoo Finance",
@@ -666,7 +736,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-17T10:51:32.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Yahoo Finance",
         "geopoliticalBypass": true,
@@ -676,7 +746,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia Forms Export Control Board Committee After Chip Curbs Yahoo Finance",
-        "id": "a22"
+        "id": "a31"
       },
       {
         "title": "Nvidia forms board panel to oversee national security, chip exports after Jensen Huang spy link row | World News - Hindustan Times",
@@ -686,7 +756,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-17T10:49:47.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Hindustan Times",
         "geopoliticalBypass": true,
@@ -696,7 +766,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia forms board panel to oversee national security, chip exports after Jensen Huang spy link row | World News Hindustan Times",
-        "id": "a23"
+        "id": "a32"
       },
       {
         "title": "Nvidia forms new board committee to oversee national security and chip export controls - Moneycontrol.com",
@@ -706,7 +776,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-17T10:47:59.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Moneycontrol.com",
         "geopoliticalBypass": true,
@@ -716,17 +786,17 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia forms new board committee to oversee national security and chip export controls Moneycontrol.com",
-        "id": "a24"
+        "id": "a33"
       },
       {
         "title": "Nvidia board forms committee for national security and export control oversight - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbWQ3b1ZQc2htTnlEZERqbHN0UjlnX1piOWtyRzFDdElkM3FHYTNvME91VV95M1Q3VFNySDB6TnQ5Tk5lZWNOWGdBUEFJaUc5ZE9mVFdPVUczdGplOC05WnRpX2NrRnlUb3g1R0Y1YTlQVEVnNThMVzNESDNWOENvRlBYQzFNeWZvaEhkZ0NSWTNsNDN1bjlKclRnWVpDV2w2Rm1ESklCZFNQQW9wUXlYOGJCU2dHUkJWd2ZJdXlVZUszSFpTOERvcmpLTUF6SGNqNmdLUDN3ZkloNkxnY1YwaURTSndWUFQ40gHoAUFVX3lxTE1tZDdvVlBzaG1OeURkRGpsc3RSOWdfWmI5a3JHMUN0SWQzcUdhM28wT3VVX3kzVDdUU3JIMHpOdDlOTmVlY05YZ0FQQUlpRzlkT2ZUV09VRzN0amU4LTladGlfY2tGeVRveDVHRjVhOVBURWc1OExXM0RIM1Y4Q29GUFhDMU15Zm9oSGRnQ1JZM2w0M3VuOUpyVGdZWkNXbDZGbURKSUJkU1BBb3BReVg4YkJTZ0dSQlZ3Zkl1eVVlSzNIWlM4RG9yaktNQXpIY2o2Z0tQM3dmSWg2TGdjVjBpRFNKd1ZQVDg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPajBfVXVCUzBERkdUOXZqYkhiVXFEcXJtTXVOVmdOTnlZSFNKNFhfaXZDTHJlSVhtN2I2RWVLSm5weDUzSVpFeWRGbGhUcXVZdXBtMU1laE9LWmtuRml1REMxdkFlb0lKb00tRlBwWWt6cDNVVmltYmVPT25EWE1UUG1PVkRmbWRXYmFBRjZpTHhmT0l1TEJkMTlVRHRSQkhzWjFBTV9FMDZWb180V29QSDdBZEJoajQxV2J1N244dkxkcVA5Y2ROcUlMRlg4X3dPdkdJUDJQMndBMXF5cXRiOF91WdIB6AFBVV95cUxNbWQ3b1ZQc2htTnlEZERqbHN0UjlnX1piOWtyRzFDdElkM3FHYTNvME91VV95M1Q3VFNySDB6TnQ5Tk5lZWNOWGdBUEFJaUc5ZE9mVFdPVUczdGplOC05WnRpX2NrRnlUb3g1R0Y1YTlQVEVnNThMVzNESDNWOENvRlBYQzFNeWZvaEhkZ0NSWTNsNDN1bjlKclRnWVpDV2w2Rm1ESklCZFNQQW9wUXlYOGJCU2dHUkJWd2ZJdXlVZUszSFpTOERvcmpLTUF6SGNqNmdLUDN3ZkloNkxnY1YwaURTSndWUFQ4?oc=5",
         "description": "Nvidia board forms committee for national security and export control oversight The Economic Times",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-17T10:34:00.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
+        "publishedAt": "2026-11-17T10:34:17.000Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Economic Times",
         "geopoliticalBypass": true,
@@ -736,86 +806,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia board forms committee for national security and export control oversight The Economic Times",
-        "id": "a26"
-      },
-      {
-        "title": "Nvidia Sets Up Board Committee To Oversee National Security, Chip Exports - BW Businessworld",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzlKQ0QzUk9VMEVhNzZzR3dGVTFtVVFVNkIwV2hnYXBSdU94YUpkRU9Id1BpV0I4c01hRWxEZnhSWVVoVVdMcUNNTTlWQy15NTFLSk4ySVRFWlJRMGcwdHJqR3E2TUwxMVVjbkpCaFlNM2dvX0R4ZlZMcm1KOXBCeVhTbnBMUWdMeEh0akN3c1MwdkZneng2R0hsSnFUNWNrSy1MOEFMN3ZyclFXLTZ5UXdGYmxtb0U?oc=5",
-        "description": "Nvidia Sets Up Board Committee To Oversee National Security, Chip Exports BW Businessworld",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-17T10:30:05.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "BW Businessworld",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Nvidia Sets Up Board Committee To Oversee National Security, Chip Exports BW Businessworld",
-        "id": "a27"
-      },
-      {
-        "title": "Nvidia Forms Export Control Board Committee After Chip Curbs",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-forms-export-control-board-committee-after-chip-curbs",
-        "description": "Nvidia Corp. formed a new board committee for oversight of national security and export control after the company became embroiled in a controversy over chip smuggling under former Chief Executive Officer Jensen Huang, who resigned last week.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-17T10:18:59.000Z",
-        "fetchedAt": "2026-11-17T14:55:48.147Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "formed a new board committee for oversight of national security and export control after the company became embroiled in a controversy over chip smuggling under former Chief Executive Officer Jensen Huang, who resigned last week.",
-        "id": "a28"
-      },
-      {
-        "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-        "url": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
-        "description": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-17T08:52:45.000Z",
-        "fetchedAt": "2026-11-17T14:55:47.943Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "The stakes have just gotten higher for businesses navigating the U.S.",
-        "id": "a29"
-      },
-      {
-        "title": "US Chip Curbs Force Xi to Weigh Response Before Trump Summit",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-chip-curbs-force-xi-to-weigh-response-before-trump-summit",
-        "description": "The US’s sweeping new restrictions on China’s access to high-end AI chips present Xi Jinping with a dilemma just days before he meets Donald Trump: Hit back hard enough to threaten a fragile trade truce, or play it cool and take action later.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-17T07:30:47.000Z",
-        "fetchedAt": "2026-11-17T14:55:48.147Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The US’s sweeping new restrictions on China’s access to high-end AI chips present Xi Jinping with a dilemma just days before he meets Donald Trump: Hit back hard enough to threaten a fragile trade truce, or play it cool and take action later.",
-        "id": "a30"
+        "id": "a34"
       },
       {
         "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
@@ -825,7 +816,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-17T07:07:35.000Z",
-        "fetchedAt": "2026-11-17T14:55:47.943Z",
+        "fetchedAt": "2026-11-17T23:11:08.358Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -834,7 +825,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Commerce Department is making moves to tighten export controls.",
-        "id": "a31"
+        "id": "a35"
       },
       {
         "title": "Nokia’s new China licensing head outlines approach to booming market",
@@ -844,7 +835,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-17T04:00:00.000Z",
-        "fetchedAt": "2026-11-17T14:55:50.252Z",
+        "fetchedAt": "2026-11-17T23:11:11.418Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -853,7 +844,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "In an interview with IAM, Dazhi Wang says China’s maturing implementer landscape is both a challenge and an opportunity in SEP licensing",
-        "id": "a32"
+        "id": "a36"
+      },
+      {
+        "title": "Nvidia Sets Up Board Committee To Oversee National Security, Chip Exports - BW Businessworld",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzlKQ0QzUk9VMEVhNzZzR3dGVTFtVVFVNkIwV2hnYXBSdU94YUpkRU9Id1BpV0I4c01hRWxEZnhSWVVoVVdMcUNNTTlWQy15NTFLSk4ySVRFWlJRMGcwdHJqR3E2TUwxMVVjbkpCaFlNM2dvX0R4ZlZMcm1KOXBCeVhTbnBMUWdMeEh0akN3c1MwdkZneng2R0hsSnFUNWNrSy1MOEFMN3ZyclFXLTZ5UXdGYmxtb0U?oc=5",
+        "description": "Nvidia Sets Up Board Committee To Oversee National Security, Chip Exports BW Businessworld",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T03:30:05.000Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "BW Businessworld",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Nvidia Sets Up Board Committee To Oversee National Security, Chip Exports BW Businessworld",
+        "id": "a37"
       },
       {
         "title": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors - Semiconductor Industry Association | SIA",
@@ -863,7 +874,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-17T01:51:24.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Semiconductor Industry Association | SIA",
         "geopoliticalBypass": true,
@@ -875,7 +886,27 @@ export const NEWS_DATA = {
           "industry-assoc"
         ],
         "summary": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
-        "id": "a33"
+        "id": "a38"
+      },
+      {
+        "title": "Watch Nvidia (NVDA) Forms Export Control Committee After US Chip Curbs - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdy00NHZMRkZQTTJ6NjhKZU1POWdRa05KWEJVcld0ZjktZ2xHRTFNWDJDYU8yX1pCLVZVLU80alZxcHd2NTlQN3d4ZVRjWU1qUlJLMm5rd0hZSVlUd3I4amdFVTFZb2RmWVZlLVU5VUc5bU1PeEZfRXFRclBDUFRVN29jZG5BVE5TZDlrS1ZtckpSR005VjkyUTJrT2tfQ0dURlZ0ZUkyMHpyS1dvWmc0VA?oc=5",
+        "description": "Watch Nvidia (NVDA) Forms Export Control Committee After US Chip Curbs Bloomberg.com",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T00:00:00.000Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Bloomberg.com",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Watch Nvidia (NVDA) Forms Export Control Committee After US Chip Curbs Bloomberg.com",
+        "id": "a39"
       },
       {
         "title": "‘Don’t insult China’: Trump’s reckless disregard for American security - The Australian",
@@ -884,8 +915,8 @@ export const NEWS_DATA = {
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-17T00:46:22.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
+        "publishedAt": "2026-11-16T23:46:26.000Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Australian",
         "geopoliticalBypass": true,
@@ -895,45 +926,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "‘Don’t insult China’: Trump’s reckless disregard for American security The Australian",
-        "id": "a34"
-      },
-      {
-        "title": "Qualcomm CEO: “There Is No AI Correction” at Qualcomm. Nvidia’s November 17 Earnings Face a Major Test",
-        "url": "https://www.tikr.com/blog/qualcomm-ceo-there-is-no-ai-correction-at-qualcomm-nvidias-november-17-earnings-face-a-major-test?ref=yahoofinance&tlnk=yf-261116-766m6rp9&.tsrc=rss",
-        "description": "Key TakeawaysQualcomm (QCOM) CEO Cristiano Amon said there is no AI correction at his company, citing strong semiconductor demand and industrywide supply shortages despite the recent technology selloff. NVIDIA (NVDA) faces its November 17 earnings report following Jensen Huang’s resignation, with investors watching whether AI infrastructure demand can sustain its aggressive growth forecasts.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-17T00:27:41.000Z",
-        "fetchedAt": "2026-11-17T14:55:47.938Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Key TakeawaysQualcomm (QCOM) CEO Cristiano Amon said there is no AI correction at his company, citing strong semiconductor demand and industrywide supply shortages despite the recent technology selloff. NVIDIA (NVDA) faces its November 17 earnings report following Jensen Huang’s resignation, with investors watching whether AI infrastructure demand can sustain its aggressive growth forecasts.",
-        "id": "a35"
-      },
-      {
-        "title": "Nvidia Forms Export Control Committee After US Chip Curbs - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdy00NHZMRkZQTTJ6NjhKZU1POWdRa05KWEJVcld0ZjktZ2xHRTFNWDJDYU8yX1pCLVZVLU80alZxcHd2NTlQN3d4ZVRjWU1qUlJLMm5rd0hZSVlUd3I4amdFVTFZb2RmWVZlLVU5VUc5bU1PeEZfRXFRclBDUFRVN29jZG5BVE5TZDlrS1ZtckpSR005VjkyUTJrT2tfQ0dURlZ0ZUkyMHpyS1dvWmc0VA?oc=5",
-        "description": "Nvidia Forms Export Control Committee After US Chip Curbs Bloomberg.com",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-17T00:00:00.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Bloomberg.com",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Nvidia Forms Export Control Committee After US Chip Curbs Bloomberg.com",
-        "id": "a37"
+        "id": "a40"
       },
       {
         "title": "US agency’s AI chip disclaimer exposes Trump administration rift: experts - South China Morning Post",
@@ -943,7 +936,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-16T23:16:38.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "South China Morning Post",
         "geopoliticalBypass": true,
@@ -953,65 +946,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US agency’s AI chip disclaimer exposes Trump administration rift: experts South China Morning Post",
-        "id": "a38"
-      },
-      {
-        "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-        "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-        "description": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-        "source": "TechCrunch",
-        "sourceId": "techcrunch",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-11-16T19:12:02.000Z",
-        "fetchedAt": "2026-11-17T14:55:47.814Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-        "id": "a40"
-      },
-      {
-        "title": "Commerce Department Moves to Crack Down on Chip Exports - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZHhHbVgwWkNtZ0tBYzR5aHltZExNQ2N3bVZCQkNYdU5DSklOenZQTTlaZWdFV3gydC1JQlBQMHdRVHdla1QtYWg3bTNIZEVuVnpfTFpBbENtMXdWaHVjZEJ1RWNZM3RvWHAxc2hFRGdScG1BdzFYNEJIRjk1ZWNtZjZIelZmQVUyazR4Mjcyd1RmQ1Q2b3R6Z1ZIMXhyblVuNjFEcjRZeVFEcEdEa2x2bw?oc=5",
-        "description": "Commerce Department Moves to Crack Down on Chip Exports WSJ",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T19:06:27.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "WSJ",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Commerce Department Moves to Crack Down on Chip Exports WSJ",
         "id": "a41"
-      },
-      {
-        "title": "US is Falling Behind on AI Buildout Needs: Midha",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-16/us-is-falling-behind-on-ai-buildout-needs-midha-video",
-        "description": "Anthropic founding investor and AMP PBC founder Anjney Midha, joined Bloomberg Open Interest to talk about how the US is struggling to scale compute fast enough to keep pace with China. He also expressed optimism on the leadership of Colette Kress, the Interim CEO of Nvidia. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T16:39:09.000Z",
-        "fetchedAt": "2026-11-17T14:55:48.147Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Anthropic founding investor and AMP PBC founder Anjney Midha, joined Bloomberg Open Interest to talk about how the US is struggling to scale compute fast enough to keep pace with China. He also expressed optimism on the leadership of Colette Kress, the Interim CEO of Nvidia.",
-        "id": "a42"
       },
       {
         "title": "US tightens AI chip rules, targets overseas data centres",
@@ -1021,7 +956,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-16T16:11:05.000Z",
-        "fetchedAt": "2026-11-17T14:55:52.405Z",
+        "fetchedAt": "2026-11-17T23:11:17.786Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1030,26 +965,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The US Commerce Department moved to close a loophole which let China-based companies rent US computing power from overseas data centres to train advanced AI models. The post US tightens AI chip rules, targets overseas data centres appeared first on Mobile World Live.",
-        "id": "a43"
-      },
-      {
-        "title": "China Automotive Intelligent Cockpit SoC Market Research Report, 2026-2030 | AI and Cockpit-Driving Integration Unlock Growth in the RMB100,000-200,000 Segment",
-        "url": "https://finance.yahoo.com/technology/ai/articles/china-automotive-intelligent-cockpit-soc-151900263.html?.tsrc=rss",
-        "description": "Cockpit SoCs shift to advanced processes, SIP, cockpit-driving integration and AI, while Chiplet and plug-and-play AI Box solutions cut costs, shorten R&D cycles and scale computing.Dublin, Nov. 16, 2026 (GLOBE NEWSWIRE) -- \"Automotive Intelligent Cockpit SoC Research Report, 2026\" has been added to ResearchAndMarkets.com's offering. Passenger cars priced between RMB100,000 and RMB200,000 account for nearly half of total sales, making this segment a critical battleground for automotive cockpit S",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T15:19:00.000Z",
-        "fetchedAt": "2026-11-17T14:55:47.938Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Cockpit SoCs shift to advanced processes, SIP, cockpit-driving integration and AI, while Chiplet and plug-and-play AI Box solutions cut costs, shorten R&D cycles and scale computing.Dublin, Nov. 16, 2026 (GLOBE NEWSWIRE) -- \"Automotive Intelligent Cockpit SoC Research Report, 2026\" has been added to ResearchAndMarkets.com's offering. Passenger cars priced between RMB100,000 and RMB200,000 account for nearly half of total sales, making this segment a critical battleground for automotive cockpit S",
-        "id": "a45"
+        "id": "a42"
       },
       {
         "title": "Specialist chapter: Chinese courts push SEP disputes into new territory",
@@ -1059,7 +975,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-16T09:00:00.000Z",
-        "fetchedAt": "2026-11-17T14:55:50.252Z",
+        "fetchedAt": "2026-11-17T23:11:11.418Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1068,7 +984,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Chinese SEP litigation is becoming increasingly complex, with courts confronting questions that extend beyond conventional infringement and FRAND disputes, including the treatment of patent ambush in standard-setting, jurisdiction over patent pool disputes, divergent approaches to FRAND rate determination and interim licences. Together, these developments offer a snapshot of how China is positioni...",
-        "id": "a47"
+        "id": "a43"
       }
     ]
   },
@@ -1264,23 +1180,50 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-11-17T14:55:54.442Z",
-    "date": "2026-11-17",
+    "generatedAt": "2026-11-17T23:11:20.144Z",
+    "date": "2026-11-18",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles). A total of 3 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), market-performance (1 article). A total of 3 articles were aggregated from monitored sources.",
       "keyTakeaways": [
+        {
+          "text": "market-performance: Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarter it added to Meta Platforms and opened a position",
+          "articleIds": [
+            "a12"
+          ],
+          "subCategory": "market-performance"
+        },
         {
           "text": "Geopolitics & Export Controls: Isomorphic Labs is looking to develop new medicines using AI.",
           "articleIds": [
-            "a5"
+            "a18"
           ],
           "subCategory": "geopolitics-export-controls"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Brad Gerstner Dumps These 3 Stocks",
+        "url": "https://www.tikr.com/blog/brad-gerstner-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261117-79fc3fv5&.tsrc=rss",
+        "description": "Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarter it added to Meta Platforms and opened a position in Tesla. Applied Materials and KLA have each fallen 52% since June 30, even though both just reported strong quarters, and analysts’ average targets sit more than 50% above both stocks.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T15:58:09.000Z",
+        "fetchedAt": "2026-11-17T23:11:08.392Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarter it added to Meta Platforms and opened a position in Tesla. Applied Materials and KLA have each fallen 52% since June 30, even though both just reported strong quarters, and analysts’ average targets sit more than 50% above both stocks.",
+        "id": "a12"
+      },
       {
         "title": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO",
         "url": "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html",
@@ -1289,7 +1232,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-17T13:58:07.000Z",
-        "fetchedAt": "2026-11-17T14:55:47.943Z",
+        "fetchedAt": "2026-11-17T23:11:08.358Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1300,28 +1243,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Isomorphic Labs is looking to develop new medicines using AI.",
-        "id": "a5"
-      },
-      {
-        "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-        "url": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
-        "description": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-17T08:52:45.000Z",
-        "fetchedAt": "2026-11-17T14:55:47.943Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "The stakes have just gotten higher for businesses navigating the U.S.",
-        "id": "a29"
+        "id": "a18"
       },
       {
         "title": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors - Semiconductor Industry Association | SIA",
@@ -1331,7 +1253,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-17T01:51:24.000Z",
-        "fetchedAt": "2026-11-17T14:55:54.399Z",
+        "fetchedAt": "2026-11-17T23:11:20.116Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Semiconductor Industry Association | SIA",
         "geopoliticalBypass": true,
@@ -1343,7 +1265,7 @@ export const NEWS_DATA = {
           "industry-assoc"
         ],
         "summary": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
-        "id": "a33"
+        "id": "a38"
       }
     ]
   },
@@ -23472,6 +23394,1041 @@ export const NEWS_DATA = {
       }
     },
     "totalArticles": 50
+  },
+  "archive-2026-11-18": {
+    "generatedAt": "2026-11-17T23:11:20.145Z",
+    "date": "2026-11-18",
+    "sections": {
+      "core-businesses": {
+        "generatedAt": "2026-11-17T23:11:20.144Z",
+        "date": "2026-11-18",
+        "section": "core-businesses",
+        "sectionTitle": "Core Businesses",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Mobile Chips: CMO Don McGuire explains how Snapdragon’s deal with Formula One phenom Kimi Antonelli helps the brand connect with racing’s growing audience.",
+              "articleIds": [
+                "a4"
+              ],
+              "subCategory": "mobile-chips"
+            },
+            {
+              "text": "Semiconductors: SK Hynix's quarterly revenue has surged from $12.1 billion to $73.3 billion in under two years, while Qualcomm's has barely budged.",
+              "articleIds": [
+                "a8"
+              ],
+              "subCategory": "semiconductors"
+            },
+            {
+              "text": "Wireless Communication: CHICAGO, November 17, 2026--Qualcomm Technologies, Inc. and Cirrascale Cloud Services today announced that Qualcomm Dragonfly™ AI200, a next-generation, purpose-built solution for rack-scale AI infere",
+              "articleIds": [
+                "a17"
+              ],
+              "subCategory": "wireless"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Why Qualcomm teamed with F1’s new star in race for sports marketing ROI",
+            "url": "https://www.marketingdive.com/news/why-qualcomm-teamed-with-f1s-new-star-in-race-for-sports-marketing-roi/874895/?.tsrc=rss",
+            "description": "CMO Don McGuire explains how Snapdragon’s deal with Formula One phenom Kimi Antonelli helps the brand connect with racing’s growing audience.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T20:00:00.000Z",
+            "fetchedAt": "2026-11-17T23:11:08.392Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "CMO Don McGuire explains how Snapdragon’s deal with Formula One phenom Kimi Antonelli helps the brand connect with racing’s growing audience.",
+            "id": "a4"
+          },
+          {
+            "title": "Qualcomm vs. SK Hynix: Stable Revenue vs. Rapid Acceleration",
+            "url": "https://www.fool.com/coverage/charts/2026/11/17/qualcomm-vs-sk-hynix-stable-revenue-vs-rapid-acceleration/?.tsrc=rss",
+            "description": "SK Hynix's quarterly revenue has surged from $12.1 billion to $73.3 billion in under two years, while Qualcomm's has barely budged.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T18:20:02.000Z",
+            "fetchedAt": "2026-11-17T23:11:08.392Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "SK Hynix's quarterly revenue has surged from $12.1 billion to $73.3 billion in under two years, while Qualcomm's has barely budged.",
+            "id": "a8"
+          },
+          {
+            "title": "Can Qualcomm Stock Jump 40%?",
+            "url": "https://www.trefis.com/stock/qcom/articles/625730/can-qualcomm-stock-jump-40/2026-11-17?.tsrc=rss",
+            "description": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T14:13:44.000Z",
+            "fetchedAt": "2026-11-17T23:11:08.393Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Today's big story: Could Nvidia Stock Fall 50%?",
+            "id": "a16"
+          },
+          {
+            "title": "Qualcomm and Cirrascale Collaborate to Advance Next-Generation, Energy-Efficient AI Inference",
+            "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-cirrascale-collaborate-advance-next-140000426.html?.tsrc=rss",
+            "description": "CHICAGO, November 17, 2026--Qualcomm Technologies, Inc. and Cirrascale Cloud Services today announced that Qualcomm Dragonfly™ AI200, a next-generation, purpose-built solution for rack-scale AI inference, is now available for evaluation by select customers through Cirrascale.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T14:00:00.000Z",
+            "fetchedAt": "2026-11-17T23:11:08.393Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "wireless",
+            "subLabel": "Wireless Communication",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "CHICAGO, November 17, 2026--Qualcomm Technologies, Inc. and Cirrascale Cloud Services today announced that Qualcomm Dragonfly™ AI200, a next-generation, purpose-built solution for rack-scale AI inference, is now available for evaluation by select customers through Cirrascale.",
+            "id": "a17"
+          }
+        ]
+      },
+      "ip-legal": {
+        "generatedAt": "2026-11-17T23:11:20.144Z",
+        "date": "2026-11-18",
+        "section": "ip-legal",
+        "sectionTitle": "IP & Legal",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "growth-areas": {
+        "generatedAt": "2026-11-17T23:11:20.144Z",
+        "date": "2026-11-18",
+        "section": "growth-areas",
+        "sectionTitle": "Growth Areas",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "macro-environment": {
+        "generatedAt": "2026-11-17T23:11:20.144Z",
+        "date": "2026-11-18",
+        "section": "macro-environment",
+        "sectionTitle": "Macro",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (37 articles), market-performance (2 articles). A total of 39 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "market-performance: Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. The leadership change followed Jensen ",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "market-performance"
+            },
+            {
+              "text": "Geopolitics & Export Controls: Technology failures disrupting everything from Americans’ air travel and banking transactions to secretive work at the US National Security Agency are fueling public distrust and paranoia about aging ",
+              "articleIds": [
+                "a2"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
+            "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+            "description": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chinese asset Alice Huang and one with a direct report, Kimberly Powell. Nvidia is investigating whether Huang's relationship with the former compromised national security or company secrets. Huang will also testify before lawmakers on December 1st. Ahead of Tuesday's earnings, Huang said he would be willing to … Read the full story at The Verge.",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-11-17T22:32:50.000Z",
+            "fetchedAt": "2026-11-17T23:11:09.039Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chinese asset Alice Huang and one with a direct report, Kimberly Powell. Nvidia is investigating whether Huang's relationship with the former compromised national security or company secrets. Huang will also testify before lawmakers on December 1st. Ahead of Tuesday's earnings, Huang said he would be willing to … Read the full story at The Verge.",
+            "id": "a1"
+          },
+          {
+            "title": "Tech Paranoia Intensifies After Outages Roil Public Trust",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-17/tech-paranoia-intensifies-after-outages-roil-public-trust",
+            "description": "Technology failures disrupting everything from Americans’ air travel and banking transactions to secretive work at the US National Security Agency are fueling public distrust and paranoia about aging tech infrastructure — even with no sign the episodes are linked or the work of malicious actors.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T22:08:21.000Z",
+            "fetchedAt": "2026-11-17T23:11:08.636Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Technology failures disrupting everything from Americans’ air travel and banking transactions to secretive work at the US National Security Agency are fueling public distrust and paranoia about aging tech infrastructure — even with no sign the episodes are linked or the work of malicious actors.",
+            "id": "a2"
+          },
+          {
+            "title": "Nvidia creates committee to oversee national security, chip exports - TechTarget",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdXVzZHFDUHV1YjBFMTFUajM3dlhQRHJSNFQ2M0U3SGUtd0JDWlBUQTh3em9OaXdMVWlnODlocTNHNlpHMnhrMFlQSnpGdlF5WldMQTc0X3U5ZlRzXzdObUdral9IUEVVdEM0cmdFTFhUSkdxaFZlVjVvckFmRktLMV9iNVNILUl2OFg3QWZzTXJRUlg5RXNmNmVhZWg4ZllidjUwZ0RxTUtEQQ?oc=5",
+            "description": "Nvidia creates committee to oversee national security, chip exports TechTarget",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T21:06:23.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.115Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "TechTarget",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia creates committee to oversee national security, chip exports TechTarget",
+            "id": "a3"
+          },
+          {
+            "title": "Nvidia Creates Board Committee to Oversee National Security and Chip Exports - CEO Magazyn",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xZlRIYlg0R1lUVDBwMVhQdzZWdWwzYWF5N1k2Nk1XVktIcW15aHI4c2NsQ2loRXBSYzRXZkxxZUotUHVEQXJyOGJYNGJxQWdGQjRyX3dZZFI2QjdWUUU4aHBpWlhSTzFjQXM5M1pITTBTR1JaNGdvdnB4OTJLMDQ?oc=5",
+            "description": "Nvidia Creates Board Committee to Oversee National Security and Chip Exports CEO Magazyn",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T19:53:28.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "CEO Magazyn",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia Creates Board Committee to Oversee National Security and Chip Exports CEO Magazyn",
+            "id": "a5"
+          },
+          {
+            "title": "Waymo suspends freeway rides nationwide after California DMV order",
+            "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+            "description": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety. Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
+            "source": "TechCrunch",
+            "sourceId": "techcrunch",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-11-17T19:49:41.000Z",
+            "fetchedAt": "2026-11-17T23:11:08.332Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety. Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
+            "id": "a6"
+          },
+          {
+            "title": "Carlos Gimenez warns lax AI chip export controls threaten US national security - Fox Business",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsNGdoZ2VEekpIdkFEX1BUdGxJVjR3SkdpeEJidUF5QUR6bEhHZU40QWxlS2UzV0VCOXpiRG91blpqckNyd215TG5KdGdvSmExa3BnelpsTmhVNzQ?oc=5",
+            "description": "Carlos Gimenez warns lax AI chip export controls threaten US national security Fox Business",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T19:14:46.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Fox Business",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Carlos Gimenez warns lax AI chip export controls threaten US national security Fox Business",
+            "id": "a7"
+          },
+          {
+            "title": "US Electronic Spy Agency Suffers Classified Network Outage",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-electronic-spy-agency-suffers-outage-of-classified-network",
+            "description": "The National Security Agency suffered an outage of a classified computer network it uses for internal communications and other daily work functions, according to a US official and another person familiar with the matter.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T17:41:13.000Z",
+            "fetchedAt": "2026-11-17T23:11:08.636Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The National Security Agency suffered an outage of a classified computer network it uses for internal communications and other daily work functions, according to a US official and another person familiar with the matter.",
+            "id": "a9"
+          },
+          {
+            "title": "US tightens AI chip restrictions on China following Nvidia scandal - National Security News",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcWVFaXRpeHduckY1TURSbkR0VmljVnkxSEFmZWlreGRGV2s4Q20tdkMzdzRHcHFIemItcWk3R0loMVpxSDE3UFRlb01iT2NMUllkV0tySUhXdXpybE9JUFd6bWp3QlNvQ1Fub0VUZmxtUFVfZ0lKREFldW0tMWNUMlBWR2dHZDNwbTFHX29IRlZmMFhUZnc2bE5qTl9IWURuVlB2M0xKY3ZrUkxD?oc=5",
+            "description": "US tightens AI chip restrictions on China following Nvidia scandal National Security News",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T17:12:41.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "National Security News",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US tightens AI chip restrictions on China following Nvidia scandal National Security News",
+            "id": "a10"
+          },
+          {
+            "title": "Nvidia forms export control board committee after chip curbs - Taipei Times",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94LTZVUlFwSGZyOS00cGpfTkFIbTBQbXlkTlJKTGRpMHU5MWpUU0x3UE90S2YtZW8xdWxSVWdtaXNCWUhkWEE3a0MwLXJzV0E0TkExczM0bTMxbktRdDR1dmdFeXh0SkdIcndGdTVYZ3JEQnluQnc?oc=5",
+            "description": "Nvidia forms export control board committee after chip curbs Taipei Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T16:00:00.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Taipei Times",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia forms export control board committee after chip curbs Taipei Times",
+            "id": "a11"
+          },
+          {
+            "title": "Brad Gerstner Dumps These 3 Stocks",
+            "url": "https://www.tikr.com/blog/brad-gerstner-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261117-79fc3fv5&.tsrc=rss",
+            "description": "Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarter it added to Meta Platforms and opened a position in Tesla. Applied Materials and KLA have each fallen 52% since June 30, even though both just reported strong quarters, and analysts’ average targets sit more than 50% above both stocks.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T15:58:09.000Z",
+            "fetchedAt": "2026-11-17T23:11:08.392Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarter it added to Meta Platforms and opened a position in Tesla. Applied Materials and KLA have each fallen 52% since June 30, even though both just reported strong quarters, and analysts’ average targets sit more than 50% above both stocks.",
+            "id": "a12"
+          },
+          {
+            "title": "Nvidia board creates oversight committee",
+            "url": "https://www.mobileworldlive.com/nvidia/nvidia-board-creates-oversight-committee/",
+            "description": "Nvidia’s board of directors formed a board-level committee to oversee national security and export controls, in its first major governance move since CEO Jensen ‌Huang resigned after revelations of extramarital affairs which intensified scrutiny of the chip firm's business in China. The post Nvidia board creates oversight committee appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-11-17T15:38:16.000Z",
+            "fetchedAt": "2026-11-17T23:11:17.786Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia’s board of directors formed a board-level committee to oversee national security and export controls, in its first major governance move since CEO Jensen ‌Huang resigned after revelations of extramarital affairs which intensified scrutiny of the chip firm's business in China. The post Nvidia board creates oversight committee appeared first on Mobile World Live.",
+            "id": "a13"
+          },
+          {
+            "title": "NVIDIA and Jensen Huang Fallout: US Chip Ban Pops the Southeast Asia Data Center Bubble - Smartkarma",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdzNCQ2xBaE0yd2Jrdk5HWVJISTFueGJjODNSaEVnVGpJb0RIV1lIZkxldEVZQ1ZPZ3MyWUpHemI0V2tzbWI5SGlpVEFQMU5DMWhHcHVISEV1ekZxdEN0enl2V1RfWEpBZXpmdGM4NzkwaTR1aGNCRlJ1RlNNdWdjT0pwc05DQlluVEU2NUJFVnNKY3lxdmxlb240eEFsZWxDc29aYjNUSHpTWUdkMHVqRURtc3RjYkNzUXI4dVlNR0t3OUhSMzEtM1RfT2Y1UWpxczdPZUZLYVVlcndNWmYtUDk5VGpZOEVF?oc=5",
+            "description": "NVIDIA and Jensen Huang Fallout: US Chip Ban Pops the Southeast Asia Data Center Bubble Smartkarma",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T15:14:38.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Smartkarma",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "NVIDIA and Jensen Huang Fallout: US Chip Ban Pops the Southeast Asia Data Center Bubble Smartkarma",
+            "id": "a14"
+          },
+          {
+            "title": "Huawei poised to top pre-sanction sales peak",
+            "url": "https://www.mobileworldlive.com/ranvendors/huawei-poised-to-top-pre-sanction-sales-peak/",
+            "description": "Six years after Huawei’s revenue peaked at CNY891.4 billion ($133.6 billion), the company is on track to significantly surpass that figure in 2026, shrugging off a widening range of trade sanctions by many western countries as its diversification efforts reap dividends. The post Huawei poised to top pre-sanction sales peak appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-11-17T14:58:41.000Z",
+            "fetchedAt": "2026-11-17T23:11:17.786Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Six years after Huawei’s revenue peaked at CNY891.4 billion ($133.6 billion), the company is on track to significantly surpass that figure in 2026, shrugging off a widening range of trade sanctions by many western countries as its diversification efforts reap dividends. The post Huawei poised to top pre-sanction sales peak appeared first on Mobile World Live.",
+            "id": "a15"
+          },
+          {
+            "title": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO",
+            "url": "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html",
+            "description": "Isomorphic Labs is looking to develop new medicines using AI.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T13:58:07.000Z",
+            "fetchedAt": "2026-11-17T23:11:08.358Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Isomorphic Labs is looking to develop new medicines using AI.",
+            "id": "a18"
+          },
+          {
+            "title": "Nvidia's board forms export oversight panel after scrutiny over China chip sales - CBS News",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlSVR3MU1nbW1JTGJaX2NIUDlIRVVnZl9TZVpvVl9TT2ZHYk50dGk0clVueTVnVlBncmo1SmdWbTlsZTZSVTlXQ1B6Qm9Ya1k4UVZYLV94UGFPaWhpYllxOGpvVmhXTXIzbGNJQW1iZ3FYQzZwSDJKbGM5eDJpUQ?oc=5",
+            "description": "Nvidia's board forms export oversight panel after scrutiny over China chip sales CBS News",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T13:35:00.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "CBS News",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia's board forms export oversight panel after scrutiny over China chip sales CBS News",
+            "id": "a19"
+          },
+          {
+            "title": "Nvidia forms export-control panel as Huang affair puts China ties in focus - WTVB",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVnU0TVhla1dWaWtsMk1VbGNWZ0ZudngxS3QtRWw2cTV3N1JieGg1Ni1VRTN5UlJULTlNdHo4Q2h4dlUyRTlrMmtoTzdENElQeTg5ekk3elNyNVAzSVUxdjA4bWs2aHdGalU4RGVzcmtHbVV6NzRORkRUX0ZfbjFicklmb3ZadWd1czhaTmRhT3ZfUlpoUklycXB3djRLdzFnaGl0Wm0yejMzWTMxdE80?oc=5",
+            "description": "Nvidia forms export-control panel as Huang affair puts China ties in focus WTVB",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T13:07:57.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "WTVB",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia forms export-control panel as Huang affair puts China ties in focus WTVB",
+            "id": "a20"
+          },
+          {
+            "title": "Video | Nvidia Sets Up National Security Committee Amid China Chip Probe - NDTV",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGJmQnR2RmZSM3NIS0dyU0NkSng3azFRcGtnRElfajZ2aEVYR0pxeWlwTUlTbmlSSlFNUmhxUVVVRk9FdTNhOHpreWFLTUkyRmh3WldmQlo3M2t0M0hkdk1kaFk2c1lqbUpseE9NTFFSSnlxWnJYdF9LUnZEVlc4UXcyZEs1S0VndlRHR2s1Qk1GTVdCQzRnemRMd19Ma2dr?oc=5",
+            "description": "Video | Nvidia Sets Up National Security Committee Amid China Chip Probe NDTV",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T12:56:13.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "NDTV",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Video | Nvidia Sets Up National Security Committee Amid China Chip Probe NDTV",
+            "id": "a21"
+          },
+          {
+            "title": "Nvidia Board Adds National Security Committee as Jensen Huang's Departure Tightens Chip Export Firewall - BigGo Finance",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4d19qdVRqdW1rUWlHc20wSFRBYUNrMVlfVWw4V0NkTXhFWUhEYjhWQ1hyZmJzRy0wYzNfV2RFSlJNNlRRbTloOVBEN1V5S3RXNWI3U2FtbXFGTDh5cTluVGRNQzJMeE1ZRi1JOVhXeDVVV0pBRmc?oc=5",
+            "description": "Nvidia Board Adds National Security Committee as Jensen Huang's Departure Tightens Chip Export Firewall BigGo Finance",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T12:35:00.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "BigGo Finance",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia Board Adds National Security Committee as Jensen Huang's Departure Tightens Chip Export Firewall BigGo Finance",
+            "id": "a22"
+          },
+          {
+            "title": "China’s Automotive Surge in Brazil Is Reshaping the Patent Landscape",
+            "url": "https://ipwatchdog.com/2026/11/17/chinas-automotive-surge-in-brazil-is-reshaping-the-patent-landscape/",
+            "description": "Imports of Chinese electric and hybrid vehicles are transforming Brazil’s automotive market. At the same time, data from the Brazilian Patent and Trademark Office (BPTO) show Chinese companies expanding their patent presence. Together, these trends suggest a new phase of competition in which electrification, software and artificial intelligence (AI) may matter as much as manufacturing scale and dealer networks. The post China’s Automotive Surge in Brazil Is Reshaping the Patent Landscape appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+            "source": "IPWatchdog",
+            "sourceId": "ipwatchdog",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-11-17T12:15:30.000Z",
+            "fetchedAt": "2026-11-17T23:11:12.269Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Imports of Chinese electric and hybrid vehicles are transforming Brazil’s automotive market. At the same time, data from the Brazilian Patent and Trademark Office (BPTO) show Chinese companies expanding their patent presence. Together, these trends suggest a new phase of competition in which electrification, software and artificial intelligence (AI) may matter as much as manufacturing scale and dealer networks. The post China’s Automotive Surge in Brazil Is Reshaping the Patent Landscape appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+            "id": "a23"
+          },
+          {
+            "title": "Nvidia Forms Export Control Board Committee After Chip Curbs - Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQWxyajYtdjVkUkVrcGYzOVFNc0wzclpPdXZvZHIyUnEwU2VzNkF6ZENhZ3Y2aWMwaW9BQUF2RG1uVng2Tk5JR2wwZUJXcTRjVlRFbS1FUzhOYWZENnczaUN1WEtBVVlRTUZuTGtSbzhaUHh1ZDBvbGgyZGN2Y0QxbUxzR2tYOFR5WlQ3bXNWVGpQYlFZNG1jaGcyMzNieG14Z0x3cVNtcFJJd21lcWVsMQ?oc=5",
+            "description": "Nvidia Forms Export Control Board Committee After Chip Curbs Bloomberg.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T12:14:39.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Bloomberg.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia Forms Export Control Board Committee After Chip Curbs Bloomberg.com",
+            "id": "a24"
+          },
+          {
+            "title": "Nvidia Creates Board Committee To Oversee National Security and Chip Exports - tippinsights",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbnBNWFEtNTNEZDNwZjhCZVREREM1OGlzbWNGU2JoTm9OSG0wVlpxZlJIb0RMVmJlc2NuYU94YlVhX2ZPcEc0RllheldnT1hEblkybTV6aVBsWkdJZmVFMWN3dkVkdkNtMi1PTlRWdXJRYXJQY1FkQXZoMTd5eUtsWE1QbmpaZUhhOThNSmRKN1JaTC1iVmcydV9VM3Z4UGFWS2pBWA?oc=5",
+            "description": "Nvidia Creates Board Committee To Oversee National Security and Chip Exports tippinsights",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T11:40:37.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "tippinsights",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia Creates Board Committee To Oversee National Security and Chip Exports tippinsights",
+            "id": "a25"
+          },
+          {
+            "title": "Nvidia forms board committee to oversee national security, chip exports (NVDA:NASDAQ) - Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3hDaFpHT2dDNk5hV3RWMnB0SHFwaTRtakZRY1h1Nld6dDl4cEFqNjlmSU1wRG5mM2pfdTZJWk5KUDdRenRseDVhUGVNOTAydTVnT3IwODRlMml6dnhjN1pMVXowMGFrUm42bGY3WVhod3NHakY3eTFtVFl1WVh3a0hCNTlOSHJTSUU0X2l2SVY4Szk3a25IYW1jcmhLRDBGd1VuUi1WbWgxMnpy?oc=5",
+            "description": "Nvidia forms board committee to oversee national security, chip exports (NVDA:NASDAQ) Seeking Alpha",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T11:29:39.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Seeking Alpha",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia forms board committee to oversee national security, chip exports (NVDA:NASDAQ) Seeking Alpha",
+            "id": "a26"
+          },
+          {
+            "title": "Nvidia forms board committee to oversee national security and export control risks - The News International",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ1pOb1JqcHdrUU45Xzl5dFBlTjBWM3M1d0xDaDktQjBTenRnREx2MF81dzlUWFVYV2JzQlUyUkRqVHRTRk9CMGNhQXI2OWtZS3A4YkI0cnF5WldMRnd1MnhKRlVRY0NUd0l0T3ZUWk1GcTg3X2M5N2JTN1BpczBQNkltanpYYlJvU3VHc1NfdzVfWVczMzUycXJscDFPX3NxdkFBY0hUTE1WLTV5S2EwaGlQclZzZGFrT1ZlanR5WjQzd9IBvgFBVV95cUxNUE1VY1ZMdzFQS20yeXRUVlJZVUFTLTFGVHlHRkw0Z1ZIVzg0OFhkZXN1R1puX3k1SXhDcXZub1RCb1BqME8tMDBtUDhack51Wi1FSGI1QThIbmtKTmdoNEw2d0xjd3FFQ3hIR1ktaTZUbVAwMTZUeEtIQnZ0dnJUUlRhUEt4aEJaM0JjNEJhUkdIMV9TWU5vVWVmQVNHQ21IM2toYTF4WWFwWlVyUTZiNmVlNEVEYkt6OEhOVUJR?oc=5",
+            "description": "Nvidia forms board committee to oversee national security and export control risks The News International",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T11:24:00.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The News International",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia forms board committee to oversee national security and export control risks The News International",
+            "id": "a27"
+          },
+          {
+            "title": "Nvidia sets up committee for national security, export controls | Daily Sabah - Daily Sabah",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOE8wYVlXVkZRbGpva1o0eEJxQ0pNWFpaVHM4c0NYcVdGeHpHZmhmQmY0ME5JbG5GYm1ESy1LYXJOZ1lVblNEanM3dkliOUY1ejB6Q1VodjJEZS0ybkJkZF9qQ2RlcWlHUWJnSzh1R1ZkUGI2WDB6cUM4ZmFQMEtvMUJFbkIxYTkyUGVlVEpTa3lpbFQwREVOQjdZUTV1N19zekpjRF9FTWZSV0RvTDFN0gGvAUFVX3lxTE04TzBhWVdWRlFsam9rWjR4QnFDSk1YWlpUczhzQ1hxV0Z4ekdmaGZCZjQwTklsbkZibURLLUthck5nWVVuU0Rqczd2SWI5RjV6MHpDVWh2MkRlLTJuQmRkX2pDZGVxaUdRYmdLOHVHVmRQYjZYMHpxQzhmYVAwS28xQkVuQjFhOTJQZWVUSlNreWlsVDBERU5CN1lRNXU3X3N6SmNEX0VNZlJXRG9MMU0?oc=5",
+            "description": "Nvidia sets up committee for national security, export controls | Daily Sabah Daily Sabah",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T10:56:00.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Daily Sabah",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia sets up committee for national security, export controls | Daily Sabah Daily Sabah",
+            "id": "a28"
+          },
+          {
+            "title": "Nvidia Sets Up Board Committee To Oversee National Security, Chip Export Controls — Names Suzanne Nora Johnson Chair - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNTJ3cUlYUnllR2xjUVJmM3VISy1ZN1VuRmhuNkNWR0lnTElCV0UwY2cwb0Vod24xUkZEb3VvQS1MUE81cGhWNlZWaTFvOXJxd2ZiSGhHYktrZmFIT0RMQWs3ZmViTzdxTGFEeWNwVU9VWDVJXzEtbWZ5OXBYbVdkenVjMVlERGVWSUwtTW1oaWxvaHVjYTJIVGZpUnA?oc=5",
+            "description": "Nvidia Sets Up Board Committee To Oversee National Security, Chip Export Controls — Names Suzanne Nora Johnson Chair Yahoo Finance",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T10:55:23.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Yahoo Finance",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia Sets Up Board Committee To Oversee National Security, Chip Export Controls — Names Suzanne Nora Johnson Chair Yahoo Finance",
+            "id": "a29"
+          },
+          {
+            "title": "Nvidia forms board committee to oversee national security, export controls - The Straits Times",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLUNhNFdPR2UxMjZvLURjT1A3Y1hDbGt4QUVLQUQyOEcxMnIwaG5UZmpEbXNGZlRzYmFVX1pTSHN4ck1KcFk1VzFnYTk1MTdhcndvMU9QMGxlcldEdmVhZXloR1A1akpkdFdzd0E3dU9aT25MMm42QkhMUVdORi04eWtERWFaVHhCVEJqS3ktblpRYk9pSWNCb2pfUHl1RXZtZDdfQ29YMzhDUHNrb2JuMA?oc=5",
+            "description": "Nvidia forms board committee to oversee national security, export controls The Straits Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T10:55:00.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Straits Times",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia forms board committee to oversee national security, export controls The Straits Times",
+            "id": "a30"
+          },
+          {
+            "title": "Nvidia Forms Export Control Board Committee After Chip Curbs - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWdUZVRJeVdmazhxWFgybGotZVNxTUhQOWxYZDlvdXctaDFwMmxSSDZWVHBfQnBhcGdEdjlBTDVLNkJkMWZ3eFR5dHhLcXJxa0ZQVWotNmFmZTFtMHhhQTEzbnk3TVQ2N0h5V09fMzlSeEJnOGFEWnVLVmlrYkFxRUJELXBmd0ZVYXE5c3RrY0Z5Y0hRZVY2SUVpRTVRQQ?oc=5",
+            "description": "Nvidia Forms Export Control Board Committee After Chip Curbs Yahoo Finance",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T10:51:32.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Yahoo Finance",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia Forms Export Control Board Committee After Chip Curbs Yahoo Finance",
+            "id": "a31"
+          },
+          {
+            "title": "Nvidia forms board panel to oversee national security, chip exports after Jensen Huang spy link row | World News - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbENzRGh2RlZoREtfQVZzdGpVMVJiMV96UktUY0QtUVlmWG54Nk1fWS1VUWVmcTZKeWpwb3NSclBCV2RIanZIR1Ezek9GbW10OFduWTZGYmxEVWFwaktPSW5YdC01SWtrd2FZTi04Mng3ZldRb0dLdVFVRU9WbFM3WmY5S1lRRlI2dldpamZNb1BfTWtrZFk2TVp3OTlnYTJ1TDE3UHdKU0dxa1p1YzlzVGhjNHdhamxzYTlMRXZ2TDZ4ZkZWbFlhaHdjaUR4WEZtR09LT0RGcmhzcEJmVS1NYnpwaXNBWlFINFJtRnFlQVFTTHpucVIzNEVn0gH_AUFVX3lxTE1tWUdJWmtTdENZSFVFRDRzbVRVdWtWX1FKLVUyX0VjX01veWU4NFdlaHNzWWMtTlFuRWFHYzVSQlhJQnJHbTlCX0lmMFNIMUU5M3Rrb19MRzhKOXBuNUNKMnhPWjM3N0wxYmpELVU1QXFmVnlxMG5ST1RvY3U2R1cwUUFsclBhSkxyYVdMTGNIQ3JGMHM5LWUtRnJMQ3lOWXE5ZjRTNjJ1Z2hEMEQ2Wkt2Qzd3VEFhVHEtVUF1bmszSXoyU215U0tBdVZ4Nko5R3BMaVZmU2M5ZTEyd2xWUlpqREk4cEtObDFYb2tOZW9PcG5HdGNJdXNldWFjRU9Jcw?oc=5",
+            "description": "Nvidia forms board panel to oversee national security, chip exports after Jensen Huang spy link row | World News Hindustan Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T10:49:47.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Hindustan Times",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia forms board panel to oversee national security, chip exports after Jensen Huang spy link row | World News Hindustan Times",
+            "id": "a32"
+          },
+          {
+            "title": "Nvidia forms new board committee to oversee national security and chip export controls - Moneycontrol.com",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU3NHb0I5V19KSHI0MDVqYjhDNkxFZGE0azFvMGctaXJ6SmFLWUlJRWdtQkM3VDUyWWVDVElQLWxiaFlSQXhDWHVJNjBPNV9Fbl9wYjBOekJEeEVVdE9lenJyUmI1ZHhrU0EyQmw5SXdybGxwZWN3SFFsVUNGZHB4cXhnYVRkbjRZbHpVNnVBVjFjNGxCekFxR3VwT0ZPZnBZNTVJY25XVllCeklySkd3RzdNVWtaTDU3ZFNyVWJwV01xQnhCc1hwWV85c1NQbHNsTm0xS0ItWFpXcFJlbUY5NVZpTGFvVlVu0gHuAUFVX3lxTE1MMktpZmlSbmpDTm81X3lwQXkzYnlzVzlwT2FLX2ZUNnFuYllaYXViVU8xaEV4YU53MmRTRFh3S2FGd3Jsd284Wjk2NjZjQm5lNjdUT3BYSmZZZGhod1dSdEI4cXBGVUZLZzJ4b3FCMHpsYU5vV0lWSERSSDAyY0tJcEg3THpNSU1ZdlVtcmdKc21hT0xFajdKcGVOdGRaRTdnZERON2tnb3RGTGpkVWZ5OEJHcUljTHNsZ0pwSWRBOWYxa1ltcm9aMkhVNmE5akF5VS1KODY4cWRYY08wQWdHOTVsUk4yUFZzbGRaQnc?oc=5",
+            "description": "Nvidia forms new board committee to oversee national security and chip export controls Moneycontrol.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T10:47:59.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Moneycontrol.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia forms new board committee to oversee national security and chip export controls Moneycontrol.com",
+            "id": "a33"
+          },
+          {
+            "title": "Nvidia board forms committee for national security and export control oversight - The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPajBfVXVCUzBERkdUOXZqYkhiVXFEcXJtTXVOVmdOTnlZSFNKNFhfaXZDTHJlSVhtN2I2RWVLSm5weDUzSVpFeWRGbGhUcXVZdXBtMU1laE9LWmtuRml1REMxdkFlb0lKb00tRlBwWWt6cDNVVmltYmVPT25EWE1UUG1PVkRmbWRXYmFBRjZpTHhmT0l1TEJkMTlVRHRSQkhzWjFBTV9FMDZWb180V29QSDdBZEJoajQxV2J1N244dkxkcVA5Y2ROcUlMRlg4X3dPdkdJUDJQMndBMXF5cXRiOF91WdIB6AFBVV95cUxNbWQ3b1ZQc2htTnlEZERqbHN0UjlnX1piOWtyRzFDdElkM3FHYTNvME91VV95M1Q3VFNySDB6TnQ5Tk5lZWNOWGdBUEFJaUc5ZE9mVFdPVUczdGplOC05WnRpX2NrRnlUb3g1R0Y1YTlQVEVnNThMVzNESDNWOENvRlBYQzFNeWZvaEhkZ0NSWTNsNDN1bjlKclRnWVpDV2w2Rm1ESklCZFNQQW9wUXlYOGJCU2dHUkJWd2ZJdXlVZUszSFpTOERvcmpLTUF6SGNqNmdLUDN3ZkloNkxnY1YwaURTSndWUFQ4?oc=5",
+            "description": "Nvidia board forms committee for national security and export control oversight The Economic Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T10:34:17.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Economic Times",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia board forms committee for national security and export control oversight The Economic Times",
+            "id": "a34"
+          },
+          {
+            "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+            "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
+            "description": "The U.S. Commerce Department is making moves to tighten export controls.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T07:07:35.000Z",
+            "fetchedAt": "2026-11-17T23:11:08.358Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Commerce Department is making moves to tighten export controls.",
+            "id": "a35"
+          },
+          {
+            "title": "Nokia’s new China licensing head outlines approach to booming market",
+            "url": "https://www.iam-media.com/article/nokias-new-china-licensing-head-outlines-approach-booming-market",
+            "description": "In an interview with IAM, Dazhi Wang says China’s maturing implementer landscape is both a challenge and an opportunity in SEP licensing",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-11-17T04:00:00.000Z",
+            "fetchedAt": "2026-11-17T23:11:11.418Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "In an interview with IAM, Dazhi Wang says China’s maturing implementer landscape is both a challenge and an opportunity in SEP licensing",
+            "id": "a36"
+          },
+          {
+            "title": "Nvidia Sets Up Board Committee To Oversee National Security, Chip Exports - BW Businessworld",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzlKQ0QzUk9VMEVhNzZzR3dGVTFtVVFVNkIwV2hnYXBSdU94YUpkRU9Id1BpV0I4c01hRWxEZnhSWVVoVVdMcUNNTTlWQy15NTFLSk4ySVRFWlJRMGcwdHJqR3E2TUwxMVVjbkpCaFlNM2dvX0R4ZlZMcm1KOXBCeVhTbnBMUWdMeEh0akN3c1MwdkZneng2R0hsSnFUNWNrSy1MOEFMN3ZyclFXLTZ5UXdGYmxtb0U?oc=5",
+            "description": "Nvidia Sets Up Board Committee To Oversee National Security, Chip Exports BW Businessworld",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T03:30:05.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "BW Businessworld",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia Sets Up Board Committee To Oversee National Security, Chip Exports BW Businessworld",
+            "id": "a37"
+          },
+          {
+            "title": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors - Semiconductor Industry Association | SIA",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc0o2bjRXc1pGTFYxZS1KcHl0ZWhPcDA1am9mM0dtWGRfM05WckhvRDFKQ1hjZTRRZEhpM0x0QXJHSk1rOF9WY25LS0gtVDBhU1pfdElJX18xZ1RkZmVYNThEWk1MUnRqVWlEbVpRZlpTcXIxd1NWT0lvbmI2SC1NbVBrTUZzV1FIVm5nMWFrNXhMVElnakFUemhRbW5FdVFnNTQtRENTNFhxRVhCa2k5THNIckZBUkU2V0UtNThBWEZWQQ?oc=5",
+            "description": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T01:51:24.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Semiconductor Industry Association | SIA",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "industry-assoc"
+            ],
+            "summary": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
+            "id": "a38"
+          },
+          {
+            "title": "Watch Nvidia (NVDA) Forms Export Control Committee After US Chip Curbs - Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdy00NHZMRkZQTTJ6NjhKZU1POWdRa05KWEJVcld0ZjktZ2xHRTFNWDJDYU8yX1pCLVZVLU80alZxcHd2NTlQN3d4ZVRjWU1qUlJLMm5rd0hZSVlUd3I4amdFVTFZb2RmWVZlLVU5VUc5bU1PeEZfRXFRclBDUFRVN29jZG5BVE5TZDlrS1ZtckpSR005VjkyUTJrT2tfQ0dURlZ0ZUkyMHpyS1dvWmc0VA?oc=5",
+            "description": "Watch Nvidia (NVDA) Forms Export Control Committee After US Chip Curbs Bloomberg.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T00:00:00.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Bloomberg.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Watch Nvidia (NVDA) Forms Export Control Committee After US Chip Curbs Bloomberg.com",
+            "id": "a39"
+          },
+          {
+            "title": "‘Don’t insult China’: Trump’s reckless disregard for American security - The Australian",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR1h4YVZuWUY1TEZpTkNJLW55QzA4bGpsVnp5QTJpcWphS0RtZkljTngxdWZzMnZzLXBsVEpPdkwwSmE1LVhvak0taGs1WGdSOUEtdC1UM3FFckRUS2d3UEczMEZKaTlJSE1DOEhINU1XaHVZV05DVE9LWFd6Rkx4ekMwUWRsTXo3UEZUVEhIYnp0RGtLYklFZ2JMMzRhZmx4NHkxYUJTQkwyR1IwVjctZXVfZDBRRmhGREJRZ1lRU2tscEZTMEtFdFhEVDVTdk50LTRJZ0JCMC05UQ?oc=5",
+            "description": "‘Don’t insult China’: Trump’s reckless disregard for American security The Australian",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-16T23:46:26.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Australian",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "‘Don’t insult China’: Trump’s reckless disregard for American security The Australian",
+            "id": "a40"
+          },
+          {
+            "title": "US agency’s AI chip disclaimer exposes Trump administration rift: experts - South China Morning Post",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSjh3cmFJVVo5eF9iTHY2Y2ZxbUxPbFh4Ny11WjdjeWJ4c1hYOW5aUVQwZmxLblQtSUJfZjVQMkdPUG1DdlVFXzhqZFZFbVNMVzBkWmNSMTdLSFFyd1Zab0IyZUd4SEdCeXY2N3FoV1kwa3A2ZEE4QmdMYXY3QWVhU1ZLVGxFbE54MFp1eDVsdU13Y1RaaGpPbmc2dEZURFhDRUZ3RG5xZTZaM3lTRFRHX1BXRXhoVUFXSzRkTU9R0gG-AUFVX3lxTE4xcng3Y1lQVGJVdHV0QTVDMnowbXBqdEZhZWpQc3g1cVR1bkR3Q1BzMENMLUZ6T2t4aGc3TnRUMkRTUFF3VjFYcGRlQ0FMSVczZFl0N05HZWhhTGVoMWlsZVptT3U5cklnSFU4ajB1NEJBWTZuX2lQaE1jYjUxemRWeUI0WWJxWDBzb2VGLVZMUTROX1prMHRaSkRneXNTLU81NWkyRGZwc1pyMXNBYXdCRlprbzExODhfZUhGQ1E?oc=5",
+            "description": "US agency’s AI chip disclaimer exposes Trump administration rift: experts South China Morning Post",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-16T23:16:38.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "South China Morning Post",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US agency’s AI chip disclaimer exposes Trump administration rift: experts South China Morning Post",
+            "id": "a41"
+          },
+          {
+            "title": "US tightens AI chip rules, targets overseas data centres",
+            "url": "https://www.mobileworldlive.com/ai-cloud/us-tightens-ai-chip-rules-targets-overseas-data-centres/",
+            "description": "The US Commerce Department moved to close a loophole which let China-based companies rent US computing power from overseas data centres to train advanced AI models. The post US tightens AI chip rules, targets overseas data centres appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-11-16T16:11:05.000Z",
+            "fetchedAt": "2026-11-17T23:11:17.786Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The US Commerce Department moved to close a loophole which let China-based companies rent US computing power from overseas data centres to train advanced AI models. The post US tightens AI chip rules, targets overseas data centres appeared first on Mobile World Live.",
+            "id": "a42"
+          },
+          {
+            "title": "Specialist chapter: Chinese courts push SEP disputes into new territory",
+            "url": "https://www.iam-media.com/review/the-patent-litigation-review/2027/article/specialist-chapter-chinese-courts-push-sep-disputes-new-territory",
+            "description": "Chinese SEP litigation is becoming increasingly complex, with courts confronting questions that extend beyond conventional infringement and FRAND disputes, including the treatment of patent ambush in standard-setting, jurisdiction over patent pool disputes, divergent approaches to FRAND rate determination and interim licences. Together, these developments offer a snapshot of how China is positioni...",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-11-16T09:00:00.000Z",
+            "fetchedAt": "2026-11-17T23:11:11.418Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Chinese SEP litigation is becoming increasingly complex, with courts confronting questions that extend beyond conventional infringement and FRAND disputes, including the treatment of patent ambush in standard-setting, jurisdiction over patent pool disputes, divergent approaches to FRAND rate determination and interim licences. Together, these developments offer a snapshot of how China is positioni...",
+            "id": "a43"
+          }
+        ]
+      },
+      "competitors": {
+        "generatedAt": "2026-11-17T23:11:20.144Z",
+        "date": "2026-11-18",
+        "section": "competitors",
+        "sectionTitle": "Competitors",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "stakeholders": {
+        "generatedAt": "2026-11-17T23:11:20.144Z",
+        "date": "2026-11-18",
+        "section": "stakeholders",
+        "sectionTitle": "Key Stakeholders",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), market-performance (1 article). A total of 3 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "market-performance: Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarter it added to Meta Platforms and opened a position",
+              "articleIds": [
+                "a12"
+              ],
+              "subCategory": "market-performance"
+            },
+            {
+              "text": "Geopolitics & Export Controls: Isomorphic Labs is looking to develop new medicines using AI.",
+              "articleIds": [
+                "a18"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Brad Gerstner Dumps These 3 Stocks",
+            "url": "https://www.tikr.com/blog/brad-gerstner-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261117-79fc3fv5&.tsrc=rss",
+            "description": "Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarter it added to Meta Platforms and opened a position in Tesla. Applied Materials and KLA have each fallen 52% since June 30, even though both just reported strong quarters, and analysts’ average targets sit more than 50% above both stocks.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T15:58:09.000Z",
+            "fetchedAt": "2026-11-17T23:11:08.392Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarter it added to Meta Platforms and opened a position in Tesla. Applied Materials and KLA have each fallen 52% since June 30, even though both just reported strong quarters, and analysts’ average targets sit more than 50% above both stocks.",
+            "id": "a12"
+          },
+          {
+            "title": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO",
+            "url": "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html",
+            "description": "Isomorphic Labs is looking to develop new medicines using AI.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T13:58:07.000Z",
+            "fetchedAt": "2026-11-17T23:11:08.358Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Isomorphic Labs is looking to develop new medicines using AI.",
+            "id": "a18"
+          },
+          {
+            "title": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors - Semiconductor Industry Association | SIA",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc0o2bjRXc1pGTFYxZS1KcHl0ZWhPcDA1am9mM0dtWGRfM05WckhvRDFKQ1hjZTRRZEhpM0x0QXJHSk1rOF9WY25LS0gtVDBhU1pfdElJX18xZ1RkZmVYNThEWk1MUnRqVWlEbVpRZlpTcXIxd1NWT0lvbmI2SC1NbVBrTUZzV1FIVm5nMWFrNXhMVElnakFUemhRbW5FdVFnNTQtRENTNFhxRVhCa2k5THNIckZBUkU2V0UtNThBWEZWQQ?oc=5",
+            "description": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T01:51:24.000Z",
+            "fetchedAt": "2026-11-17T23:11:20.116Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Semiconductor Industry Association | SIA",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "industry-assoc"
+            ],
+            "summary": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
+            "id": "a38"
+          }
+        ]
+      }
+    },
+    "totalArticles": 46
   }
 };
 

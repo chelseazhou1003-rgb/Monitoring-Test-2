@@ -1,42 +1,71 @@
 {
-  "generatedAt": "2026-11-17T14:55:54.442Z",
-  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T23:11:20.144Z",
+  "date": "2026-11-18",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), Automotive (1 article). A total of 6 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: Today's big story: Could Nvidia Stock Fall 50%?",
+        "text": "Mobile Chips: CMO Don McGuire explains how Snapdragon’s deal with Formula One phenom Kimi Antonelli helps the brand connect with racing’s growing audience.",
         "articleIds": [
-          "a1"
+          "a4"
+        ],
+        "subCategory": "mobile-chips"
+      },
+      {
+        "text": "Semiconductors: SK Hynix's quarterly revenue has surged from $12.1 billion to $73.3 billion in under two years, while Qualcomm's has barely budged.",
+        "articleIds": [
+          "a8"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Wireless Communication: CHICAGO, November 17, 2026--Qualcomm Technologies, Inc. and Cirrascale Cloud Services today announced that Qualcomm Dragonfly™ AI200, a next-generation, purpose-built solution for rack-scale AI infere",
         "articleIds": [
-          "a3"
+          "a17"
         ],
         "subCategory": "wireless"
-      },
-      {
-        "text": "Automotive: Qualcomm (NasdaqGS:QCOM) reports growing traction for its Snapdragon intelligent cockpit SoCs in new vehicle programs across global automakers. The company is increasingly referenced by industry group",
-        "articleIds": [
-          "a36"
-        ],
-        "subCategory": "automotive"
-      },
-      {
-        "text": "Mobile Chips: For questions about this article or underlying research, email help@trefis.com.",
-        "articleIds": [
-          "a46"
-        ],
-        "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Why Qualcomm teamed with F1’s new star in race for sports marketing ROI",
+      "url": "https://www.marketingdive.com/news/why-qualcomm-teamed-with-f1s-new-star-in-race-for-sports-marketing-roi/874895/?.tsrc=rss",
+      "description": "CMO Don McGuire explains how Snapdragon’s deal with Formula One phenom Kimi Antonelli helps the brand connect with racing’s growing audience.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-17T20:00:00.000Z",
+      "fetchedAt": "2026-11-17T23:11:08.392Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "CMO Don McGuire explains how Snapdragon’s deal with Formula One phenom Kimi Antonelli helps the brand connect with racing’s growing audience.",
+      "id": "a4"
+    },
+    {
+      "title": "Qualcomm vs. SK Hynix: Stable Revenue vs. Rapid Acceleration",
+      "url": "https://www.fool.com/coverage/charts/2026/11/17/qualcomm-vs-sk-hynix-stable-revenue-vs-rapid-acceleration/?.tsrc=rss",
+      "description": "SK Hynix's quarterly revenue has surged from $12.1 billion to $73.3 billion in under two years, while Qualcomm's has barely budged.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-17T18:20:02.000Z",
+      "fetchedAt": "2026-11-17T23:11:08.392Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "SK Hynix's quarterly revenue has surged from $12.1 billion to $73.3 billion in under two years, while Qualcomm's has barely budged.",
+      "id": "a8"
+    },
     {
       "title": "Can Qualcomm Stock Jump 40%?",
       "url": "https://www.trefis.com/stock/qcom/articles/625730/can-qualcomm-stock-jump-40/2026-11-17?.tsrc=rss",
@@ -45,7 +74,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-17T14:13:44.000Z",
-      "fetchedAt": "2026-11-17T14:55:47.938Z",
+      "fetchedAt": "2026-11-17T23:11:08.393Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -53,7 +82,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Today's big story: Could Nvidia Stock Fall 50%?",
-      "id": "a1"
+      "id": "a16"
     },
     {
       "title": "Qualcomm and Cirrascale Collaborate to Advance Next-Generation, Energy-Efficient AI Inference",
@@ -63,7 +92,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-17T14:00:00.000Z",
-      "fetchedAt": "2026-11-17T14:55:47.938Z",
+      "fetchedAt": "2026-11-17T23:11:08.393Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -71,79 +100,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "CHICAGO, November 17, 2026--Qualcomm Technologies, Inc. and Cirrascale Cloud Services today announced that Qualcomm Dragonfly™ AI200, a next-generation, purpose-built solution for rack-scale AI inference, is now available for evaluation by select customers through Cirrascale.",
-      "id": "a3"
-    },
-    {
-      "title": "What Is Qualcomm (QCOM) Gaining From Its Cockpit And SoOp Momentum?",
-      "url": "https://finance.yahoo.com/technology/articles/qualcomm-qcom-gaining-cockpit-soop-001825325.html?.tsrc=rss",
-      "description": "Qualcomm (NasdaqGS:QCOM) reports growing traction for its Snapdragon intelligent cockpit SoCs in new vehicle programs across global automakers. The company is increasingly referenced by industry groups as a core supplier in the emerging signals of opportunity, or SoOp, navigation market. Government and defense agencies are exploring SoOp systems that pair advanced Qualcomm silicon with AI for autonomous and GPS limited settings. Qualcomm's push into intelligent cockpit SoCs and SoOp...",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-17T00:18:25.000Z",
-      "fetchedAt": "2026-11-17T14:55:47.938Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "automotive",
-      "subLabel": "Automotive",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm (NasdaqGS:QCOM) reports growing traction for its Snapdragon intelligent cockpit SoCs in new vehicle programs across global automakers. The company is increasingly referenced by industry groups as a core supplier in the emerging signals of opportunity, or SoOp, navigation market. Government and defense agencies are exploring SoOp systems that pair advanced Qualcomm silicon with AI for autonomous and GPS limited settings. Qualcomm's push into intelligent cockpit SoCs and SoOp...",
-      "id": "a36"
-    },
-    {
-      "title": "Best semiconductor ETFs: SMH leads on cost, liquidity and momentum",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-etfs-smh-leads-210610694.html?.tsrc=rss",
-      "description": "Investing.com -- No single chip ETF stands out as \"the best\" right now, but VanEck Semiconductor ETF (SMH) screens as the strongest all-round candidate on the data pulled. The trigger was a post-election rotation out of chips and AI stocks on regulation and export-control fears. On Nov 5, 2026, Applied Materials fell 11.7% and a chip ETF dropped more than 7%. Qualcomm’s weak smartphone-chip sales added to the pressure.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-16T21:06:10.000Z",
-      "fetchedAt": "2026-11-17T14:55:47.938Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Investing.com -- No single chip ETF stands out as \"the best\" right now, but VanEck Semiconductor ETF (SMH) screens as the strongest all-round candidate on the data pulled. The trigger was a post-election rotation out of chips and AI stocks on regulation and export-control fears. On Nov 5, 2026, Applied Materials fell 11.7% and a chip ETF dropped more than 7%. Qualcomm’s weak smartphone-chip sales added to the pressure.",
-      "id": "a39"
-    },
-    {
-      "title": "Signals of Opportunity (SoOp) Market 2026: Global Forecast to 2030 | Capitalize on 17.2% CAGR and GPS-Denied Navigation with Qualcomm, BAE Systems, Safran and L3Harris",
-      "url": "https://finance.yahoo.com/technology/articles/signals-opportunity-soop-market-2026-152800734.html?.tsrc=rss",
-      "description": "Boost ROI by scaling PNT-as-a-Service globally, targeting defense and GPS-denied navigation, advancing AI-driven signal fusion, and forming space-industry partnerships.Dublin, Nov. 16, 2026 (GLOBE NEWSWIRE) -- \"Signals of Opportunity (SoOp) Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global signals of opportunity (SoOp) market is experiencing rapid growth as governments, defense agencies, and technology providers increase investment in resilient positioning, navi",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-16T15:28:00.000Z",
-      "fetchedAt": "2026-11-17T14:55:47.938Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Boost ROI by scaling PNT-as-a-Service globally, targeting defense and GPS-denied navigation, advancing AI-driven signal fusion, and forming space-industry partnerships.Dublin, Nov. 16, 2026 (GLOBE NEWSWIRE) -- \"Signals of Opportunity (SoOp) Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global signals of opportunity (SoOp) market is experiencing rapid growth as governments, defense agencies, and technology providers increase investment in resilient positioning, navi",
-      "id": "a44"
-    },
-    {
-      "title": "If Phone Sales Keep Shrinking, What Happens To Your Qualcomm Stock?",
-      "url": "https://www.trefis.com/stock/qcom/articles/625248/if-phone-sales-keep-shrinking-what-happens-to-your-qualcomm-stock/2026-11-16?.tsrc=rss",
-      "description": "For questions about this article or underlying research, email help@trefis.com.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-16T11:42:11.000Z",
-      "fetchedAt": "2026-11-17T14:55:47.938Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "id": "a46"
+      "id": "a17"
     }
   ]
 }

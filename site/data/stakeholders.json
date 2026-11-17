@@ -1,21 +1,48 @@
 {
-  "generatedAt": "2026-11-17T14:55:54.442Z",
-  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T23:11:20.144Z",
+  "date": "2026-11-18",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), market-performance (1 article). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "market-performance: Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarter it added to Meta Platforms and opened a position",
+        "articleIds": [
+          "a12"
+        ],
+        "subCategory": "market-performance"
+      },
       {
         "text": "Geopolitics & Export Controls: Isomorphic Labs is looking to develop new medicines using AI.",
         "articleIds": [
-          "a5"
+          "a18"
         ],
         "subCategory": "geopolitics-export-controls"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Brad Gerstner Dumps These 3 Stocks",
+      "url": "https://www.tikr.com/blog/brad-gerstner-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261117-79fc3fv5&.tsrc=rss",
+      "description": "Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarter it added to Meta Platforms and opened a position in Tesla. Applied Materials and KLA have each fallen 52% since June 30, even though both just reported strong quarters, and analysts’ average targets sit more than 50% above both stocks.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-17T15:58:09.000Z",
+      "fetchedAt": "2026-11-17T23:11:08.392Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarter it added to Meta Platforms and opened a position in Tesla. Applied Materials and KLA have each fallen 52% since June 30, even though both just reported strong quarters, and analysts’ average targets sit more than 50% above both stocks.",
+      "id": "a12"
+    },
     {
       "title": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO",
       "url": "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html",
@@ -24,7 +51,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-17T13:58:07.000Z",
-      "fetchedAt": "2026-11-17T14:55:47.943Z",
+      "fetchedAt": "2026-11-17T23:11:08.358Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -35,28 +62,7 @@
         "platform-partner"
       ],
       "summary": "Isomorphic Labs is looking to develop new medicines using AI.",
-      "id": "a5"
-    },
-    {
-      "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-      "url": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
-      "description": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-17T08:52:45.000Z",
-      "fetchedAt": "2026-11-17T14:55:47.943Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "The stakes have just gotten higher for businesses navigating the U.S.",
-      "id": "a29"
+      "id": "a18"
     },
     {
       "title": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors - Semiconductor Industry Association | SIA",
@@ -66,7 +72,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-17T01:51:24.000Z",
-      "fetchedAt": "2026-11-17T14:55:54.399Z",
+      "fetchedAt": "2026-11-17T23:11:20.116Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Semiconductor Industry Association | SIA",
       "geopoliticalBypass": true,
@@ -78,7 +84,7 @@
         "industry-assoc"
       ],
       "summary": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
-      "id": "a33"
+      "id": "a38"
     }
   ]
 }
