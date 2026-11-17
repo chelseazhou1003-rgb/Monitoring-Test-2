@@ -1,11 +1,38 @@
 {
-  "generatedAt": "2026-11-17T04:48:18.028Z",
+  "generatedAt": "2026-11-17T14:55:54.442Z",
   "date": "2026-11-17",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "One article today covering Data Center. Today's big story: Could Nvidia Stock Fall 50%?",
+    "keyTakeaways": [
+      {
+        "text": "Data Center: Today's big story: Could Nvidia Stock Fall 50%?",
+        "articleIds": [
+          "a25"
+        ],
+        "subCategory": "data-center"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Own Qualcomm? Your Stock Rides On Data Center Now",
+      "url": "https://www.trefis.com/stock/qcom/articles/625596/own-qualcomm-your-stock-rides-on-data-center-now/2026-11-17?.tsrc=rss",
+      "description": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-17T10:38:56.000Z",
+      "fetchedAt": "2026-11-17T14:55:47.938Z",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "data-center",
+      "subLabel": "Data Center",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Today's big story: Could Nvidia Stock Fall 50%?",
+      "id": "a25"
+    }
+  ]
 }

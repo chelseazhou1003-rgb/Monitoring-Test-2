@@ -1,21 +1,63 @@
 {
-  "generatedAt": "2026-11-17T04:48:18.028Z",
+  "generatedAt": "2026-11-17T14:55:54.442Z",
   "date": "2026-11-17",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "One article today covering Geopolitics & Export Controls. SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
+        "text": "Geopolitics & Export Controls: Isomorphic Labs is looking to develop new medicines using AI.",
         "articleIds": [
-          "a6"
+          "a5"
         ],
         "subCategory": "geopolitics-export-controls"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO",
+      "url": "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html",
+      "description": "Isomorphic Labs is looking to develop new medicines using AI.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-17T13:58:07.000Z",
+      "fetchedAt": "2026-11-17T14:55:47.943Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Isomorphic Labs is looking to develop new medicines using AI.",
+      "id": "a5"
+    },
+    {
+      "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
+      "url": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
+      "description": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-17T08:52:45.000Z",
+      "fetchedAt": "2026-11-17T14:55:47.943Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "The stakes have just gotten higher for businesses navigating the U.S.",
+      "id": "a29"
+    },
     {
       "title": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors - Semiconductor Industry Association | SIA",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc0o2bjRXc1pGTFYxZS1KcHl0ZWhPcDA1am9mM0dtWGRfM05WckhvRDFKQ1hjZTRRZEhpM0x0QXJHSk1rOF9WY25LS0gtVDBhU1pfdElJX18xZ1RkZmVYNThEWk1MUnRqVWlEbVpRZlpTcXIxd1NWT0lvbmI2SC1NbVBrTUZzV1FIVm5nMWFrNXhMVElnakFUemhRbW5FdVFnNTQtRENTNFhxRVhCa2k5THNIckZBUkU2V0UtNThBWEZWQQ?oc=5",
@@ -24,7 +66,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-17T01:51:24.000Z",
-      "fetchedAt": "2026-11-17T04:48:17.869Z",
+      "fetchedAt": "2026-11-17T14:55:54.399Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Semiconductor Industry Association | SIA",
       "geopoliticalBypass": true,
@@ -36,7 +78,7 @@
         "industry-assoc"
       ],
       "summary": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
-      "id": "a6"
+      "id": "a33"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-17T04:48:18.030Z",
+  "generatedAt": "2026-11-17T14:55:54.444Z",
   "date": "2026-11-17",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 6,
-      "topHeadline": "What Is Qualcomm (QCOM) Gaining From Its Cockpit And SoOp Momentum?",
-      "topHeadlineId": "a10",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles), Automotive (1 article). A total of 6 articles were aggregated from monitored sources."
+      "topHeadline": "Can Qualcomm Stock Jump 40%?",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), Automotive (1 article). A total of 6 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -18,17 +18,17 @@
     },
     "growth-areas": {
       "title": "Growth Areas",
-      "articleCount": 0,
-      "topHeadline": null,
-      "topHeadlineId": null,
-      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+      "articleCount": 1,
+      "topHeadline": "Own Qualcomm? Your Stock Rides On Data Center Now",
+      "topHeadlineId": "a25",
+      "briefingSummary": "One article today covering Data Center. Today's big story: Could Nvidia Stock Fall 50%?"
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 37,
-      "topHeadline": "Impact of US Move to Curb Chip Access",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (34 articles), market-performance (3 articles). A total of 37 articles were aggregated from monitored sources."
+      "articleCount": 40,
+      "topHeadline": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (38 articles), market-performance (2 articles). A total of 40 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 1,
-      "topHeadline": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors - Semiconductor Industry Association | SIA",
-      "topHeadlineId": "a6",
-      "briefingSummary": "One article today covering Geopolitics & Export Controls. SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA"
+      "articleCount": 3,
+      "topHeadline": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO",
+      "topHeadlineId": "a5",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles). A total of 3 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 44
+  "totalArticles": 50
 }

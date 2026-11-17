@@ -1,35 +1,78 @@
 {
-  "generatedAt": "2026-11-17T04:48:18.028Z",
+  "generatedAt": "2026-11-17T14:55:54.442Z",
   "date": "2026-11-17",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles), Automotive (1 article). A total of 6 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), Automotive (1 article). A total of 6 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Automotive: Qualcomm (NasdaqGS:QCOM) reports growing traction for its Snapdragon intelligent cockpit SoCs in new vehicle programs across global automakers. The company is increasingly referenced by industry group",
+        "text": "Semiconductors: Today's big story: Could Nvidia Stock Fall 50%?",
         "articleIds": [
-          "a10"
-        ],
-        "subCategory": "automotive"
-      },
-      {
-        "text": "Semiconductors: Investing.com -- No single chip ETF stands out as \"the best\" right now, but VanEck Semiconductor ETF (SMH) screens as the strongest all-round candidate on the data pulled. The trigger was a post-elect",
-        "articleIds": [
-          "a20"
+          "a1"
         ],
         "subCategory": "semiconductors"
       },
       {
+        "text": "Wireless Communication: CHICAGO, November 17, 2026--Qualcomm Technologies, Inc. and Cirrascale Cloud Services today announced that Qualcomm Dragonfly™ AI200, a next-generation, purpose-built solution for rack-scale AI infere",
+        "articleIds": [
+          "a3"
+        ],
+        "subCategory": "wireless"
+      },
+      {
+        "text": "Automotive: Qualcomm (NasdaqGS:QCOM) reports growing traction for its Snapdragon intelligent cockpit SoCs in new vehicle programs across global automakers. The company is increasingly referenced by industry group",
+        "articleIds": [
+          "a36"
+        ],
+        "subCategory": "automotive"
+      },
+      {
         "text": "Mobile Chips: For questions about this article or underlying research, email help@trefis.com.",
         "articleIds": [
-          "a38"
+          "a46"
         ],
         "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Can Qualcomm Stock Jump 40%?",
+      "url": "https://www.trefis.com/stock/qcom/articles/625730/can-qualcomm-stock-jump-40/2026-11-17?.tsrc=rss",
+      "description": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-17T14:13:44.000Z",
+      "fetchedAt": "2026-11-17T14:55:47.938Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Today's big story: Could Nvidia Stock Fall 50%?",
+      "id": "a1"
+    },
+    {
+      "title": "Qualcomm and Cirrascale Collaborate to Advance Next-Generation, Energy-Efficient AI Inference",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-cirrascale-collaborate-advance-next-140000426.html?.tsrc=rss",
+      "description": "CHICAGO, November 17, 2026--Qualcomm Technologies, Inc. and Cirrascale Cloud Services today announced that Qualcomm Dragonfly™ AI200, a next-generation, purpose-built solution for rack-scale AI inference, is now available for evaluation by select customers through Cirrascale.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-17T14:00:00.000Z",
+      "fetchedAt": "2026-11-17T14:55:47.938Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "wireless",
+      "subLabel": "Wireless Communication",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "CHICAGO, November 17, 2026--Qualcomm Technologies, Inc. and Cirrascale Cloud Services today announced that Qualcomm Dragonfly™ AI200, a next-generation, purpose-built solution for rack-scale AI inference, is now available for evaluation by select customers through Cirrascale.",
+      "id": "a3"
+    },
     {
       "title": "What Is Qualcomm (QCOM) Gaining From Its Cockpit And SoOp Momentum?",
       "url": "https://finance.yahoo.com/technology/articles/qualcomm-qcom-gaining-cockpit-soop-001825325.html?.tsrc=rss",
@@ -38,7 +81,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-17T00:18:25.000Z",
-      "fetchedAt": "2026-11-17T04:48:11.424Z",
+      "fetchedAt": "2026-11-17T14:55:47.938Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "automotive",
@@ -46,7 +89,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (NasdaqGS:QCOM) reports growing traction for its Snapdragon intelligent cockpit SoCs in new vehicle programs across global automakers. The company is increasingly referenced by industry groups as a core supplier in the emerging signals of opportunity, or SoOp, navigation market. Government and defense agencies are exploring SoOp systems that pair advanced Qualcomm silicon with AI for autonomous and GPS limited settings. Qualcomm's push into intelligent cockpit SoCs and SoOp...",
-      "id": "a10"
+      "id": "a36"
     },
     {
       "title": "Best semiconductor ETFs: SMH leads on cost, liquidity and momentum",
@@ -56,7 +99,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-16T21:06:10.000Z",
-      "fetchedAt": "2026-11-17T04:48:11.424Z",
+      "fetchedAt": "2026-11-17T14:55:47.938Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -64,7 +107,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Investing.com -- No single chip ETF stands out as \"the best\" right now, but VanEck Semiconductor ETF (SMH) screens as the strongest all-round candidate on the data pulled. The trigger was a post-election rotation out of chips and AI stocks on regulation and export-control fears. On Nov 5, 2026, Applied Materials fell 11.7% and a chip ETF dropped more than 7%. Qualcomm’s weak smartphone-chip sales added to the pressure.",
-      "id": "a20"
+      "id": "a39"
     },
     {
       "title": "Signals of Opportunity (SoOp) Market 2026: Global Forecast to 2030 | Capitalize on 17.2% CAGR and GPS-Denied Navigation with Qualcomm, BAE Systems, Safran and L3Harris",
@@ -74,7 +117,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-16T15:28:00.000Z",
-      "fetchedAt": "2026-11-17T04:48:11.424Z",
+      "fetchedAt": "2026-11-17T14:55:47.938Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -82,7 +125,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Boost ROI by scaling PNT-as-a-Service globally, targeting defense and GPS-denied navigation, advancing AI-driven signal fusion, and forming space-industry partnerships.Dublin, Nov. 16, 2026 (GLOBE NEWSWIRE) -- \"Signals of Opportunity (SoOp) Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global signals of opportunity (SoOp) market is experiencing rapid growth as governments, defense agencies, and technology providers increase investment in resilient positioning, navi",
-      "id": "a28"
+      "id": "a44"
     },
     {
       "title": "If Phone Sales Keep Shrinking, What Happens To Your Qualcomm Stock?",
@@ -92,7 +135,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-16T11:42:11.000Z",
-      "fetchedAt": "2026-11-17T04:48:11.424Z",
+      "fetchedAt": "2026-11-17T14:55:47.938Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -100,43 +143,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "id": "a38"
-    },
-    {
-      "title": "ETFs Are Net Sellers of Qualcomm (QCOM) on Nov. 12",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-qualcomm-qcom-110335561.html?.tsrc=rss",
-      "description": "ETFs sold a net $51.7 million of Qualcomm stock last Thursday.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-16T11:03:35.000Z",
-      "fetchedAt": "2026-11-17T04:48:11.424Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "ETFs sold a net $51.7 million of Qualcomm stock last Thursday.",
-      "id": "a39"
-    },
-    {
-      "title": "Bernstein Says Qualcomm’s “Margin Outlook Is Lousy.” Is the 6% Slide a Buying Chance?",
-      "url": "https://www.tikr.com/blog/bernstein-says-qualcomms-margin-outlook-is-lousy-is-the-6-slide-a-buying-chance?ref=yahoofinance&tlnk=yf-261115-cq572qhj&.tsrc=rss",
-      "description": "Key TakeawaysQualcomm’s handset revenue fell 26% to $5. 14 billion, missing estimates, while automotive revenue jumped 89% to a record $1.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-15T04:33:21.000Z",
-      "fetchedAt": "2026-11-17T04:48:11.424Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Key TakeawaysQualcomm’s handset revenue fell 26% to $5. 14 billion, missing estimates, while automotive revenue jumped 89% to a record $1.",
-      "id": "a42"
+      "id": "a46"
     }
   ]
 }
