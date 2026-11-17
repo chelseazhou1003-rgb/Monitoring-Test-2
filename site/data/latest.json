@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-16T22:33:24.013Z",
+  "generatedAt": "2026-11-17T04:48:18.030Z",
   "date": "2026-11-17",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 6,
-      "topHeadline": "Best semiconductor ETFs: SMH leads on cost, liquidity and momentum",
-      "topHeadlineId": "a5",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles). A total of 6 articles were aggregated from monitored sources."
+      "topHeadline": "What Is Qualcomm (QCOM) Gaining From Its Cockpit And SoOp Momentum?",
+      "topHeadlineId": "a10",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles), Automotive (1 article). A total of 6 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 38,
-      "topHeadline": "Trump's New Chip Export Rule Targets China but Exempts TikTok's Parent Company - Reason Magazine",
+      "articleCount": 37,
+      "topHeadline": "Impact of US Move to Curb Chip Access",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (37 articles), market-performance (1 article). A total of 38 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (34 articles), market-performance (3 articles). A total of 37 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,10 +39,10 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 0,
-      "topHeadline": null,
-      "topHeadlineId": null,
-      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+      "articleCount": 1,
+      "topHeadline": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors - Semiconductor Industry Association | SIA",
+      "topHeadlineId": "a6",
+      "briefingSummary": "One article today covering Geopolitics & Export Controls. SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA"
     }
   },
   "totalArticles": 44

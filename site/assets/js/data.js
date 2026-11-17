@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-11-16T22:33:24.012Z",
+    "generatedAt": "2026-11-17T04:48:18.028Z",
     "date": "2026-11-17",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,30 +13,55 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-11-16T22:33:24.012Z",
+    "generatedAt": "2026-11-17T04:48:18.028Z",
     "date": "2026-11-17",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles). A total of 6 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles), Automotive (1 article). A total of 6 articles were aggregated from monitored sources.",
       "keyTakeaways": [
+        {
+          "text": "Automotive: Qualcomm (NasdaqGS:QCOM) reports growing traction for its Snapdragon intelligent cockpit SoCs in new vehicle programs across global automakers. The company is increasingly referenced by industry group",
+          "articleIds": [
+            "a10"
+          ],
+          "subCategory": "automotive"
+        },
         {
           "text": "Semiconductors: Investing.com -- No single chip ETF stands out as \"the best\" right now, but VanEck Semiconductor ETF (SMH) screens as the strongest all-round candidate on the data pulled. The trigger was a post-elect",
           "articleIds": [
-            "a5"
+            "a20"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Mobile Chips: For questions about this article or underlying research, email help@trefis.com.",
           "articleIds": [
-            "a35"
+            "a38"
           ],
           "subCategory": "mobile-chips"
         }
       ]
     },
     "articles": [
+      {
+        "title": "What Is Qualcomm (QCOM) Gaining From Its Cockpit And SoOp Momentum?",
+        "url": "https://finance.yahoo.com/technology/articles/qualcomm-qcom-gaining-cockpit-soop-001825325.html?.tsrc=rss",
+        "description": "Qualcomm (NasdaqGS:QCOM) reports growing traction for its Snapdragon intelligent cockpit SoCs in new vehicle programs across global automakers. The company is increasingly referenced by industry groups as a core supplier in the emerging signals of opportunity, or SoOp, navigation market. Government and defense agencies are exploring SoOp systems that pair advanced Qualcomm silicon with AI for autonomous and GPS limited settings. Qualcomm's push into intelligent cockpit SoCs and SoOp...",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T00:18:25.000Z",
+        "fetchedAt": "2026-11-17T04:48:11.424Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "automotive",
+        "subLabel": "Automotive",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm (NasdaqGS:QCOM) reports growing traction for its Snapdragon intelligent cockpit SoCs in new vehicle programs across global automakers. The company is increasingly referenced by industry groups as a core supplier in the emerging signals of opportunity, or SoOp, navigation market. Government and defense agencies are exploring SoOp systems that pair advanced Qualcomm silicon with AI for autonomous and GPS limited settings. Qualcomm's push into intelligent cockpit SoCs and SoOp...",
+        "id": "a10"
+      },
       {
         "title": "Best semiconductor ETFs: SMH leads on cost, liquidity and momentum",
         "url": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-etfs-smh-leads-210610694.html?.tsrc=rss",
@@ -45,7 +70,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-16T21:06:10.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.500Z",
+        "fetchedAt": "2026-11-17T04:48:11.424Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -53,7 +78,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Investing.com -- No single chip ETF stands out as \"the best\" right now, but VanEck Semiconductor ETF (SMH) screens as the strongest all-round candidate on the data pulled. The trigger was a post-election rotation out of chips and AI stocks on regulation and export-control fears. On Nov 5, 2026, Applied Materials fell 11.7% and a chip ETF dropped more than 7%. Qualcomm’s weak smartphone-chip sales added to the pressure.",
-        "id": "a5"
+        "id": "a20"
       },
       {
         "title": "Signals of Opportunity (SoOp) Market 2026: Global Forecast to 2030 | Capitalize on 17.2% CAGR and GPS-Denied Navigation with Qualcomm, BAE Systems, Safran and L3Harris",
@@ -63,7 +88,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-16T15:28:00.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.500Z",
+        "fetchedAt": "2026-11-17T04:48:11.424Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -71,7 +96,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Boost ROI by scaling PNT-as-a-Service globally, targeting defense and GPS-denied navigation, advancing AI-driven signal fusion, and forming space-industry partnerships.Dublin, Nov. 16, 2026 (GLOBE NEWSWIRE) -- \"Signals of Opportunity (SoOp) Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global signals of opportunity (SoOp) market is experiencing rapid growth as governments, defense agencies, and technology providers increase investment in resilient positioning, navi",
-        "id": "a20"
+        "id": "a28"
       },
       {
         "title": "If Phone Sales Keep Shrinking, What Happens To Your Qualcomm Stock?",
@@ -81,7 +106,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-16T11:42:11.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.500Z",
+        "fetchedAt": "2026-11-17T04:48:11.424Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -89,7 +114,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "For questions about this article or underlying research, email help@trefis.com.",
-        "id": "a35"
+        "id": "a38"
       },
       {
         "title": "ETFs Are Net Sellers of Qualcomm (QCOM) on Nov. 12",
@@ -99,7 +124,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-16T11:03:35.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.500Z",
+        "fetchedAt": "2026-11-17T04:48:11.424Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -107,7 +132,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "ETFs sold a net $51.7 million of Qualcomm stock last Thursday.",
-        "id": "a36"
+        "id": "a39"
       },
       {
         "title": "Bernstein Says Qualcomm’s “Margin Outlook Is Lousy.” Is the 6% Slide a Buying Chance?",
@@ -117,7 +142,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-15T04:33:21.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.500Z",
+        "fetchedAt": "2026-11-17T04:48:11.424Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -126,29 +151,11 @@ export const NEWS_DATA = {
         "stakeholders": [],
         "summary": "Key TakeawaysQualcomm’s handset revenue fell 26% to $5. 14 billion, missing estimates, while automotive revenue jumped 89% to a record $1.",
         "id": "a42"
-      },
-      {
-        "title": "Micron Technology vs. Qualcomm: Which Tech Stock Is the Better Buy for 2027?",
-        "url": "https://www.fool.com/coverage/better-buy/2026/11/13/micron-technology-qualcomm-which-tech-stock-better-buy-for-2027/?.tsrc=rss",
-        "description": "One of these chipmakers is riding a record AI-driven surge, while the other is working to reinvent itself beyond the smartphone.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-14T01:31:02.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.500Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "One of these chipmakers is riding a record AI-driven surge, while the other is working to reinvent itself beyond the smartphone.",
-        "id": "a44"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-11-16T22:33:24.012Z",
+    "generatedAt": "2026-11-17T04:48:18.028Z",
     "date": "2026-11-17",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -159,7 +166,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-11-16T22:33:24.012Z",
+    "generatedAt": "2026-11-17T04:48:18.028Z",
     "date": "2026-11-17",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -170,15 +177,15 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-11-16T22:33:24.013Z",
+    "generatedAt": "2026-11-17T04:48:18.030Z",
     "date": "2026-11-17",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 6,
-        "topHeadline": "Best semiconductor ETFs: SMH leads on cost, liquidity and momentum",
-        "topHeadlineId": "a5",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles). A total of 6 articles were aggregated from monitored sources."
+        "topHeadline": "What Is Qualcomm (QCOM) Gaining From Its Cockpit And SoOp Momentum?",
+        "topHeadlineId": "a10",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles), Automotive (1 article). A total of 6 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
@@ -196,10 +203,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 38,
-        "topHeadline": "Trump's New Chip Export Rule Targets China but Exempts TikTok's Parent Company - Reason Magazine",
+        "articleCount": 37,
+        "topHeadline": "Impact of US Move to Curb Chip Access",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (37 articles), market-performance (1 article). A total of 38 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (34 articles), market-performance (3 articles). A total of 37 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -210,33 +217,33 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 0,
-        "topHeadline": null,
-        "topHeadlineId": null,
-        "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+        "articleCount": 1,
+        "topHeadline": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors - Semiconductor Industry Association | SIA",
+        "topHeadlineId": "a6",
+        "briefingSummary": "One article today covering Geopolitics & Export Controls. SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA"
       }
     },
     "totalArticles": 44
   },
   "macro-environment": {
-    "generatedAt": "2026-11-16T22:33:24.012Z",
+    "generatedAt": "2026-11-17T04:48:18.028Z",
     "date": "2026-11-17",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (37 articles), market-performance (1 article). A total of 38 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (34 articles), market-performance (3 articles). A total of 37 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Trump's New Chip Export Rule Targets China but Exempts TikTok's Parent Company Reason Magazine",
+          "text": "Geopolitics & Export Controls: Managing Editor for Asian Equities at Bloomberg News Lianting Tu says tighter access to chips could constrain AI model training in China and potentially slow sales growth for AI cloud businesses. That",
           "articleIds": [
             "a1"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
-          "text": "market-performance: Qualcomm stock has fallen by 33% from its high, and now trades at just a single-digit multiple of management's fiscal 2029 earnings target.",
+          "text": "market-performance: Xi Qiao, UBS financial advisor and managing director, said Nvidia faces a particularly difficult backdrop ahead of earnings, including tougher U.S. export restrictions and concerns surrounding Jensen ",
           "articleIds": [
-            "a43"
+            "a5"
           ],
           "subCategory": "market-performance"
         }
@@ -244,24 +251,296 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "Trump's New Chip Export Rule Targets China but Exempts TikTok's Parent Company - Reason Magazine",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWnpVMnhfT1pJblV5SlJjVmxSamlrVldLb0NNZUN2RlVLZmRnS3hWT3hrTTNydnF2X3N2TzNSMHFxb2x4ZjRiVGw0cFpiZTVDblVpQmlLVE1ZMng0SThaUHVINTA3aWJXMjUxcllQQXhJV29XUjBzRlI0VUtta0tuQWl6cXRycnlQbHRkTm1abUdIWFlnRXRCaFltWXkyTTVCVjF3UjY3eS1FTzQ?oc=5",
-        "description": "Trump's New Chip Export Rule Targets China but Exempts TikTok's Parent Company Reason Magazine",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
+        "title": "Impact of US Move to Curb Chip Access",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-17/impact-of-us-move-to-curb-chip-access-video",
+        "description": "Managing Editor for Asian Equities at Bloomberg News Lianting Tu says tighter access to chips could constrain AI model training in China and potentially slow sales growth for AI cloud businesses. That could have a knock-on effect on data-center expansion and demand for Chinese hardware companies, some of which supply Nvidia, as the Trump administration moves to limit countries from providing Chinese companies remote access to advanced artificial intelligence chips and servers. (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T22:14:01.000Z",
-        "fetchedAt": "2026-11-16T22:33:23.982Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Reason Magazine",
+        "publishedAt": "2026-11-17T04:23:01.000Z",
+        "fetchedAt": "2026-11-17T04:48:11.574Z",
+        "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Trump's New Chip Export Rule Targets China but Exempts TikTok's Parent Company Reason Magazine",
+        "summary": "Managing Editor for Asian Equities at Bloomberg News Lianting Tu says tighter access to chips could constrain AI model training in China and potentially slow sales growth for AI cloud businesses. That could have a knock-on effect on data-center expansion and demand for Chinese hardware companies, some of which supply Nvidia, as the Trump administration moves to limit countries from providing Chinese companies remote access to advanced artificial intelligence chips and servers.",
         "id": "a1"
+      },
+      {
+        "title": "Nokia’s new China licensing head outlines approach to booming market",
+        "url": "https://www.iam-media.com/article/nokias-new-china-licensing-head-outlines-approach-booming-market",
+        "description": "In an interview with IAM, Dazhi Wang says China’s maturing implementer landscape is both a challenge and an opportunity in SEP licensing",
+        "source": "IAM",
+        "sourceId": "iam",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-11-17T04:00:00.000Z",
+        "fetchedAt": "2026-11-17T04:48:14.055Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "In an interview with IAM, Dazhi Wang says China’s maturing implementer landscape is both a challenge and an opportunity in SEP licensing",
+        "id": "a2"
+      },
+      {
+        "title": "China AI Highflier Crashes 85% as Chip Fears Hit Model Makers",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-17/china-ai-highflier-crashes-85-as-chip-fears-hit-model-makers",
+        "description": "Few stocks rode China’s artificial intelligence frenzy as spectacularly as model developer Z.AI Co. Now, its dramatic reversal is laying bare the vulnerabilities facing the country’s AI upstarts.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T03:50:54.000Z",
+        "fetchedAt": "2026-11-17T04:48:11.574Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Few stocks rode China’s artificial intelligence frenzy as spectacularly as model developer Z.AI Co. Now, its dramatic reversal is laying bare the vulnerabilities facing the country’s AI upstarts.",
+        "id": "a3"
+      },
+      {
+        "title": "US probed Megaspeed over export control violations in 2024, sought Nvidia sales records - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObzBmSHcxOE5GcFg2YlFIY21tZjlrQ3MtZzZBVlZfMjNwLW5QckdhT3Y4Q3ByVFZjV1JDcEZseWJsSGJQU3Y3ZUhCWmVJYXZLOG9IcEE0b19QQmt3NGl6azBTOEhSOW5DQXBfd1lNNHllblNyR2lySlN3dlRrbUVoZWZWejlXOW5sQUNvdjloVWM4MDk3RGFEQTFwZmJpYVRPYTVuTld6VmtINVA0am9GcnpaLVBFX1dyMGNDVE9FS2ZnZjd1TFVZRkhhVW5POFdQdEkzM1FleThoZi03ZUhuQTRDZHhsOVQtSEVPMDk2U2otb0xlRWtHNEJ6bk1yVjDSAYQCQVVfeXFMT2Y2YjNucFJ3SXo3aXU3ZGRwelNIZkdNY25xNFhsZTE5cWR4a2d2Q2xldGVmMkg3eUZydWxqNzlsREVjaFFIMXAzWE1ZeTBCTkdCY095ZmJ5eVh2VzVzVk80cEpNREJLaWhzWDZzT19wbkQwOHBCOHh4RkdnRzRQUThDWFVtN2xEX3dmTm1JUnpBYnRjeHQ4VVV0OFB1R0lBYkEzQU5nQ3ZMN0p4VWdLaE54aEMtbzhMeVZoaWJCS3ZLcGhrOVkzeWV0VEtKazJwT1BvUC1acE1fZjlpT2g3ckMtNmlwN0tIY3VwbGdjWERWVm5lamw2UzYwTkRZTGx5azJsa0s?oc=5",
+        "description": "US probed Megaspeed over export control violations in 2024, sought Nvidia sales records The Economic Times",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T03:50:35.000Z",
+        "fetchedAt": "2026-11-17T04:48:17.869Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "The Economic Times",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US probed Megaspeed over export control violations in 2024, sought Nvidia sales records The Economic Times",
+        "id": "a4"
+      },
+      {
+        "title": "More Volatility Forecast for AI as Nvidia Earnings Loom",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-17/more-volatility-forecast-for-ai-as-nvidia-earnings-loom-video",
+        "description": "Xi Qiao, UBS financial advisor and managing director, said Nvidia faces a particularly difficult backdrop ahead of earnings, including tougher U.S. export restrictions and concerns surrounding Jensen Huang. Qiao expects near-term volatility in Nvidia and the broader AI trade, as markets brace for slower investment in the AI ecosystem and possible supply-chain disruptions. Qiao advised investors to stay invested while diversifying across sectors, regions and asset classes. Original filename: 20261117_004905_Xi_Qiao_Sees_More_Volatility_Ahead_of_Nvidia_Earnings.mp4 (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T02:32:11.000Z",
+        "fetchedAt": "2026-11-17T04:48:11.574Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Xi Qiao, UBS financial advisor and managing director, said Nvidia faces a particularly difficult backdrop ahead of earnings, including tougher U.S. export restrictions and concerns surrounding Jensen Huang. Qiao expects near-term volatility in Nvidia and the broader AI trade, as markets brace for slower investment in the AI ecosystem and possible supply-chain disruptions. Qiao advised investors to stay invested while diversifying across sectors, regions and asset classes. Original filename: 20261117_004905_Xi_Qiao_Sees_More_Volatility_Ahead_of_Nvidia_Earnings.mp4 (Source: Bloomberg)",
+        "id": "a5"
+      },
+      {
+        "title": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors - Semiconductor Industry Association | SIA",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc0o2bjRXc1pGTFYxZS1KcHl0ZWhPcDA1am9mM0dtWGRfM05WckhvRDFKQ1hjZTRRZEhpM0x0QXJHSk1rOF9WY25LS0gtVDBhU1pfdElJX18xZ1RkZmVYNThEWk1MUnRqVWlEbVpRZlpTcXIxd1NWT0lvbmI2SC1NbVBrTUZzV1FIVm5nMWFrNXhMVElnakFUemhRbW5FdVFnNTQtRENTNFhxRVhCa2k5THNIckZBUkU2V0UtNThBWEZWQQ?oc=5",
+        "description": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T01:51:24.000Z",
+        "fetchedAt": "2026-11-17T04:48:17.869Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Semiconductor Industry Association | SIA",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "industry-assoc"
+        ],
+        "summary": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
+        "id": "a6"
+      },
+      {
+        "title": "Jensen Huang's Return Bid Faces U.S. Opposition Over Export Control Concerns - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWVFxX25RSDljZG5FYW16RFNabUdzaWZTYzZLcEN3YUFET0hfNEg1b0tFVGk2VElYLUh3eU5GU1VJMjFfNDRwd1Y4TXdldW1UbUtHaXVCNjlkZW5nSGl4YTBGZ2ltdDl6TG1ZM2hMNzFmWHZlQlVCNVpnT3cxTG5UcFBVS2EteEtV?oc=5",
+        "description": "Jensen Huang's Return Bid Faces U.S. Opposition Over Export Control Concerns 조선일보",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T01:32:06.000Z",
+        "fetchedAt": "2026-11-17T04:48:17.869Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "조선일보",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Jensen Huang's Return Bid Faces U.S. Opposition Over Export Control Concerns 조선일보",
+        "id": "a7"
+      },
+      {
+        "title": "US chip export control: Singapore assessing impact of new measures aimed at curbing China's access - AsiaOne.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbXhHTzJVMmlVV2gzYVpybjIwd0N1dENvTG5COTVvd1BPVUdjLWFXcWNZQVZnWWs0RjJkZXktcFRPMjFpWnNLY0xMZXJweTQ2Z1F0OWl2MEYybk1VMXhaclJ4d2kyMEhIeTdvQlI0OVZ4dWlhVWZfaHJNSnhFdFFNa3VhUQ?oc=5",
+        "description": "US chip export control: Singapore assessing impact of new measures aimed at curbing China's access AsiaOne.com",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T01:09:43.000Z",
+        "fetchedAt": "2026-11-17T04:48:17.869Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "AsiaOne.com",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US chip export control: Singapore assessing impact of new measures aimed at curbing China's access AsiaOne.com",
+        "id": "a8"
+      },
+      {
+        "title": "Qualcomm CEO: “There Is No AI Correction” at Qualcomm. Nvidia’s November 17 Earnings Face a Major Test",
+        "url": "https://www.tikr.com/blog/qualcomm-ceo-there-is-no-ai-correction-at-qualcomm-nvidias-november-17-earnings-face-a-major-test?ref=yahoofinance&tlnk=yf-261116-766m6rp9&.tsrc=rss",
+        "description": "Key TakeawaysQualcomm (QCOM) CEO Cristiano Amon said there is no AI correction at his company, citing strong semiconductor demand and industrywide supply shortages despite the recent technology selloff. NVIDIA (NVDA) faces its November 17 earnings report following Jensen Huang’s resignation, with investors watching whether AI infrastructure demand can sustain its aggressive growth forecasts.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T00:27:41.000Z",
+        "fetchedAt": "2026-11-17T04:48:11.424Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Key TakeawaysQualcomm (QCOM) CEO Cristiano Amon said there is no AI correction at his company, citing strong semiconductor demand and industrywide supply shortages despite the recent technology selloff. NVIDIA (NVDA) faces its November 17 earnings report following Jensen Huang’s resignation, with investors watching whether AI infrastructure demand can sustain its aggressive growth forecasts.",
+        "id": "a9"
+      },
+      {
+        "title": "Asia Data Center Hotbed Hit by US Chip Curbs as Trump Visits",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-16/asia-s-data-center-hotbed-hit-by-us-chip-curbs-as-trump-visits",
+        "description": "President Donald Trump is targeting Southeast Asia in Washington’s rush to tighten China’s access to the world’s most advanced chips, with his administration announcing new rules just before he travels to the region.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-16T23:55:29.000Z",
+        "fetchedAt": "2026-11-17T04:48:11.574Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "President Donald Trump is targeting Southeast Asia in Washington’s rush to tighten China’s access to the world’s most advanced chips, with his administration announcing new rules just before he travels to the region.",
+        "id": "a11"
+      },
+      {
+        "title": "‘Don’t insult China’: Trump’s reckless disregard for American security - The Australian",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR1h4YVZuWUY1TEZpTkNJLW55QzA4bGpsVnp5QTJpcWphS0RtZkljTngxdWZzMnZzLXBsVEpPdkwwSmE1LVhvak0taGs1WGdSOUEtdC1UM3FFckRUS2d3UEczMEZKaTlJSE1DOEhINU1XaHVZV05DVE9LWFd6Rkx4ekMwUWRsTXo3UEZUVEhIYnp0RGtLYklFZ2JMMzRhZmx4NHkxYUJTQkwyR1IwVjctZXVfZDBRRmhGREJRZ1lRU2tscEZTMEtFdFhEVDVTdk50LTRJZ0JCMC05UQ?oc=5",
+        "description": "‘Don’t insult China’: Trump’s reckless disregard for American security The Australian",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-16T23:46:19.000Z",
+        "fetchedAt": "2026-11-17T04:48:17.869Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "The Australian",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "‘Don’t insult China’: Trump’s reckless disregard for American security The Australian",
+        "id": "a12"
+      },
+      {
+        "title": "Russia aims for ‘joint statement’ from trilateral summit with US and China",
+        "url": "https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1",
+        "description": "Thursday’s unprecedented meeting of Donald Trump, Xi Jinping and Vladimir Putin has drawn intense international attention",
+        "source": "Financial Times",
+        "sourceId": "ft",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-16T23:22:46.000Z",
+        "fetchedAt": "2026-11-17T04:48:11.792Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Thursday’s unprecedented meeting of Donald Trump, Xi Jinping and Vladimir Putin has drawn intense international attention",
+        "id": "a13"
+      },
+      {
+        "title": "US agency’s AI chip disclaimer exposes Trump administration rift: experts - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSjh3cmFJVVo5eF9iTHY2Y2ZxbUxPbFh4Ny11WjdjeWJ4c1hYOW5aUVQwZmxLblQtSUJfZjVQMkdPUG1DdlVFXzhqZFZFbVNMVzBkWmNSMTdLSFFyd1Zab0IyZUd4SEdCeXY2N3FoV1kwa3A2ZEE4QmdMYXY3QWVhU1ZLVGxFbE54MFp1eDVsdU13Y1RaaGpPbmc2dEZURFhDRUZ3RG5xZTZaM3lTRFRHX1BXRXhoVUFXSzRkTU9R0gG-AUFVX3lxTE4xcng3Y1lQVGJVdHV0QTVDMnowbXBqdEZhZWpQc3g1cVR1bkR3Q1BzMENMLUZ6T2t4aGc3TnRUMkRTUFF3VjFYcGRlQ0FMSVczZFl0N05HZWhhTGVoMWlsZVptT3U5cklnSFU4ajB1NEJBWTZuX2lQaE1jYjUxemRWeUI0WWJxWDBzb2VGLVZMUTROX1prMHRaSkRneXNTLU81NWkyRGZwc1pyMXNBYXdCRlprbzExODhfZUhGQ1E?oc=5",
+        "description": "US agency’s AI chip disclaimer exposes Trump administration rift: experts South China Morning Post",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-16T23:16:38.000Z",
+        "fetchedAt": "2026-11-17T04:48:17.869Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "South China Morning Post",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US agency’s AI chip disclaimer exposes Trump administration rift: experts South China Morning Post",
+        "id": "a14"
+      },
+      {
+        "title": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
+        "url": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
+        "description": "There's one formula for success behind the rise of trendy new Chinese fashion brands, according to Euromonitor International.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-16T23:00:01.000Z",
+        "fetchedAt": "2026-11-17T04:48:11.240Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "There's one formula for success behind the rise of trendy new Chinese fashion brands, according to Euromonitor International.",
+        "id": "a15"
+      },
+      {
+        "title": "China’s Top AI Firms Limit Cyber Capabilities in Latest Models",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models",
+        "description": "China’s top AI developers are releasing advanced models with reduced offensive cyber capabilities, stifling their ability to aid online attacks following a government proposal to ban such technology from being exported.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-16T23:00:00.000Z",
+        "fetchedAt": "2026-11-17T04:48:11.574Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China’s top AI developers are releasing advanced models with reduced offensive cyber capabilities, stifling their ability to aid online attacks following a government proposal to ban such technology from being exported.",
+        "id": "a16"
       },
       {
         "title": "Commerce Department Moves to Crack Down on Chip Exports - WSJ",
@@ -271,7 +550,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-16T22:11:00.000Z",
-        "fetchedAt": "2026-11-16T22:33:23.982Z",
+        "fetchedAt": "2026-11-17T04:48:17.869Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "WSJ",
         "geopoliticalBypass": true,
@@ -281,7 +560,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Commerce Department Moves to Crack Down on Chip Exports WSJ",
-        "id": "a2"
+        "id": "a17"
       },
       {
         "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
@@ -291,7 +570,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-16T21:51:43.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.278Z",
+        "fetchedAt": "2026-11-17T04:48:11.240Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -300,7 +579,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The rule was written by the Treasury Department and the National Security Council after criticism of Commerce Secretary Howard Lutnick.",
-        "id": "a3"
+        "id": "a18"
       },
       {
         "title": "Inside Lutnick's Commerce Department, lack of action on alleged AI chip smuggling came with a side of \"chaos,\" ex-employees say - CBS News",
@@ -310,7 +589,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-16T21:27:00.000Z",
-        "fetchedAt": "2026-11-16T22:33:23.982Z",
+        "fetchedAt": "2026-11-17T04:48:17.869Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "CBS News",
         "geopoliticalBypass": true,
@@ -320,46 +599,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Inside Lutnick's Commerce Department, lack of action on alleged AI chip smuggling came with a side of \"chaos,\" ex-employees say CBS News",
-        "id": "a4"
-      },
-      {
-        "title": "Rep. Steube to Newsmax: Nvidia Probe Must Focus on China - Newsmax",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY043ZVJ2UmZxZ2FRSkw5bjJUWkcyRDY2YnNGREwwcHpic184V1VkZEZDaVAyVFRPWENWSWx3MEZfcHlGVlU2RzVSaVFhVjZsU1B3Z2R0UkV5d2xCRndiMEZMazRnUkpQZUdRa0tSRldxc0QwMi1PeGRkNjlqNk55YTZDSlBkLWZxMnZFcU1xSjktYzA?oc=5",
-        "description": "Rep. Steube to Newsmax: Nvidia Probe Must Focus on China Newsmax",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T20:19:50.000Z",
-        "fetchedAt": "2026-11-16T22:33:23.983Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Newsmax",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Steube to Newsmax: Nvidia Probe Must Focus on China Newsmax",
-        "id": "a6"
-      },
-      {
-        "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-        "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-        "description": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering free access to vetted organizations, giving developers more guidance on how to detect this type of content, and helping to train law enforcement on how AI can aid their investigations. The news comes as policymakers and others are pushing for more safety restrictions on AI tools, accusing OpenAI and other co … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-11-16T19:23:45.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.953Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering free access to vetted organizations, giving developers more guidance on how to detect this type of content, and helping to train law enforcement on how AI can aid their investigations. The news comes as policymakers and others are pushing for more safety restrictions on AI tools, accusing OpenAI and other co … Read the full story at The Verge.",
-        "id": "a7"
+        "id": "a19"
       },
       {
         "title": "Putin-Xi Meeting Unlikely to Bring Substantive Results for Trump, Says Jane Harman",
@@ -369,7 +609,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-16T19:16:14.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.685Z",
+        "fetchedAt": "2026-11-17T04:48:11.574Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -378,7 +618,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Jane Harman, a former ranking Democrat on the House Intelligence Committee, talked about the potential national security risks from the Nvidia scandal, Trump’s upcoming meetings in Asia and the Senate Democratic leadership battle. Harman said that potential meetings between President Trump, Xi Jinping and Putin in China are unlikely to provide any substantive results other than a 'good photo op.' On the fight for Senate leadership between Chuck Schumer and Chris Van Hollen, Harman said that no matter the leader, Democrats should take seriously voters' calls for change.",
-        "id": "a8"
+        "id": "a21"
       },
       {
         "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
@@ -388,7 +628,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-16T19:12:02.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.326Z",
+        "fetchedAt": "2026-11-17T04:48:11.273Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -397,45 +637,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-        "id": "a9"
-      },
-      {
-        "title": "Tusk: Jensen Huang Should Not Return as Nvidia CEO",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-16/tusk-jensen-huang-should-not-return-as-nvidia-ceo-video",
-        "description": "Tusk Ventures co-founder Bradley Tusk says Congress should examine the relationships between Nvidia’s former leadership and the Trump administration as questions remain over China, chip exports and national security. He discusses why he believes Jensen Huang should not return as CEO, what tighter US export controls could mean for Nvidia and the broader startup ecosystem, and why Silicon Valley’s reliance on high-profile founders and CEOs deserves more scrutiny as Anthropic prepares to go public. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T19:04:31.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.685Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Tusk Ventures co-founder Bradley Tusk says Congress should examine the relationships between Nvidia’s former leadership and the Trump administration as questions remain over China, chip exports and national security. He discusses why he believes Jensen Huang should not return as CEO, what tighter US export controls could mean for Nvidia and the broader startup ecosystem, and why Silicon Valley’s reliance on high-profile founders and CEOs deserves more scrutiny as Anthropic prepares to go public. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-        "id": "a10"
-      },
-      {
-        "title": "Nvidia Fallout Adds New Tension to US-China AI Race",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-fallout-adds-new-tension-to-us-china-ai-race-video",
-        "description": "The US-China technology rivalry is in focus as President Trump travels to China for talks with Xi Jinping, with AI chips, export controls and rare earths among the key issues shaping the relationship. Krach Institute for Tech Diplomacy CEO Michelle Giuda discusses why Nvidia remains critical to US technological leadership and the importance of tightening chip export controls. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T18:57:05.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.685Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The US-China technology rivalry is in focus as President Trump travels to China for talks with Xi Jinping, with AI chips, export controls and rare earths among the key issues shaping the relationship. Krach Institute for Tech Diplomacy CEO Michelle Giuda discusses why Nvidia remains critical to US technological leadership and the importance of tightening chip export controls. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-        "id": "a11"
+        "id": "a22"
       },
       {
         "title": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk",
@@ -445,7 +647,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-16T18:55:46.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.278Z",
+        "fetchedAt": "2026-11-17T04:48:11.240Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -454,45 +656,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "President Trump told reporters before departing for a trip to Asia that former Nvidia CEO Jensen Huang's affair did not put U.S. national security at risk.",
-        "id": "a12"
-      },
-      {
-        "title": "Nvidia’s Defining Week: CEO Search, Earnings and China",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-tech-11-16-2026-video",
-        "description": "Bloomberg’s Ed Ludlow breaks down Nvidia's defining week as the chip giant searches for a new CEO while earnings loom. Plus, President Trump is set to meet with Xi and Putin in China, as AI chips, trade and the Nvidia fallout loom over the summit. And Anthropic prepares for a record-breaking IPO this week. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T18:51:33.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.685Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Bloomberg’s Ed Ludlow breaks down Nvidia's defining week as the chip giant searches for a new CEO while earnings loom. Plus, President Trump is set to meet with Xi and Putin in China, as AI chips, trade and the Nvidia fallout loom over the summit. And Anthropic prepares for a record-breaking IPO this week.",
-        "id": "a13"
-      },
-      {
-        "title": "Russia aims for ‘joint statement’ from trilateral summit with US and China",
-        "url": "https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1",
-        "description": "Thursday’s unprecedented meeting of Donald Trump, Xi Jinping and Vladimir Putin has drawn intense international attention",
-        "source": "Financial Times",
-        "sourceId": "ft",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T18:19:17.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.860Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Thursday’s unprecedented meeting of Donald Trump, Xi Jinping and Vladimir Putin has drawn intense international attention",
-        "id": "a14"
+        "id": "a23"
       },
       {
         "title": "Embattled Commerce Secretary Lutnick joins Trump on trip to China as national security questions swirl - Blaze Media",
@@ -502,7 +666,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-16T17:17:25.000Z",
-        "fetchedAt": "2026-11-16T22:33:23.983Z",
+        "fetchedAt": "2026-11-17T04:48:17.869Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Blaze Media",
         "geopoliticalBypass": true,
@@ -512,7 +676,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Embattled Commerce Secretary Lutnick joins Trump on trip to China as national security questions swirl Blaze Media",
-        "id": "a15"
+        "id": "a24"
       },
       {
         "title": "Russia’s richest woman hit by EU sanctions",
@@ -522,7 +686,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-16T17:11:52.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.860Z",
+        "fetchedAt": "2026-11-17T04:48:11.792Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -531,27 +695,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Founder of country’s largest online retailer Wildberries targeted in latest round of EU sanctions over war in Ukraine",
-        "id": "a16"
-      },
-      {
-        "title": "Commerce Department moves to crack down on Chinese AI chip loophole amid Nvidia scandal - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQk9pbHlwam93eHc4aTEwYWRZejlIVDJYRTk4NE15LVlITWZqWFdzWThiSmtmMzN5T3BFbm9MSkg0ZWx2NkVvcWx6N1BHYzMyVldscXdWTzdjTGIxVGZQcVhEaDhwWEFCSDNIaTlDQlJXZWlJLTBOMlJKOF9XN0d1eE5uRnNlemVyam1MaFNTc2F1YVJ3NWNIUXVuT1pYNDg0NW1UczhrbU5VbEpMQ1p5U2RKWjdRdnNfSXR1VVVWeXFFS1ZmVmc?oc=5",
-        "description": "Commerce Department moves to crack down on Chinese AI chip loophole amid Nvidia scandal New York Post",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T17:04:00.000Z",
-        "fetchedAt": "2026-11-16T22:33:23.983Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "New York Post",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Commerce Department moves to crack down on Chinese AI chip loophole amid Nvidia scandal New York Post",
-        "id": "a17"
+        "id": "a25"
       },
       {
         "title": "OpenAI will embed safety researchers to investigate AI subversion",
@@ -561,7 +705,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-16T17:02:43.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.326Z",
+        "fetchedAt": "2026-11-17T04:48:11.273Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -570,7 +714,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-        "id": "a18"
+        "id": "a26"
       },
       {
         "title": "US tightens AI chip rules, targets overseas data centres",
@@ -580,7 +724,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-16T16:11:05.000Z",
-        "fetchedAt": "2026-11-16T22:33:21.521Z",
+        "fetchedAt": "2026-11-17T04:48:16.126Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -589,7 +733,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The US Commerce Department moved to close a loophole which let China-based companies rent US computing power from overseas data centres to train advanced AI models. The post US tightens AI chip rules, targets overseas data centres appeared first on Mobile World Live.",
-        "id": "a19"
+        "id": "a27"
       },
       {
         "title": "US introduces fresh AI chip export controls for five countries over national security concerns - Zee Business",
@@ -599,7 +743,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-16T15:25:47.000Z",
-        "fetchedAt": "2026-11-16T22:33:23.983Z",
+        "fetchedAt": "2026-11-17T04:48:17.869Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Zee Business",
         "geopoliticalBypass": true,
@@ -609,27 +753,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US introduces fresh AI chip export controls for five countries over national security concerns Zee Business",
-        "id": "a21"
-      },
-      {
-        "title": "Nvidia Faces China Export Curbs as Shares Fall 4% - JournalArta",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbEtReTFNaEtCc2xpZEJUQmZJNjBEVy1XZWhadG5NeERWdFJ4X2c4QlNzQnd5STVkSzJqemZrR25KdEN4UV9GMURIZmhIMnlvY1lIUlFnRU04aXBGMDNNZDE4U1JmQ09ERklkTTQ2eTUzQUtreERWbDM1cGcyY2Q5VlNR?oc=5",
-        "description": "Nvidia Faces China Export Curbs as Shares Fall 4% JournalArta",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T15:25:06.000Z",
-        "fetchedAt": "2026-11-16T22:33:23.983Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "JournalArta",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Nvidia Faces China Export Curbs as Shares Fall 4% JournalArta",
-        "id": "a22"
+        "id": "a29"
       },
       {
         "title": "US senator demands 'immediate action' to close China AI chip loopholes amid Nvidia diversion claims - Anadolu Ajansı",
@@ -639,7 +763,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-16T15:24:54.000Z",
-        "fetchedAt": "2026-11-16T22:33:23.982Z",
+        "fetchedAt": "2026-11-17T04:48:17.869Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Anadolu Ajansı",
         "geopoliticalBypass": true,
@@ -649,7 +773,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US senator demands 'immediate action' to close China AI chip loopholes amid Nvidia diversion claims Anadolu Ajansı",
-        "id": "a23"
+        "id": "a30"
       },
       {
         "title": "China Automotive Intelligent Cockpit SoC Market Research Report, 2026-2030 | AI and Cockpit-Driving Integration Unlock Growth in the RMB100,000-200,000 Segment",
@@ -659,7 +783,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-16T15:19:00.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.500Z",
+        "fetchedAt": "2026-11-17T04:48:11.424Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -668,26 +792,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Cockpit SoCs shift to advanced processes, SIP, cockpit-driving integration and AI, while Chiplet and plug-and-play AI Box solutions cut costs, shorten R&D cycles and scale computing.Dublin, Nov. 16, 2026 (GLOBE NEWSWIRE) -- \"Automotive Intelligent Cockpit SoC Research Report, 2026\" has been added to ResearchAndMarkets.com's offering. Passenger cars priced between RMB100,000 and RMB200,000 account for nearly half of total sales, making this segment a critical battleground for automotive cockpit S",
-        "id": "a24"
-      },
-      {
-        "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
-        "url": "https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1",
-        "description": "Summits in China and the Philippines provide a backdrop for a string of meetings involving powerful global rivals",
-        "source": "Financial Times",
-        "sourceId": "ft",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T15:10:54.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.860Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Summits in China and the Philippines provide a backdrop for a string of meetings involving powerful global rivals",
-        "id": "a25"
+        "id": "a31"
       },
       {
         "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
@@ -697,7 +802,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-16T15:02:34.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.326Z",
+        "fetchedAt": "2026-11-17T04:48:11.273Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -706,7 +811,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
-        "id": "a26"
+        "id": "a32"
       },
       {
         "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely - TechCrunch",
@@ -716,7 +821,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-16T15:02:34.000Z",
-        "fetchedAt": "2026-11-16T22:33:23.982Z",
+        "fetchedAt": "2026-11-17T04:48:17.869Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "TechCrunch",
         "geopoliticalBypass": true,
@@ -726,47 +831,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely TechCrunch",
-        "id": "a27"
-      },
-      {
-        "title": "Cantwell Accuses Lutnick of Weakening Nvidia Chip Export Controls - cwibc.co.id",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ua3kxM3lIRUk4cTRQelA2QzVoZE52VGpxanNuSGdaUURKbHZLMXc4QU5PaFJ0SDhsVy1sckJROHJkZjA0QlVhR1VBWmRkaVBkNjI5b1JBbG8tblBvV3V0Zm15R3F3dFBZd3BveA?oc=5",
-        "description": "Cantwell Accuses Lutnick of Weakening Nvidia Chip Export Controls cwibc.co.id",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T14:37:09.000Z",
-        "fetchedAt": "2026-11-16T22:33:23.983Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "cwibc.co.id",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Cantwell Accuses Lutnick of Weakening Nvidia Chip Export Controls cwibc.co.id",
-        "id": "a28"
-      },
-      {
-        "title": "US Tightens Restrictions On Remote Access To Advanced AI Computing Power - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS0stM0U4ZldYYm9LNEtjTURNZW04RHV2cldWR0J5cFdGN2VycGhWQkNLcWNyeVhqYVFXaTVIVFg2dllha2c1NlVBa3BZSmp2SkhwS1lMRVJJaDlSa1BkTkJEckJrZWpzOEc2LWpHcWZJSTNwXzlMTmQ0c3hxSUJsY2NfOFNMeXZSbVZ3RGxUelBvdU5GQzA5bHMxdFpyNGRPMWplNDNVSTRxNDVzWnJEZm8xYkk5QlphTnZGU25FbzJvUEN3aDJJS0dqUTRFdw?oc=5",
-        "description": "US Tightens Restrictions On Remote Access To Advanced AI Computing Power TradingView",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T14:35:29.000Z",
-        "fetchedAt": "2026-11-16T22:33:23.983Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "TradingView",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "US Tightens Restrictions On Remote Access To Advanced AI Computing Power TradingView",
-        "id": "a29"
+        "id": "a33"
       },
       {
         "title": "Backdoor subsidy for data centers? Analyst says let CHIPS Act tax credit expire - Baltimore Sun",
@@ -776,7 +841,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-16T13:15:46.000Z",
-        "fetchedAt": "2026-11-16T22:33:23.982Z",
+        "fetchedAt": "2026-11-17T04:48:17.869Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Baltimore Sun",
         "geopoliticalBypass": true,
@@ -786,27 +851,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Backdoor subsidy for data centers? Analyst says let CHIPS Act tax credit expire Baltimore Sun",
-        "id": "a30"
-      },
-      {
-        "title": "Cantwell, Bessent Accuse US Commerce Department of Weakening AI Chip Export Controls to China - Tekedia",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYWVWNFEya0ZMUnZqNThnWnlabG5vb2lRUWl3TVdDdzhWalRXNF8yNGkza1NPRm1sWWhqVGdTaVFDQVAzbENhUnhfTmJPeUZZOWdpWGJ6S0kzRzRIZkR5SkRnWWRhT0hBU1R5UjgtZXlwRGltVEdycEVpb2M2VFdGQVhpWVZaVGUwMDNwYmkxUVVBQUhad3BfTTEwc2RHS3ZSQ0ZHUVFGM3pmU3VkM18yZE5TRFJfTUJD?oc=5",
-        "description": "Cantwell, Bessent Accuse US Commerce Department of Weakening AI Chip Export Controls to China Tekedia",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T12:32:56.000Z",
-        "fetchedAt": "2026-11-16T22:33:23.983Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Tekedia",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Cantwell, Bessent Accuse US Commerce Department of Weakening AI Chip Export Controls to China Tekedia",
-        "id": "a31"
+        "id": "a34"
       },
       {
         "title": "Why Putin, Trump and Xi cannot be the new ‘big three’",
@@ -816,7 +861,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-16T12:22:48.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.860Z",
+        "fetchedAt": "2026-11-17T04:48:11.792Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -825,7 +870,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The leaders of the US, China and Russia cannot carve up the world between them, even if they wanted to",
-        "id": "a32"
+        "id": "a35"
       },
       {
         "title": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
@@ -835,7 +880,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-16T12:13:47.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.278Z",
+        "fetchedAt": "2026-11-17T04:48:11.240Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -844,27 +889,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Commerce Secretary Howard Lutnick has drawn fire for his close relationship with Nvidia CEO Jensen Huang and the department's treatment of the company.",
-        "id": "a33"
+        "id": "a36"
       },
       {
-        "title": "Cantwell Blasts Commerce Over Nvidia Chip Leaks to China Ahead of Trump-Xi Summit - BigGo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kaEJodFdyLVl0MEtfUEhPY1ZYeGZ5Q3NxbTVfZ2FsTGRSMlNKVWotUzd3NlJmT3NFeU0xNno4UFlUWEtoQ3BjX18wcUxHRHVlSFAxRVZvUGU5VG9nQlZXaWRmTC1XblMyZFlLSHAzeVR0aFpJa3c?oc=5",
-        "description": "Cantwell Blasts Commerce Over Nvidia Chip Leaks to China Ahead of Trump-Xi Summit BigGo Finance",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
+        "title": "China’s XPeng Extends Loss Streak but Targets Strong 2026 Finish - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGI1b29UN3VuYlFvVDUtaVFNMDAwUlNZcXYyZE00TEtzTmNqWlNfci1JeG53ckx3TWh3Q3I1VzVCdTRDY1JWU2Y3bWxoLWh2U1NLSVl5bS14M1I5UW1fbTRqLWQzVGFxSGJrYlJrMFVKNTNRVEEyc1RXaEd6dDVwSXBVUTNfZ3BJd1lYYzZDUUZBVEZnV0tOSjBaTDQxOE9SUXFBcQ?oc=5",
+        "description": "China’s XPeng Extends Loss Streak but Targets Strong 2026 Finish WSJ",
+        "source": "Wall Street Journal",
+        "sourceId": "wsj",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T11:55:00.000Z",
-        "fetchedAt": "2026-11-16T22:33:23.983Z",
+        "publishedAt": "2026-11-16T11:53:00.000Z",
+        "fetchedAt": "2026-11-17T04:48:16.734Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "BigGo Finance",
+        "googleNewsSource": "WSJ",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Cantwell Blasts Commerce Over Nvidia Chip Leaks to China Ahead of Trump-Xi Summit BigGo Finance",
-        "id": "a34"
+        "summary": "China’s XPeng Extends Loss Streak but Targets Strong 2026 Finish WSJ",
+        "id": "a37"
       },
       {
         "title": "EU and UK Export-Control Updates for 2026: What Exporters Need to Know - Global Trade & Sanctions Law",
@@ -874,7 +919,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-16T09:17:48.000Z",
-        "fetchedAt": "2026-11-16T22:33:23.982Z",
+        "fetchedAt": "2026-11-17T04:48:17.869Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Global Trade &amp; Sanctions Law",
         "geopoliticalBypass": true,
@@ -884,37 +929,17 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "EU and UK Export-Control Updates for 2026: What Exporters Need to Know Global Trade & Sanctions Law",
-        "id": "a37"
-      },
-      {
-        "title": "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps - KELO-AM",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWW5Ua081LVZocDlzNDFEaEZGTy1DVlFyQ2lWc1NYZUN3dDZyR1piNks0NnQ4bV9yTER3cG15TllKUFNRZ0kwaTk0bkpEWm9xTk93Z1RzbHptdkVHUGQtNVJUUUdZNE4zNFVtQmFkcmhVWVA2U0ZMdFJDVTBpTWhWME55UmlKQ0lIajBkVU0weUo3VTlnOHY0Q3FjVHlMODVDTVV6U29RU2s?oc=5",
-        "description": "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps KELO-AM",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T09:11:56.000Z",
-        "fetchedAt": "2026-11-16T22:33:23.983Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "KELO-AM",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps KELO-AM",
-        "id": "a38"
+        "id": "a40"
       },
       {
         "title": "Specialist chapter: Chinese courts push SEP disputes into new territory",
-        "url": "https://www.iam-media.com/index.php/review/the-patent-litigation-review/2027/article/specialist-chapter-chinese-courts-push-sep-disputes-new-territory",
+        "url": "https://www.iam-media.com/review/the-patent-litigation-review/2027/article/specialist-chapter-chinese-courts-push-sep-disputes-new-territory",
         "description": "Chinese SEP litigation is becoming increasingly complex, with courts confronting questions that extend beyond conventional infringement and FRAND disputes, including the treatment of patent ambush in standard-setting, jurisdiction over patent pool disputes, divergent approaches to FRAND rate determination and interim licences. Together, these developments offer a snapshot of how China is positioni...",
         "source": "IAM",
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-16T09:00:00.000Z",
-        "fetchedAt": "2026-11-16T22:33:19.269Z",
+        "fetchedAt": "2026-11-17T04:48:14.055Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -923,45 +948,6 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Chinese SEP litigation is becoming increasingly complex, with courts confronting questions that extend beyond conventional infringement and FRAND disputes, including the treatment of patent ambush in standard-setting, jurisdiction over patent pool disputes, divergent approaches to FRAND rate determination and interim licences. Together, these developments offer a snapshot of how China is positioni...",
-        "id": "a39"
-      },
-      {
-        "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
-        "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
-        "description": "The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T08:38:16.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.278Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.",
-        "id": "a40"
-      },
-      {
-        "title": "Pressure mounts on Trump’s cabinet over Nvidia scandal, chip sales to China - SMH.com.au",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllDcDZPNDF5Nkw5ZUtneTNGUXVRQ2hMT2Y4QnplbUttUDZIQlE2SENkYzhOUTZTM2dfQTUxWjc3cnNrSG9BWHhpanZ2bWxRMC1VeldEUnpnbmpOUVlKR2NxZi1URU96V0FwejlIM1RObGhZVVB2WURGY2NRdmw0a0k5MVctcFRWQWo3aV9JbDM2ak5UNkNwSE85WEUwdUlzNE14VHN3ME5VbngxUkN0cGpVRFNzX3E1cVFrYUR4STN2V19haXdSUEhkWlhqTlBQVlFBbA?oc=5",
-        "description": "Pressure mounts on Trump’s cabinet over Nvidia scandal, chip sales to China SMH.com.au",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-16T02:01:46.000Z",
-        "fetchedAt": "2026-11-16T22:33:23.983Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "SMH.com.au",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Pressure mounts on Trump’s cabinet over Nvidia scandal, chip sales to China SMH.com.au",
         "id": "a41"
       },
       {
@@ -972,7 +958,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-14T11:40:02.000Z",
-        "fetchedAt": "2026-11-16T22:33:16.500Z",
+        "fetchedAt": "2026-11-17T04:48:11.424Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -1176,859 +1162,46 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-11-16T22:33:24.012Z",
+    "generatedAt": "2026-11-17T04:48:18.028Z",
     "date": "2026-11-17",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-      "keyTakeaways": []
+      "summary": "One article today covering Geopolitics & Export Controls. SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
+      "keyTakeaways": [
+        {
+          "text": "Geopolitics & Export Controls: SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
+          "articleIds": [
+            "a6"
+          ],
+          "subCategory": "geopolitics-export-controls"
+        }
+      ]
     },
-    "articles": []
-  },
-  "archive-2026-10-17": {
-    "generatedAt": "2026-10-17T14:27:16.390Z",
-    "date": "2026-10-17",
-    "sections": {
-      "core-businesses": {
-        "generatedAt": "2026-10-17T14:27:16.387Z",
-        "date": "2026-10-17",
-        "section": "core-businesses",
-        "sectionTitle": "Core Businesses",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "Mobile Chips: Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last ",
-              "articleIds": [
-                "a1"
-              ],
-              "subCategory": "mobile-chips"
-            },
-            {
-              "text": "Semiconductors: A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor se",
-              "articleIds": [
-                "a17"
-              ],
-              "subCategory": "semiconductors"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon",
-            "url": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
-            "description": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band spectrum to expand the Starlink network, spectrum that’s been traded around the telecom business for decades now. SpaceX’s ambitious plan is to use that spectrum to help build “the world’s most advanced mobile network.” Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. Combined with news that the FCC approved the deployment of 15,000 next-gen Starlink satellites and the company’s previous agreement to purchase close to $20 billion worth of EchoStar spectrum last year, it’s now clear SpaceX is serious about competing with AT&T, Verizon, and T-Mobile. I’ve covered the telecom business for a long time, and I’ve always known that these companies can say they want to do something until they run into the harsh reality of how expensive it is to actually do it. The telecom graveyard of pivots, bad ideas, and failed acquisitions is vast. Walt has been closely monitoring SpaceX’s acquisition, and he’s correctly predicted that the company was headed in this direction for months now. So I wanted to dig into whether SpaceX can pull this off, why Walt thinks the existing telecom giants have really fumbled their response to SpaceX’s growing threat, and what happens when Elon Musk’s rocket company jumps headfirst into a business everyone loves to hate. Okay: LightShed Partners’ Walter Piecyk on SpaceX’s plan to expand into mobile. Here we go. This interview has been lightly edited for length and clarity. Walter Piecyk, you’re a partner and a tech, media, and telecom analyst at LightShed Partners. Welcome to Decoder. Thanks for having me. I’m looking forward to it. I’m excited to talk to you. I feel like we’ve been tweeting or posting around each other for many, many years, but I’m a telecom nerd at heart. I’ve been covering the space for ages. SpaceX is going to make a big splash. It’s going to be the fourth major mobile carrier in the United States and maybe the world. It bought some spectrum to do it. It’s EchoStar spectrum by way of private equity. It is at once very simple and also very complicated. Give us the state of the state. SpaceX bought 800 Mhz spectrum for $8 billion. They spent nearly $20 billion already on separate EchoStar spectrum. What is SpaceX trying to do here? It’s definitely complicated, but maybe less complicated than trying to figure out how to put a data center out in space and making that work. Or something on the moon. But they don’t typically want to own spectrum and spend for spectrum. If you think about how Starlink was built, satellite companies don’t typically pay for spectrum. And then as the business evolved and as they saw the opportunity in telecom, they purchased some spectrum initially from EchoStar. The feedback they got from investors at that time was very positive and they said, “Wait a minute, you should do more here.” This is a trillion-dollar enterprise value business in the US alone. Obviously they have global aspirations both for Starlink as well as what they’re doing with this mobile telephone service. So they bought more. They went back to EchoStar. That’s a key thing to pay attention to, in that they bought some spectrum and then they went back and bought some more. Because with a lot of things that Elon Musk does, he learns as he goes. He bought the spectrum, got feedback, talked to people in telecom, and bought some more spectrum. Then we didn’t hear from them for a while. Now, you have this thing that happened last week where they bought some more spectrum, and I can go through the history of it if you care, but it’s long, wonky telecom stuff. This was originally the Nextel spectrum, if you remember that company. I do. Actually, I do want you to go through the history because I think the telecom business is best understood as a bunch of lobbyists trying to make everything more complicated than it should be. Yes, spectrum auctions are complicated and what spectrum is good for what is deeply tied to the physics of the radio spectrum and all that. But here it’s the 800 MHz spectrum from the Nextel service, the old push-to-talk, walkie-talkie service that Sprint had to divest as part of the deal to get sold to T-Mobile. They’ve been trying to sell it for ages. They sold it to this company, Grain Management. They’ve been sitting on it, and when Starlink showed up, Elon bought it. Nobody else wanted it. What did he see in the spectrum that no one else did? When you realize that you need to build a terrestrial network to support what you’re doing with satellites, because satellites work fine if you’ve got your dish on the top of your house and you’re getting your broadband, but when you’re trying to connect with a phone that doesn’t have the same type of power or you’re going inside a home, you’re going to need better coverage. Sirius Satellite also has supplementary towers. There are not that many of them, but sometimes when you get out of Sirius coverage, you will connect to a tower. When they bought that EchoStar spectrum and then got FCC approval, and if you looked into those details of that FCC approval and what was required, you would see that they can’t do this by satellites alone. There had to be terrestrial. Then SpaceX, as Elon is wont to do, tries to send some diversions like, “We’re going to do Femtocell, we’re not going to do macrocell, this, that, and the other thing.” But they realized that they were going to build a terrestrial network. Now they finally realized, “If I’m going to offer mobile service, I need some form of a terrestrial network.” At the same time, the telcos are not going to help them out. They’re not going to give them a wholesale agreement. Then when they go back and say the companies that had the lowest churn, what is the fundamental value you need in a terrestrial network? It’s low-band spectrum. Why? It travels further, you can get better coverage, and you have that connectivity. So getting this low-band spectrum piece was just an important part, not to make the satellites work better, but to actually give them the spectrum assets that they need to build a terrestrial network. That’s why the stocks reacted, because people finally came to terms with the fact that Elon is actually going to build a terrestrial network. I’m less interested in the stock and more interested in just the cost structure of how this works. If I rewind my brain to being a baby blogger at Engadget 100 years ago, the FCC told all the TV networks they had to stop broadcasting on 700 MHz and we were going to run an auction. Verizon and AT&T bought big chunks of 700 MHz spectrum and that’s what 4G is built on. That’s the low-bandwidth spectrum that you’re talking about. It goes everywhere. This was a big victory that we reallocated 700 MHz, and 800 MHz was sitting right there the whole time. This is the Nextel spectrum. If it is so valuable, why wasn’t there a market for it until Elon showed up just now? It was part of this transaction. T-Mobile ended up having to sell it because the government said, “If we’re going to allow you to take out the fourth competitor, which was Sprint, then in order to enable another fourth competitor out there, we need to have you guys give up some of your low-band spectrum.” Part of the deal that T-Mobile and Sprint had with the government was that they would sell it to EchoStar. Why? Because Charlie Ergen, CEO of Dish at the time — it’s EchoStar now — was going to be the fourth competitor. This was the rationale that they gave in terms of the approval of the transaction. Dish needed low-band spectrum. The problem is Ergen went about his business, he was trying to build a network, and then he just couldn’t afford to buy that. They had the rights to buy. Then at that point when Ergen failed on the bid to come up with the dollars to buy that spectrum, it enabled T-Mobile and actually forced them to put it up for auction. Now, your question: Why didn’t someone else show up then? Again, from SpaceX’s standpoint, as I mentioned at the start of this podcast, their strategy has been evolving over time. In terms of the other telcos, they can’t really use it. There are some limitations that they have. But in hindsight, maybe Verizon or AT&T should have bought this 800 MHz spectrum for whatever it was, let’s call it $8 billion. They’re probably losing more in enterprise value over the concerns of what’s happening with SpaceX than what it cost them just to buy it in what’s known as foreclose. They basically just take it, even if they don’t use it or do whatever they need to meet those build out requirements and stop SpaceX from having unnecessary assets. I don’t think even these companies were taking Elon seriously and thinking that he would actually build the network. Do you think that’s colored by the failure of Dish? We covered the promises of Dish Network to build a fourth wireless carrier in this country so closely. Their attempt was predicated on some amount of technology innovation. They were going to build this thing called an O-RAN network, which had a more competitive supplier base instead of just Nokia or Siemens or whoever, and they were going to run it on AWS and that was going to reduce costs. Man, eventually they supported one Motorola handset in Vegas and even that was backstopped by AT&T. They literally could not do it. These promises never came true. Dish is a different company and Charlie Ergen’s a different CEO and their ability to just throw money at a problem until it’s solved is very different from Elon. But if they couldn’t innovate to make a cheaper, faster network, what’s the evidence that Starlink can stand up an entire terrestrial network at a cost basis that allows them to compete selling service to consumers, while they’re also standing up an entire network in space? Because that feels like adding up a lot of cost. I’m going to go back even deeper than that. Remember when Sprint was struggling, Masayoshi Son from SoftBank was claiming the same thing. They were going to cut their CapEx to nothing and they were going to use these small cells. They innovated how wireless was going to get delivered. That failed. Obviously, they had to get bailed out through the purchase when T-Mobile bought Sprint effectively for just the spectrum. That network got completely decommissioned. To your point, Dish got a network built, but they couldn’t resonate in the market. The difference between Dish and SpaceX is Elon’s ability to get customers. That’s where Dish truly failed. They built the network. The network worked fine. They had the wholesale agreements that they needed. I’ll push back on you a little bit there. I have a very funny email from a Dish PR person from several years ago where they said, “We’d like to issue a correction to your story. Our network does exist.” That was the level that they were competing at, where they had to insist to us that the network was real, even though we could not find it in our tests in the various cities they claim. Maybe there was a network, they built some amount of network, but they had not built anything that competed at the national scale with the big three. Absolutely. It’s not like your phone. The phone that I was using, I had an iPhone that it was mostly going to roam onto the AT&T and T-Mobile wholesale agreements that existed. The theory is you get the customers, you have a go-to-market strategy, and then you backfill the network. This is probably going to be something similar. You can even go back to when John Legere first took over T-Mobile. They had a crappy network, and then Legere promised, “We’re going to build it,” taking on customers saying that the network was great before the network was great. Then it caught up because they actually finally got the Germans, Deutsche Telekom, to give them the money to invest in the network. The same thing can happen here where SpaceX will sell something that’ll probably rely on other assets that are out there, even if the telcos themselves are circling the wagons. They have the satellites for certain benefits in terms of coverage and then they can build the capacity over time. The point is it’s going to take time. You can’t just turn on a network overnight and start selling service on that. This has always been my framework of how to think about telecom companies. You can try to run the network cheaper or you can run some kind of different technology to make that cheaper. Or you can just spend and have the best network, which was the Verizon strategy for years and years and years. Then you’ve got to acquire and manage your customers. That was the T-Mobile strategy. That was John Legere. He was just nicer to people than AT&T was, and he picked up a lot of customers and that drove some investment. Then you’ve got to get some devices. You have to have the iPhone. We can set that aside because it feels like that era of competition is over. We’re not doing exclusive devices anymore. But those are the two. I’m just looking at the network here. It does not seem to me, from the outside, that Starlink is proposing to build a cheaper network. It feels like they’re proposing to build a vastly more expensive network because they need the satellites. They’re going to launch 15,000 more satellites to support this network. Then they’re going to build a terrestrial network by investing in spectrum on the ground and building some set of base stations. Then they’re going to have to convince one of the big three to let them roam over as some sort of mobile virtual network operator (MVNO). The big three do not want to do that. So they’re going to overcharge them for that. I’m just stuck at that being a lot of cost, even if you’re Elon Musk and you can make some set of people buy whatever you’re selling. The third thing you said is obviously the most challenging. That’s the tent and the pole that prevents you from launching services sooner rather than later. But without necessarily getting a wholesale agreement, there might be other ways. Roaming agreements exist out there. There are roaming partners that exist that these telcos still rely on. It’s very expensive. It’s not something you can build a high-margin business on, but it perhaps provides an entry to the market sooner rather than later. As Apple has pitched in terms of satellite connectivity, some people are in the middle of the Utah desert texting because they’re injured. There’s value there. But it’s the soccer field. We have, maybe not in the cities, but in the suburbs, plenty of areas that the telcos have effectively given up on trying to provide coverage because of NIMBY-ism, meaning people just don’t want these cell sites. This satellite coverage can give you not just this basic text messaging that Apple has been doing through the Globalstar constellation, but a true cellphone-type experience. So that’s a positive. The second differentiation is the fact that these telcos have 60 percent earnings before interest, taxes, depreciation, and amortization (EBITDA) margins. So there’s a lot of fat there that can be eaten off of, that when you’re selling other services in terms of Elon, like home broadband, maybe this becomes an entree in terms of pushing Grok and people’s usage. You don’t necessarily need 60 percent margins, in this case, for him to justify building this network. They also talk about other data connectivity that these satellites are going to enable. Again, in the current constellation, you need a lot of power and you need a dish. But if you don’t have that, if you have the cell phone-type power, then the internet of things (IOT) and other types of opportunities that exist there become another revenue opportunity that they look at. It’s just funny. The IOT story — that’s what all these companies promised us about 4G. That’s what they all promised us about 5G. There’s something about this business that just rhymes every time. They’re going to do self-driving cars and robot surgery. I’m confident we’re going to hear about self-driving cars and robot surgery when it comes to Starlink and Tesla and Optimus. There’s something about these applications for next generation networks that just recurs, and we hear about them all the time. Then I think about our consumer audience at The Verge, and they want long battery life and fast service and [connectivity] all the places they go. I’m not sure how that squares with your phone is going to connect directly to a satellite in the middle of a soccer field. There’s something about that that also seems challenging. It’s just the performance if your phone does connect to the satellite on the soccer field and it works. A lot of the things that people said wouldn’t work on Starlink in terms of airplanes or even getting customer-premises equipment (CPE) down below a certain price, they’ve delivered on. Obviously, Elon sometimes delivers on them a little later than some of his initial optimistic promises, but they ultimately get delivered on. There is the ability with these new constellations to give you that type of connectivity on these spaces. Is that enough to differentiate with consumers? I don’t know. The telcos have attacked this by saying, “No one cares about our direct-to-device (D2D) services.” Well, your D2D services are not good. It’s just sending basic text messages. What they’re talking about is giving you that blanket coverage where you get what you expect from your cell phone wherever you go. That’s fine, but you still have to give it to the person in the middle of the building where their cell phone works today and provide the volume at a cost that is going to be attractive to that consumer. So those are longer-term things that are going to require some amount of terrestrial network build. Then the question is: how much? A lot of the attacks that have been out there have been referencing $100 billion, $200 billion. I get that. Why? Telcos each spend $10 billion to $15 billion a year, but they are maintaining massive customer bases. To get that initial network up where you have that usage, where you use that low-band spectrum to get into buildings, is not those types of numbers. You’re probably talking like $10 billion, $15 billion for that initial build in terms of CapEx. The dynamic there is really interesting. I’m just thinking about AT&T when the iPhone came out. The network immediately got overloaded because there was a surge of customer demand that took four years to truly resolve. Part of that resolution was just putting the iPhone on the other carriers. How do you think that will play out for Starlink here? Because right now, Starlink customer service is not the best in the industry. Their actual service, people love it. And then when they need customer service, it’s a bunch of automated systems and people complaining on Reddit. So there’s some challenge there if you’re running a consumer business at this scale. For consumer businesses, think about all the advertising that’s done. The fulfillment, dealing with the phones, phone subsidies, and that’s a big part of the financing. How many customers are we talking about? So for the amount of spectrum that they have now in the network that I’m talking about for $10–$15 billion, you’re not taking 50 percent share overnight. I don’t think that would be that expectation from day one. But then the theory of telco is that when you do that initial CapEx build, you have your initial spectrum purchases — $10, $20, maybe $30 billion — another $10 or 15 billion in terms of CapEx. If you are successful and you do get that five or 10 million customers, the opportunity to invest more happens. If you go back to the old days when the cable view of wireless was going to be, “We’re going to get these MVNOs. We’re going to drive the wireless companies into the dirt and then we’re just going to buy them.” That happened in at least one European market, and that was the cable bull thesis that was occurring. You could have the same bull thesis emerge from the SpaceX bulls here where they’re going to say, “We’ll get those first five or 10 million customers. We’ll drive them into the ground. Verizon’s going to be so desperate for any type of revenue because their revenue declined. They’re just going to hand them a wholesale deal and then they’ll start selling spectrum. There’s going to be a spectrum auction with the FCC.” You can see how the narrative can build based on, “An initial CapEx that’s not that big, get in the market, and then if it’s successful, we start investing more.” Let’s talk about the terrestrial network for one more turn. I heard you throw a little water on the idea that they’re going to build femtocells. That is what Elon and Gwynne Shotwell have been saying — that they don’t need to build the traditional kind of terrestrial network that AT&T and Verizon and T-Mobile have, where you have a lot of fiber back haul, the big sites that require all kinds of zoning permits and everything. That they can basically just put small cell stations next to Starlink dishes, put them anywhere they want, and blanket the world with them. And Starlink itself will be the backhaul. I sense some problems with this. Starlink is not 100 percent reliable all the time. If you have a network that is not 100 percent reliable all the time, you’ve got some problems, so maybe you have to backstop it somehow. But you don’t think that’s what they’re doing. You think they’re going to build a regular terrestrial network. I’m sure that’ll be a part of it, but you need macro towers for that type of coverage and penetration and power. Not to explain physics to SpaceX, they probably know it better than anybody, but what you’ll see is as they talk more about this low-band spectrum that they purchase, when we get on the conference calls of these tower companies, you’re going to find out that you’re going to see a lot of those antennas show up on towers. It’s just natural. You can talk about femtocells, but it’s hard to see that the network’s going to get built without macro towers. One of the weirder aspects of the telecom industry, as it’s constituted in the United States right now, is that cell carriers own some of their towers and operate some of their towers. And then there are these crazy third parties that literally have names like TowerCo that operate a bunch of the other towers. Are those captured? Do you think SpaceX can get deals with those companies, or are they beholden to their big partners? These are huge real estate investment trusts (REITs). American Tower is the biggest one. It’s probably one of the largest companies in this. When you consider any REITs, there are other companies out there. They have these towers. They have space in many cases where basically SpaceX can just go and get an additional antenna. It’s a lot easier to do that now than when the wireless companies were initially building this stuff and having to erect their own towers. In addition, EchoStar is going through a bankruptcy. They have a lot of radios that could be used, that could be bought on the cheap, that could expedite SpaceX’s entrance in the market. They haven’t shown interest in that yet. The EchoStar bankruptcy process hasn’t yet concluded, but EchoStar can still be a potential partner here by selling them radios that are already on towers. You’ve lifted the amount of time. Those radios use the spectrum that SpaceX is purchasing, so it can be a quick fix for them to enter the market. Who knows if they do that? They may have their own view like Masayoshi Son did on how to build this new cheap network. Is there a way to read this as just they’re slowly buying EchoStar or whatever EchoStar tried to do? EchoStar has some remaining spectrum that Verizon really needs. At this point, there is some strategic sense to just buy EchoStar outright — because EchoStar is getting stock that was issued to them at a discount. If you’re buying them, you’re effectively buying in your own stock. You don’t have to issue the cash to the company and you’re getting whatever cash proceeds that EchoStar is getting from some of its spectrum sales. They can actually get incremental cash on the balance sheet and buy their stock in. We’ll see if that plays out. By the way, then you don’t have to also deal with Dish, which sometimes can be challenging. T-Mobile’s in the mix here. I want to talk about Verizon, you’ve mentioned them several times, but T-Mobile is Starlink’s current partner for direct-to-device cell connectivity. Are they just getting rocked? Are they going to be a part of this? How’s that going to work? If you think about the start of that, that was former T-Mobile CEO Mike Sievert up on stage with Elon announcing this thing and everyone’s very happy. Then Deutsche Telekom decided it needed a different CEO at some point. You had that transition where Mike retired and you brought in a new CEO, and there might just be a different view on how that relationship works. I’m guessing that it’s been very frustrating for SpaceX to deal with them and certainly they would probably want to avoid any exclusivities going forward. They may need to if they want to sign one of these wholesale agreements that we talked about before. It just seems like, as you mentioned, SpaceX and Starlink went after a little bit of the consumer market here. They bought some spectrum. They got a good reaction to it. Now they’re going to go after the whole thing and their existing telecom partner is thrown by the wayside. If you look at the three big telecoms in the United States, they are circling the wagons. They’re saying this is never going to work. They’re never going to sign the MVNO agreements. They’re putting together their own satellite pool. There’s something here where they are panicked by the existence of meaningful competition in a way that does not usually happen in telecom. Yeah, I agree with that. I don’t know if it’s SpaceX leaving them or T-Mobile leaving SpaceX, but that relationship which started out so happy with the old CEO is certainly not positive. T-Mobile executives have been throwing shade at SpaceX incessantly over the past couple of months. They formed a joint venture (JV) together. It reminds me of when fixed wireless first hit the cable market and Chris Winfrey talked about it derisively as “cell phone internet” and played it down. Ultimately, that’s what’s really bit them and why cable stocks are in the position they’re in today, given the amount of customers that they’re losing to cell phone internet. There are some similarities now in terms of how these executives are downplaying what they can do. Is it going to be costly? Is it going to be complex? Sure. But so is Terafab and so are so many other things. So is making an autonomous vehicle or catching a rocket with chopsticks. That’s the reality that they have to deal with. Investors have seen what this management team has done before in other areas and are just applying it here. Whether that’s fair or not, time will tell. I’m actually very curious about that because I know you cover the company and I know you cover the industry. There’s some part of SpaceX that is just a meme stock. People love Elon. There’s some part of Tesla where it’s not valued like a car company, it’s valued like a software company, even though it is very much a car company. We’ve yet to see where the software multiples might come from for Tesla. The same is true of SpaceX: huge IPO, but people are buying the physics miracle of the rockets launching and landing. They’re buying the promise of Mars. They’re buying the promise of AI, whatever that promise is, however frothy that market is. Those are valued against hopes and dreams. Telecom is not. It’s well known. You can be a telecom analyst and you can examine the value of the spectrum. You understand the build-outs. The customers are not confusing. Consumers are going to pay some amount of money. There are other competitors that are built in at scale. Why do you think SpaceX would chain itself to a business that is easy to value when all of its other businesses are their dreams? You can’t value dreams. It’s just whatever is the biggest number. I don’t think it’s an either-or. When you look at people’s attempts to justify the valuation of SpaceX, a lot of that value is going to land on data centers in space and the data centers on the ground. That’s where a lot of the value is in Starlink. But that’s not the launch business, which theoretically is their business. It’s not even the AI provision business. We’re describing them as a hyperscaler. Yeah, exactly. The AI and those are other big chunks of it. There are a lot of different stories here, but it doesn’t mean that they don’t pursue this if they have connectivity and constellations. They’re talking about connectivity in space because they believe that there’s going to be a demand for connectivity between the data centers, whether it’s theirs or others and their constellations. There are already data centers that I think are using their constellation to connect. When they looked at it, it was just another part of the narrative that you build in terms of SpaceX and justifying the valuation. Because what do all of these things need? Whether it’s robotaxis, whether it’s data centers in space, they need money and money needs a narrative. This is just another one of the narratives to stack on top to say, “Here’s how we can drive incremental value.” The value, if you look at the enterprise values of these telcos in the United States, you’re talking about a trillion dollars. That’s a trillion dollars of enterprise value. They’re obviously not going to capture a trillion dollars because part of it is shrinking the telcos down at the same time as getting whatever that stake is and the CapEx related to it. The fair question is, if capital gets more scarce, how do you allocate between these different things? Don’t you want to push Terafab forward a little bit more or get those terrestrial data centers built so that you can start monetizing the billions of dollars that you’re getting there versus diverting whatever the dollars are here for the telco? That is a reasonable thing. The problem for the telcos is even if that’s happening at SpaceX and this gets delayed a year, that doesn’t help them. The overhang of when that’s going to occur — whether that’s a year, two years, three years — is always going to be there. They’re not going to say, “We’re just giving up on going after this.” It’s just going to be a capital allocation issue in the near term that’s going to delay when the actual impact hits the telcos in the United States. How much of this is just that Elon needs to supply connectivity to his own cars and his own factories and his own robots and he’ll just be his own best customer? I don’t think that’s it. They think they really want to build a revenue business out of it. In fact, they’re going to use the cars as hotspots where they’ll put Starlinks on there and then use them as distribution points. That’s going to be part of the play. I do want to end by talking about the existing telcos and what competition might do to them because I think that’s a fascinating dynamic. They are clearly not ready for an actual aggressive competitor. But I want to stick with what you just said for a minute. If I pull that apart, it sounds like what you’re describing is the reality of the SpaceX business, which is that Starlink is the thing that makes profits. Everything else is incinerating money, but investors seem happy with that because the potential payoffs might be huge. If you take the Starlink profits, you have to make a decision about whether to reinvest them into Starlink, and now Starlink’s mobile business, or into AI or into the launch business or into going to Mars. Regardless of how that allocation happens on what timeline, at some point, enough money will go back into Starlink Mobile to pose a real threat to AT&T, Verizon, and T-Mobile, and that is just a matter of time. You nailed it, and that is the issue. Capital becomes the biggest benefactor right now to the telecom companies. How does that capital get allocated? That’s in terms of reportive results. They’re 100 percent right on that. But in terms of the stocks, that concern is not going to go away because there will be incremental data points. Maybe one of these telcos has a problematic quarter or two. These are not founder CEOs where they have to do something quickly. It’s easy to get a lot of wholesale revenue on the books by doing a deal with SpaceX. These are the types of things that they’re going to have to deal with in terms of that long-term risk. Cable’s got this. Look at Uber. Uber’s got the same issue. The threat of Waymo and robotaxis is what keeps that stock where it is. Waymo with their 3,000 or 4,000 cars are obviously not impacting the two million drivers that Uber has in the United States. But the threat of where Waymo’s going to be two years from now, or three years from now, or the threat from Tesla’s robotaxis… that’s what investors care about and that’s going to obviously impact these companies. Put that in the context of SpaceX being a public company for me. Is it just that we’re going to get next quarter’s results of SpaceX and we’re going to see that xAI is still burning money at enormous rates, but Starlink Mobile made a little bit more money? And that’s going to keep everybody happy for a minute? I don’t know. I don’t think we have enough history yet in terms of what moves SpaceX stocks one way or another. To your point, you have a lot of believers, regardless of what’s printed, who are always going to say, “Who cares about this quarter?” Tesla’s got the same issue. Who cares how many cars that they actually sell because it’s all about the robotaxis and the robotaxi business is about to start scaling. Those very positive people won’t care. Then there are going to be the negative people who, no matter how much traction you see them get in, whether it’s Starlink or progress on the build of space compute, are going to say, “He’s never going to deliver. This is never going to happen.” You’re just going to have those fighting battles back and forth. The primary issue is going to be whether they can raise capital off of that. And in what ways? Because if you’re burning cash, at some point you need to bring in cash. If these businesses aren’t generating enough cash because you’re consuming it with the other growth initiatives, you still have to figure out ways to continue to issue cash or issue stock to get more cash on the balance sheet. If I was going to offer that most cynical read, I would say the only business where they can see expanding the service will result in more profits to offset their losses elsewhere is Starlink. They don’t have another business that looks like that. Just to be clear, Starlink is the broadband business that’s generating the cash flow. This mobile business would be cash negative initially before you get into that positive cash position. You have to look at the robotaxi business, there’s going to be a lot of CapEx initially, but these cars are pretty cheap. That theoretically could be a cash generator. But that’s a different company. But we know that, just like I mentioned earlier, it could make buying EchoStar make sense because you’re buying effectively cash in your own stock on the cheap. There are different ways to put cash obviously on the balance sheet in $10 or $20 billion chunks. Obviously the structure of these companies — they’re all Elon’s companies in the end, and he’s managed them as closely as anyone can manage big public companies. But to make it as dumb as possible, say you have a dollar and if Gwynne Shotwell has a dollar and she wants to light the dollar on fire, she’ll put it in xAI against some return somewhere that might be $50 trillion total addressable market (TAM) or whatever their prospectus said. Or you could put the dollar into Starlink Mobile in the build-out and you will probably return $1.10. That is what that business looks like because they will get some customers away from AT&T and Verizon. They’re already running that thing profitably. The idea that they need to show some return somewhere, it feels like that’s why they’re making this move. Not because it makes the most financial sense, it just makes the most financial sense in the context of SpaceX. You may be right. The problem with that belief is that it’s going to take time for them to get that dollar of profit out of the mobile business. They still have to build the network. They still have to sign up customers. You’re going to be negative EBITDA for a while. If you have two different businesses and you think the returns are significantly higher or more interesting to your investors to get to that next catalyst for space compute or Optimus or whatever it is, that is going to play a role. What does Elon happen to care about the most at that moment? What is more interesting to him to do? Isn’t space compute a little bit more interesting to allocate those dollars than taking some mobile customers from AT&T? Although the man’s addicted to his phone and I bet he hates seeing that AT&T logo in the corner. There’s just a part of that that’s always with these guys. Let’s talk about the existing telecoms. They do seem a bit panicked. For a time, they were juggernauts. These were unstoppable businesses as mobile was growing. They poured a bunch of money into the 5G transition. I’ve described the telecom industry as a bunch of lobbyists. Boy, did the lobbyists win the 5G transition. Boy, did they collect all the favors and all the capital they could to build out these networks and then reality hit them in the face. We beat China to some kind of network and then the thing that we were supposed to win did not happen. Now we’re doing it again with AI, but that’s a different conversation. But that was the narrative with 5G: If we didn’t beat China to 5G, something. Who knows what, but we got to cut all the corners to build this network and spend all the money. It just didn’t pay off. You’re an analyst, you’re in the trades. I skim the trades and boy are all these CEOs saying, “We’ve got to generate some revenue with these networks now.” You mentioned Mike Sievert is gone, the old CEO of Verizon’s gone. It just didn’t pay off for these guys. Yeah, 5G didn’t deliver. Some of the promises were BS from the beginning. You talked about this earlier regarding autonomous cars. You’re not going to rely on the network to make that millimeter-second decision of whether you’re going to hit the car in front of you or not. Remote surgery, even if that was a thing, how is that a scalable business where you’re generating hundreds of billions of dollars of revenue? These were all silly. Sievert used to be the guy saying, “People would say the same thing about LTE, there’s no application.” That was not even true. If you remember, the application was video and we knew that LTE was going to enable video and that’s exactly what happened. You’re 100 percent right. This was just a way for them to get more spectrum because they were going to still have data growth on their networks. Capturing more spectrum to be able to handle the existing growth, and that’s cheaper to get spectrum, even at tens of billions of dollars, than it is to try and build the network for that capacity. If they had just said, “We’re going to spend all this money and at the end of it, tens of thousands of people will be able to livestream Taylor Swift during the Eras tour on every one of those stops,” Americans would have said, “Go, go faster. Yes, we understand what that is.” That is truly the thing they enabled. It’s very cool. It’s millimeter wave in stadiums and that’s cool. I don’t know if there’s another one. That said, they are on their back foot. They did spend a lot of money. This is around the time when, in my history as a journalist, they would start talking about 6G, and they want to, but they know they shouldn’t, so they don’t. They’re having the meetings. They are certainly not as loud about the next round of investment as they would normally be in the cycle. Now they have a competitor. Your analysis is that Verizon is by far the weakest here. They have the most to lose. Explain why that is. One other thing to mention is you have a very active FCC chair that would like to raise, and put on his resume, $100 billion from spectrum auction. You’re right, they’re going to talk about 6G again and have to come up with some type of revenue stream to justify getting this money. It’s going to be a lot harder though. They’re already pretty levered. They’ve got a new competitor. In terms of Verizon, the issue is that AT&T has seen this thing developing for some time. They’ve built a fiber network. There’s only so much that wireless can do where a fiber network is ultimately your best connection. If you think about customers that own fiber and wireless, very high-value, very low-churn customers. That’s been their strategy. They’re plodding along. They’re going to get their two or three percent revenue growth and just pay their dividend and do their thing. That is the standard telco. T-Mobile didn’t have that. They’ve got the dynamics — a lot of politics right now between Deutsche Telekom wanting to own it and not wanting to pay a high price and how that all plays out. Verizon just made a lot of bad strategic bets on spectrum. Obviously, AT&T had their own issues, but at least they got out of DirecTV and Warner quick enough and turned the ship. But Verizon bought millimeter wave spectrum when they could have bought EchoStar and bought spectrum… even now they’re spectrum-constrained compared to their competitors and they need to go out and spend $10–$15 billion on the EchoStar spectrum. You have a new CEO in there who is not really a telco guy who’s just doing his thing, saying, “We’re just going to cut costs.” The EBITDA is going to look good because they’re just firing a bunch of people and there’s going to be a result. There is going to be an impact of firing that many people in the organization. It may appease investors to make the EBITDA look good for the next couple of quarters. But at some point you have to show and have a strategy for some type of revenue growth. What is Verizon’s differentiation in the market right now? They have none. They’re the most in the crosshairs of where SpaceX and even the cable companies can continue to eat away at those customers. That is surprising to me. It’s just my own history. I grew up in the midwest. I went to college in the midwest. That was Cingular territory and it became AT&T. When I moved to New York in 2010, Verizon was the gold standard network in the Northeast. It was the one everyone had. It cost the most money because it was the best network. The iPhone coming to Verizon a couple of years later was a huge deal. Verizon’s network was so powerful at that time that they could try to force the Blackberry Storm down people’s throats. They were confident enough that their network was the thing holding people to them, that that was a worthwhile strategy. Obviously, it didn’t work. They made the wrong bet. You’re saying they made the wrong bet on millimeter wave. They made the wrong bet on other spectrum acquisitions. The one that I’m not quite tracking is media. They did buy a bunch of dumb stuff. At one point they owned Tumblr, which is just one of the most confusing media outcomes of all time. But that stuff was all cheaper and easier for them to flip or shut down than AT&T buying all of Time Warner and putting out a 4:3 black-and-white Justice League movie. How did AT&T survive that? But you’re saying Verizon can’t survive owning Yahoo? That’s a fair pushback, in that the media impact to Verizon was a lot less than AT&T. But these again were separate businesses. Obviously, it was a capital allocation issue for a period of years. But the decisions on the spectrum front and the competitive front, and T-Mobile’s impact, John Legere’s impact in taking away the claim of having the best network, left them in a spot where they basically said, “We’ll just keep increasing price on our customers and we’ll get that 2 or 3 percent revenue growth.” And they just lost the narrative of what they meant to customers. I don’t really think under the new CEO that’s been regained. Do you think their ability to say they have the best network is just gone? That’s completely gone. That’s the crazy thing about this. The networks are effectively commoditized. These networks are basically the same. And they’re getting 60 percent margins. That’s the whole thing with Dish Wireless — even if it wasn’t on their network and you guys tested it, it wasn’t on their network, you could have been buying AT&T’s network at half price. It’s crazy the average revenue per user (ARPU) and the margins that these guys get for what is effectively a commoditized market. That’s why the AT&T strategy is interesting because at least they’re trying to bundle that with a high-value fiber network. But for the other guys, it’s just commoditized wireless. I would actually say the other strategic mistake Verizon made along the way was they got away from Fios. They decided it wasn’t worthwhile. It seems like they’re trying to reinvest in that now and go after that AT&T strategy. Given their lack of spectrum, they can only take fixed wireless so far. You’re right. I wouldn’t be surprised if they got back to investing in fiber. The difference, obviously, with Fios is that you have union issues and a lot of cost structure issues that they were dealing with. But the pivot to doing more fiber and perhaps laying off the fixed wireless, which is straining the network, is probably the right decision for them and what you’ll see happen going forward. I want to end on just a big picture question here. We have covered so many crazy telecom mergers and it always feels like the right answer is to put more competition in the system. We’ve mentioned John Legere several times in this conversation. He only got that job and T-Mobile only got to exist the way it does because AT&T was prevented from buying T-Mobile. They paid a breakup fee, which subsidized a huge portion of that early growth and those early strategic moves that Legere was able to make. But that was good for the market. Consumers got a CEO who tried to change the market and have better customer experiences, reinvested that money in the network. That was good. The existence of Dish Network is T-Mobile trying to buy Sprint and instead of blocking the deal, we imposed some wild structural remedies and Makan Delrahim, who ran antitrust in the first Trump administration, rightly or wrongly engineered the outcome of Dish Network existing. That was Delrahim’s preferred outcome: “We’re going to let this happen, but we need to have four carriers. Charlie Ergen is my guy. We were going to stand up a fourth one.” From my perspective, it just seemed obvious that he was never going to do that. And he didn’t. Maybe I was correct to make that bet, but it just seemed obvious that Dish Network was going to hold onto a bunch of spectrum, watch the prices rise and then flip it when it turned out they never built their network. They had to hit targets with the FCC that they just weren’t hitting over time. Now, we have a true fourth competitor, or at least an aggressive competitor of the market in Elon, who’s probably going to try to actually do this thing and these companies are running scared. Is this just evidence that we should have four carriers in the United States? And that when inevitably Verizon tries to buy T-Mobile, we should just say, no, the right answer is four and we’re not going to go to three again. Under Chairman Wheeler, which goes way back, four was the number. Wheels and I were buds. If you called him now, he’d say, “I told you it should have been four and it’s going to go back there.” Obviously, in the new administration, they didn’t believe that that was the case. You see Chairman Carr pointing to prices, how he sees them being down and the competition that’s happened in fixed wireless. But you always want more competition in a market. It drives innovation and it lowers prices and margins are approaching 60 percent in the wireless business. I can’t say we’ve had a tremendous amount of innovation, which gets back to what the telcos are doing in fear by refusing to give SpaceX a wholesale agreement. That’s their right. But at some point, if the FCC’s mandate is to act in the public interest, we have a current administration — and who knows who gets in during the next administration — but if these telcos are going to push back so hard on what the fourth competitor, in this case SpaceX, is going to do, the FCC can probably get involved in some ways. That is the risk that they run by being so vocally against Elon Musk in the market. You talk about the ultimate consolidation. It’s funny. We should save all these quotes now where they’re saying, “Elon can’t be a competitor because he only has 80 MHz of spectrum.” Because then when they want to merge with someone, they’re going to claim, “No, he’s actually a competitor.” They’re going to deny that as a competitive threat. There’s nothing funnier than a giant telecom insisting that a thing that is not a competitor is their competitor. They all do it. Last question. Again, this is just the big think rattling around my head. We might be on a cusp of an entire paradigm shift in what mobile devices even are. If you look at Meta, they’re going to put up the Muse charm and maybe we’re all going to talk to little cartoon AIs all day that run agents in a data center. Our use of mobile bandwidth to watch video will go down because we’re not even carrying phones anymore. Is that a risk here? Is anybody thinking about this? We think about this every day at LightShed, in terms of all the different ways that AI [exists] and how we interact with our information and how we interact with commerce and using agents. Muse has obviously been something we’ve been waiting for from someone and there’s going to be other versions of that. But you’re right. It could decrease [phone usage], and it’s an Apple risk. It decreases the importance of the status of holding an iPhone if you’re just not interacting with your data in the same way. If that happens, that whole paradigm in terms of the telcos and providing the subsidies changes. Whenever there’s change, there’s an opportunity for disruption and for margins to be contracted. It does change things and maybe SpaceX could play. Elon’s been asked about making a device. I know Qualcomm, when you meet with those guys, says, “We have 40 different guys out there making devices.” I don’t think he’s going to add one more thing to his list, but again, let’s get back to what we’ve talked about during this podcast and narrative. Will Terafab happen? Will data centers in space happen? It may not happen, but you can maybe talk about building a phone and then that becomes one more issue that the telcos have to deal with in terms of dealing with their customers. Why am I using this iPhone when I should be using this completely different device, whether it’s coming from OpenAI or Anthropic or maybe SpaceX? The idea of Elon shipping a mid-range Android phone with the Play Store on it is so deeply funny to me. I truly hope it happens because that’s the product you can make today. Maybe there’s a paradigm shift and there’s a different set of products. But right now you need to have Instagram and there’s really only one path to getting Instagram, which is shipping an Android phone with the Play Store on it. We just saw Amazon essentially capitulate with their new tablets. If you’re focused on the future, you have to concede to the present. I truly do not believe we will see a mid-range Android phone from SpaceX. But you’re saying they might start talking about it. No, I agree with you. I’m just saying when you’re trying to build narratives, why not throw that in the hopper? The bigger issue is someone’s going to build something that may resonate with… We’ve gone a long time. We’re spending $1,000 for these phones that are giving us some basic swipe functionality. They’re going to change in terms of how you use them. This is a bigger and more obvious issue for Apple than anybody else, but it does change how the telcos are going to act and the role that they’re going to play and where that margin should be. They gave up a lot of value to Apple at some point during this continuum of the wireless industry. We’re going through another paradigm change, so we’ll see how those value splits play out. Walter, we’re going to have to have you back soon because it feels like these things are going to happen fast. I was very happy to nerd out about telecom with you. Thanks for being on Decoder. I appreciate it. Thank you. Questions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-10-17T14:00:00.000Z",
-            "fetchedAt": "2026-10-17T14:27:10.922Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [
-              "o-ran",
-              "oem",
-              "platform-partner"
-            ],
-            "summary": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band spectrum to expand the Starlink network, spectrum that’s been traded around the telecom business for decades now. SpaceX’s ambitious plan is to use that spectrum to help build “the world’s most advanced mobile network.” Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. You can sign up here. Combined with news that the FCC approved the deployment of 15,000 next-gen Starlink satellites and the company’s previous agreement to purchase close to $20 billion worth of EchoStar spectrum last year, it’s now clear SpaceX is serious about competing with AT&T, Verizon, and T-Mobile.",
-            "id": "a1"
-          },
-          {
-            "title": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips",
-            "url": "https://247wallst.com/investing/2026/10/16/arm-and-amd-fall-5-as-qualcomm-verdict-adds-to-chip-selloff-taiwan-semiconductor-slips/?.tsrc=rss",
-            "description": "A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor sector may only be getting started.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-16T18:10:37.000Z",
-            "fetchedAt": "2026-10-17T14:27:05.411Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor sector may only be getting started.",
-            "id": "a17"
-          },
-          {
-            "title": "Intel vs. Qualcomm: Which Tech Stock Is a Better Buy in 2026?",
-            "url": "https://www.fool.com/coverage/better-buy/2026/10/15/intel-vs-qualcomm-which-tech-stock-is-a-better-buy-in-2026/?.tsrc=rss",
-            "description": "Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-15T12:57:01.000Z",
-            "fetchedAt": "2026-10-17T14:27:05.411Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
-            "id": "a29"
-          }
-        ]
-      },
-      "ip-legal": {
-        "generatedAt": "2026-10-17T14:27:16.387Z",
-        "date": "2026-10-17",
-        "section": "ip-legal",
-        "sectionTitle": "IP & Legal",
-        "briefing": {
-          "summary": "One article today covering FRAND & Licensing. Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to conso",
-          "keyTakeaways": [
-            {
-              "text": "FRAND & Licensing: Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to consolidate both contracts into one.",
-              "articleIds": [
-                "a24"
-              ],
-              "subCategory": "frand-licensing"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Qualcomm, Transsion sign license deal through end  of 2031: 4G, 5G devices now all covered by single contract",
-            "url": "https://ipfray.com/qualcomm-transsion-sign-license-deal-through-end-of-2031-4g-5g-devices-now-all-covered-by-single-contract/",
-            "description": "Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to consolidate both contracts into one.",
-            "source": "IP Fray",
-            "sourceId": "ip-fray",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-16T07:07:30.000Z",
-            "fetchedAt": "2026-10-17T14:27:14.738Z",
-            "fetchStrategy": "rss",
-            "section": "ip-legal",
-            "subCategory": "frand-licensing",
-            "subLabel": "FRAND & Licensing",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to consolidate both contracts into one.",
-            "id": "a24"
-          }
-        ]
-      },
-      "growth-areas": {
-        "generatedAt": "2026-10-17T14:27:16.387Z",
-        "date": "2026-10-17",
-        "section": "growth-areas",
-        "sectionTitle": "Growth Areas",
-        "briefing": {
-          "summary": "One article today covering On-Device AI / Edge AI. Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Q",
-          "keyTakeaways": [
-            {
-              "text": "On-Device AI / Edge AI: Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next gener",
-              "articleIds": [
-                "a26"
-              ],
-              "subCategory": "on-device-ai"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Qualcomm (QCOM) Unveils First AI Native Wi Fi 8 Gateway For Home Broadband",
-            "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-unveils-first-ai-202313896.html?.tsrc=rss",
-            "description": "Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next generation Wi Fi 8 connectivity with on device edge AI compute. The product targets residential broadband providers looking to add agentic AI services directly in the home rather than relying only on cloud compute. The launch of this AI powered Wi Fi 8 gateway marks a push by Qualcomm to expand into...",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-15T20:23:13.000Z",
-            "fetchedAt": "2026-10-17T14:27:05.411Z",
-            "fetchStrategy": "rss",
-            "section": "growth-areas",
-            "subCategory": "on-device-ai",
-            "subLabel": "On-Device AI / Edge AI",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next generation Wi Fi 8 connectivity with on device edge AI compute. The product targets residential broadband providers looking to add agentic AI services directly in the home rather than relying only on cloud compute. The launch of this AI powered Wi Fi 8 gateway marks a push by Qualcomm to expand into...",
-            "id": "a26"
-          }
-        ]
-      },
-      "macro-environment": {
-        "generatedAt": "2026-10-17T14:27:16.387Z",
-        "date": "2026-10-17",
+    "articles": [
+      {
+        "title": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors - Semiconductor Industry Association | SIA",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc0o2bjRXc1pGTFYxZS1KcHl0ZWhPcDA1am9mM0dtWGRfM05WckhvRDFKQ1hjZTRRZEhpM0x0QXJHSk1rOF9WY25LS0gtVDBhU1pfdElJX18xZ1RkZmVYNThEWk1MUnRqVWlEbVpRZlpTcXIxd1NWT0lvbmI2SC1NbVBrTUZzV1FIVm5nMWFrNXhMVElnakFUemhRbW5FdVFnNTQtRENTNFhxRVhCa2k5THNIckZBUkU2V0UtNThBWEZWQQ?oc=5",
+        "description": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-17T01:51:24.000Z",
+        "fetchedAt": "2026-11-17T04:48:17.869Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Semiconductor Industry Association | SIA",
+        "geopoliticalBypass": true,
         "section": "macro-environment",
-        "sectionTitle": "Macro",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (25 articles), Supply Chain (3 articles). A total of 28 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "Geopolitics & Export Controls: President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
-              "articleIds": [
-                "a2"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            },
-            {
-              "text": "Supply Chain: Factories built to supply America’s electric-vehicle boom are getting a second life making batteries for the power grid. As EV demand weakens and electricity demand from data centers and new factories",
-              "articleIds": [
-                "a5"
-              ],
-              "subCategory": "supply-chain"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
-            "url": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1",
-            "description": "President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
-            "source": "Financial Times",
-            "sourceId": "ft",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-17T12:53:53.000Z",
-            "fetchedAt": "2026-10-17T14:27:06.290Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
-            "id": "a2"
-          },
-          {
-            "title": "Zelenskyy Says Starlink Restrictions on Ukraine Look Deliberate",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-17/zelenskyy-says-starlink-restrictions-on-ukraine-look-deliberate",
-            "description": "Restrictions on Ukraine’s military use of SpaceX’s Starlink system appear to be deliberate and not the result of any technical problems, President Volodymyr Zelenskyy said on Saturday.",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-17T12:47:37.000Z",
-            "fetchedAt": "2026-10-17T14:27:10.854Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Restrictions on Ukraine’s military use of SpaceX’s Starlink system appear to be deliberate and not the result of any technical problems, President Volodymyr Zelenskyy said on Saturday.",
-            "id": "a3"
-          },
-          {
-            "title": "Smuggling Nvidia Chips Into China Is About to Become a Crime in Taiwan - 24/7 Wall St.",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1pHcU9SeHNnbmpjQlpzVXVDNmNEUTJlTllEdkoySjBFWmJYMEs3ZENORlBpMVpISFBJRFpvZnUzRlhUWUVtLWNJc1gxOWJKRXFsVGExR0xZdjM1X0lHOFdUQTN5T0tuNEZmOHlNWk1TNkk4c3BkRjJZMEFXV1ltNW5lZ2lCX3B2Q0ctWEo2aVd5RVdzYXFZdVV3TXNKQ0J4QU0zc1FrRXd5dktfYVJIR0J5SVk?oc=5",
-            "description": "Smuggling Nvidia Chips Into China Is About to Become a Crime in Taiwan 24/7 Wall St.",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-17T12:20:00.000Z",
-            "fetchedAt": "2026-10-17T14:27:16.345Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "24/7 Wall St.",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Smuggling Nvidia Chips Into China Is About to Become a Crime in Taiwan 24/7 Wall St.",
-            "id": "a4"
-          },
-          {
-            "title": "The EV Bust Creating a New Battery Boom",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-17/the-ev-bust-creating-a-new-battery-boom-video",
-            "description": "Factories built to supply America’s electric-vehicle boom are getting a second life making batteries for the power grid. As EV demand weakens and electricity demand from data centers and new factories strengthens, battery makers are shifting toward stationary storage, but the new market still relies on federal incentives and a supply chain that remains partly dependent on China. The shift is visible at TransGrid’s Atlas projects in Arizona, where the contractor Qcells is using LG Energy Solution’s US-made battery cells. (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-17T12:03:32.000Z",
-            "fetchedAt": "2026-10-17T14:27:10.854Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "supply-chain",
-            "subLabel": "Supply Chain",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Factories built to supply America’s electric-vehicle boom are getting a second life making batteries for the power grid. As EV demand weakens and electricity demand from data centers and new factories strengthens, battery makers are shifting toward stationary storage, but the new market still relies on federal incentives and a supply chain that remains partly dependent on China. The shift is visible at TransGrid’s Atlas projects in Arizona, where the contractor Qcells is using LG Energy Solution’s US-made battery cells.",
-            "id": "a5"
-          },
-          {
-            "title": "What will China’s proposed AI tech export bans mean for open-weight technologies? - South China Morning Post",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbXBIUWJVblVDTjRuV2xFYlJPd3E1bE5jdlVENVd1ek9CQjBleGJCTkItcERIT296NDNkcjQzMmJneU9RbDB3WWZrM3FBSHJvV0FjTmRWVUhHaXBQdHB6UDJuUTV1LXNwSnlqeW1hODZaclliY2pkN2FNcVA1R0RVNlNBMjRxWEQ4N3ZKNVhETGhpNHE2NUxVcnlicUtnNmpEVFdTMFNwbENtYUZkMThLX1h0czNNSDRoYlVyLVNXa2xoVVNDZFZOT1FuWTFhQmpuSVBEWjBn0gHWAUFVX3lxTE9kTHd4Z0laNEp1endfeXl3Tnlad1N4TGpDWWRCVHBRVGU5SWp6RS1EaWtOSHZxczdzeE5nSzhJNmhtbjVCWW9pOHBINHQzR2R6STBOTG1DalFtcWktSjEtbG9yTmFFY1liZnR6Y1FGZTFvcURSY1lKeFdJdk9OUmRldENHeUhBZXN4S2Vra0VPdG50VUg0cmtxTm51R1BJUlQtWXZaemtnWndzY19EWk9WczU2b2RiME1UNWFIdDZKeWtnSmlnSWJONkEwbUx0dVNzdUI2OGc?oc=5",
-            "description": "What will China’s proposed AI tech export bans mean for open-weight technologies? South China Morning Post",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-17T12:00:11.000Z",
-            "fetchedAt": "2026-10-17T14:27:16.345Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "South China Morning Post",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "What will China’s proposed AI tech export bans mean for open-weight technologies? South China Morning Post",
-            "id": "a6"
-          },
-          {
-            "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
-            "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
-            "description": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-17T10:20:44.000Z",
-            "fetchedAt": "2026-10-17T14:27:05.321Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
-            "id": "a7"
-          },
-          {
-            "title": "Trump exempts Russia from further sanctions mandated by new law",
-            "url": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
-            "description": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
-            "source": "Financial Times",
-            "sourceId": "ft",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-17T09:53:31.000Z",
-            "fetchedAt": "2026-10-17T14:27:06.290Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
-            "id": "a8"
-          },
-          {
-            "title": "China Proposes New Export Controls on AI Models and Chip Technologies Amid US Rivalry - www.nationpathindia.com",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmhDUENzV0hvVl84b29zQkljMFJLM3l2SUNlNmJxTnFLMmFhdzZfejNHNU1PQ1VmMHZHOWVkRkk5akpHRHNxRFdXM3NIQVJ1YVJGcTFoSHROc2NmZlBEb3RpYTlLWGJGcDNWOWpoNTZFTkJFZlFNclJrUjJqYVUtU0QwNHVlTFhpUmlXb0o5VXMtdHdnLW5N?oc=5",
-            "description": "China Proposes New Export Controls on AI Models and Chip Technologies Amid US Rivalry www.nationpathindia.com",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-17T09:37:10.000Z",
-            "fetchedAt": "2026-10-17T14:27:16.345Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "www.nationpathindia.com",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China Proposes New Export Controls on AI Models and Chip Technologies Amid US Rivalry www.nationpathindia.com",
-            "id": "a9"
-          },
-          {
-            "title": "China Proposes Export Controls on 40 Technologies, Treating AI API Access Differently From Overseas Deployment - XenoSpectrum",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc0pvaERDdHF5VU9UOERpbUgxQXRCSnljNWExUlhsaWlra3QxOWdlNzluWVQ3aFhvMlN1UmNhLVpuUnZKZE5NOXB4ZHFEMFVVbWZYQkJOSld0R1l0eGpGVWRIM3p6M01VSEpHMmxWa0dMRWtYRkxOTENhRnd3Q3JCZg?oc=5",
-            "description": "China Proposes Export Controls on 40 Technologies, Treating AI API Access Differently From Overseas Deployment XenoSpectrum",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-17T05:12:30.000Z",
-            "fetchedAt": "2026-10-17T14:27:16.345Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "XenoSpectrum",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China Proposes Export Controls on 40 Technologies, Treating AI API Access Differently From Overseas Deployment XenoSpectrum",
-            "id": "a10"
-          },
-          {
-            "title": "China Plans AI Export Curbs To Exert Control Over Key Tech - NDTV",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb1VoMkpBaEI5US1ZbDJrSVNNR09MRk9jY1pkdVdhb0JpZlZGcGxUcGxQZWdnRXY0UjI1cWdyMmg1ZTBiWHhYWldsVDMzTjN5UnJZTEU3bFZIVnJER01kT1piMkJlZ29USU5GVlV1UzV4T0E0QzVKMkMxOTgySjN6Sm5KZGJHZ3JkY2JiWEFSUU5kTzFoeXVFVjhGdEFpd3h20gGoAUFVX3lxTE1xT1lVSk15UjBnb29wRnpNWElyczFEUE1uWDNDQlZPWmhldmo4RG5FSWUwUEFMMUZEeW0wVGJ6S28xNEd2d1pHaHdhQS1YeDFRZVphZk9leHFVclhPM29RWXZybnBnZkdBUy1kVnB2b2tRdWRJUGtXbHRmRHlCX3p1RHNjdmhfREZieWUzTnRIY0FoVkNXSEdWdUhwSjA1dHF3UVM2MGgtZg?oc=5",
-            "description": "China Plans AI Export Curbs To Exert Control Over Key Tech NDTV",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-17T04:32:20.000Z",
-            "fetchedAt": "2026-10-17T14:27:16.345Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "NDTV",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China Plans AI Export Curbs To Exert Control Over Key Tech NDTV",
-            "id": "a11"
-          },
-          {
-            "title": "Should You Buy Qualcomm Stock For Its Cash?",
-            "url": "https://www.trefis.com/articles/618987/should-you-buy-qualcomm-stock-for-its-cash/2026-10-16?.tsrc=rss",
-            "description": "Over the last twelve months, Qualcomm (QCOM) generated free cash flow equal to 5.5% of its market value. That outpaces the 4.4% yield for the median S&P 500 company. A yield above the median can mean a business that is either on sale or expected to shrink. Qualcomm's revenue fell in each of its last two quarters. So is that cash the sign of a business on sale, or of one that is shrinking.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-17T03:03:01.000Z",
-            "fetchedAt": "2026-10-17T14:27:05.411Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "supply-chain",
-            "subLabel": "Supply Chain",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Over the last twelve months, Qualcomm (QCOM) generated free cash flow equal to 5.5% of its market value. That outpaces the 4.4% yield for the median S&P 500 company. A yield above the median can mean a business that is either on sale or expected to shrink. Qualcomm's revenue fell in each of its last two quarters. So is that cash the sign of a business on sale, or of one that is shrinking.",
-            "id": "a12"
-          },
-          {
-            "title": "China says it will curb tech exports, including AI, citing national security risks - PBS",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV1VUdmQwc0xPcG5KT3AxZFJ2dVJTVXNFc3RYc2lUTlA2R2xGeGJ3TjVqRGlpYUt2WUhNNEZDSDZkX1dJYm1INV9TaTI3eVlMM0RIaHh4V1g4U2FLdGJWOGJNRjFia1Q1amNoWUwzamlLWGFDVVhPNlZzbjRoU29YN3V1X2wyM2E5clBsTnp2MGJkSDNjOTFSVWVBd3MtZUZ1Sk1Yb1JGOGhZUlVoQmR3azVzZzU2Z9IBuwFBVV95cUxOSGI4Vm0wMmNIV3ZNY1NqNkRsaG1kTkd1bm1aZ3ZwZkFERU9YQ29Id3Bnc3FOU2NFNHVPbWwxclR4ZlFYY0hYLVNuMW1KbVRnNGdNTXpQODVReFdOaXZMV3E5cGx3ME9Ha25CZ3V3OXF1Zl9KSFhjWldWcHBwbjJDdGFudGJXVTdwY3dEa0JpYU96VEJqdG5hdW5pVmVvaEcxcFZXUTZoSVlpTWFtMTFlOE1YbUtVYVlBZTdV?oc=5",
-            "description": "China says it will curb tech exports, including AI, citing national security risks PBS",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-16T22:00:29.000Z",
-            "fetchedAt": "2026-10-17T14:27:16.345Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "PBS",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China says it will curb tech exports, including AI, citing national security risks PBS",
-            "id": "a13"
-          },
-          {
-            "title": "New Chip-Based ‘Tape Measure’ for Light Could Revolutionize Mobile Timekeeping and Enhance National Security - EIN News",
-            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMFUwRHhkcUxpUl9uRmtaUndpSU9Ec2pOeU9iRmNDUW9oUjlMeW9IejgxdjNfWGFvUDlTdTBQMXJkWXVwaEdKMFQxOFRhSXlYU3RnRVY4b0lCbWdFcWtfOWJvamxsRHhYNWVRVXRYSm9JZUs4QVJWM1owQkpkZV8zMXBrOE95dWl3YXBzVWhhZnhjUGlfc3MyenpZSHliUUgtUDhSY2Q3c08wUXQ5aHFwa2ZTc3hwOFhDZXdVZmJidElUUUI5WndGZ1E5cm1UZFdrNFAxaTFUMzk2dFBfOGQtZG5B?oc=5",
-            "description": "New Chip-Based ‘Tape Measure’ for Light Could Revolutionize Mobile Timekeeping and Enhance National Security EIN News",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-16T20:41:00.000Z",
-            "fetchedAt": "2026-10-17T14:27:16.345Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "EIN News",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "New Chip-Based ‘Tape Measure’ for Light Could Revolutionize Mobile Timekeeping and Enhance National Security EIN News",
-            "id": "a14"
-          },
-          {
-            "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
-            "url": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
-            "description": "Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-16T20:28:10.000Z",
-            "fetchedAt": "2026-10-17T14:27:05.322Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice.",
-            "id": "a15"
-          },
-          {
-            "title": "China pushes back as US lawmaker seeks blacklist of universities and tech labs - South China Morning Post",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYkJONHlKenF6VVNjV25ZZXZZZjhVMjFaX0lzVkJaR3dZTG04RlNzMmd3UWlMMkt1bi1kWmI3dGt2VFRFdFVfZXJBWk1RdlZ5aW1WbzRMa3pPQ0ZTaktwS0R4V2JPTFFkVEVkZmxMcG1YQnU0TjZXTlZucVl2VmRndU9wc1U0ZjhmTjJDY2stbUswUGlmLVBUNUZxV1U2dUZIclZCZnh3NlRWWmQxclBJa3JwQ1VNd3QtbUt6UDctRjlQZFpZc19PRHFR0gHKAUFVX3lxTFAydnRjUU9nWWRLNWVQcHpKV1NkY1VLQ0tKUzlwSzluNXljWVowOVFMN3dkQ1pVb0FISnlFbElIdGpyOWszR0NOaGtVbEFlRmRhY3k3M1RIZ3JMM1RRTWFfVXJadm0tNEp4NzVVU0RZeGh2M2xIb2EwM1ZvZmp3cFJ6RTZwVGx3RHRaeUM3blJKQUNybE5BLXlUOWFWdzRGZGVDd19TcTFkSmowQmZnQXN2WHlYbXNtODRPRjhEQ2pxN1ZRYTlMZWFsV3c?oc=5",
-            "description": "China pushes back as US lawmaker seeks blacklist of universities and tech labs South China Morning Post",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-16T18:21:54.000Z",
-            "fetchedAt": "2026-10-17T14:27:16.345Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "South China Morning Post",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China pushes back as US lawmaker seeks blacklist of universities and tech labs South China Morning Post",
-            "id": "a16"
-          },
-          {
-            "title": "China Export Controls: 40-Tech Hit List Explained [2026] - https://tech-insider.org/",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBreUl6bkYwNWxydFNxVzVHbFhXNThPZU52WlRJcWpTVG8weEQwdmlLREZZMjljQkppRWNYTVV6VzdzWVphYThVRTFkcUdOd0xfd2JSRER5bWwwSWdsZ0lLNi1jd3dfRWI5YzZ3dmE3dmw4U0hDMk9BbTZxa3E?oc=5",
-            "description": "China Export Controls: 40-Tech Hit List Explained [2026] https://tech-insider.org/",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-16T17:53:48.000Z",
-            "fetchedAt": "2026-10-17T14:27:16.345Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "https://tech-insider.org/",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China Export Controls: 40-Tech Hit List Explained [2026] https://tech-insider.org/",
-            "id": "a18"
-          },
-          {
-            "title": "NBA tightens betting rules, develops AI to flag suspicious wagers",
-            "url": "https://www.cnbc.com/2026/10/16/nba-tightens-betting-rules-develops-ai-to-flag-suspicious-wagers.html",
-            "description": "The NBA is tightening restrictions on bets and deploying AI to help identify suspicious wagering, according to two documents obtained by CNBC.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-16T17:50:50.000Z",
-            "fetchedAt": "2026-10-17T14:27:05.322Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The NBA is tightening restrictions on bets and deploying AI to help identify suspicious wagering, according to two documents obtained by CNBC.",
-            "id": "a19"
-          },
-          {
-            "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-            "url": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-            "description": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-16T16:46:18.000Z",
-            "fetchedAt": "2026-10-17T14:27:05.322Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-            "id": "a20"
-          },
-          {
-            "title": "China’s Proposed AI Export Controls and New Temporary Export Registration Requirements: Initial Thoughts - Geopolitechs",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBORkJRSmVIX0VvcWJta0JjX0NDMVVaS255cDR5c1E3NERic2JMbUxBTmt4ZW1RVzRlak5LNmxSRGV3UWtSaGNNNWZBei1qRVhLN2F3ZXNnR1ZBV1B3d1J6eVV0WWZTMXA3Wl9WMWgwMEJsZDA?oc=5",
-            "description": "China’s Proposed AI Export Controls and New Temporary Export Registration Requirements: Initial Thoughts Geopolitechs",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-16T16:41:34.000Z",
-            "fetchedAt": "2026-10-17T14:27:16.345Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Geopolitechs",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China’s Proposed AI Export Controls and New Temporary Export Registration Requirements: Initial Thoughts Geopolitechs",
-            "id": "a21"
-          },
-          {
-            "title": "China proposes AI export curbs to manage security - Taipei Times",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PQlkyYndtUEplei1lZFUybmtXSEpLXzFxV092TnU2U29Yemx5VEZjaks0VlM0Z2phaDNJNXNUN3QybVpqLWhKNks3dG42ZlZ3RnA4T1l0SGgzLXZ0em1kNEx2QkRLSmVyb3ZwRzlqWGZHSTl3S3c?oc=5",
-            "description": "China proposes AI export curbs to manage security Taipei Times",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-16T16:00:00.000Z",
-            "fetchedAt": "2026-10-17T14:27:16.345Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Taipei Times",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China proposes AI export curbs to manage security Taipei Times",
-            "id": "a22"
-          },
-          {
-            "title": "China Proposes Export Curbs on AI, Chips and Solar Tech Amid US Rivalry - https://streamlinefeed.co.ke/",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUV9yczV5VXI1ZFFiTTBOM3BkTndYYVBoUktXa08wTlliX1RSY0FkSXBiRVpuMXU5ZXRRUUhQT3pLcEQyWGNpRmJ5NlR3NWJfbFZBUzJFS3dTbGZIb0NTNUxrcVBIdUJqa0R0dWhGWlpTdEp4aldGd2NoWWFkQ2VYdVFrLUl1SGxmVGFzQWNoZWhRR18yeTdzenRjb3RxVEhjUFRWbFVPcw?oc=5",
-            "description": "China Proposes Export Curbs on AI, Chips and Solar Tech Amid US Rivalry https://streamlinefeed.co.ke/",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-16T14:36:15.000Z",
-            "fetchedAt": "2026-10-17T14:27:16.345Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "https://streamlinefeed.co.ke/",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China Proposes Export Curbs on AI, Chips and Solar Tech Amid US Rivalry https://streamlinefeed.co.ke/",
-            "id": "a23"
-          },
-          {
-            "title": "Chip Industry Week In Review",
-            "url": "https://semiengineering.com/chip-industry-week-in-review-160/",
-            "description": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-            "source": "Semiconductor Engineering",
-            "sourceId": "semiconductor-engineering",
-            "sourceGroup": "semiconductor",
-            "publishedAt": "2026-10-16T07:01:05.000Z",
-            "fetchedAt": "2026-10-17T14:27:12.012Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "foundry"
-            ],
-            "summary": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-            "id": "a25"
-          },
-          {
-            "title": "Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool",
-            "url": "https://www.semiconductor-digest.com/mitsubishi-chemical-group-the-materials-supplier-hiding-inside-the-tool/?utm_source=rss&utm_medium=rss&utm_campaign=mitsubishi-chemical-group-the-materials-supplier-hiding-inside-the-tool",
-            "description": "From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool appeared first on Semiconductor Digest.",
-            "source": "Semiconductor Digest",
-            "sourceId": "semiconductor-digest",
-            "sourceGroup": "semiconductor",
-            "publishedAt": "2026-10-15T14:10:47.000Z",
-            "fetchedAt": "2026-10-17T14:27:14.322Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "supply-chain",
-            "subLabel": "Supply Chain",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool appeared first on Semiconductor Digest.",
-            "id": "a27"
-          },
-          {
-            "title": "TP-Link pledges $1B US investment amid mounting government resistance",
-            "url": "https://www.lightreading.com/regulatory-politics/tp-link-pledges-1b-us-investment-amid-mounting-government-resistance",
-            "description": "TP-Link's effort to obtain an FCC waiver for a pair of Wi-Fi 8 routers is being stymied by a handful of state-led lawsuits and static from 21 state AGs over cybersecurity concerns and the supplier's purported links to China.",
-            "source": "Light Reading",
-            "sourceId": "light-reading",
-            "sourceGroup": "telecom",
-            "publishedAt": "2026-10-15T13:00:00.000Z",
-            "fetchedAt": "2026-10-17T14:27:14.797Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "TP-Link's effort to obtain an FCC waiver for a pair of Wi-Fi 8 routers is being stymied by a handful of state-led lawsuits and static from 21 state AGs over cybersecurity concerns and the supplier's purported links to China.",
-            "id": "a28"
-          },
-          {
-            "title": "China's path to 6G",
-            "url": "https://www.lightreading.com/6g/china-s-path-to-6g",
-            "description": "6G is a key pillar of China's latest five-year plan and while companies have been tight-lipped on their plans, some details are emerging.",
-            "source": "Light Reading",
-            "sourceId": "light-reading",
-            "sourceGroup": "telecom",
-            "publishedAt": "2026-10-15T05:00:00.000Z",
-            "fetchedAt": "2026-10-17T14:27:14.797Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "6G is a key pillar of China's latest five-year plan and while companies have been tight-lipped on their plans, some details are emerging.",
-            "id": "a30"
-          },
-          {
-            "title": "Mainland China smartphone shipments drop to lowest Q3 level since 2013 – Omdia",
-            "url": "https://www.lightreading.com/smartphones-devices/mainland-china-smartphone-shipments-drop-to-lowest-q3-level-since-2013-omdia",
-            "description": "Mainland China's smartphone shipments declined 12% YOY to 59.3 million units in 3Q 2026. #pressrelease",
-            "source": "Light Reading",
-            "sourceId": "light-reading",
-            "sourceGroup": "telecom",
-            "publishedAt": "2026-10-14T17:53:07.000Z",
-            "fetchedAt": "2026-10-17T14:27:14.797Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Mainland China's smartphone shipments declined 12% YOY to 59.3 million units in 3Q 2026.",
-            "id": "a31"
-          },
-          {
-            "title": "AI chiefs sound alarm on security risks",
-            "url": "https://www.mobileworldlive.com/google/ai-chiefs-sound-alarm-on-security-risks/",
-            "description": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
-            "source": "Mobile World Live",
-            "sourceId": "mobile-world-live",
-            "sourceGroup": "telecom",
-            "publishedAt": "2026-10-14T16:10:07.000Z",
-            "fetchedAt": "2026-10-17T14:27:14.635Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
-            "id": "a32"
-          },
-          {
-            "title": "Federal Circuit Upholds PTAB Unpatentability Ruling Against Fungicide Combination Patent",
-            "url": "https://ipwatchdog.com/2026/10/14/federal-circuit-upholds-ptab-unpatentability-ruling-against-fungicide-combination-patent/",
-            "description": "The U.S. Court of Appeals for the Federal Circuit (CAFC) issued a decision today in Syngenta Crop Protection AG v. UPL Ltd., affirming a Patent Trial and Appeal Board (PTAB) final written decision that held all challenged claims of a fungicide combination patent unpatentable. The CAFC rejected arguments from UPL Ltd. and affirmed the PTAB’s denial of leave for Syngenta Crop Protection AG to seek sanctions. The post Federal Circuit Upholds PTAB Unpatentability Ruling Against Fungicide Combination Patent appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-            "source": "IPWatchdog",
-            "sourceId": "ipwatchdog",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-14T15:15:09.000Z",
-            "fetchedAt": "2026-10-17T14:27:13.283Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a decision today in Syngenta Crop Protection AG v. UPL Ltd., affirming a Patent Trial and Appeal Board (PTAB) final written decision that held all challenged claims of a fungicide combination patent unpatentable. The CAFC rejected arguments from UPL Ltd. and affirmed the PTAB’s denial of leave for Syngenta Crop Protection AG to seek sanctions. The post Federal Circuit Upholds PTAB Unpatentability Ruling Against Fungicide Combination Patent appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-            "id": "a33"
-          }
-        ]
-      },
-      "competitors": {
-        "generatedAt": "2026-10-17T14:27:16.387Z",
-        "date": "2026-10-17",
-        "section": "competitors",
-        "sectionTitle": "Competitors",
-        "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "stakeholders": {
-        "generatedAt": "2026-10-17T14:27:16.387Z",
-        "date": "2026-10-17",
-        "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "Mobile Chips: Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last ",
-              "articleIds": [
-                "a1"
-              ],
-              "subCategory": "mobile-chips"
-            },
-            {
-              "text": "Geopolitics & Export Controls: Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups rais",
-              "articleIds": [
-                "a25"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon",
-            "url": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
-            "description": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band spectrum to expand the Starlink network, spectrum that’s been traded around the telecom business for decades now. SpaceX’s ambitious plan is to use that spectrum to help build “the world’s most advanced mobile network.” Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. Combined with news that the FCC approved the deployment of 15,000 next-gen Starlink satellites and the company’s previous agreement to purchase close to $20 billion worth of EchoStar spectrum last year, it’s now clear SpaceX is serious about competing with AT&T, Verizon, and T-Mobile. I’ve covered the telecom business for a long time, and I’ve always known that these companies can say they want to do something until they run into the harsh reality of how expensive it is to actually do it. The telecom graveyard of pivots, bad ideas, and failed acquisitions is vast. Walt has been closely monitoring SpaceX’s acquisition, and he’s correctly predicted that the company was headed in this direction for months now. So I wanted to dig into whether SpaceX can pull this off, why Walt thinks the existing telecom giants have really fumbled their response to SpaceX’s growing threat, and what happens when Elon Musk’s rocket company jumps headfirst into a business everyone loves to hate. Okay: LightShed Partners’ Walter Piecyk on SpaceX’s plan to expand into mobile. Here we go. This interview has been lightly edited for length and clarity. Walter Piecyk, you’re a partner and a tech, media, and telecom analyst at LightShed Partners. Welcome to Decoder. Thanks for having me. I’m looking forward to it. I’m excited to talk to you. I feel like we’ve been tweeting or posting around each other for many, many years, but I’m a telecom nerd at heart. I’ve been covering the space for ages. SpaceX is going to make a big splash. It’s going to be the fourth major mobile carrier in the United States and maybe the world. It bought some spectrum to do it. It’s EchoStar spectrum by way of private equity. It is at once very simple and also very complicated. Give us the state of the state. SpaceX bought 800 Mhz spectrum for $8 billion. They spent nearly $20 billion already on separate EchoStar spectrum. What is SpaceX trying to do here? It’s definitely complicated, but maybe less complicated than trying to figure out how to put a data center out in space and making that work. Or something on the moon. But they don’t typically want to own spectrum and spend for spectrum. If you think about how Starlink was built, satellite companies don’t typically pay for spectrum. And then as the business evolved and as they saw the opportunity in telecom, they purchased some spectrum initially from EchoStar. The feedback they got from investors at that time was very positive and they said, “Wait a minute, you should do more here.” This is a trillion-dollar enterprise value business in the US alone. Obviously they have global aspirations both for Starlink as well as what they’re doing with this mobile telephone service. So they bought more. They went back to EchoStar. That’s a key thing to pay attention to, in that they bought some spectrum and then they went back and bought some more. Because with a lot of things that Elon Musk does, he learns as he goes. He bought the spectrum, got feedback, talked to people in telecom, and bought some more spectrum. Then we didn’t hear from them for a while. Now, you have this thing that happened last week where they bought some more spectrum, and I can go through the history of it if you care, but it’s long, wonky telecom stuff. This was originally the Nextel spectrum, if you remember that company. I do. Actually, I do want you to go through the history because I think the telecom business is best understood as a bunch of lobbyists trying to make everything more complicated than it should be. Yes, spectrum auctions are complicated and what spectrum is good for what is deeply tied to the physics of the radio spectrum and all that. But here it’s the 800 MHz spectrum from the Nextel service, the old push-to-talk, walkie-talkie service that Sprint had to divest as part of the deal to get sold to T-Mobile. They’ve been trying to sell it for ages. They sold it to this company, Grain Management. They’ve been sitting on it, and when Starlink showed up, Elon bought it. Nobody else wanted it. What did he see in the spectrum that no one else did? When you realize that you need to build a terrestrial network to support what you’re doing with satellites, because satellites work fine if you’ve got your dish on the top of your house and you’re getting your broadband, but when you’re trying to connect with a phone that doesn’t have the same type of power or you’re going inside a home, you’re going to need better coverage. Sirius Satellite also has supplementary towers. There are not that many of them, but sometimes when you get out of Sirius coverage, you will connect to a tower. When they bought that EchoStar spectrum and then got FCC approval, and if you looked into those details of that FCC approval and what was required, you would see that they can’t do this by satellites alone. There had to be terrestrial. Then SpaceX, as Elon is wont to do, tries to send some diversions like, “We’re going to do Femtocell, we’re not going to do macrocell, this, that, and the other thing.” But they realized that they were going to build a terrestrial network. Now they finally realized, “If I’m going to offer mobile service, I need some form of a terrestrial network.” At the same time, the telcos are not going to help them out. They’re not going to give them a wholesale agreement. Then when they go back and say the companies that had the lowest churn, what is the fundamental value you need in a terrestrial network? It’s low-band spectrum. Why? It travels further, you can get better coverage, and you have that connectivity. So getting this low-band spectrum piece was just an important part, not to make the satellites work better, but to actually give them the spectrum assets that they need to build a terrestrial network. That’s why the stocks reacted, because people finally came to terms with the fact that Elon is actually going to build a terrestrial network. I’m less interested in the stock and more interested in just the cost structure of how this works. If I rewind my brain to being a baby blogger at Engadget 100 years ago, the FCC told all the TV networks they had to stop broadcasting on 700 MHz and we were going to run an auction. Verizon and AT&T bought big chunks of 700 MHz spectrum and that’s what 4G is built on. That’s the low-bandwidth spectrum that you’re talking about. It goes everywhere. This was a big victory that we reallocated 700 MHz, and 800 MHz was sitting right there the whole time. This is the Nextel spectrum. If it is so valuable, why wasn’t there a market for it until Elon showed up just now? It was part of this transaction. T-Mobile ended up having to sell it because the government said, “If we’re going to allow you to take out the fourth competitor, which was Sprint, then in order to enable another fourth competitor out there, we need to have you guys give up some of your low-band spectrum.” Part of the deal that T-Mobile and Sprint had with the government was that they would sell it to EchoStar. Why? Because Charlie Ergen, CEO of Dish at the time — it’s EchoStar now — was going to be the fourth competitor. This was the rationale that they gave in terms of the approval of the transaction. Dish needed low-band spectrum. The problem is Ergen went about his business, he was trying to build a network, and then he just couldn’t afford to buy that. They had the rights to buy. Then at that point when Ergen failed on the bid to come up with the dollars to buy that spectrum, it enabled T-Mobile and actually forced them to put it up for auction. Now, your question: Why didn’t someone else show up then? Again, from SpaceX’s standpoint, as I mentioned at the start of this podcast, their strategy has been evolving over time. In terms of the other telcos, they can’t really use it. There are some limitations that they have. But in hindsight, maybe Verizon or AT&T should have bought this 800 MHz spectrum for whatever it was, let’s call it $8 billion. They’re probably losing more in enterprise value over the concerns of what’s happening with SpaceX than what it cost them just to buy it in what’s known as foreclose. They basically just take it, even if they don’t use it or do whatever they need to meet those build out requirements and stop SpaceX from having unnecessary assets. I don’t think even these companies were taking Elon seriously and thinking that he would actually build the network. Do you think that’s colored by the failure of Dish? We covered the promises of Dish Network to build a fourth wireless carrier in this country so closely. Their attempt was predicated on some amount of technology innovation. They were going to build this thing called an O-RAN network, which had a more competitive supplier base instead of just Nokia or Siemens or whoever, and they were going to run it on AWS and that was going to reduce costs. Man, eventually they supported one Motorola handset in Vegas and even that was backstopped by AT&T. They literally could not do it. These promises never came true. Dish is a different company and Charlie Ergen’s a different CEO and their ability to just throw money at a problem until it’s solved is very different from Elon. But if they couldn’t innovate to make a cheaper, faster network, what’s the evidence that Starlink can stand up an entire terrestrial network at a cost basis that allows them to compete selling service to consumers, while they’re also standing up an entire network in space? Because that feels like adding up a lot of cost. I’m going to go back even deeper than that. Remember when Sprint was struggling, Masayoshi Son from SoftBank was claiming the same thing. They were going to cut their CapEx to nothing and they were going to use these small cells. They innovated how wireless was going to get delivered. That failed. Obviously, they had to get bailed out through the purchase when T-Mobile bought Sprint effectively for just the spectrum. That network got completely decommissioned. To your point, Dish got a network built, but they couldn’t resonate in the market. The difference between Dish and SpaceX is Elon’s ability to get customers. That’s where Dish truly failed. They built the network. The network worked fine. They had the wholesale agreements that they needed. I’ll push back on you a little bit there. I have a very funny email from a Dish PR person from several years ago where they said, “We’d like to issue a correction to your story. Our network does exist.” That was the level that they were competing at, where they had to insist to us that the network was real, even though we could not find it in our tests in the various cities they claim. Maybe there was a network, they built some amount of network, but they had not built anything that competed at the national scale with the big three. Absolutely. It’s not like your phone. The phone that I was using, I had an iPhone that it was mostly going to roam onto the AT&T and T-Mobile wholesale agreements that existed. The theory is you get the customers, you have a go-to-market strategy, and then you backfill the network. This is probably going to be something similar. You can even go back to when John Legere first took over T-Mobile. They had a crappy network, and then Legere promised, “We’re going to build it,” taking on customers saying that the network was great before the network was great. Then it caught up because they actually finally got the Germans, Deutsche Telekom, to give them the money to invest in the network. The same thing can happen here where SpaceX will sell something that’ll probably rely on other assets that are out there, even if the telcos themselves are circling the wagons. They have the satellites for certain benefits in terms of coverage and then they can build the capacity over time. The point is it’s going to take time. You can’t just turn on a network overnight and start selling service on that. This has always been my framework of how to think about telecom companies. You can try to run the network cheaper or you can run some kind of different technology to make that cheaper. Or you can just spend and have the best network, which was the Verizon strategy for years and years and years. Then you’ve got to acquire and manage your customers. That was the T-Mobile strategy. That was John Legere. He was just nicer to people than AT&T was, and he picked up a lot of customers and that drove some investment. Then you’ve got to get some devices. You have to have the iPhone. We can set that aside because it feels like that era of competition is over. We’re not doing exclusive devices anymore. But those are the two. I’m just looking at the network here. It does not seem to me, from the outside, that Starlink is proposing to build a cheaper network. It feels like they’re proposing to build a vastly more expensive network because they need the satellites. They’re going to launch 15,000 more satellites to support this network. Then they’re going to build a terrestrial network by investing in spectrum on the ground and building some set of base stations. Then they’re going to have to convince one of the big three to let them roam over as some sort of mobile virtual network operator (MVNO). The big three do not want to do that. So they’re going to overcharge them for that. I’m just stuck at that being a lot of cost, even if you’re Elon Musk and you can make some set of people buy whatever you’re selling. The third thing you said is obviously the most challenging. That’s the tent and the pole that prevents you from launching services sooner rather than later. But without necessarily getting a wholesale agreement, there might be other ways. Roaming agreements exist out there. There are roaming partners that exist that these telcos still rely on. It’s very expensive. It’s not something you can build a high-margin business on, but it perhaps provides an entry to the market sooner rather than later. As Apple has pitched in terms of satellite connectivity, some people are in the middle of the Utah desert texting because they’re injured. There’s value there. But it’s the soccer field. We have, maybe not in the cities, but in the suburbs, plenty of areas that the telcos have effectively given up on trying to provide coverage because of NIMBY-ism, meaning people just don’t want these cell sites. This satellite coverage can give you not just this basic text messaging that Apple has been doing through the Globalstar constellation, but a true cellphone-type experience. So that’s a positive. The second differentiation is the fact that these telcos have 60 percent earnings before interest, taxes, depreciation, and amortization (EBITDA) margins. So there’s a lot of fat there that can be eaten off of, that when you’re selling other services in terms of Elon, like home broadband, maybe this becomes an entree in terms of pushing Grok and people’s usage. You don’t necessarily need 60 percent margins, in this case, for him to justify building this network. They also talk about other data connectivity that these satellites are going to enable. Again, in the current constellation, you need a lot of power and you need a dish. But if you don’t have that, if you have the cell phone-type power, then the internet of things (IOT) and other types of opportunities that exist there become another revenue opportunity that they look at. It’s just funny. The IOT story — that’s what all these companies promised us about 4G. That’s what they all promised us about 5G. There’s something about this business that just rhymes every time. They’re going to do self-driving cars and robot surgery. I’m confident we’re going to hear about self-driving cars and robot surgery when it comes to Starlink and Tesla and Optimus. There’s something about these applications for next generation networks that just recurs, and we hear about them all the time. Then I think about our consumer audience at The Verge, and they want long battery life and fast service and [connectivity] all the places they go. I’m not sure how that squares with your phone is going to connect directly to a satellite in the middle of a soccer field. There’s something about that that also seems challenging. It’s just the performance if your phone does connect to the satellite on the soccer field and it works. A lot of the things that people said wouldn’t work on Starlink in terms of airplanes or even getting customer-premises equipment (CPE) down below a certain price, they’ve delivered on. Obviously, Elon sometimes delivers on them a little later than some of his initial optimistic promises, but they ultimately get delivered on. There is the ability with these new constellations to give you that type of connectivity on these spaces. Is that enough to differentiate with consumers? I don’t know. The telcos have attacked this by saying, “No one cares about our direct-to-device (D2D) services.” Well, your D2D services are not good. It’s just sending basic text messages. What they’re talking about is giving you that blanket coverage where you get what you expect from your cell phone wherever you go. That’s fine, but you still have to give it to the person in the middle of the building where their cell phone works today and provide the volume at a cost that is going to be attractive to that consumer. So those are longer-term things that are going to require some amount of terrestrial network build. Then the question is: how much? A lot of the attacks that have been out there have been referencing $100 billion, $200 billion. I get that. Why? Telcos each spend $10 billion to $15 billion a year, but they are maintaining massive customer bases. To get that initial network up where you have that usage, where you use that low-band spectrum to get into buildings, is not those types of numbers. You’re probably talking like $10 billion, $15 billion for that initial build in terms of CapEx. The dynamic there is really interesting. I’m just thinking about AT&T when the iPhone came out. The network immediately got overloaded because there was a surge of customer demand that took four years to truly resolve. Part of that resolution was just putting the iPhone on the other carriers. How do you think that will play out for Starlink here? Because right now, Starlink customer service is not the best in the industry. Their actual service, people love it. And then when they need customer service, it’s a bunch of automated systems and people complaining on Reddit. So there’s some challenge there if you’re running a consumer business at this scale. For consumer businesses, think about all the advertising that’s done. The fulfillment, dealing with the phones, phone subsidies, and that’s a big part of the financing. How many customers are we talking about? So for the amount of spectrum that they have now in the network that I’m talking about for $10–$15 billion, you’re not taking 50 percent share overnight. I don’t think that would be that expectation from day one. But then the theory of telco is that when you do that initial CapEx build, you have your initial spectrum purchases — $10, $20, maybe $30 billion — another $10 or 15 billion in terms of CapEx. If you are successful and you do get that five or 10 million customers, the opportunity to invest more happens. If you go back to the old days when the cable view of wireless was going to be, “We’re going to get these MVNOs. We’re going to drive the wireless companies into the dirt and then we’re just going to buy them.” That happened in at least one European market, and that was the cable bull thesis that was occurring. You could have the same bull thesis emerge from the SpaceX bulls here where they’re going to say, “We’ll get those first five or 10 million customers. We’ll drive them into the ground. Verizon’s going to be so desperate for any type of revenue because their revenue declined. They’re just going to hand them a wholesale deal and then they’ll start selling spectrum. There’s going to be a spectrum auction with the FCC.” You can see how the narrative can build based on, “An initial CapEx that’s not that big, get in the market, and then if it’s successful, we start investing more.” Let’s talk about the terrestrial network for one more turn. I heard you throw a little water on the idea that they’re going to build femtocells. That is what Elon and Gwynne Shotwell have been saying — that they don’t need to build the traditional kind of terrestrial network that AT&T and Verizon and T-Mobile have, where you have a lot of fiber back haul, the big sites that require all kinds of zoning permits and everything. That they can basically just put small cell stations next to Starlink dishes, put them anywhere they want, and blanket the world with them. And Starlink itself will be the backhaul. I sense some problems with this. Starlink is not 100 percent reliable all the time. If you have a network that is not 100 percent reliable all the time, you’ve got some problems, so maybe you have to backstop it somehow. But you don’t think that’s what they’re doing. You think they’re going to build a regular terrestrial network. I’m sure that’ll be a part of it, but you need macro towers for that type of coverage and penetration and power. Not to explain physics to SpaceX, they probably know it better than anybody, but what you’ll see is as they talk more about this low-band spectrum that they purchase, when we get on the conference calls of these tower companies, you’re going to find out that you’re going to see a lot of those antennas show up on towers. It’s just natural. You can talk about femtocells, but it’s hard to see that the network’s going to get built without macro towers. One of the weirder aspects of the telecom industry, as it’s constituted in the United States right now, is that cell carriers own some of their towers and operate some of their towers. And then there are these crazy third parties that literally have names like TowerCo that operate a bunch of the other towers. Are those captured? Do you think SpaceX can get deals with those companies, or are they beholden to their big partners? These are huge real estate investment trusts (REITs). American Tower is the biggest one. It’s probably one of the largest companies in this. When you consider any REITs, there are other companies out there. They have these towers. They have space in many cases where basically SpaceX can just go and get an additional antenna. It’s a lot easier to do that now than when the wireless companies were initially building this stuff and having to erect their own towers. In addition, EchoStar is going through a bankruptcy. They have a lot of radios that could be used, that could be bought on the cheap, that could expedite SpaceX’s entrance in the market. They haven’t shown interest in that yet. The EchoStar bankruptcy process hasn’t yet concluded, but EchoStar can still be a potential partner here by selling them radios that are already on towers. You’ve lifted the amount of time. Those radios use the spectrum that SpaceX is purchasing, so it can be a quick fix for them to enter the market. Who knows if they do that? They may have their own view like Masayoshi Son did on how to build this new cheap network. Is there a way to read this as just they’re slowly buying EchoStar or whatever EchoStar tried to do? EchoStar has some remaining spectrum that Verizon really needs. At this point, there is some strategic sense to just buy EchoStar outright — because EchoStar is getting stock that was issued to them at a discount. If you’re buying them, you’re effectively buying in your own stock. You don’t have to issue the cash to the company and you’re getting whatever cash proceeds that EchoStar is getting from some of its spectrum sales. They can actually get incremental cash on the balance sheet and buy their stock in. We’ll see if that plays out. By the way, then you don’t have to also deal with Dish, which sometimes can be challenging. T-Mobile’s in the mix here. I want to talk about Verizon, you’ve mentioned them several times, but T-Mobile is Starlink’s current partner for direct-to-device cell connectivity. Are they just getting rocked? Are they going to be a part of this? How’s that going to work? If you think about the start of that, that was former T-Mobile CEO Mike Sievert up on stage with Elon announcing this thing and everyone’s very happy. Then Deutsche Telekom decided it needed a different CEO at some point. You had that transition where Mike retired and you brought in a new CEO, and there might just be a different view on how that relationship works. I’m guessing that it’s been very frustrating for SpaceX to deal with them and certainly they would probably want to avoid any exclusivities going forward. They may need to if they want to sign one of these wholesale agreements that we talked about before. It just seems like, as you mentioned, SpaceX and Starlink went after a little bit of the consumer market here. They bought some spectrum. They got a good reaction to it. Now they’re going to go after the whole thing and their existing telecom partner is thrown by the wayside. If you look at the three big telecoms in the United States, they are circling the wagons. They’re saying this is never going to work. They’re never going to sign the MVNO agreements. They’re putting together their own satellite pool. There’s something here where they are panicked by the existence of meaningful competition in a way that does not usually happen in telecom. Yeah, I agree with that. I don’t know if it’s SpaceX leaving them or T-Mobile leaving SpaceX, but that relationship which started out so happy with the old CEO is certainly not positive. T-Mobile executives have been throwing shade at SpaceX incessantly over the past couple of months. They formed a joint venture (JV) together. It reminds me of when fixed wireless first hit the cable market and Chris Winfrey talked about it derisively as “cell phone internet” and played it down. Ultimately, that’s what’s really bit them and why cable stocks are in the position they’re in today, given the amount of customers that they’re losing to cell phone internet. There are some similarities now in terms of how these executives are downplaying what they can do. Is it going to be costly? Is it going to be complex? Sure. But so is Terafab and so are so many other things. So is making an autonomous vehicle or catching a rocket with chopsticks. That’s the reality that they have to deal with. Investors have seen what this management team has done before in other areas and are just applying it here. Whether that’s fair or not, time will tell. I’m actually very curious about that because I know you cover the company and I know you cover the industry. There’s some part of SpaceX that is just a meme stock. People love Elon. There’s some part of Tesla where it’s not valued like a car company, it’s valued like a software company, even though it is very much a car company. We’ve yet to see where the software multiples might come from for Tesla. The same is true of SpaceX: huge IPO, but people are buying the physics miracle of the rockets launching and landing. They’re buying the promise of Mars. They’re buying the promise of AI, whatever that promise is, however frothy that market is. Those are valued against hopes and dreams. Telecom is not. It’s well known. You can be a telecom analyst and you can examine the value of the spectrum. You understand the build-outs. The customers are not confusing. Consumers are going to pay some amount of money. There are other competitors that are built in at scale. Why do you think SpaceX would chain itself to a business that is easy to value when all of its other businesses are their dreams? You can’t value dreams. It’s just whatever is the biggest number. I don’t think it’s an either-or. When you look at people’s attempts to justify the valuation of SpaceX, a lot of that value is going to land on data centers in space and the data centers on the ground. That’s where a lot of the value is in Starlink. But that’s not the launch business, which theoretically is their business. It’s not even the AI provision business. We’re describing them as a hyperscaler. Yeah, exactly. The AI and those are other big chunks of it. There are a lot of different stories here, but it doesn’t mean that they don’t pursue this if they have connectivity and constellations. They’re talking about connectivity in space because they believe that there’s going to be a demand for connectivity between the data centers, whether it’s theirs or others and their constellations. There are already data centers that I think are using their constellation to connect. When they looked at it, it was just another part of the narrative that you build in terms of SpaceX and justifying the valuation. Because what do all of these things need? Whether it’s robotaxis, whether it’s data centers in space, they need money and money needs a narrative. This is just another one of the narratives to stack on top to say, “Here’s how we can drive incremental value.” The value, if you look at the enterprise values of these telcos in the United States, you’re talking about a trillion dollars. That’s a trillion dollars of enterprise value. They’re obviously not going to capture a trillion dollars because part of it is shrinking the telcos down at the same time as getting whatever that stake is and the CapEx related to it. The fair question is, if capital gets more scarce, how do you allocate between these different things? Don’t you want to push Terafab forward a little bit more or get those terrestrial data centers built so that you can start monetizing the billions of dollars that you’re getting there versus diverting whatever the dollars are here for the telco? That is a reasonable thing. The problem for the telcos is even if that’s happening at SpaceX and this gets delayed a year, that doesn’t help them. The overhang of when that’s going to occur — whether that’s a year, two years, three years — is always going to be there. They’re not going to say, “We’re just giving up on going after this.” It’s just going to be a capital allocation issue in the near term that’s going to delay when the actual impact hits the telcos in the United States. How much of this is just that Elon needs to supply connectivity to his own cars and his own factories and his own robots and he’ll just be his own best customer? I don’t think that’s it. They think they really want to build a revenue business out of it. In fact, they’re going to use the cars as hotspots where they’ll put Starlinks on there and then use them as distribution points. That’s going to be part of the play. I do want to end by talking about the existing telcos and what competition might do to them because I think that’s a fascinating dynamic. They are clearly not ready for an actual aggressive competitor. But I want to stick with what you just said for a minute. If I pull that apart, it sounds like what you’re describing is the reality of the SpaceX business, which is that Starlink is the thing that makes profits. Everything else is incinerating money, but investors seem happy with that because the potential payoffs might be huge. If you take the Starlink profits, you have to make a decision about whether to reinvest them into Starlink, and now Starlink’s mobile business, or into AI or into the launch business or into going to Mars. Regardless of how that allocation happens on what timeline, at some point, enough money will go back into Starlink Mobile to pose a real threat to AT&T, Verizon, and T-Mobile, and that is just a matter of time. You nailed it, and that is the issue. Capital becomes the biggest benefactor right now to the telecom companies. How does that capital get allocated? That’s in terms of reportive results. They’re 100 percent right on that. But in terms of the stocks, that concern is not going to go away because there will be incremental data points. Maybe one of these telcos has a problematic quarter or two. These are not founder CEOs where they have to do something quickly. It’s easy to get a lot of wholesale revenue on the books by doing a deal with SpaceX. These are the types of things that they’re going to have to deal with in terms of that long-term risk. Cable’s got this. Look at Uber. Uber’s got the same issue. The threat of Waymo and robotaxis is what keeps that stock where it is. Waymo with their 3,000 or 4,000 cars are obviously not impacting the two million drivers that Uber has in the United States. But the threat of where Waymo’s going to be two years from now, or three years from now, or the threat from Tesla’s robotaxis… that’s what investors care about and that’s going to obviously impact these companies. Put that in the context of SpaceX being a public company for me. Is it just that we’re going to get next quarter’s results of SpaceX and we’re going to see that xAI is still burning money at enormous rates, but Starlink Mobile made a little bit more money? And that’s going to keep everybody happy for a minute? I don’t know. I don’t think we have enough history yet in terms of what moves SpaceX stocks one way or another. To your point, you have a lot of believers, regardless of what’s printed, who are always going to say, “Who cares about this quarter?” Tesla’s got the same issue. Who cares how many cars that they actually sell because it’s all about the robotaxis and the robotaxi business is about to start scaling. Those very positive people won’t care. Then there are going to be the negative people who, no matter how much traction you see them get in, whether it’s Starlink or progress on the build of space compute, are going to say, “He’s never going to deliver. This is never going to happen.” You’re just going to have those fighting battles back and forth. The primary issue is going to be whether they can raise capital off of that. And in what ways? Because if you’re burning cash, at some point you need to bring in cash. If these businesses aren’t generating enough cash because you’re consuming it with the other growth initiatives, you still have to figure out ways to continue to issue cash or issue stock to get more cash on the balance sheet. If I was going to offer that most cynical read, I would say the only business where they can see expanding the service will result in more profits to offset their losses elsewhere is Starlink. They don’t have another business that looks like that. Just to be clear, Starlink is the broadband business that’s generating the cash flow. This mobile business would be cash negative initially before you get into that positive cash position. You have to look at the robotaxi business, there’s going to be a lot of CapEx initially, but these cars are pretty cheap. That theoretically could be a cash generator. But that’s a different company. But we know that, just like I mentioned earlier, it could make buying EchoStar make sense because you’re buying effectively cash in your own stock on the cheap. There are different ways to put cash obviously on the balance sheet in $10 or $20 billion chunks. Obviously the structure of these companies — they’re all Elon’s companies in the end, and he’s managed them as closely as anyone can manage big public companies. But to make it as dumb as possible, say you have a dollar and if Gwynne Shotwell has a dollar and she wants to light the dollar on fire, she’ll put it in xAI against some return somewhere that might be $50 trillion total addressable market (TAM) or whatever their prospectus said. Or you could put the dollar into Starlink Mobile in the build-out and you will probably return $1.10. That is what that business looks like because they will get some customers away from AT&T and Verizon. They’re already running that thing profitably. The idea that they need to show some return somewhere, it feels like that’s why they’re making this move. Not because it makes the most financial sense, it just makes the most financial sense in the context of SpaceX. You may be right. The problem with that belief is that it’s going to take time for them to get that dollar of profit out of the mobile business. They still have to build the network. They still have to sign up customers. You’re going to be negative EBITDA for a while. If you have two different businesses and you think the returns are significantly higher or more interesting to your investors to get to that next catalyst for space compute or Optimus or whatever it is, that is going to play a role. What does Elon happen to care about the most at that moment? What is more interesting to him to do? Isn’t space compute a little bit more interesting to allocate those dollars than taking some mobile customers from AT&T? Although the man’s addicted to his phone and I bet he hates seeing that AT&T logo in the corner. There’s just a part of that that’s always with these guys. Let’s talk about the existing telecoms. They do seem a bit panicked. For a time, they were juggernauts. These were unstoppable businesses as mobile was growing. They poured a bunch of money into the 5G transition. I’ve described the telecom industry as a bunch of lobbyists. Boy, did the lobbyists win the 5G transition. Boy, did they collect all the favors and all the capital they could to build out these networks and then reality hit them in the face. We beat China to some kind of network and then the thing that we were supposed to win did not happen. Now we’re doing it again with AI, but that’s a different conversation. But that was the narrative with 5G: If we didn’t beat China to 5G, something. Who knows what, but we got to cut all the corners to build this network and spend all the money. It just didn’t pay off. You’re an analyst, you’re in the trades. I skim the trades and boy are all these CEOs saying, “We’ve got to generate some revenue with these networks now.” You mentioned Mike Sievert is gone, the old CEO of Verizon’s gone. It just didn’t pay off for these guys. Yeah, 5G didn’t deliver. Some of the promises were BS from the beginning. You talked about this earlier regarding autonomous cars. You’re not going to rely on the network to make that millimeter-second decision of whether you’re going to hit the car in front of you or not. Remote surgery, even if that was a thing, how is that a scalable business where you’re generating hundreds of billions of dollars of revenue? These were all silly. Sievert used to be the guy saying, “People would say the same thing about LTE, there’s no application.” That was not even true. If you remember, the application was video and we knew that LTE was going to enable video and that’s exactly what happened. You’re 100 percent right. This was just a way for them to get more spectrum because they were going to still have data growth on their networks. Capturing more spectrum to be able to handle the existing growth, and that’s cheaper to get spectrum, even at tens of billions of dollars, than it is to try and build the network for that capacity. If they had just said, “We’re going to spend all this money and at the end of it, tens of thousands of people will be able to livestream Taylor Swift during the Eras tour on every one of those stops,” Americans would have said, “Go, go faster. Yes, we understand what that is.” That is truly the thing they enabled. It’s very cool. It’s millimeter wave in stadiums and that’s cool. I don’t know if there’s another one. That said, they are on their back foot. They did spend a lot of money. This is around the time when, in my history as a journalist, they would start talking about 6G, and they want to, but they know they shouldn’t, so they don’t. They’re having the meetings. They are certainly not as loud about the next round of investment as they would normally be in the cycle. Now they have a competitor. Your analysis is that Verizon is by far the weakest here. They have the most to lose. Explain why that is. One other thing to mention is you have a very active FCC chair that would like to raise, and put on his resume, $100 billion from spectrum auction. You’re right, they’re going to talk about 6G again and have to come up with some type of revenue stream to justify getting this money. It’s going to be a lot harder though. They’re already pretty levered. They’ve got a new competitor. In terms of Verizon, the issue is that AT&T has seen this thing developing for some time. They’ve built a fiber network. There’s only so much that wireless can do where a fiber network is ultimately your best connection. If you think about customers that own fiber and wireless, very high-value, very low-churn customers. That’s been their strategy. They’re plodding along. They’re going to get their two or three percent revenue growth and just pay their dividend and do their thing. That is the standard telco. T-Mobile didn’t have that. They’ve got the dynamics — a lot of politics right now between Deutsche Telekom wanting to own it and not wanting to pay a high price and how that all plays out. Verizon just made a lot of bad strategic bets on spectrum. Obviously, AT&T had their own issues, but at least they got out of DirecTV and Warner quick enough and turned the ship. But Verizon bought millimeter wave spectrum when they could have bought EchoStar and bought spectrum… even now they’re spectrum-constrained compared to their competitors and they need to go out and spend $10–$15 billion on the EchoStar spectrum. You have a new CEO in there who is not really a telco guy who’s just doing his thing, saying, “We’re just going to cut costs.” The EBITDA is going to look good because they’re just firing a bunch of people and there’s going to be a result. There is going to be an impact of firing that many people in the organization. It may appease investors to make the EBITDA look good for the next couple of quarters. But at some point you have to show and have a strategy for some type of revenue growth. What is Verizon’s differentiation in the market right now? They have none. They’re the most in the crosshairs of where SpaceX and even the cable companies can continue to eat away at those customers. That is surprising to me. It’s just my own history. I grew up in the midwest. I went to college in the midwest. That was Cingular territory and it became AT&T. When I moved to New York in 2010, Verizon was the gold standard network in the Northeast. It was the one everyone had. It cost the most money because it was the best network. The iPhone coming to Verizon a couple of years later was a huge deal. Verizon’s network was so powerful at that time that they could try to force the Blackberry Storm down people’s throats. They were confident enough that their network was the thing holding people to them, that that was a worthwhile strategy. Obviously, it didn’t work. They made the wrong bet. You’re saying they made the wrong bet on millimeter wave. They made the wrong bet on other spectrum acquisitions. The one that I’m not quite tracking is media. They did buy a bunch of dumb stuff. At one point they owned Tumblr, which is just one of the most confusing media outcomes of all time. But that stuff was all cheaper and easier for them to flip or shut down than AT&T buying all of Time Warner and putting out a 4:3 black-and-white Justice League movie. How did AT&T survive that? But you’re saying Verizon can’t survive owning Yahoo? That’s a fair pushback, in that the media impact to Verizon was a lot less than AT&T. But these again were separate businesses. Obviously, it was a capital allocation issue for a period of years. But the decisions on the spectrum front and the competitive front, and T-Mobile’s impact, John Legere’s impact in taking away the claim of having the best network, left them in a spot where they basically said, “We’ll just keep increasing price on our customers and we’ll get that 2 or 3 percent revenue growth.” And they just lost the narrative of what they meant to customers. I don’t really think under the new CEO that’s been regained. Do you think their ability to say they have the best network is just gone? That’s completely gone. That’s the crazy thing about this. The networks are effectively commoditized. These networks are basically the same. And they’re getting 60 percent margins. That’s the whole thing with Dish Wireless — even if it wasn’t on their network and you guys tested it, it wasn’t on their network, you could have been buying AT&T’s network at half price. It’s crazy the average revenue per user (ARPU) and the margins that these guys get for what is effectively a commoditized market. That’s why the AT&T strategy is interesting because at least they’re trying to bundle that with a high-value fiber network. But for the other guys, it’s just commoditized wireless. I would actually say the other strategic mistake Verizon made along the way was they got away from Fios. They decided it wasn’t worthwhile. It seems like they’re trying to reinvest in that now and go after that AT&T strategy. Given their lack of spectrum, they can only take fixed wireless so far. You’re right. I wouldn’t be surprised if they got back to investing in fiber. The difference, obviously, with Fios is that you have union issues and a lot of cost structure issues that they were dealing with. But the pivot to doing more fiber and perhaps laying off the fixed wireless, which is straining the network, is probably the right decision for them and what you’ll see happen going forward. I want to end on just a big picture question here. We have covered so many crazy telecom mergers and it always feels like the right answer is to put more competition in the system. We’ve mentioned John Legere several times in this conversation. He only got that job and T-Mobile only got to exist the way it does because AT&T was prevented from buying T-Mobile. They paid a breakup fee, which subsidized a huge portion of that early growth and those early strategic moves that Legere was able to make. But that was good for the market. Consumers got a CEO who tried to change the market and have better customer experiences, reinvested that money in the network. That was good. The existence of Dish Network is T-Mobile trying to buy Sprint and instead of blocking the deal, we imposed some wild structural remedies and Makan Delrahim, who ran antitrust in the first Trump administration, rightly or wrongly engineered the outcome of Dish Network existing. That was Delrahim’s preferred outcome: “We’re going to let this happen, but we need to have four carriers. Charlie Ergen is my guy. We were going to stand up a fourth one.” From my perspective, it just seemed obvious that he was never going to do that. And he didn’t. Maybe I was correct to make that bet, but it just seemed obvious that Dish Network was going to hold onto a bunch of spectrum, watch the prices rise and then flip it when it turned out they never built their network. They had to hit targets with the FCC that they just weren’t hitting over time. Now, we have a true fourth competitor, or at least an aggressive competitor of the market in Elon, who’s probably going to try to actually do this thing and these companies are running scared. Is this just evidence that we should have four carriers in the United States? And that when inevitably Verizon tries to buy T-Mobile, we should just say, no, the right answer is four and we’re not going to go to three again. Under Chairman Wheeler, which goes way back, four was the number. Wheels and I were buds. If you called him now, he’d say, “I told you it should have been four and it’s going to go back there.” Obviously, in the new administration, they didn’t believe that that was the case. You see Chairman Carr pointing to prices, how he sees them being down and the competition that’s happened in fixed wireless. But you always want more competition in a market. It drives innovation and it lowers prices and margins are approaching 60 percent in the wireless business. I can’t say we’ve had a tremendous amount of innovation, which gets back to what the telcos are doing in fear by refusing to give SpaceX a wholesale agreement. That’s their right. But at some point, if the FCC’s mandate is to act in the public interest, we have a current administration — and who knows who gets in during the next administration — but if these telcos are going to push back so hard on what the fourth competitor, in this case SpaceX, is going to do, the FCC can probably get involved in some ways. That is the risk that they run by being so vocally against Elon Musk in the market. You talk about the ultimate consolidation. It’s funny. We should save all these quotes now where they’re saying, “Elon can’t be a competitor because he only has 80 MHz of spectrum.” Because then when they want to merge with someone, they’re going to claim, “No, he’s actually a competitor.” They’re going to deny that as a competitive threat. There’s nothing funnier than a giant telecom insisting that a thing that is not a competitor is their competitor. They all do it. Last question. Again, this is just the big think rattling around my head. We might be on a cusp of an entire paradigm shift in what mobile devices even are. If you look at Meta, they’re going to put up the Muse charm and maybe we’re all going to talk to little cartoon AIs all day that run agents in a data center. Our use of mobile bandwidth to watch video will go down because we’re not even carrying phones anymore. Is that a risk here? Is anybody thinking about this? We think about this every day at LightShed, in terms of all the different ways that AI [exists] and how we interact with our information and how we interact with commerce and using agents. Muse has obviously been something we’ve been waiting for from someone and there’s going to be other versions of that. But you’re right. It could decrease [phone usage], and it’s an Apple risk. It decreases the importance of the status of holding an iPhone if you’re just not interacting with your data in the same way. If that happens, that whole paradigm in terms of the telcos and providing the subsidies changes. Whenever there’s change, there’s an opportunity for disruption and for margins to be contracted. It does change things and maybe SpaceX could play. Elon’s been asked about making a device. I know Qualcomm, when you meet with those guys, says, “We have 40 different guys out there making devices.” I don’t think he’s going to add one more thing to his list, but again, let’s get back to what we’ve talked about during this podcast and narrative. Will Terafab happen? Will data centers in space happen? It may not happen, but you can maybe talk about building a phone and then that becomes one more issue that the telcos have to deal with in terms of dealing with their customers. Why am I using this iPhone when I should be using this completely different device, whether it’s coming from OpenAI or Anthropic or maybe SpaceX? The idea of Elon shipping a mid-range Android phone with the Play Store on it is so deeply funny to me. I truly hope it happens because that’s the product you can make today. Maybe there’s a paradigm shift and there’s a different set of products. But right now you need to have Instagram and there’s really only one path to getting Instagram, which is shipping an Android phone with the Play Store on it. We just saw Amazon essentially capitulate with their new tablets. If you’re focused on the future, you have to concede to the present. I truly do not believe we will see a mid-range Android phone from SpaceX. But you’re saying they might start talking about it. No, I agree with you. I’m just saying when you’re trying to build narratives, why not throw that in the hopper? The bigger issue is someone’s going to build something that may resonate with… We’ve gone a long time. We’re spending $1,000 for these phones that are giving us some basic swipe functionality. They’re going to change in terms of how you use them. This is a bigger and more obvious issue for Apple than anybody else, but it does change how the telcos are going to act and the role that they’re going to play and where that margin should be. They gave up a lot of value to Apple at some point during this continuum of the wireless industry. We’re going through another paradigm change, so we’ll see how those value splits play out. Walter, we’re going to have to have you back soon because it feels like these things are going to happen fast. I was very happy to nerd out about telecom with you. Thanks for being on Decoder. I appreciate it. Thank you. Questions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-10-17T14:00:00.000Z",
-            "fetchedAt": "2026-10-17T14:27:10.922Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [
-              "o-ran",
-              "oem",
-              "platform-partner"
-            ],
-            "summary": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band spectrum to expand the Starlink network, spectrum that’s been traded around the telecom business for decades now. SpaceX’s ambitious plan is to use that spectrum to help build “the world’s most advanced mobile network.” Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. You can sign up here. Combined with news that the FCC approved the deployment of 15,000 next-gen Starlink satellites and the company’s previous agreement to purchase close to $20 billion worth of EchoStar spectrum last year, it’s now clear SpaceX is serious about competing with AT&T, Verizon, and T-Mobile.",
-            "id": "a1"
-          },
-          {
-            "title": "Chip Industry Week In Review",
-            "url": "https://semiengineering.com/chip-industry-week-in-review-160/",
-            "description": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-            "source": "Semiconductor Engineering",
-            "sourceId": "semiconductor-engineering",
-            "sourceGroup": "semiconductor",
-            "publishedAt": "2026-10-16T07:01:05.000Z",
-            "fetchedAt": "2026-10-17T14:27:12.012Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "foundry"
-            ],
-            "summary": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-            "id": "a25"
-          },
-          {
-            "title": "AI chiefs sound alarm on security risks",
-            "url": "https://www.mobileworldlive.com/google/ai-chiefs-sound-alarm-on-security-risks/",
-            "description": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
-            "source": "Mobile World Live",
-            "sourceId": "mobile-world-live",
-            "sourceGroup": "telecom",
-            "publishedAt": "2026-10-14T16:10:07.000Z",
-            "fetchedAt": "2026-10-17T14:27:14.635Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
-            "id": "a32"
-          }
-        ]
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "industry-assoc"
+        ],
+        "summary": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
+        "id": "a6"
       }
-    },
-    "totalArticles": 36
+    ]
   },
   "archive-2026-10-18": {
     "generatedAt": "2026-10-18T14:10:08.152Z",
@@ -23044,34 +22217,59 @@ export const NEWS_DATA = {
     "totalArticles": 35
   },
   "archive-2026-11-17": {
-    "generatedAt": "2026-11-16T22:33:24.014Z",
+    "generatedAt": "2026-11-17T04:48:18.030Z",
     "date": "2026-11-17",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-11-16T22:33:24.012Z",
+        "generatedAt": "2026-11-17T04:48:18.028Z",
         "date": "2026-11-17",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles). A total of 6 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles), Automotive (1 article). A total of 6 articles were aggregated from monitored sources.",
           "keyTakeaways": [
+            {
+              "text": "Automotive: Qualcomm (NasdaqGS:QCOM) reports growing traction for its Snapdragon intelligent cockpit SoCs in new vehicle programs across global automakers. The company is increasingly referenced by industry group",
+              "articleIds": [
+                "a10"
+              ],
+              "subCategory": "automotive"
+            },
             {
               "text": "Semiconductors: Investing.com -- No single chip ETF stands out as \"the best\" right now, but VanEck Semiconductor ETF (SMH) screens as the strongest all-round candidate on the data pulled. The trigger was a post-elect",
               "articleIds": [
-                "a5"
+                "a20"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Mobile Chips: For questions about this article or underlying research, email help@trefis.com.",
               "articleIds": [
-                "a35"
+                "a38"
               ],
               "subCategory": "mobile-chips"
             }
           ]
         },
         "articles": [
+          {
+            "title": "What Is Qualcomm (QCOM) Gaining From Its Cockpit And SoOp Momentum?",
+            "url": "https://finance.yahoo.com/technology/articles/qualcomm-qcom-gaining-cockpit-soop-001825325.html?.tsrc=rss",
+            "description": "Qualcomm (NasdaqGS:QCOM) reports growing traction for its Snapdragon intelligent cockpit SoCs in new vehicle programs across global automakers. The company is increasingly referenced by industry groups as a core supplier in the emerging signals of opportunity, or SoOp, navigation market. Government and defense agencies are exploring SoOp systems that pair advanced Qualcomm silicon with AI for autonomous and GPS limited settings. Qualcomm's push into intelligent cockpit SoCs and SoOp...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T00:18:25.000Z",
+            "fetchedAt": "2026-11-17T04:48:11.424Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "automotive",
+            "subLabel": "Automotive",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm (NasdaqGS:QCOM) reports growing traction for its Snapdragon intelligent cockpit SoCs in new vehicle programs across global automakers. The company is increasingly referenced by industry groups as a core supplier in the emerging signals of opportunity, or SoOp, navigation market. Government and defense agencies are exploring SoOp systems that pair advanced Qualcomm silicon with AI for autonomous and GPS limited settings. Qualcomm's push into intelligent cockpit SoCs and SoOp...",
+            "id": "a10"
+          },
           {
             "title": "Best semiconductor ETFs: SMH leads on cost, liquidity and momentum",
             "url": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-etfs-smh-leads-210610694.html?.tsrc=rss",
@@ -23080,7 +22278,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-16T21:06:10.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.500Z",
+            "fetchedAt": "2026-11-17T04:48:11.424Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -23088,7 +22286,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Investing.com -- No single chip ETF stands out as \"the best\" right now, but VanEck Semiconductor ETF (SMH) screens as the strongest all-round candidate on the data pulled. The trigger was a post-election rotation out of chips and AI stocks on regulation and export-control fears. On Nov 5, 2026, Applied Materials fell 11.7% and a chip ETF dropped more than 7%. Qualcomm’s weak smartphone-chip sales added to the pressure.",
-            "id": "a5"
+            "id": "a20"
           },
           {
             "title": "Signals of Opportunity (SoOp) Market 2026: Global Forecast to 2030 | Capitalize on 17.2% CAGR and GPS-Denied Navigation with Qualcomm, BAE Systems, Safran and L3Harris",
@@ -23098,7 +22296,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-16T15:28:00.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.500Z",
+            "fetchedAt": "2026-11-17T04:48:11.424Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -23106,7 +22304,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Boost ROI by scaling PNT-as-a-Service globally, targeting defense and GPS-denied navigation, advancing AI-driven signal fusion, and forming space-industry partnerships.Dublin, Nov. 16, 2026 (GLOBE NEWSWIRE) -- \"Signals of Opportunity (SoOp) Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global signals of opportunity (SoOp) market is experiencing rapid growth as governments, defense agencies, and technology providers increase investment in resilient positioning, navi",
-            "id": "a20"
+            "id": "a28"
           },
           {
             "title": "If Phone Sales Keep Shrinking, What Happens To Your Qualcomm Stock?",
@@ -23116,7 +22314,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-16T11:42:11.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.500Z",
+            "fetchedAt": "2026-11-17T04:48:11.424Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -23124,7 +22322,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "For questions about this article or underlying research, email help@trefis.com.",
-            "id": "a35"
+            "id": "a38"
           },
           {
             "title": "ETFs Are Net Sellers of Qualcomm (QCOM) on Nov. 12",
@@ -23134,7 +22332,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-16T11:03:35.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.500Z",
+            "fetchedAt": "2026-11-17T04:48:11.424Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -23142,7 +22340,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "ETFs sold a net $51.7 million of Qualcomm stock last Thursday.",
-            "id": "a36"
+            "id": "a39"
           },
           {
             "title": "Bernstein Says Qualcomm’s “Margin Outlook Is Lousy.” Is the 6% Slide a Buying Chance?",
@@ -23152,7 +22350,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-15T04:33:21.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.500Z",
+            "fetchedAt": "2026-11-17T04:48:11.424Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -23161,29 +22359,11 @@ export const NEWS_DATA = {
             "stakeholders": [],
             "summary": "Key TakeawaysQualcomm’s handset revenue fell 26% to $5. 14 billion, missing estimates, while automotive revenue jumped 89% to a record $1.",
             "id": "a42"
-          },
-          {
-            "title": "Micron Technology vs. Qualcomm: Which Tech Stock Is the Better Buy for 2027?",
-            "url": "https://www.fool.com/coverage/better-buy/2026/11/13/micron-technology-qualcomm-which-tech-stock-better-buy-for-2027/?.tsrc=rss",
-            "description": "One of these chipmakers is riding a record AI-driven surge, while the other is working to reinvent itself beyond the smartphone.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-14T01:31:02.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.500Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "One of these chipmakers is riding a record AI-driven surge, while the other is working to reinvent itself beyond the smartphone.",
-            "id": "a44"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-11-16T22:33:24.012Z",
+        "generatedAt": "2026-11-17T04:48:18.028Z",
         "date": "2026-11-17",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -23194,7 +22374,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-11-16T22:33:24.012Z",
+        "generatedAt": "2026-11-17T04:48:18.028Z",
         "date": "2026-11-17",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -23205,24 +22385,24 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-11-16T22:33:24.012Z",
+        "generatedAt": "2026-11-17T04:48:18.028Z",
         "date": "2026-11-17",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (37 articles), market-performance (1 article). A total of 38 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (34 articles), market-performance (3 articles). A total of 37 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Trump's New Chip Export Rule Targets China but Exempts TikTok's Parent Company Reason Magazine",
+              "text": "Geopolitics & Export Controls: Managing Editor for Asian Equities at Bloomberg News Lianting Tu says tighter access to chips could constrain AI model training in China and potentially slow sales growth for AI cloud businesses. That",
               "articleIds": [
                 "a1"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
-              "text": "market-performance: Qualcomm stock has fallen by 33% from its high, and now trades at just a single-digit multiple of management's fiscal 2029 earnings target.",
+              "text": "market-performance: Xi Qiao, UBS financial advisor and managing director, said Nvidia faces a particularly difficult backdrop ahead of earnings, including tougher U.S. export restrictions and concerns surrounding Jensen ",
               "articleIds": [
-                "a43"
+                "a5"
               ],
               "subCategory": "market-performance"
             }
@@ -23230,24 +22410,296 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
-            "title": "Trump's New Chip Export Rule Targets China but Exempts TikTok's Parent Company - Reason Magazine",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWnpVMnhfT1pJblV5SlJjVmxSamlrVldLb0NNZUN2RlVLZmRnS3hWT3hrTTNydnF2X3N2TzNSMHFxb2x4ZjRiVGw0cFpiZTVDblVpQmlLVE1ZMng0SThaUHVINTA3aWJXMjUxcllQQXhJV29XUjBzRlI0VUtta0tuQWl6cXRycnlQbHRkTm1abUdIWFlnRXRCaFltWXkyTTVCVjF3UjY3eS1FTzQ?oc=5",
-            "description": "Trump's New Chip Export Rule Targets China but Exempts TikTok's Parent Company Reason Magazine",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
+            "title": "Impact of US Move to Curb Chip Access",
+            "url": "https://www.bloomberg.com/news/videos/2026-11-17/impact-of-us-move-to-curb-chip-access-video",
+            "description": "Managing Editor for Asian Equities at Bloomberg News Lianting Tu says tighter access to chips could constrain AI model training in China and potentially slow sales growth for AI cloud businesses. That could have a knock-on effect on data-center expansion and demand for Chinese hardware companies, some of which supply Nvidia, as the Trump administration moves to limit countries from providing Chinese companies remote access to advanced artificial intelligence chips and servers. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
             "sourceGroup": "finance",
-            "publishedAt": "2026-11-16T22:14:01.000Z",
-            "fetchedAt": "2026-11-16T22:33:23.982Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Reason Magazine",
+            "publishedAt": "2026-11-17T04:23:01.000Z",
+            "fetchedAt": "2026-11-17T04:48:11.574Z",
+            "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Trump's New Chip Export Rule Targets China but Exempts TikTok's Parent Company Reason Magazine",
+            "summary": "Managing Editor for Asian Equities at Bloomberg News Lianting Tu says tighter access to chips could constrain AI model training in China and potentially slow sales growth for AI cloud businesses. That could have a knock-on effect on data-center expansion and demand for Chinese hardware companies, some of which supply Nvidia, as the Trump administration moves to limit countries from providing Chinese companies remote access to advanced artificial intelligence chips and servers.",
             "id": "a1"
+          },
+          {
+            "title": "Nokia’s new China licensing head outlines approach to booming market",
+            "url": "https://www.iam-media.com/article/nokias-new-china-licensing-head-outlines-approach-booming-market",
+            "description": "In an interview with IAM, Dazhi Wang says China’s maturing implementer landscape is both a challenge and an opportunity in SEP licensing",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-11-17T04:00:00.000Z",
+            "fetchedAt": "2026-11-17T04:48:14.055Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "In an interview with IAM, Dazhi Wang says China’s maturing implementer landscape is both a challenge and an opportunity in SEP licensing",
+            "id": "a2"
+          },
+          {
+            "title": "China AI Highflier Crashes 85% as Chip Fears Hit Model Makers",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-17/china-ai-highflier-crashes-85-as-chip-fears-hit-model-makers",
+            "description": "Few stocks rode China’s artificial intelligence frenzy as spectacularly as model developer Z.AI Co. Now, its dramatic reversal is laying bare the vulnerabilities facing the country’s AI upstarts.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T03:50:54.000Z",
+            "fetchedAt": "2026-11-17T04:48:11.574Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Few stocks rode China’s artificial intelligence frenzy as spectacularly as model developer Z.AI Co. Now, its dramatic reversal is laying bare the vulnerabilities facing the country’s AI upstarts.",
+            "id": "a3"
+          },
+          {
+            "title": "US probed Megaspeed over export control violations in 2024, sought Nvidia sales records - The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObzBmSHcxOE5GcFg2YlFIY21tZjlrQ3MtZzZBVlZfMjNwLW5QckdhT3Y4Q3ByVFZjV1JDcEZseWJsSGJQU3Y3ZUhCWmVJYXZLOG9IcEE0b19QQmt3NGl6azBTOEhSOW5DQXBfd1lNNHllblNyR2lySlN3dlRrbUVoZWZWejlXOW5sQUNvdjloVWM4MDk3RGFEQTFwZmJpYVRPYTVuTld6VmtINVA0am9GcnpaLVBFX1dyMGNDVE9FS2ZnZjd1TFVZRkhhVW5POFdQdEkzM1FleThoZi03ZUhuQTRDZHhsOVQtSEVPMDk2U2otb0xlRWtHNEJ6bk1yVjDSAYQCQVVfeXFMT2Y2YjNucFJ3SXo3aXU3ZGRwelNIZkdNY25xNFhsZTE5cWR4a2d2Q2xldGVmMkg3eUZydWxqNzlsREVjaFFIMXAzWE1ZeTBCTkdCY095ZmJ5eVh2VzVzVk80cEpNREJLaWhzWDZzT19wbkQwOHBCOHh4RkdnRzRQUThDWFVtN2xEX3dmTm1JUnpBYnRjeHQ4VVV0OFB1R0lBYkEzQU5nQ3ZMN0p4VWdLaE54aEMtbzhMeVZoaWJCS3ZLcGhrOVkzeWV0VEtKazJwT1BvUC1acE1fZjlpT2g3ckMtNmlwN0tIY3VwbGdjWERWVm5lamw2UzYwTkRZTGx5azJsa0s?oc=5",
+            "description": "US probed Megaspeed over export control violations in 2024, sought Nvidia sales records The Economic Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T03:50:35.000Z",
+            "fetchedAt": "2026-11-17T04:48:17.869Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Economic Times",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US probed Megaspeed over export control violations in 2024, sought Nvidia sales records The Economic Times",
+            "id": "a4"
+          },
+          {
+            "title": "More Volatility Forecast for AI as Nvidia Earnings Loom",
+            "url": "https://www.bloomberg.com/news/videos/2026-11-17/more-volatility-forecast-for-ai-as-nvidia-earnings-loom-video",
+            "description": "Xi Qiao, UBS financial advisor and managing director, said Nvidia faces a particularly difficult backdrop ahead of earnings, including tougher U.S. export restrictions and concerns surrounding Jensen Huang. Qiao expects near-term volatility in Nvidia and the broader AI trade, as markets brace for slower investment in the AI ecosystem and possible supply-chain disruptions. Qiao advised investors to stay invested while diversifying across sectors, regions and asset classes. Original filename: 20261117_004905_Xi_Qiao_Sees_More_Volatility_Ahead_of_Nvidia_Earnings.mp4 (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T02:32:11.000Z",
+            "fetchedAt": "2026-11-17T04:48:11.574Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Xi Qiao, UBS financial advisor and managing director, said Nvidia faces a particularly difficult backdrop ahead of earnings, including tougher U.S. export restrictions and concerns surrounding Jensen Huang. Qiao expects near-term volatility in Nvidia and the broader AI trade, as markets brace for slower investment in the AI ecosystem and possible supply-chain disruptions. Qiao advised investors to stay invested while diversifying across sectors, regions and asset classes. Original filename: 20261117_004905_Xi_Qiao_Sees_More_Volatility_Ahead_of_Nvidia_Earnings.mp4 (Source: Bloomberg)",
+            "id": "a5"
+          },
+          {
+            "title": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors - Semiconductor Industry Association | SIA",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc0o2bjRXc1pGTFYxZS1KcHl0ZWhPcDA1am9mM0dtWGRfM05WckhvRDFKQ1hjZTRRZEhpM0x0QXJHSk1rOF9WY25LS0gtVDBhU1pfdElJX18xZ1RkZmVYNThEWk1MUnRqVWlEbVpRZlpTcXIxd1NWT0lvbmI2SC1NbVBrTUZzV1FIVm5nMWFrNXhMVElnakFUemhRbW5FdVFnNTQtRENTNFhxRVhCa2k5THNIckZBUkU2V0UtNThBWEZWQQ?oc=5",
+            "description": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T01:51:24.000Z",
+            "fetchedAt": "2026-11-17T04:48:17.869Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Semiconductor Industry Association | SIA",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "industry-assoc"
+            ],
+            "summary": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
+            "id": "a6"
+          },
+          {
+            "title": "Jensen Huang's Return Bid Faces U.S. Opposition Over Export Control Concerns - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWVFxX25RSDljZG5FYW16RFNabUdzaWZTYzZLcEN3YUFET0hfNEg1b0tFVGk2VElYLUh3eU5GU1VJMjFfNDRwd1Y4TXdldW1UbUtHaXVCNjlkZW5nSGl4YTBGZ2ltdDl6TG1ZM2hMNzFmWHZlQlVCNVpnT3cxTG5UcFBVS2EteEtV?oc=5",
+            "description": "Jensen Huang's Return Bid Faces U.S. Opposition Over Export Control Concerns 조선일보",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T01:32:06.000Z",
+            "fetchedAt": "2026-11-17T04:48:17.869Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "조선일보",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Jensen Huang's Return Bid Faces U.S. Opposition Over Export Control Concerns 조선일보",
+            "id": "a7"
+          },
+          {
+            "title": "US chip export control: Singapore assessing impact of new measures aimed at curbing China's access - AsiaOne.com",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbXhHTzJVMmlVV2gzYVpybjIwd0N1dENvTG5COTVvd1BPVUdjLWFXcWNZQVZnWWs0RjJkZXktcFRPMjFpWnNLY0xMZXJweTQ2Z1F0OWl2MEYybk1VMXhaclJ4d2kyMEhIeTdvQlI0OVZ4dWlhVWZfaHJNSnhFdFFNa3VhUQ?oc=5",
+            "description": "US chip export control: Singapore assessing impact of new measures aimed at curbing China's access AsiaOne.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T01:09:43.000Z",
+            "fetchedAt": "2026-11-17T04:48:17.869Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "AsiaOne.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US chip export control: Singapore assessing impact of new measures aimed at curbing China's access AsiaOne.com",
+            "id": "a8"
+          },
+          {
+            "title": "Qualcomm CEO: “There Is No AI Correction” at Qualcomm. Nvidia’s November 17 Earnings Face a Major Test",
+            "url": "https://www.tikr.com/blog/qualcomm-ceo-there-is-no-ai-correction-at-qualcomm-nvidias-november-17-earnings-face-a-major-test?ref=yahoofinance&tlnk=yf-261116-766m6rp9&.tsrc=rss",
+            "description": "Key TakeawaysQualcomm (QCOM) CEO Cristiano Amon said there is no AI correction at his company, citing strong semiconductor demand and industrywide supply shortages despite the recent technology selloff. NVIDIA (NVDA) faces its November 17 earnings report following Jensen Huang’s resignation, with investors watching whether AI infrastructure demand can sustain its aggressive growth forecasts.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T00:27:41.000Z",
+            "fetchedAt": "2026-11-17T04:48:11.424Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Key TakeawaysQualcomm (QCOM) CEO Cristiano Amon said there is no AI correction at his company, citing strong semiconductor demand and industrywide supply shortages despite the recent technology selloff. NVIDIA (NVDA) faces its November 17 earnings report following Jensen Huang’s resignation, with investors watching whether AI infrastructure demand can sustain its aggressive growth forecasts.",
+            "id": "a9"
+          },
+          {
+            "title": "Asia Data Center Hotbed Hit by US Chip Curbs as Trump Visits",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-16/asia-s-data-center-hotbed-hit-by-us-chip-curbs-as-trump-visits",
+            "description": "President Donald Trump is targeting Southeast Asia in Washington’s rush to tighten China’s access to the world’s most advanced chips, with his administration announcing new rules just before he travels to the region.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-16T23:55:29.000Z",
+            "fetchedAt": "2026-11-17T04:48:11.574Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "President Donald Trump is targeting Southeast Asia in Washington’s rush to tighten China’s access to the world’s most advanced chips, with his administration announcing new rules just before he travels to the region.",
+            "id": "a11"
+          },
+          {
+            "title": "‘Don’t insult China’: Trump’s reckless disregard for American security - The Australian",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR1h4YVZuWUY1TEZpTkNJLW55QzA4bGpsVnp5QTJpcWphS0RtZkljTngxdWZzMnZzLXBsVEpPdkwwSmE1LVhvak0taGs1WGdSOUEtdC1UM3FFckRUS2d3UEczMEZKaTlJSE1DOEhINU1XaHVZV05DVE9LWFd6Rkx4ekMwUWRsTXo3UEZUVEhIYnp0RGtLYklFZ2JMMzRhZmx4NHkxYUJTQkwyR1IwVjctZXVfZDBRRmhGREJRZ1lRU2tscEZTMEtFdFhEVDVTdk50LTRJZ0JCMC05UQ?oc=5",
+            "description": "‘Don’t insult China’: Trump’s reckless disregard for American security The Australian",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-16T23:46:19.000Z",
+            "fetchedAt": "2026-11-17T04:48:17.869Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Australian",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "‘Don’t insult China’: Trump’s reckless disregard for American security The Australian",
+            "id": "a12"
+          },
+          {
+            "title": "Russia aims for ‘joint statement’ from trilateral summit with US and China",
+            "url": "https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1",
+            "description": "Thursday’s unprecedented meeting of Donald Trump, Xi Jinping and Vladimir Putin has drawn intense international attention",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-16T23:22:46.000Z",
+            "fetchedAt": "2026-11-17T04:48:11.792Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Thursday’s unprecedented meeting of Donald Trump, Xi Jinping and Vladimir Putin has drawn intense international attention",
+            "id": "a13"
+          },
+          {
+            "title": "US agency’s AI chip disclaimer exposes Trump administration rift: experts - South China Morning Post",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSjh3cmFJVVo5eF9iTHY2Y2ZxbUxPbFh4Ny11WjdjeWJ4c1hYOW5aUVQwZmxLblQtSUJfZjVQMkdPUG1DdlVFXzhqZFZFbVNMVzBkWmNSMTdLSFFyd1Zab0IyZUd4SEdCeXY2N3FoV1kwa3A2ZEE4QmdMYXY3QWVhU1ZLVGxFbE54MFp1eDVsdU13Y1RaaGpPbmc2dEZURFhDRUZ3RG5xZTZaM3lTRFRHX1BXRXhoVUFXSzRkTU9R0gG-AUFVX3lxTE4xcng3Y1lQVGJVdHV0QTVDMnowbXBqdEZhZWpQc3g1cVR1bkR3Q1BzMENMLUZ6T2t4aGc3TnRUMkRTUFF3VjFYcGRlQ0FMSVczZFl0N05HZWhhTGVoMWlsZVptT3U5cklnSFU4ajB1NEJBWTZuX2lQaE1jYjUxemRWeUI0WWJxWDBzb2VGLVZMUTROX1prMHRaSkRneXNTLU81NWkyRGZwc1pyMXNBYXdCRlprbzExODhfZUhGQ1E?oc=5",
+            "description": "US agency’s AI chip disclaimer exposes Trump administration rift: experts South China Morning Post",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-16T23:16:38.000Z",
+            "fetchedAt": "2026-11-17T04:48:17.869Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "South China Morning Post",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US agency’s AI chip disclaimer exposes Trump administration rift: experts South China Morning Post",
+            "id": "a14"
+          },
+          {
+            "title": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
+            "url": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
+            "description": "There's one formula for success behind the rise of trendy new Chinese fashion brands, according to Euromonitor International.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-16T23:00:01.000Z",
+            "fetchedAt": "2026-11-17T04:48:11.240Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "There's one formula for success behind the rise of trendy new Chinese fashion brands, according to Euromonitor International.",
+            "id": "a15"
+          },
+          {
+            "title": "China’s Top AI Firms Limit Cyber Capabilities in Latest Models",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models",
+            "description": "China’s top AI developers are releasing advanced models with reduced offensive cyber capabilities, stifling their ability to aid online attacks following a government proposal to ban such technology from being exported.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-16T23:00:00.000Z",
+            "fetchedAt": "2026-11-17T04:48:11.574Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China’s top AI developers are releasing advanced models with reduced offensive cyber capabilities, stifling their ability to aid online attacks following a government proposal to ban such technology from being exported.",
+            "id": "a16"
           },
           {
             "title": "Commerce Department Moves to Crack Down on Chip Exports - WSJ",
@@ -23257,7 +22709,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-16T22:11:00.000Z",
-            "fetchedAt": "2026-11-16T22:33:23.982Z",
+            "fetchedAt": "2026-11-17T04:48:17.869Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "WSJ",
             "geopoliticalBypass": true,
@@ -23267,7 +22719,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Commerce Department Moves to Crack Down on Chip Exports WSJ",
-            "id": "a2"
+            "id": "a17"
           },
           {
             "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
@@ -23277,7 +22729,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-16T21:51:43.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.278Z",
+            "fetchedAt": "2026-11-17T04:48:11.240Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23286,7 +22738,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The rule was written by the Treasury Department and the National Security Council after criticism of Commerce Secretary Howard Lutnick.",
-            "id": "a3"
+            "id": "a18"
           },
           {
             "title": "Inside Lutnick's Commerce Department, lack of action on alleged AI chip smuggling came with a side of \"chaos,\" ex-employees say - CBS News",
@@ -23296,7 +22748,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-16T21:27:00.000Z",
-            "fetchedAt": "2026-11-16T22:33:23.982Z",
+            "fetchedAt": "2026-11-17T04:48:17.869Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "CBS News",
             "geopoliticalBypass": true,
@@ -23306,46 +22758,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Inside Lutnick's Commerce Department, lack of action on alleged AI chip smuggling came with a side of \"chaos,\" ex-employees say CBS News",
-            "id": "a4"
-          },
-          {
-            "title": "Rep. Steube to Newsmax: Nvidia Probe Must Focus on China - Newsmax",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY043ZVJ2UmZxZ2FRSkw5bjJUWkcyRDY2YnNGREwwcHpic184V1VkZEZDaVAyVFRPWENWSWx3MEZfcHlGVlU2RzVSaVFhVjZsU1B3Z2R0UkV5d2xCRndiMEZMazRnUkpQZUdRa0tSRldxc0QwMi1PeGRkNjlqNk55YTZDSlBkLWZxMnZFcU1xSjktYzA?oc=5",
-            "description": "Rep. Steube to Newsmax: Nvidia Probe Must Focus on China Newsmax",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-16T20:19:50.000Z",
-            "fetchedAt": "2026-11-16T22:33:23.983Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Newsmax",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Steube to Newsmax: Nvidia Probe Must Focus on China Newsmax",
-            "id": "a6"
-          },
-          {
-            "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-            "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-            "description": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering free access to vetted organizations, giving developers more guidance on how to detect this type of content, and helping to train law enforcement on how AI can aid their investigations. The news comes as policymakers and others are pushing for more safety restrictions on AI tools, accusing OpenAI and other co … Read the full story at The Verge.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-11-16T19:23:45.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.953Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering free access to vetted organizations, giving developers more guidance on how to detect this type of content, and helping to train law enforcement on how AI can aid their investigations. The news comes as policymakers and others are pushing for more safety restrictions on AI tools, accusing OpenAI and other co … Read the full story at The Verge.",
-            "id": "a7"
+            "id": "a19"
           },
           {
             "title": "Putin-Xi Meeting Unlikely to Bring Substantive Results for Trump, Says Jane Harman",
@@ -23355,7 +22768,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-16T19:16:14.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.685Z",
+            "fetchedAt": "2026-11-17T04:48:11.574Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23364,7 +22777,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Jane Harman, a former ranking Democrat on the House Intelligence Committee, talked about the potential national security risks from the Nvidia scandal, Trump’s upcoming meetings in Asia and the Senate Democratic leadership battle. Harman said that potential meetings between President Trump, Xi Jinping and Putin in China are unlikely to provide any substantive results other than a 'good photo op.' On the fight for Senate leadership between Chuck Schumer and Chris Van Hollen, Harman said that no matter the leader, Democrats should take seriously voters' calls for change.",
-            "id": "a8"
+            "id": "a21"
           },
           {
             "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
@@ -23374,7 +22787,7 @@ export const NEWS_DATA = {
             "sourceId": "techcrunch",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-16T19:12:02.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.326Z",
+            "fetchedAt": "2026-11-17T04:48:11.273Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23383,45 +22796,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-            "id": "a9"
-          },
-          {
-            "title": "Tusk: Jensen Huang Should Not Return as Nvidia CEO",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-16/tusk-jensen-huang-should-not-return-as-nvidia-ceo-video",
-            "description": "Tusk Ventures co-founder Bradley Tusk says Congress should examine the relationships between Nvidia’s former leadership and the Trump administration as questions remain over China, chip exports and national security. He discusses why he believes Jensen Huang should not return as CEO, what tighter US export controls could mean for Nvidia and the broader startup ecosystem, and why Silicon Valley’s reliance on high-profile founders and CEOs deserves more scrutiny as Anthropic prepares to go public. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-16T19:04:31.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.685Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Tusk Ventures co-founder Bradley Tusk says Congress should examine the relationships between Nvidia’s former leadership and the Trump administration as questions remain over China, chip exports and national security. He discusses why he believes Jensen Huang should not return as CEO, what tighter US export controls could mean for Nvidia and the broader startup ecosystem, and why Silicon Valley’s reliance on high-profile founders and CEOs deserves more scrutiny as Anthropic prepares to go public. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-            "id": "a10"
-          },
-          {
-            "title": "Nvidia Fallout Adds New Tension to US-China AI Race",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-fallout-adds-new-tension-to-us-china-ai-race-video",
-            "description": "The US-China technology rivalry is in focus as President Trump travels to China for talks with Xi Jinping, with AI chips, export controls and rare earths among the key issues shaping the relationship. Krach Institute for Tech Diplomacy CEO Michelle Giuda discusses why Nvidia remains critical to US technological leadership and the importance of tightening chip export controls. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-16T18:57:05.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.685Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The US-China technology rivalry is in focus as President Trump travels to China for talks with Xi Jinping, with AI chips, export controls and rare earths among the key issues shaping the relationship. Krach Institute for Tech Diplomacy CEO Michelle Giuda discusses why Nvidia remains critical to US technological leadership and the importance of tightening chip export controls. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-            "id": "a11"
+            "id": "a22"
           },
           {
             "title": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk",
@@ -23431,7 +22806,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-16T18:55:46.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.278Z",
+            "fetchedAt": "2026-11-17T04:48:11.240Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23440,45 +22815,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "President Trump told reporters before departing for a trip to Asia that former Nvidia CEO Jensen Huang's affair did not put U.S. national security at risk.",
-            "id": "a12"
-          },
-          {
-            "title": "Nvidia’s Defining Week: CEO Search, Earnings and China",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-tech-11-16-2026-video",
-            "description": "Bloomberg’s Ed Ludlow breaks down Nvidia's defining week as the chip giant searches for a new CEO while earnings loom. Plus, President Trump is set to meet with Xi and Putin in China, as AI chips, trade and the Nvidia fallout loom over the summit. And Anthropic prepares for a record-breaking IPO this week. (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-16T18:51:33.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.685Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Bloomberg’s Ed Ludlow breaks down Nvidia's defining week as the chip giant searches for a new CEO while earnings loom. Plus, President Trump is set to meet with Xi and Putin in China, as AI chips, trade and the Nvidia fallout loom over the summit. And Anthropic prepares for a record-breaking IPO this week.",
-            "id": "a13"
-          },
-          {
-            "title": "Russia aims for ‘joint statement’ from trilateral summit with US and China",
-            "url": "https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1",
-            "description": "Thursday’s unprecedented meeting of Donald Trump, Xi Jinping and Vladimir Putin has drawn intense international attention",
-            "source": "Financial Times",
-            "sourceId": "ft",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-16T18:19:17.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.860Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Thursday’s unprecedented meeting of Donald Trump, Xi Jinping and Vladimir Putin has drawn intense international attention",
-            "id": "a14"
+            "id": "a23"
           },
           {
             "title": "Embattled Commerce Secretary Lutnick joins Trump on trip to China as national security questions swirl - Blaze Media",
@@ -23488,7 +22825,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-16T17:17:25.000Z",
-            "fetchedAt": "2026-11-16T22:33:23.983Z",
+            "fetchedAt": "2026-11-17T04:48:17.869Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Blaze Media",
             "geopoliticalBypass": true,
@@ -23498,7 +22835,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Embattled Commerce Secretary Lutnick joins Trump on trip to China as national security questions swirl Blaze Media",
-            "id": "a15"
+            "id": "a24"
           },
           {
             "title": "Russia’s richest woman hit by EU sanctions",
@@ -23508,7 +22845,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-16T17:11:52.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.860Z",
+            "fetchedAt": "2026-11-17T04:48:11.792Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23517,27 +22854,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Founder of country’s largest online retailer Wildberries targeted in latest round of EU sanctions over war in Ukraine",
-            "id": "a16"
-          },
-          {
-            "title": "Commerce Department moves to crack down on Chinese AI chip loophole amid Nvidia scandal - New York Post",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQk9pbHlwam93eHc4aTEwYWRZejlIVDJYRTk4NE15LVlITWZqWFdzWThiSmtmMzN5T3BFbm9MSkg0ZWx2NkVvcWx6N1BHYzMyVldscXdWTzdjTGIxVGZQcVhEaDhwWEFCSDNIaTlDQlJXZWlJLTBOMlJKOF9XN0d1eE5uRnNlemVyam1MaFNTc2F1YVJ3NWNIUXVuT1pYNDg0NW1UczhrbU5VbEpMQ1p5U2RKWjdRdnNfSXR1VVVWeXFFS1ZmVmc?oc=5",
-            "description": "Commerce Department moves to crack down on Chinese AI chip loophole amid Nvidia scandal New York Post",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-16T17:04:00.000Z",
-            "fetchedAt": "2026-11-16T22:33:23.983Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "New York Post",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Commerce Department moves to crack down on Chinese AI chip loophole amid Nvidia scandal New York Post",
-            "id": "a17"
+            "id": "a25"
           },
           {
             "title": "OpenAI will embed safety researchers to investigate AI subversion",
@@ -23547,7 +22864,7 @@ export const NEWS_DATA = {
             "sourceId": "techcrunch",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-16T17:02:43.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.326Z",
+            "fetchedAt": "2026-11-17T04:48:11.273Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23556,7 +22873,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-            "id": "a18"
+            "id": "a26"
           },
           {
             "title": "US tightens AI chip rules, targets overseas data centres",
@@ -23566,7 +22883,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-16T16:11:05.000Z",
-            "fetchedAt": "2026-11-16T22:33:21.521Z",
+            "fetchedAt": "2026-11-17T04:48:16.126Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23575,7 +22892,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The US Commerce Department moved to close a loophole which let China-based companies rent US computing power from overseas data centres to train advanced AI models. The post US tightens AI chip rules, targets overseas data centres appeared first on Mobile World Live.",
-            "id": "a19"
+            "id": "a27"
           },
           {
             "title": "US introduces fresh AI chip export controls for five countries over national security concerns - Zee Business",
@@ -23585,7 +22902,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-16T15:25:47.000Z",
-            "fetchedAt": "2026-11-16T22:33:23.983Z",
+            "fetchedAt": "2026-11-17T04:48:17.869Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Zee Business",
             "geopoliticalBypass": true,
@@ -23595,27 +22912,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "US introduces fresh AI chip export controls for five countries over national security concerns Zee Business",
-            "id": "a21"
-          },
-          {
-            "title": "Nvidia Faces China Export Curbs as Shares Fall 4% - JournalArta",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbEtReTFNaEtCc2xpZEJUQmZJNjBEVy1XZWhadG5NeERWdFJ4X2c4QlNzQnd5STVkSzJqemZrR25KdEN4UV9GMURIZmhIMnlvY1lIUlFnRU04aXBGMDNNZDE4U1JmQ09ERklkTTQ2eTUzQUtreERWbDM1cGcyY2Q5VlNR?oc=5",
-            "description": "Nvidia Faces China Export Curbs as Shares Fall 4% JournalArta",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-16T15:25:06.000Z",
-            "fetchedAt": "2026-11-16T22:33:23.983Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "JournalArta",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Nvidia Faces China Export Curbs as Shares Fall 4% JournalArta",
-            "id": "a22"
+            "id": "a29"
           },
           {
             "title": "US senator demands 'immediate action' to close China AI chip loopholes amid Nvidia diversion claims - Anadolu Ajansı",
@@ -23625,7 +22922,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-16T15:24:54.000Z",
-            "fetchedAt": "2026-11-16T22:33:23.982Z",
+            "fetchedAt": "2026-11-17T04:48:17.869Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Anadolu Ajansı",
             "geopoliticalBypass": true,
@@ -23635,7 +22932,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "US senator demands 'immediate action' to close China AI chip loopholes amid Nvidia diversion claims Anadolu Ajansı",
-            "id": "a23"
+            "id": "a30"
           },
           {
             "title": "China Automotive Intelligent Cockpit SoC Market Research Report, 2026-2030 | AI and Cockpit-Driving Integration Unlock Growth in the RMB100,000-200,000 Segment",
@@ -23645,7 +22942,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-16T15:19:00.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.500Z",
+            "fetchedAt": "2026-11-17T04:48:11.424Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23654,26 +22951,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Cockpit SoCs shift to advanced processes, SIP, cockpit-driving integration and AI, while Chiplet and plug-and-play AI Box solutions cut costs, shorten R&D cycles and scale computing.Dublin, Nov. 16, 2026 (GLOBE NEWSWIRE) -- \"Automotive Intelligent Cockpit SoC Research Report, 2026\" has been added to ResearchAndMarkets.com's offering. Passenger cars priced between RMB100,000 and RMB200,000 account for nearly half of total sales, making this segment a critical battleground for automotive cockpit S",
-            "id": "a24"
-          },
-          {
-            "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
-            "url": "https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1",
-            "description": "Summits in China and the Philippines provide a backdrop for a string of meetings involving powerful global rivals",
-            "source": "Financial Times",
-            "sourceId": "ft",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-16T15:10:54.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.860Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Summits in China and the Philippines provide a backdrop for a string of meetings involving powerful global rivals",
-            "id": "a25"
+            "id": "a31"
           },
           {
             "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
@@ -23683,7 +22961,7 @@ export const NEWS_DATA = {
             "sourceId": "techcrunch",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-16T15:02:34.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.326Z",
+            "fetchedAt": "2026-11-17T04:48:11.273Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23692,7 +22970,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
-            "id": "a26"
+            "id": "a32"
           },
           {
             "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely - TechCrunch",
@@ -23702,7 +22980,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-16T15:02:34.000Z",
-            "fetchedAt": "2026-11-16T22:33:23.982Z",
+            "fetchedAt": "2026-11-17T04:48:17.869Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "TechCrunch",
             "geopoliticalBypass": true,
@@ -23712,47 +22990,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely TechCrunch",
-            "id": "a27"
-          },
-          {
-            "title": "Cantwell Accuses Lutnick of Weakening Nvidia Chip Export Controls - cwibc.co.id",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ua3kxM3lIRUk4cTRQelA2QzVoZE52VGpxanNuSGdaUURKbHZLMXc4QU5PaFJ0SDhsVy1sckJROHJkZjA0QlVhR1VBWmRkaVBkNjI5b1JBbG8tblBvV3V0Zm15R3F3dFBZd3BveA?oc=5",
-            "description": "Cantwell Accuses Lutnick of Weakening Nvidia Chip Export Controls cwibc.co.id",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-16T14:37:09.000Z",
-            "fetchedAt": "2026-11-16T22:33:23.983Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "cwibc.co.id",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Cantwell Accuses Lutnick of Weakening Nvidia Chip Export Controls cwibc.co.id",
-            "id": "a28"
-          },
-          {
-            "title": "US Tightens Restrictions On Remote Access To Advanced AI Computing Power - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS0stM0U4ZldYYm9LNEtjTURNZW04RHV2cldWR0J5cFdGN2VycGhWQkNLcWNyeVhqYVFXaTVIVFg2dllha2c1NlVBa3BZSmp2SkhwS1lMRVJJaDlSa1BkTkJEckJrZWpzOEc2LWpHcWZJSTNwXzlMTmQ0c3hxSUJsY2NfOFNMeXZSbVZ3RGxUelBvdU5GQzA5bHMxdFpyNGRPMWplNDNVSTRxNDVzWnJEZm8xYkk5QlphTnZGU25FbzJvUEN3aDJJS0dqUTRFdw?oc=5",
-            "description": "US Tightens Restrictions On Remote Access To Advanced AI Computing Power TradingView",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-16T14:35:29.000Z",
-            "fetchedAt": "2026-11-16T22:33:23.983Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "TradingView",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "US Tightens Restrictions On Remote Access To Advanced AI Computing Power TradingView",
-            "id": "a29"
+            "id": "a33"
           },
           {
             "title": "Backdoor subsidy for data centers? Analyst says let CHIPS Act tax credit expire - Baltimore Sun",
@@ -23762,7 +23000,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-16T13:15:46.000Z",
-            "fetchedAt": "2026-11-16T22:33:23.982Z",
+            "fetchedAt": "2026-11-17T04:48:17.869Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Baltimore Sun",
             "geopoliticalBypass": true,
@@ -23772,27 +23010,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Backdoor subsidy for data centers? Analyst says let CHIPS Act tax credit expire Baltimore Sun",
-            "id": "a30"
-          },
-          {
-            "title": "Cantwell, Bessent Accuse US Commerce Department of Weakening AI Chip Export Controls to China - Tekedia",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYWVWNFEya0ZMUnZqNThnWnlabG5vb2lRUWl3TVdDdzhWalRXNF8yNGkza1NPRm1sWWhqVGdTaVFDQVAzbENhUnhfTmJPeUZZOWdpWGJ6S0kzRzRIZkR5SkRnWWRhT0hBU1R5UjgtZXlwRGltVEdycEVpb2M2VFdGQVhpWVZaVGUwMDNwYmkxUVVBQUhad3BfTTEwc2RHS3ZSQ0ZHUVFGM3pmU3VkM18yZE5TRFJfTUJD?oc=5",
-            "description": "Cantwell, Bessent Accuse US Commerce Department of Weakening AI Chip Export Controls to China Tekedia",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-16T12:32:56.000Z",
-            "fetchedAt": "2026-11-16T22:33:23.983Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Tekedia",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Cantwell, Bessent Accuse US Commerce Department of Weakening AI Chip Export Controls to China Tekedia",
-            "id": "a31"
+            "id": "a34"
           },
           {
             "title": "Why Putin, Trump and Xi cannot be the new ‘big three’",
@@ -23802,7 +23020,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-16T12:22:48.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.860Z",
+            "fetchedAt": "2026-11-17T04:48:11.792Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23811,7 +23029,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The leaders of the US, China and Russia cannot carve up the world between them, even if they wanted to",
-            "id": "a32"
+            "id": "a35"
           },
           {
             "title": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
@@ -23821,7 +23039,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-16T12:13:47.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.278Z",
+            "fetchedAt": "2026-11-17T04:48:11.240Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23830,27 +23048,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Commerce Secretary Howard Lutnick has drawn fire for his close relationship with Nvidia CEO Jensen Huang and the department's treatment of the company.",
-            "id": "a33"
+            "id": "a36"
           },
           {
-            "title": "Cantwell Blasts Commerce Over Nvidia Chip Leaks to China Ahead of Trump-Xi Summit - BigGo Finance",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kaEJodFdyLVl0MEtfUEhPY1ZYeGZ5Q3NxbTVfZ2FsTGRSMlNKVWotUzd3NlJmT3NFeU0xNno4UFlUWEtoQ3BjX18wcUxHRHVlSFAxRVZvUGU5VG9nQlZXaWRmTC1XblMyZFlLSHAzeVR0aFpJa3c?oc=5",
-            "description": "Cantwell Blasts Commerce Over Nvidia Chip Leaks to China Ahead of Trump-Xi Summit BigGo Finance",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
+            "title": "China’s XPeng Extends Loss Streak but Targets Strong 2026 Finish - WSJ",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGI1b29UN3VuYlFvVDUtaVFNMDAwUlNZcXYyZE00TEtzTmNqWlNfci1JeG53ckx3TWh3Q3I1VzVCdTRDY1JWU2Y3bWxoLWh2U1NLSVl5bS14M1I5UW1fbTRqLWQzVGFxSGJrYlJrMFVKNTNRVEEyc1RXaEd6dDVwSXBVUTNfZ3BJd1lYYzZDUUZBVEZnV0tOSjBaTDQxOE9SUXFBcQ?oc=5",
+            "description": "China’s XPeng Extends Loss Streak but Targets Strong 2026 Finish WSJ",
+            "source": "Wall Street Journal",
+            "sourceId": "wsj",
             "sourceGroup": "finance",
-            "publishedAt": "2026-11-16T11:55:00.000Z",
-            "fetchedAt": "2026-11-16T22:33:23.983Z",
+            "publishedAt": "2026-11-16T11:53:00.000Z",
+            "fetchedAt": "2026-11-17T04:48:16.734Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "BigGo Finance",
+            "googleNewsSource": "WSJ",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Cantwell Blasts Commerce Over Nvidia Chip Leaks to China Ahead of Trump-Xi Summit BigGo Finance",
-            "id": "a34"
+            "summary": "China’s XPeng Extends Loss Streak but Targets Strong 2026 Finish WSJ",
+            "id": "a37"
           },
           {
             "title": "EU and UK Export-Control Updates for 2026: What Exporters Need to Know - Global Trade & Sanctions Law",
@@ -23860,7 +23078,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-16T09:17:48.000Z",
-            "fetchedAt": "2026-11-16T22:33:23.982Z",
+            "fetchedAt": "2026-11-17T04:48:17.869Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Global Trade &amp; Sanctions Law",
             "geopoliticalBypass": true,
@@ -23870,37 +23088,17 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "EU and UK Export-Control Updates for 2026: What Exporters Need to Know Global Trade & Sanctions Law",
-            "id": "a37"
-          },
-          {
-            "title": "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps - KELO-AM",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWW5Ua081LVZocDlzNDFEaEZGTy1DVlFyQ2lWc1NYZUN3dDZyR1piNks0NnQ4bV9yTER3cG15TllKUFNRZ0kwaTk0bkpEWm9xTk93Z1RzbHptdkVHUGQtNVJUUUdZNE4zNFVtQmFkcmhVWVA2U0ZMdFJDVTBpTWhWME55UmlKQ0lIajBkVU0weUo3VTlnOHY0Q3FjVHlMODVDTVV6U29RU2s?oc=5",
-            "description": "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps KELO-AM",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-16T09:11:56.000Z",
-            "fetchedAt": "2026-11-16T22:33:23.983Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "KELO-AM",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps KELO-AM",
-            "id": "a38"
+            "id": "a40"
           },
           {
             "title": "Specialist chapter: Chinese courts push SEP disputes into new territory",
-            "url": "https://www.iam-media.com/index.php/review/the-patent-litigation-review/2027/article/specialist-chapter-chinese-courts-push-sep-disputes-new-territory",
+            "url": "https://www.iam-media.com/review/the-patent-litigation-review/2027/article/specialist-chapter-chinese-courts-push-sep-disputes-new-territory",
             "description": "Chinese SEP litigation is becoming increasingly complex, with courts confronting questions that extend beyond conventional infringement and FRAND disputes, including the treatment of patent ambush in standard-setting, jurisdiction over patent pool disputes, divergent approaches to FRAND rate determination and interim licences. Together, these developments offer a snapshot of how China is positioni...",
             "source": "IAM",
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-16T09:00:00.000Z",
-            "fetchedAt": "2026-11-16T22:33:19.269Z",
+            "fetchedAt": "2026-11-17T04:48:14.055Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23909,45 +23107,6 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Chinese SEP litigation is becoming increasingly complex, with courts confronting questions that extend beyond conventional infringement and FRAND disputes, including the treatment of patent ambush in standard-setting, jurisdiction over patent pool disputes, divergent approaches to FRAND rate determination and interim licences. Together, these developments offer a snapshot of how China is positioni...",
-            "id": "a39"
-          },
-          {
-            "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
-            "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
-            "description": "The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-16T08:38:16.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.278Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.",
-            "id": "a40"
-          },
-          {
-            "title": "Pressure mounts on Trump’s cabinet over Nvidia scandal, chip sales to China - SMH.com.au",
-            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllDcDZPNDF5Nkw5ZUtneTNGUXVRQ2hMT2Y4QnplbUttUDZIQlE2SENkYzhOUTZTM2dfQTUxWjc3cnNrSG9BWHhpanZ2bWxRMC1VeldEUnpnbmpOUVlKR2NxZi1URU96V0FwejlIM1RObGhZVVB2WURGY2NRdmw0a0k5MVctcFRWQWo3aV9JbDM2ak5UNkNwSE85WEUwdUlzNE14VHN3ME5VbngxUkN0cGpVRFNzX3E1cVFrYUR4STN2V19haXdSUEhkWlhqTlBQVlFBbA?oc=5",
-            "description": "Pressure mounts on Trump’s cabinet over Nvidia scandal, chip sales to China SMH.com.au",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-16T02:01:46.000Z",
-            "fetchedAt": "2026-11-16T22:33:23.983Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "SMH.com.au",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Pressure mounts on Trump’s cabinet over Nvidia scandal, chip sales to China SMH.com.au",
             "id": "a41"
           },
           {
@@ -23958,7 +23117,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-14T11:40:02.000Z",
-            "fetchedAt": "2026-11-16T22:33:16.500Z",
+            "fetchedAt": "2026-11-17T04:48:11.424Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -23971,7 +23130,7 @@ export const NEWS_DATA = {
         ]
       },
       "competitors": {
-        "generatedAt": "2026-11-16T22:33:24.012Z",
+        "generatedAt": "2026-11-17T04:48:18.028Z",
         "date": "2026-11-17",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -23982,15 +23141,46 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-11-16T22:33:24.012Z",
+        "generatedAt": "2026-11-17T04:48:18.028Z",
         "date": "2026-11-17",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
+          "summary": "One article today covering Geopolitics & Export Controls. SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
+              "articleIds": [
+                "a6"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            }
+          ]
         },
-        "articles": []
+        "articles": [
+          {
+            "title": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors - Semiconductor Industry Association | SIA",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc0o2bjRXc1pGTFYxZS1KcHl0ZWhPcDA1am9mM0dtWGRfM05WckhvRDFKQ1hjZTRRZEhpM0x0QXJHSk1rOF9WY25LS0gtVDBhU1pfdElJX18xZ1RkZmVYNThEWk1MUnRqVWlEbVpRZlpTcXIxd1NWT0lvbmI2SC1NbVBrTUZzV1FIVm5nMWFrNXhMVElnakFUemhRbW5FdVFnNTQtRENTNFhxRVhCa2k5THNIckZBUkU2V0UtNThBWEZWQQ?oc=5",
+            "description": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-17T01:51:24.000Z",
+            "fetchedAt": "2026-11-17T04:48:17.869Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Semiconductor Industry Association | SIA",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "industry-assoc"
+            ],
+            "summary": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
+            "id": "a6"
+          }
+        ]
       }
     },
     "totalArticles": 44
