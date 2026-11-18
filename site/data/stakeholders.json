@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T04:43:58.708Z",
+  "generatedAt": "2026-11-18T13:30:17.743Z",
   "date": "2026-11-18",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,7 +9,7 @@
       {
         "text": "market-performance: Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarter it added to Meta Platforms and opened a position",
         "articleIds": [
-          "a24"
+          "a32"
         ],
         "subCategory": "market-performance"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-17T15:58:09.000Z",
-      "fetchedAt": "2026-11-18T04:43:52.101Z",
+      "fetchedAt": "2026-11-18T13:30:07.127Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -34,7 +34,7 @@
         "platform-partner"
       ],
       "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarter it added to Meta Platforms and opened a position in Tesla. Applied Materials and KLA have each fallen 52% since June 30, even though both just reported strong quarters, and analysts’ average targets sit more than 50% above both stocks.",
-      "id": "a24"
+      "id": "a32"
     }
   ]
 }

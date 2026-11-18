@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T04:43:58.709Z",
+  "generatedAt": "2026-11-18T13:30:17.745Z",
   "date": "2026-11-18",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 4,
       "topHeadline": "Why Qualcomm teamed with F1’s new star in race for sports marketing ROI",
-      "topHeadlineId": "a16",
+      "topHeadlineId": "a23",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 46,
-      "topHeadline": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
+      "articleCount": 40,
+      "topHeadline": "Nvidia isn’t selling any more AI chips to China",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (42 articles), market-performance (4 articles). A total of 46 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (38 articles), market-performance (2 articles). A total of 40 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -41,9 +41,9 @@
       "title": "Key Stakeholders",
       "articleCount": 1,
       "topHeadline": "Brad Gerstner Dumps These 3 Stocks",
-      "topHeadlineId": "a24",
+      "topHeadlineId": "a32",
       "briefingSummary": "One article today covering market-performance. Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarte"
     }
   },
-  "totalArticles": 51
+  "totalArticles": 45
 }
