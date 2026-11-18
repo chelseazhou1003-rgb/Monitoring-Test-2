@@ -1,40 +1,112 @@
 {
-  "generatedAt": "2026-11-18T13:30:17.743Z",
-  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T21:37:10.798Z",
+  "date": "2026-11-19",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "One article today covering market-performance. Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarte",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Semiconductors (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "market-performance: Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarter it added to Meta Platforms and opened a position",
+        "text": "Semiconductors: Key TakeawaysBaird cut its Qualcomm price target to $300 from $320 and kept its Outperform rating, so it still sees [85%] upside. Qualcomm’s handset chip sales are falling as Apple moves to its own mo",
         "articleIds": [
-          "a32"
+          "a6"
         ],
-        "subCategory": "market-performance"
+        "subCategory": "semiconductors"
+      },
+      {
+        "text": "Geopolitics & Export Controls: Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
+        "articleIds": [
+          "a9"
+        ],
+        "subCategory": "geopolitics-export-controls"
       }
     ]
   },
   "articles": [
     {
-      "title": "Brad Gerstner Dumps These 3 Stocks",
-      "url": "https://www.tikr.com/blog/brad-gerstner-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261117-79fc3fv5&.tsrc=rss",
-      "description": "Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarter it added to Meta Platforms and opened a position in Tesla. Applied Materials and KLA have each fallen 52% since June 30, even though both just reported strong quarters, and analysts’ average targets sit more than 50% above both stocks.",
+      "title": "Could Qualcomm Actually Climb 85%? Or Is Baird Totally Wrong?",
+      "url": "https://www.tikr.com/blog/could-qualcomm-actually-climb-85-or-is-baird-totally-wrong?ref=yahoofinance&tlnk=yf-261118-fj25pvqf&.tsrc=rss",
+      "description": "Key TakeawaysBaird cut its Qualcomm price target to $300 from $320 and kept its Outperform rating, so it still sees [85%] upside. Qualcomm’s handset chip sales are falling as Apple moves to its own modems.",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-11-17T15:58:09.000Z",
-      "fetchedAt": "2026-11-18T13:30:07.127Z",
+      "publishedAt": "2026-11-18T19:50:25.000Z",
+      "fetchedAt": "2026-11-18T21:37:03.890Z",
       "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Key TakeawaysBaird cut its Qualcomm price target to $300 from $320 and kept its Outperform rating, so it still sees [85%] upside. Qualcomm’s handset chip sales are falling as Apple moves to its own modems.",
+      "id": "a6"
+    },
+    {
+      "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
+      "url": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+      "description": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-18T19:17:27.000Z",
+      "fetchedAt": "2026-11-18T21:37:03.650Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
       "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [
         "platform-partner"
       ],
-      "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarter it added to Meta Platforms and opened a position in Tesla. Applied Materials and KLA have each fallen 52% since June 30, even though both just reported strong quarters, and analysts’ average targets sit more than 50% above both stocks.",
-      "id": "a32"
+      "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
+      "id": "a9"
+    },
+    {
+      "title": "National security, AI experts urge DOJ to investigate Nvidia over alleged chip smuggling to China - Just The News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLWo2NE9qTEhZbkxtSWVfLTM1clhXeTZScHN3QlFwSGppTGpzUk1TSkprMnI3ZkpLXzFsb1AxMTloWkp5VnI5U2l3NmlmS3pPNWZrVEdIV1hkQ2QweWY4TzNIQUFzZmpPWVFRU3hzTU1XMWxQT0pud3VfZmtTeUtWTkIxT2JkRVRBekk1VXEtM0wzWUpuS3Fodjk2bU43Z04xNXB1ZFRGX3l6dVZQODJpaFA2NEJCMWM?oc=5",
+      "description": "National security, AI experts urge DOJ to investigate Nvidia over alleged chip smuggling to China Just The News",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-18T16:10:01.000Z",
+      "fetchedAt": "2026-11-18T21:37:10.744Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Just The News",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "regulators"
+      ],
+      "summary": "National security, AI experts urge DOJ to investigate Nvidia over alleged chip smuggling to China Just The News",
+      "id": "a15"
+    },
+    {
+      "title": "National security and AI figures urge DOJ to probe what Nvidia knew about chip smuggling - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMXNMOEd4bGlOMTBnbDI2Q0VubjFNcmFRYWxyX292LUUtcUJCTlVLdkZlZzJYZHI4ZG5ieWI0b1ZBZjFuU2U2anZlS3dSbUlVZUNnWWptOGpjclEwSHlZYS1FcnpaQ0pzT0RSX2cwekdONElQS0dDTnF2bjZibGdqUlQ0M0thMlJVUjI1UUFOdmhiS041Q0NvZTViY3EwTnZa?oc=5",
+      "description": "National security and AI figures urge DOJ to probe what Nvidia knew about chip smuggling NBC News",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-18T15:00:41.000Z",
+      "fetchedAt": "2026-11-18T21:37:10.744Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "NBC News",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "regulators"
+      ],
+      "summary": "National security and AI figures urge DOJ to probe what Nvidia knew about chip smuggling NBC News",
+      "id": "a19"
     }
   ]
 }
