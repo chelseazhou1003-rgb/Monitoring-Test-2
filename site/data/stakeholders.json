@@ -1,24 +1,17 @@
 {
-  "generatedAt": "2026-11-17T23:11:20.144Z",
+  "generatedAt": "2026-11-18T04:43:58.708Z",
   "date": "2026-11-18",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), market-performance (1 article). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "One article today covering market-performance. Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarte",
     "keyTakeaways": [
       {
         "text": "market-performance: Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarter it added to Meta Platforms and opened a position",
         "articleIds": [
-          "a12"
+          "a24"
         ],
         "subCategory": "market-performance"
-      },
-      {
-        "text": "Geopolitics & Export Controls: Isomorphic Labs is looking to develop new medicines using AI.",
-        "articleIds": [
-          "a18"
-        ],
-        "subCategory": "geopolitics-export-controls"
       }
     ]
   },
@@ -31,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-17T15:58:09.000Z",
-      "fetchedAt": "2026-11-17T23:11:08.392Z",
+      "fetchedAt": "2026-11-18T04:43:52.101Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -41,50 +34,7 @@
         "platform-partner"
       ],
       "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Applied Materials, KLA and Qualcomm shares in the third quarter, and in the same quarter it added to Meta Platforms and opened a position in Tesla. Applied Materials and KLA have each fallen 52% since June 30, even though both just reported strong quarters, and analysts’ average targets sit more than 50% above both stocks.",
-      "id": "a12"
-    },
-    {
-      "title": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO",
-      "url": "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html",
-      "description": "Isomorphic Labs is looking to develop new medicines using AI.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-17T13:58:07.000Z",
-      "fetchedAt": "2026-11-17T23:11:08.358Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Isomorphic Labs is looking to develop new medicines using AI.",
-      "id": "a18"
-    },
-    {
-      "title": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors - Semiconductor Industry Association | SIA",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc0o2bjRXc1pGTFYxZS1KcHl0ZWhPcDA1am9mM0dtWGRfM05WckhvRDFKQ1hjZTRRZEhpM0x0QXJHSk1rOF9WY25LS0gtVDBhU1pfdElJX18xZ1RkZmVYNThEWk1MUnRqVWlEbVpRZlpTcXIxd1NWT0lvbmI2SC1NbVBrTUZzV1FIVm5nMWFrNXhMVElnakFUemhRbW5FdVFnNTQtRENTNFhxRVhCa2k5THNIckZBUkU2V0UtNThBWEZWQQ?oc=5",
-      "description": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-17T01:51:24.000Z",
-      "fetchedAt": "2026-11-17T23:11:20.116Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Semiconductor Industry Association | SIA",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "industry-assoc"
-      ],
-      "summary": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors Semiconductor Industry Association | SIA",
-      "id": "a38"
+      "id": "a24"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T23:11:20.144Z",
+  "generatedAt": "2026-11-18T04:43:58.708Z",
   "date": "2026-11-18",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,21 +9,21 @@
       {
         "text": "Mobile Chips: CMO Don McGuire explains how Snapdragon’s deal with Formula One phenom Kimi Antonelli helps the brand connect with racing’s growing audience.",
         "articleIds": [
-          "a4"
+          "a16"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Semiconductors: SK Hynix's quarterly revenue has surged from $12.1 billion to $73.3 billion in under two years, while Qualcomm's has barely budged.",
         "articleIds": [
-          "a8"
+          "a20"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Wireless Communication: CHICAGO, November 17, 2026--Qualcomm Technologies, Inc. and Cirrascale Cloud Services today announced that Qualcomm Dragonfly™ AI200, a next-generation, purpose-built solution for rack-scale AI infere",
         "articleIds": [
-          "a17"
+          "a29"
         ],
         "subCategory": "wireless"
       }
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-17T20:00:00.000Z",
-      "fetchedAt": "2026-11-17T23:11:08.392Z",
+      "fetchedAt": "2026-11-18T04:43:52.101Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -46,7 +46,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "CMO Don McGuire explains how Snapdragon’s deal with Formula One phenom Kimi Antonelli helps the brand connect with racing’s growing audience.",
-      "id": "a4"
+      "id": "a16"
     },
     {
       "title": "Qualcomm vs. SK Hynix: Stable Revenue vs. Rapid Acceleration",
@@ -56,7 +56,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-17T18:20:02.000Z",
-      "fetchedAt": "2026-11-17T23:11:08.392Z",
+      "fetchedAt": "2026-11-18T04:43:52.101Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -64,7 +64,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "SK Hynix's quarterly revenue has surged from $12.1 billion to $73.3 billion in under two years, while Qualcomm's has barely budged.",
-      "id": "a8"
+      "id": "a20"
     },
     {
       "title": "Can Qualcomm Stock Jump 40%?",
@@ -74,7 +74,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-17T14:13:44.000Z",
-      "fetchedAt": "2026-11-17T23:11:08.393Z",
+      "fetchedAt": "2026-11-18T04:43:52.101Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -82,7 +82,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Today's big story: Could Nvidia Stock Fall 50%?",
-      "id": "a16"
+      "id": "a28"
     },
     {
       "title": "Qualcomm and Cirrascale Collaborate to Advance Next-Generation, Energy-Efficient AI Inference",
@@ -92,7 +92,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-17T14:00:00.000Z",
-      "fetchedAt": "2026-11-17T23:11:08.393Z",
+      "fetchedAt": "2026-11-18T04:43:52.101Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -100,7 +100,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "CHICAGO, November 17, 2026--Qualcomm Technologies, Inc. and Cirrascale Cloud Services today announced that Qualcomm Dragonfly™ AI200, a next-generation, purpose-built solution for rack-scale AI inference, is now available for evaluation by select customers through Cirrascale.",
-      "id": "a17"
+      "id": "a29"
     }
   ]
 }
