@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T21:37:10.798Z",
+  "generatedAt": "2026-11-19T02:50:19.346Z",
   "date": "2026-11-19",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,14 +9,14 @@
       {
         "text": "Semiconductors: The cuts come weeks after CEO Cristiano Amon announced a \"performance-focused reduction\" following annual reviews.",
         "articleIds": [
-          "a3"
+          "a6"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Wireless Communication: Capitalize on Wi-Fi 6/6E, IoT and smart-city demand with low-power, AI-optimized chipsets for high-density, high-bandwidth applications.Dublin, Nov. 18, 2026 (GLOBE NEWSWIRE) -- \"Wi-Fi Chipsets - Glob",
         "articleIds": [
-          "a18"
+          "a20"
         ],
         "subCategory": "wireless"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-18T20:45:23.000Z",
-      "fetchedAt": "2026-11-18T21:37:03.890Z",
+      "fetchedAt": "2026-11-19T02:50:05.263Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -39,7 +39,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The cuts come weeks after CEO Cristiano Amon announced a \"performance-focused reduction\" following annual reviews.",
-      "id": "a3"
+      "id": "a6"
     },
     {
       "title": "Tech giant worth $170B axes hundreds of California jobs as CEO demands ‘the right people’ in ruthless cull",
@@ -49,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-18T20:38:09.000Z",
-      "fetchedAt": "2026-11-18T21:37:03.890Z",
+      "fetchedAt": "2026-11-19T02:50:05.263Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -57,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The largest cuts are in San Diego County, where Qualcomm plans to eliminate 442 positions at its Morehouse Drive headquarters.",
-      "id": "a4"
+      "id": "a7"
     },
     {
       "title": "Could Qualcomm Actually Climb 85%? Or Is Baird Totally Wrong?",
@@ -67,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-18T19:50:25.000Z",
-      "fetchedAt": "2026-11-18T21:37:03.890Z",
+      "fetchedAt": "2026-11-19T02:50:05.263Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -77,7 +77,7 @@
         "oem"
       ],
       "summary": "Key TakeawaysBaird cut its Qualcomm price target to $300 from $320 and kept its Outperform rating, so it still sees [85%] upside. Qualcomm’s handset chip sales are falling as Apple moves to its own modems.",
-      "id": "a6"
+      "id": "a8"
     },
     {
       "title": "Baird cuts Qualcomm estimates over potential loss of ByteDance chip business",
@@ -87,7 +87,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-18T18:28:00.000Z",
-      "fetchedAt": "2026-11-18T21:37:03.890Z",
+      "fetchedAt": "2026-11-19T02:50:05.263Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -95,7 +95,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Baird has trimmed its financial estimates for Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI) to remove a previously assumed custom artificial intelligence (AI) chip engagement with ByteDance, but maintained its 'outperform' rating and $300 price target. The analyst said Qualcomm had not identified its...",
-      "id": "a10"
+      "id": "a12"
     },
     {
       "title": "Wi-Fi Chipsets - Global Strategic Business Report 2026: Capitalize on the $26.4 Billion 2032 Shift as Broadcom, Qualcomm, MediaTek, Intel, and Realtek Accelerate Wi-Fi 6/6E Adoption",
@@ -105,7 +105,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-18T15:15:00.000Z",
-      "fetchedAt": "2026-11-18T21:37:03.891Z",
+      "fetchedAt": "2026-11-19T02:50:05.263Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -113,7 +113,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Capitalize on Wi-Fi 6/6E, IoT and smart-city demand with low-power, AI-optimized chipsets for high-density, high-bandwidth applications.Dublin, Nov. 18, 2026 (GLOBE NEWSWIRE) -- \"Wi-Fi Chipsets - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global Wi-Fi chipsets market was valued at US$19.9 billion in 2025 and is projected to reach US$26.4 billion by 2032, expanding at a compound annual growth rate (CAGR) of 4.1%. Market growth is supported by r",
-      "id": "a18"
+      "id": "a20"
     },
     {
       "title": "How Much Could You Lose Holding Qualcomm Stock?",
@@ -123,7 +123,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-18T14:58:58.000Z",
-      "fetchedAt": "2026-11-18T21:37:03.891Z",
+      "fetchedAt": "2026-11-19T02:50:05.263Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -131,7 +131,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
-      "id": "a21"
+      "id": "a23"
     },
     {
       "title": "Can Qualcomm's Deal With Cirrascale Boost its AI Growth Prospects?",
@@ -141,7 +141,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-18T14:30:00.000Z",
-      "fetchedAt": "2026-11-18T21:37:03.891Z",
+      "fetchedAt": "2026-11-19T02:50:05.263Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -149,7 +149,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QCOM is expanding its data center AI presence through a Cirrascale partnership to test its Dragonfly AI200 platform for advanced AI workloads.",
-      "id": "a23"
+      "id": "a26"
     }
   ]
 }

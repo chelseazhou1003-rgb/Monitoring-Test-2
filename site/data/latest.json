@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T21:37:10.800Z",
+  "generatedAt": "2026-11-19T02:50:19.348Z",
   "date": "2026-11-19",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 7,
       "topHeadline": "Tech layoffs flare up in San Diego with hundreds of layoffs at chipmaker",
-      "topHeadlineId": "a3",
+      "topHeadlineId": "a6",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (2 articles). A total of 7 articles were aggregated from monitored sources."
     },
     "ip-legal": {
@@ -20,15 +20,15 @@
       "title": "Growth Areas",
       "articleCount": 1,
       "topHeadline": "FIRST and Qualcomm Technologies, Inc. Launch Next Generation of K-8 Robotics Education",
-      "topHeadlineId": "a13",
+      "topHeadlineId": "a15",
       "briefingSummary": "One article today covering Embodied AI & Robotics. The new program experience will be powered by the Arduino platform with Disney Imagineers helping bring annual game themes to life and REV Robotics en"
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 39,
-      "topHeadline": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "articleCount": 36,
+      "topHeadline": "One of the world's most contested seas is proving too much for Asia's leaders to resolve",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (38 articles), market-performance (1 article). A total of 39 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (34 articles), market-performance (2 articles). A total of 36 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 4,
-      "topHeadline": "Could Qualcomm Actually Climb 85%? Or Is Baird Totally Wrong?",
-      "topHeadlineId": "a6",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Semiconductors (1 article). A total of 4 articles were aggregated from monitored sources."
+      "articleCount": 5,
+      "topHeadline": "National Security and AI Policy Leaders Urge DOJ Probe of Nvidia Over Chip Smuggling to China - Americans for Responsible Innovation",
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Semiconductors (1 article). A total of 5 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 51
+  "totalArticles": 49
 }

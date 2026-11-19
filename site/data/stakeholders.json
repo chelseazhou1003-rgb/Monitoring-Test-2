@@ -1,28 +1,50 @@
 {
-  "generatedAt": "2026-11-18T21:37:10.798Z",
+  "generatedAt": "2026-11-19T02:50:19.347Z",
   "date": "2026-11-19",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Semiconductors (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Semiconductors (1 article). A total of 5 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Geopolitics & Export Controls: National Security and AI Policy Leaders Urge DOJ Probe of Nvidia Over Chip Smuggling to China Americans for Responsible Innovation",
+        "articleIds": [
+          "a3"
+        ],
+        "subCategory": "geopolitics-export-controls"
+      },
       {
         "text": "Semiconductors: Key TakeawaysBaird cut its Qualcomm price target to $300 from $320 and kept its Outperform rating, so it still sees [85%] upside. Qualcomm’s handset chip sales are falling as Apple moves to its own mo",
         "articleIds": [
-          "a6"
+          "a8"
         ],
         "subCategory": "semiconductors"
-      },
-      {
-        "text": "Geopolitics & Export Controls: Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
-        "articleIds": [
-          "a9"
-        ],
-        "subCategory": "geopolitics-export-controls"
       }
     ]
   },
   "articles": [
+    {
+      "title": "National Security and AI Policy Leaders Urge DOJ Probe of Nvidia Over Chip Smuggling to China - Americans for Responsible Innovation",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaFBKazFnVjRMVXAxaGJpR1VzQjlJd2x3blhhUTh0NlNOYzZmNlV6eE5sMzFUQXkxcWRzdThPM2EwMUl3cFpnbm1mLXVRc09DTlE4QXVYcFNfVnRHVWs4MF9ZMkF3WFFZaFlZZDFlNF81ZmdzWG9RMTFsU2tvSllwS1VMUVlYdjhRRldFeTZ0Mm5nRjBNVjlfdEx2Y2ZjcUlHWTdnU3JqYTZHVjg4ZVE?oc=5",
+      "description": "National Security and AI Policy Leaders Urge DOJ Probe of Nvidia Over Chip Smuggling to China Americans for Responsible Innovation",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-19T00:07:08.000Z",
+      "fetchedAt": "2026-11-19T02:50:19.211Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Americans for Responsible Innovation",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "regulators"
+      ],
+      "summary": "National Security and AI Policy Leaders Urge DOJ Probe of Nvidia Over Chip Smuggling to China Americans for Responsible Innovation",
+      "id": "a3"
+    },
     {
       "title": "Could Qualcomm Actually Climb 85%? Or Is Baird Totally Wrong?",
       "url": "https://www.tikr.com/blog/could-qualcomm-actually-climb-85-or-is-baird-totally-wrong?ref=yahoofinance&tlnk=yf-261118-fj25pvqf&.tsrc=rss",
@@ -31,7 +53,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-18T19:50:25.000Z",
-      "fetchedAt": "2026-11-18T21:37:03.890Z",
+      "fetchedAt": "2026-11-19T02:50:05.263Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -41,7 +63,7 @@
         "oem"
       ],
       "summary": "Key TakeawaysBaird cut its Qualcomm price target to $300 from $320 and kept its Outperform rating, so it still sees [85%] upside. Qualcomm’s handset chip sales are falling as Apple moves to its own modems.",
-      "id": "a6"
+      "id": "a8"
     },
     {
       "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
@@ -51,7 +73,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-18T19:17:27.000Z",
-      "fetchedAt": "2026-11-18T21:37:03.650Z",
+      "fetchedAt": "2026-11-19T02:50:05.130Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -62,7 +84,7 @@
         "platform-partner"
       ],
       "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
-      "id": "a9"
+      "id": "a11"
     },
     {
       "title": "National security, AI experts urge DOJ to investigate Nvidia over alleged chip smuggling to China - Just The News",
@@ -72,7 +94,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-18T16:10:01.000Z",
-      "fetchedAt": "2026-11-18T21:37:10.744Z",
+      "fetchedAt": "2026-11-19T02:50:19.211Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Just The News",
       "geopoliticalBypass": true,
@@ -84,7 +106,7 @@
         "regulators"
       ],
       "summary": "National security, AI experts urge DOJ to investigate Nvidia over alleged chip smuggling to China Just The News",
-      "id": "a15"
+      "id": "a17"
     },
     {
       "title": "National security and AI figures urge DOJ to probe what Nvidia knew about chip smuggling - NBC News",
@@ -94,7 +116,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-18T15:00:41.000Z",
-      "fetchedAt": "2026-11-18T21:37:10.744Z",
+      "fetchedAt": "2026-11-19T02:50:19.211Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "NBC News",
       "geopoliticalBypass": true,
@@ -106,7 +128,7 @@
         "regulators"
       ],
       "summary": "National security and AI figures urge DOJ to probe what Nvidia knew about chip smuggling NBC News",
-      "id": "a19"
+      "id": "a21"
     }
   ]
 }
