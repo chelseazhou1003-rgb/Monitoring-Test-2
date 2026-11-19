@@ -1,38 +1,11 @@
 {
-  "generatedAt": "2026-11-19T12:12:24.957Z",
-  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T21:00:03.191Z",
+  "date": "2026-11-20",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "One article today covering Embodied AI & Robotics. The new program experience will be powered by the Arduino platform with Disney Imagineers helping bring annual game themes to life and REV Robotics en",
-    "keyTakeaways": [
-      {
-        "text": "Embodied AI & Robotics: The new program experience will be powered by the Arduino platform with Disney Imagineers helping bring annual game themes to life and REV Robotics engineering the hardware students will use to create",
-        "articleIds": [
-          "a27"
-        ],
-        "subCategory": "embodied-ai-robotics"
-      }
-    ]
+    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+    "keyTakeaways": []
   },
-  "articles": [
-    {
-      "title": "FIRST and Qualcomm Technologies, Inc. Launch Next Generation of K-8 Robotics Education",
-      "url": "https://finance.yahoo.com/technology/articles/first-qualcomm-technologies-inc-launch-170500925.html?.tsrc=rss",
-      "description": "The new program experience will be powered by the Arduino platform with Disney Imagineers helping bring annual game themes to life and REV Robotics engineering the hardware students will use to create their robotsMANCHESTER, NH / ACCESS Newswire / November 18, 2026 / FIRST®, the world's leading youth robotics community, today announces an expanded collaboration with Technologies, Inc. to develop the next generation of FIRST K-8 robotics programs that inspire innovation, build confidence, and pre",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-18T17:05:00.000Z",
-      "fetchedAt": "2026-11-19T12:12:15.419Z",
-      "fetchStrategy": "rss",
-      "section": "growth-areas",
-      "subCategory": "embodied-ai-robotics",
-      "subLabel": "Embodied AI & Robotics",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The new program experience will be powered by the Arduino platform with Disney Imagineers helping bring annual game themes to life and REV Robotics engineering the hardware students will use to create their robotsMANCHESTER, NH / ACCESS Newswire / November 18, 2026 / FIRST®, the world's leading youth robotics community, today announces an expanded collaboration with Technologies, Inc. to develop the next generation of FIRST K-8 robotics programs that inspire innovation, build confidence, and pre",
-      "id": "a27"
-    }
-  ]
+  "articles": []
 }

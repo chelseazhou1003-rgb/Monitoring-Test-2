@@ -1,57 +1,125 @@
 {
-  "generatedAt": "2026-11-19T12:12:24.957Z",
-  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T21:00:03.191Z",
+  "date": "2026-11-20",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Semiconductors (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), market-performance (1 article), Semiconductors (1 article). A total of 7 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: Key TakeawaysBaird cut its Qualcomm price target to $300 from $320 and kept its Outperform rating, so it still sees [85%] upside. Qualcomm’s handset chip sales are falling as Apple moves to its own mo",
+        "text": "market-performance: Key TakeawaysBrad Gerstner’s Altimeter Capital opened a $680 million Tesla position in the third quarter, added to Meta Platforms and Micron, and sold out of Qualcomm and Applied Materials. Tesla trad",
         "articleIds": [
-          "a20"
+          "a8"
+        ],
+        "subCategory": "market-performance"
+      },
+      {
+        "text": "Semiconductors: TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
+        "articleIds": [
+          "a16"
         ],
         "subCategory": "semiconductors"
       },
       {
-        "text": "Geopolitics & Export Controls: Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
+        "text": "Platform & Ecosystem Partners: Alphabet builds its own AI chips, so a surprise Qualcomm position in its latest filing raises an obvious question. The explanation points to a startup deal, and the real investment case lies somewhere",
+        "articleIds": [
+          "a18"
+        ],
+        "subCategory": "platform-partner"
+      },
+      {
+        "text": "Geopolitics & Export Controls: Taiwan Semiconductor Manufacturing Co and Samsung Electronics reportedly responded to new US export controls by putting a halt on some chip shipments to Chinese companies. The post Samsung, TSMC suspe",
         "articleIds": [
           "a23"
         ],
         "subCategory": "geopolitics-export-controls"
+      },
+      {
+        "text": "Wireless Communication: Boost ROI via high-speed, power-efficient 5G/Wi-Fi modules, compact upgradeable designs, portfolio expansion, and distribution partnerships that improve reach and availability.Dublin, Nov. 19, 2026 (G",
+        "articleIds": [
+          "a27"
+        ],
+        "subCategory": "wireless"
+      },
+      {
+        "text": "Mobile Chips: IBM, HP, and Qualcomm are all raising payouts while rebuilding their businesses around AI, but only one carries a debt load, a thin equity cushion, or a shrinking phone business that could threaten th",
+        "articleIds": [
+          "a28"
+        ],
+        "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
     {
-      "title": "Could Qualcomm Actually Climb 85%? Or Is Baird Totally Wrong?",
-      "url": "https://www.tikr.com/blog/could-qualcomm-actually-climb-85-or-is-baird-totally-wrong?ref=yahoofinance&tlnk=yf-261118-fj25pvqf&.tsrc=rss",
-      "description": "Key TakeawaysBaird cut its Qualcomm price target to $300 from $320 and kept its Outperform rating, so it still sees [85%] upside. Qualcomm’s handset chip sales are falling as Apple moves to its own modems.",
+      "title": "Inside Brad Gerstner’s Portfolio: Every Move He Made in the Third Quarter",
+      "url": "https://www.tikr.com/blog/inside-brad-gerstners-portfolio-every-move-he-made-in-the-third-quarter?ref=yahoofinance&tlnk=yf-261119-8874cxx4&.tsrc=rss",
+      "description": "Key TakeawaysBrad Gerstner’s Altimeter Capital opened a $680 million Tesla position in the third quarter, added to Meta Platforms and Micron, and sold out of Qualcomm and Applied Materials. Tesla trades at about 180x forward earnings, and analysts’ average target is just 7% above the price, so the new stake is a bet on Robotaxi profits that the estimates don’t show yet.",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-11-18T19:50:25.000Z",
-      "fetchedAt": "2026-11-19T12:12:15.419Z",
+      "publishedAt": "2026-11-19T20:05:22.000Z",
+      "fetchedAt": "2026-11-19T20:59:54.978Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital opened a $680 million Tesla position in the third quarter, added to Meta Platforms and Micron, and sold out of Qualcomm and Applied Materials. Tesla trades at about 180x forward earnings, and analysts’ average target is just 7% above the price, so the new stake is a bet on Robotaxi profits that the estimates don’t show yet.",
+      "id": "a8"
+    },
+    {
+      "title": "Qualcomm vs. Taiwan Semiconductor: Diverging Revenue Trends for Major Chipmakers",
+      "url": "https://www.fool.com/coverage/charts/2026/11/19/qualcomm-vs-taiwan-semiconductor-diverging-revenue-trends-for-major-chipmakers/?.tsrc=rss",
+      "description": "TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-19T17:03:02.000Z",
+      "fetchedAt": "2026-11-19T20:59:54.978Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
       "subLabel": "Semiconductors",
       "competitors": [],
       "stakeholders": [
-        "oem"
+        "foundry"
       ],
-      "summary": "Key TakeawaysBaird cut its Qualcomm price target to $300 from $320 and kept its Outperform rating, so it still sees [85%] upside. Qualcomm’s handset chip sales are falling as Apple moves to its own modems.",
-      "id": "a20"
+      "summary": "TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
+      "id": "a16"
     },
     {
-      "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
-      "url": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
-      "description": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
+      "title": "Google’s Parent Now Holds a $548 Million Qualcomm Stake That Wasn’t in Its June Filing",
+      "url": "https://247wallst.com/investing/2026/11/19/googles-parent-now-holds-a-548-million-qualcomm-stake-that-wasnt-in-its-june-filing/?.tsrc=rss",
+      "description": "Alphabet builds its own AI chips, so a surprise Qualcomm position in its latest filing raises an obvious question. The explanation points to a startup deal, and the real investment case lies somewhere else entirely.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-11-18T19:17:27.000Z",
-      "fetchedAt": "2026-11-19T12:12:15.231Z",
+      "publishedAt": "2026-11-19T16:52:35.000Z",
+      "fetchedAt": "2026-11-19T20:59:54.978Z",
+      "fetchStrategy": "rss",
+      "section": "stakeholders",
+      "subCategory": "platform-partner",
+      "subLabel": "Platform & Ecosystem Partners",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Alphabet builds its own AI chips, so a surprise Qualcomm position in its latest filing raises an obvious question. The explanation points to a startup deal, and the real investment case lies somewhere else entirely.",
+      "id": "a18"
+    },
+    {
+      "title": "Samsung, TSMC suspend some China chip shipments",
+      "url": "https://www.mobileworldlive.com/samsung/samsung-tsmc-suspend-some-china-chip-shipments/",
+      "description": "Taiwan Semiconductor Manufacturing Co and Samsung Electronics reportedly responded to new US export controls by putting a halt on some chip shipments to Chinese companies. The post Samsung, TSMC suspend some China chip shipments appeared first on Mobile World Live.",
+      "source": "Mobile World Live",
+      "sourceId": "mobile-world-live",
+      "sourceGroup": "telecom",
+      "publishedAt": "2026-11-19T15:47:46.000Z",
+      "fetchedAt": "2026-11-19T21:00:00.970Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -59,54 +127,72 @@
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [
-        "platform-partner"
+        "oem",
+        "foundry"
       ],
-      "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
+      "summary": "Taiwan Semiconductor Manufacturing Co and Samsung Electronics reportedly responded to new US export controls by putting a halt on some chip shipments to Chinese companies. The post Samsung, TSMC suspend some China chip shipments appeared first on Mobile World Live.",
       "id": "a23"
     },
     {
-      "title": "National security, AI experts urge DOJ to investigate Nvidia over alleged chip smuggling to China - Just The News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLWo2NE9qTEhZbkxtSWVfLTM1clhXeTZScHN3QlFwSGppTGpzUk1TSkprMnI3ZkpLXzFsb1AxMTloWkp5VnI5U2l3NmlmS3pPNWZrVEdIV1hkQ2QweWY4TzNIQUFzZmpPWVFRU3hzTU1XMWxQT0pud3VfZmtTeUtWTkIxT2JkRVRBekk1VXEtM0wzWUpuS3Fodjk2bU43Z04xNXB1ZFRGX3l6dVZQODJpaFA2NEJCMWM?oc=5",
-      "description": "National security, AI experts urge DOJ to investigate Nvidia over alleged chip smuggling to China Just The News",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-18T16:10:01.000Z",
-      "fetchedAt": "2026-11-19T12:12:24.902Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Just The News",
+      "title": "UK government forced to disclose secret Apple backdoor order",
+      "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+      "description": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-11-19T15:32:20.000Z",
+      "fetchedAt": "2026-11-19T20:59:54.862Z",
+      "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [
-        "regulators"
+        "oem"
       ],
-      "summary": "National security, AI experts urge DOJ to investigate Nvidia over alleged chip smuggling to China Just The News",
-      "id": "a29"
+      "summary": "tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
+      "id": "a25"
     },
     {
-      "title": "National security and AI figures urge DOJ to probe what Nvidia knew about chip smuggling - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMXNMOEd4bGlOMTBnbDI2Q0VubjFNcmFRYWxyX292LUUtcUJCTlVLdkZlZzJYZHI4ZG5ieWI0b1ZBZjFuU2U2anZlS3dSbUlVZUNnWWptOGpjclEwSHlZYS1FcnpaQ0pzT0RSX2cwekdONElQS0dDTnF2bjZibGdqUlQ0M0thMlJVUjI1UUFOdmhiS041Q0NvZTViY3EwTnZa?oc=5",
-      "description": "National security and AI figures urge DOJ to probe what Nvidia knew about chip smuggling NBC News",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
+      "title": "Global Personal Computer Cards and Modems Market Report 2026-2030 | Capitalize on 5G, Wi-Fi 7 and Edge IoT as Samsung, Qualcomm, ZTE and Quectel Drive a $9.26 Billion Market by 2030",
+      "url": "https://finance.yahoo.com/technology/articles/global-personal-computer-cards-modems-143100800.html?.tsrc=rss",
+      "description": "Boost ROI via high-speed, power-efficient 5G/Wi-Fi modules, compact upgradeable designs, portfolio expansion, and distribution partnerships that improve reach and availability.Dublin, Nov. 19, 2026 (GLOBE NEWSWIRE) -- \"Personal Computer Cards and Modems Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global personal computer cards and modems market is experiencing strong growth as consumers and enterprises seek faster, more reliable connectivity across laptops, deskt",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-11-18T15:00:41.000Z",
-      "fetchedAt": "2026-11-19T12:12:24.902Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "NBC News",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
+      "publishedAt": "2026-11-19T14:31:00.000Z",
+      "fetchedAt": "2026-11-19T20:59:54.978Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "wireless",
+      "subLabel": "Wireless Communication",
       "competitors": [],
       "stakeholders": [
-        "regulators"
+        "oem"
       ],
-      "summary": "National security and AI figures urge DOJ to probe what Nvidia knew about chip smuggling NBC News",
-      "id": "a33"
+      "summary": "Boost ROI via high-speed, power-efficient 5G/Wi-Fi modules, compact upgradeable designs, portfolio expansion, and distribution partnerships that improve reach and availability.Dublin, Nov. 19, 2026 (GLOBE NEWSWIRE) -- \"Personal Computer Cards and Modems Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global personal computer cards and modems market is experiencing strong growth as consumers and enterprises seek faster, more reliable connectivity across laptops, deskt",
+      "id": "a27"
+    },
+    {
+      "title": "3 Tech Dividend Stocks to Buy in December as AI Spending Accelerates",
+      "url": "https://247wallst.com/investing/2026/11/19/3-tech-dividend-stocks-to-buy-in-december-as-ai-spending-accelerates/?.tsrc=rss",
+      "description": "IBM, HP, and Qualcomm are all raising payouts while rebuilding their businesses around AI, but only one carries a debt load, a thin equity cushion, or a shrinking phone business that could threaten the check. Which one deserves a retiree's trust?",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-19T13:17:13.000Z",
+      "fetchedAt": "2026-11-19T20:59:54.978Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "IBM, HP, and Qualcomm are all raising payouts while rebuilding their businesses around AI, but only one carries a debt load, a thin equity cushion, or a shrinking phone business that could threaten the check. Which one deserves a retiree's trust?",
+      "id": "a28"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-19T12:12:24.960Z",
-  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T21:00:03.193Z",
+  "date": "2026-11-20",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 7,
-      "topHeadline": "Tech layoffs flare up in San Diego with hundreds of layoffs at chipmaker",
-      "topHeadlineId": "a18",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (2 articles). A total of 7 articles were aggregated from monitored sources."
+      "articleCount": 6,
+      "topHeadline": "Qualcomm lays off 100s amid global restructuring, raises $4 billion",
+      "topHeadlineId": "a12",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (2 articles), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -18,17 +18,17 @@
     },
     "growth-areas": {
       "title": "Growth Areas",
-      "articleCount": 1,
-      "topHeadline": "FIRST and Qualcomm Technologies, Inc. Launch Next Generation of K-8 Robotics Education",
-      "topHeadlineId": "a27",
-      "briefingSummary": "One article today covering Embodied AI & Robotics. The new program experience will be powered by the Arduino platform with Disney Imagineers helping bring annual game themes to life and REV Robotics en"
+      "articleCount": 0,
+      "topHeadline": null,
+      "topHeadlineId": null,
+      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 40,
-      "topHeadline": "Denmark ratifies Trump security deal over Greenland after months of diplomatic tensions",
+      "articleCount": 41,
+      "topHeadline": "Wait, Why Exactly Is It So Bad to Sell AI Chips to China? - Futurism",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (38 articles), market-performance (2 articles). A total of 40 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (38 articles), market-performance (2 articles), Supply Chain (1 article). A total of 41 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 4,
-      "topHeadline": "Could Qualcomm Actually Climb 85%? Or Is Baird Totally Wrong?",
-      "topHeadlineId": "a20",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Semiconductors (1 article). A total of 4 articles were aggregated from monitored sources."
+      "articleCount": 7,
+      "topHeadline": "Inside Brad Gerstner’s Portfolio: Every Move He Made in the Third Quarter",
+      "topHeadlineId": "a8",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), market-performance (1 article), Semiconductors (1 article). A total of 7 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 52
+  "totalArticles": 54
 }
