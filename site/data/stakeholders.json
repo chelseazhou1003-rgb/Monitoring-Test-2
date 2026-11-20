@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-11-20T10:34:18.305Z",
-  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T18:51:40.450Z",
+  "date": "2026-11-21",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans market-performance (2 articles), Geopolitics & Export Controls (2 articles), Customers & Partners (1 article). A total of 9 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Customers & Partners (1 article), market-performance (1 article). A total of 7 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Geopolitics & Export Controls: A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, Germ",
+        "articleIds": [
+          "a3"
+        ],
+        "subCategory": "geopolitics-export-controls"
+      },
       {
         "text": "Customers & Partners: Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new H",
         "articleIds": [
-          "a7"
+          "a18"
         ],
         "subCategory": "customers-partners"
       },
       {
-        "text": "market-performance: Lenovo says it remains optimistic about demand for its AI servers, despite recent market volatility that has hit tech stocks. The Nvidia customer's CFO, Winston Cheng, speaks on \"Bloomberg: The China ",
+        "text": "market-performance: Key TakeawaysBrad Gerstner’s Altimeter Capital opened a $680 million Tesla position in the third quarter, added to Meta Platforms and Micron, and sold out of Qualcomm and Applied Materials. Tesla trad",
         "articleIds": [
-          "a9"
+          "a36"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "Semiconductors: TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
         "articleIds": [
-          "a34"
+          "a38"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Platform & Ecosystem Partners: Alphabet builds its own AI chips, so a surprise Qualcomm position in its latest filing raises an obvious question. The explanation points to a startup deal, and the real investment case lies somewhere",
         "articleIds": [
-          "a35"
-        ],
-        "subCategory": "platform-partner"
-      },
-      {
-        "text": "Geopolitics & Export Controls: Taiwan Semiconductor Manufacturing Co and Samsung Electronics reportedly responded to new US export controls by putting a halt on some chip shipments to Chinese companies. The post Samsung, TSMC suspe",
-        "articleIds": [
           "a39"
         ],
-        "subCategory": "geopolitics-export-controls"
+        "subCategory": "platform-partner"
       },
       {
         "text": "Wireless Communication: Boost ROI via high-speed, power-efficient 5G/Wi-Fi modules, compact upgradeable designs, portfolio expansion, and distribution partnerships that improve reach and availability.Dublin, Nov. 19, 2026 (G",
@@ -47,17 +47,31 @@
           "a44"
         ],
         "subCategory": "wireless"
-      },
-      {
-        "text": "Mobile Chips: IBM, HP, and Qualcomm are all raising payouts while rebuilding their businesses around AI, but only one carries a debt load, a thin equity cushion, or a shrinking phone business that could threaten th",
-        "articleIds": [
-          "a45"
-        ],
-        "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
+    {
+      "title": "A year after issuing mediation guidelines, China’s top court reveals how it brokered a global CCC v. OPPO royalty deal to end multijurisdictional litigation",
+      "url": "https://ipfray.com/a-year-after-issuing-mediation-guidelines-chinas-top-court-reveals-how-it-brokered-a-global-ccc-v-oppo-royalty-deal-to-end-multijurisdictional-litigation/",
+      "description": "A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, German and UPC litigation.",
+      "source": "IP Fray",
+      "sourceId": "ip-fray",
+      "sourceGroup": "ip",
+      "publishedAt": "2026-11-20T18:04:16.000Z",
+      "fetchedAt": "2026-11-20T18:51:38.635Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, German and UPC litigation.",
+      "id": "a3"
+    },
     {
       "title": "Chip Industry Week In Review",
       "url": "https://semiengineering.com/chip-industry-week-in-review-165/",
@@ -66,7 +80,7 @@
       "sourceId": "semiconductor-engineering",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-11-20T08:01:14.000Z",
-      "fetchedAt": "2026-11-20T10:34:12.693Z",
+      "fetchedAt": "2026-11-20T18:51:30.064Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -77,28 +91,7 @@
         "platform-partner"
       ],
       "summary": "Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new HPC HW; JEDEC previews DDR6; Europe pushes ahead with €33B in chip projects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "id": "a7"
-    },
-    {
-      "title": "Lenovo CFO Winston Cheng On Earnings",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-20/lenovo-cfo-winston-cheng-on-earnings-video",
-      "description": "Lenovo says it remains optimistic about demand for its AI servers, despite recent market volatility that has hit tech stocks. The Nvidia customer's CFO, Winston Cheng, speaks on \"Bloomberg: The China Show.\" (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-20T06:36:01.000Z",
-      "fetchedAt": "2026-11-20T10:34:11.482Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Lenovo says it remains optimistic about demand for its AI servers, despite recent market volatility that has hit tech stocks. The Nvidia customer's CFO, Winston Cheng, speaks on \"Bloomberg: The China Show.\" (Source: Bloomberg)",
-      "id": "a9"
+      "id": "a18"
     },
     {
       "title": "Inside Brad Gerstner’s Portfolio: Every Move He Made in the Third Quarter",
@@ -108,7 +101,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T20:05:22.000Z",
-      "fetchedAt": "2026-11-20T10:34:11.356Z",
+      "fetchedAt": "2026-11-20T18:51:28.075Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -118,7 +111,7 @@
         "platform-partner"
       ],
       "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital opened a $680 million Tesla position in the third quarter, added to Meta Platforms and Micron, and sold out of Qualcomm and Applied Materials. Tesla trades at about 180x forward earnings, and analysts’ average target is just 7% above the price, so the new stake is a bet on Robotaxi profits that the estimates don’t show yet.",
-      "id": "a31"
+      "id": "a36"
     },
     {
       "title": "Qualcomm vs. Taiwan Semiconductor: Diverging Revenue Trends for Major Chipmakers",
@@ -128,7 +121,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T17:03:02.000Z",
-      "fetchedAt": "2026-11-20T10:34:11.356Z",
+      "fetchedAt": "2026-11-20T18:51:28.075Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -138,7 +131,7 @@
         "foundry"
       ],
       "summary": "TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
-      "id": "a34"
+      "id": "a38"
     },
     {
       "title": "Google’s Parent Now Holds a $548 Million Qualcomm Stake That Wasn’t in Its June Filing",
@@ -148,7 +141,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T16:52:35.000Z",
-      "fetchedAt": "2026-11-20T10:34:11.356Z",
+      "fetchedAt": "2026-11-20T18:51:28.075Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -158,7 +151,7 @@
         "platform-partner"
       ],
       "summary": "Alphabet builds its own AI chips, so a surprise Qualcomm position in its latest filing raises an obvious question. The explanation points to a startup deal, and the real investment case lies somewhere else entirely.",
-      "id": "a35"
+      "id": "a39"
     },
     {
       "title": "Samsung, TSMC suspend some China chip shipments",
@@ -168,7 +161,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-19T15:47:46.000Z",
-      "fetchedAt": "2026-11-20T10:34:16.459Z",
+      "fetchedAt": "2026-11-20T18:51:38.493Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -180,27 +173,6 @@
         "foundry"
       ],
       "summary": "Taiwan Semiconductor Manufacturing Co and Samsung Electronics reportedly responded to new US export controls by putting a halt on some chip shipments to Chinese companies. The post Samsung, TSMC suspend some China chip shipments appeared first on Mobile World Live.",
-      "id": "a39"
-    },
-    {
-      "title": "UK government forced to disclose secret Apple backdoor order",
-      "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
-      "description": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
-      "source": "TechCrunch",
-      "sourceId": "techcrunch",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-11-19T15:32:20.000Z",
-      "fetchedAt": "2026-11-20T10:34:11.275Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
       "id": "a41"
     },
     {
@@ -211,7 +183,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T14:31:00.000Z",
-      "fetchedAt": "2026-11-20T10:34:11.356Z",
+      "fetchedAt": "2026-11-20T18:51:28.075Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -222,26 +194,6 @@
       ],
       "summary": "Boost ROI via high-speed, power-efficient 5G/Wi-Fi modules, compact upgradeable designs, portfolio expansion, and distribution partnerships that improve reach and availability.Dublin, Nov. 19, 2026 (GLOBE NEWSWIRE) -- \"Personal Computer Cards and Modems Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global personal computer cards and modems market is experiencing strong growth as consumers and enterprises seek faster, more reliable connectivity across laptops, deskt",
       "id": "a44"
-    },
-    {
-      "title": "3 Tech Dividend Stocks to Buy in December as AI Spending Accelerates",
-      "url": "https://247wallst.com/investing/2026/11/19/3-tech-dividend-stocks-to-buy-in-december-as-ai-spending-accelerates/?.tsrc=rss",
-      "description": "IBM, HP, and Qualcomm are all raising payouts while rebuilding their businesses around AI, but only one carries a debt load, a thin equity cushion, or a shrinking phone business that could threaten the check. Which one deserves a retiree's trust?",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-19T13:17:13.000Z",
-      "fetchedAt": "2026-11-20T10:34:11.356Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "IBM, HP, and Qualcomm are all raising payouts while rebuilding their businesses around AI, but only one carries a debt load, a thin equity cushion, or a shrinking phone business that could threaten the check. Which one deserves a retiree's trust?",
-      "id": "a45"
     }
   ]
 }
