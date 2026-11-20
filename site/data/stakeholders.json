@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T21:00:03.191Z",
+  "generatedAt": "2026-11-20T02:39:06.181Z",
   "date": "2026-11-20",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,42 +9,42 @@
       {
         "text": "market-performance: Key TakeawaysBrad Gerstner’s Altimeter Capital opened a $680 million Tesla position in the third quarter, added to Meta Platforms and Micron, and sold out of Qualcomm and Applied Materials. Tesla trad",
         "articleIds": [
-          "a8"
+          "a21"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "Semiconductors: TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
         "articleIds": [
-          "a16"
+          "a24"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Platform & Ecosystem Partners: Alphabet builds its own AI chips, so a surprise Qualcomm position in its latest filing raises an obvious question. The explanation points to a startup deal, and the real investment case lies somewhere",
         "articleIds": [
-          "a18"
+          "a26"
         ],
         "subCategory": "platform-partner"
       },
       {
         "text": "Geopolitics & Export Controls: Taiwan Semiconductor Manufacturing Co and Samsung Electronics reportedly responded to new US export controls by putting a halt on some chip shipments to Chinese companies. The post Samsung, TSMC suspe",
         "articleIds": [
-          "a23"
+          "a30"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Wireless Communication: Boost ROI via high-speed, power-efficient 5G/Wi-Fi modules, compact upgradeable designs, portfolio expansion, and distribution partnerships that improve reach and availability.Dublin, Nov. 19, 2026 (G",
         "articleIds": [
-          "a27"
+          "a35"
         ],
         "subCategory": "wireless"
       },
       {
         "text": "Mobile Chips: IBM, HP, and Qualcomm are all raising payouts while rebuilding their businesses around AI, but only one carries a debt load, a thin equity cushion, or a shrinking phone business that could threaten th",
         "articleIds": [
-          "a28"
+          "a36"
         ],
         "subCategory": "mobile-chips"
       }
@@ -59,7 +59,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T20:05:22.000Z",
-      "fetchedAt": "2026-11-19T20:59:54.978Z",
+      "fetchedAt": "2026-11-20T02:38:59.122Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -69,7 +69,7 @@
         "platform-partner"
       ],
       "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital opened a $680 million Tesla position in the third quarter, added to Meta Platforms and Micron, and sold out of Qualcomm and Applied Materials. Tesla trades at about 180x forward earnings, and analysts’ average target is just 7% above the price, so the new stake is a bet on Robotaxi profits that the estimates don’t show yet.",
-      "id": "a8"
+      "id": "a21"
     },
     {
       "title": "Qualcomm vs. Taiwan Semiconductor: Diverging Revenue Trends for Major Chipmakers",
@@ -79,7 +79,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T17:03:02.000Z",
-      "fetchedAt": "2026-11-19T20:59:54.978Z",
+      "fetchedAt": "2026-11-20T02:38:59.122Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -89,7 +89,7 @@
         "foundry"
       ],
       "summary": "TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
-      "id": "a16"
+      "id": "a24"
     },
     {
       "title": "Google’s Parent Now Holds a $548 Million Qualcomm Stake That Wasn’t in Its June Filing",
@@ -99,7 +99,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T16:52:35.000Z",
-      "fetchedAt": "2026-11-19T20:59:54.978Z",
+      "fetchedAt": "2026-11-20T02:38:59.122Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -109,7 +109,7 @@
         "platform-partner"
       ],
       "summary": "Alphabet builds its own AI chips, so a surprise Qualcomm position in its latest filing raises an obvious question. The explanation points to a startup deal, and the real investment case lies somewhere else entirely.",
-      "id": "a18"
+      "id": "a26"
     },
     {
       "title": "Samsung, TSMC suspend some China chip shipments",
@@ -119,7 +119,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-19T15:47:46.000Z",
-      "fetchedAt": "2026-11-19T21:00:00.970Z",
+      "fetchedAt": "2026-11-20T02:39:04.194Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -131,7 +131,7 @@
         "foundry"
       ],
       "summary": "Taiwan Semiconductor Manufacturing Co and Samsung Electronics reportedly responded to new US export controls by putting a halt on some chip shipments to Chinese companies. The post Samsung, TSMC suspend some China chip shipments appeared first on Mobile World Live.",
-      "id": "a23"
+      "id": "a30"
     },
     {
       "title": "UK government forced to disclose secret Apple backdoor order",
@@ -141,7 +141,7 @@
       "sourceId": "techcrunch",
       "sourceGroup": "tech",
       "publishedAt": "2026-11-19T15:32:20.000Z",
-      "fetchedAt": "2026-11-19T20:59:54.862Z",
+      "fetchedAt": "2026-11-20T02:38:59.003Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -152,7 +152,7 @@
         "oem"
       ],
       "summary": "tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
-      "id": "a25"
+      "id": "a32"
     },
     {
       "title": "Global Personal Computer Cards and Modems Market Report 2026-2030 | Capitalize on 5G, Wi-Fi 7 and Edge IoT as Samsung, Qualcomm, ZTE and Quectel Drive a $9.26 Billion Market by 2030",
@@ -162,7 +162,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T14:31:00.000Z",
-      "fetchedAt": "2026-11-19T20:59:54.978Z",
+      "fetchedAt": "2026-11-20T02:38:59.122Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -172,7 +172,7 @@
         "oem"
       ],
       "summary": "Boost ROI via high-speed, power-efficient 5G/Wi-Fi modules, compact upgradeable designs, portfolio expansion, and distribution partnerships that improve reach and availability.Dublin, Nov. 19, 2026 (GLOBE NEWSWIRE) -- \"Personal Computer Cards and Modems Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global personal computer cards and modems market is experiencing strong growth as consumers and enterprises seek faster, more reliable connectivity across laptops, deskt",
-      "id": "a27"
+      "id": "a35"
     },
     {
       "title": "3 Tech Dividend Stocks to Buy in December as AI Spending Accelerates",
@@ -182,7 +182,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T13:17:13.000Z",
-      "fetchedAt": "2026-11-19T20:59:54.978Z",
+      "fetchedAt": "2026-11-20T02:38:59.122Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -192,7 +192,7 @@
         "oem"
       ],
       "summary": "IBM, HP, and Qualcomm are all raising payouts while rebuilding their businesses around AI, but only one carries a debt load, a thin equity cushion, or a shrinking phone business that could threaten the check. Which one deserves a retiree's trust?",
-      "id": "a28"
+      "id": "a36"
     }
   ]
 }
