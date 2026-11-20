@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T02:39:06.181Z",
+  "generatedAt": "2026-11-20T10:34:18.305Z",
   "date": "2026-11-20",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,21 +9,21 @@
       {
         "text": "Semiconductors: Filings confirm hundreds of permanent job cuts as the chipmaker raises billions in debt and shifts its focus toward AI and data centers.",
         "articleIds": [
-          "a23"
+          "a33"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Wireless Communication: Boost ROI via high-speed, power-efficient 5G/Wi-Fi modules, compact upgradeable designs, portfolio expansion, and distribution partnerships that improve reach and availability.Dublin, Nov. 19, 2026 (G",
         "articleIds": [
-          "a35"
+          "a44"
         ],
         "subCategory": "wireless"
       },
       {
         "text": "Mobile Chips: IBM, HP, and Qualcomm are all raising payouts while rebuilding their businesses around AI, but only one carries a debt load, a thin equity cushion, or a shrinking phone business that could threaten th",
         "articleIds": [
-          "a36"
+          "a45"
         ],
         "subCategory": "mobile-chips"
       }
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T18:33:00.000Z",
-      "fetchedAt": "2026-11-20T02:38:59.122Z",
+      "fetchedAt": "2026-11-20T10:34:11.356Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -46,7 +46,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Filings confirm hundreds of permanent job cuts as the chipmaker raises billions in debt and shifts its focus toward AI and data centers.",
-      "id": "a23"
+      "id": "a33"
     },
     {
       "title": "Qualcomm vs. Taiwan Semiconductor: Diverging Revenue Trends for Major Chipmakers",
@@ -56,7 +56,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T17:03:02.000Z",
-      "fetchedAt": "2026-11-20T02:38:59.122Z",
+      "fetchedAt": "2026-11-20T10:34:11.356Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -66,7 +66,7 @@
         "foundry"
       ],
       "summary": "TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
-      "id": "a24"
+      "id": "a34"
     },
     {
       "title": "Global Wired Interface Market Report 2026: Size, Share, Trends, and Forecast to 2030 | Capitalize on High-Speed, Fiber Optic Demand with Intel, Broadcom, Qualcomm, and Infineon",
@@ -76,7 +76,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T14:36:00.000Z",
-      "fetchedAt": "2026-11-20T02:38:59.122Z",
+      "fetchedAt": "2026-11-20T10:34:11.356Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -84,7 +84,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Players: Intel, Broadcom, Qualcomm, Texas Instruments and Infineon. Profile covers wired-interface products, services, innovations and competitive activity.Dublin, Nov. 19, 2026 (GLOBE NEWSWIRE) -- \"Wired Interface Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global wired interface market is experiencing strong growth as businesses and consumers increase their reliance on reliable, secure, and high-speed connectivity. The market is projected to grow from $21.64 bi",
-      "id": "a34"
+      "id": "a43"
     },
     {
       "title": "Global Personal Computer Cards and Modems Market Report 2026-2030 | Capitalize on 5G, Wi-Fi 7 and Edge IoT as Samsung, Qualcomm, ZTE and Quectel Drive a $9.26 Billion Market by 2030",
@@ -94,7 +94,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T14:31:00.000Z",
-      "fetchedAt": "2026-11-20T02:38:59.122Z",
+      "fetchedAt": "2026-11-20T10:34:11.356Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -104,7 +104,7 @@
         "oem"
       ],
       "summary": "Boost ROI via high-speed, power-efficient 5G/Wi-Fi modules, compact upgradeable designs, portfolio expansion, and distribution partnerships that improve reach and availability.Dublin, Nov. 19, 2026 (GLOBE NEWSWIRE) -- \"Personal Computer Cards and Modems Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global personal computer cards and modems market is experiencing strong growth as consumers and enterprises seek faster, more reliable connectivity across laptops, deskt",
-      "id": "a35"
+      "id": "a44"
     },
     {
       "title": "3 Tech Dividend Stocks to Buy in December as AI Spending Accelerates",
@@ -114,7 +114,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T13:17:13.000Z",
-      "fetchedAt": "2026-11-20T02:38:59.122Z",
+      "fetchedAt": "2026-11-20T10:34:11.356Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -124,7 +124,7 @@
         "oem"
       ],
       "summary": "IBM, HP, and Qualcomm are all raising payouts while rebuilding their businesses around AI, but only one carries a debt load, a thin equity cushion, or a shrinking phone business that could threaten the check. Which one deserves a retiree's trust?",
-      "id": "a36"
+      "id": "a45"
     },
     {
       "title": "Qualcomm VP argues 6G hardware overhaul may be necessary",
@@ -134,7 +134,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-19T12:30:00.000Z",
-      "fetchedAt": "2026-11-20T02:39:04.194Z",
+      "fetchedAt": "2026-11-20T10:34:16.459Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -142,7 +142,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "LIVE FROM UNWRAPPED – THE 5G EVOLUTION: Hemanth Sampath, VP of engineering at Qualcomm is bullish on the operator opportunity within 6G around core connectivity and compute, while he urged telcos to upgrade to 5G-Advanced to begin the journey towards the next-generation. The post Qualcomm VP argues 6G hardware overhaul may be necessary appeared first on Mobile World Live.",
-      "id": "a37"
+      "id": "a46"
     }
   ]
 }
