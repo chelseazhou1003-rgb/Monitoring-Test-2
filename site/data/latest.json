@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T16:58:09.579Z",
+  "generatedAt": "2026-11-21T22:27:14.006Z",
   "date": "2026-11-22",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 4,
       "topHeadline": "George Soros and 20 Other Big Funds Bought Qualcomm Last Quarter. David Tepper and 14 Others Sold. Who’s Right?",
-      "topHeadlineId": "a20",
+      "topHeadlineId": "a19",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
@@ -20,15 +20,15 @@
       "title": "Growth Areas",
       "articleCount": 1,
       "topHeadline": "What Should Qualcomm (QCOM) Investors Watch After 500 California Layoffs And New AI Moves?",
-      "topHeadlineId": "a44",
+      "topHeadlineId": "a32",
       "briefingSummary": "One article today covering Embodied AI & Robotics. Qualcomm (NasdaqGS:QCOM) is cutting more than 500 jobs in California as it reshapes operations under pressure in its smartphone business. The company "
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 48,
-      "topHeadline": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "articleCount": 35,
+      "topHeadline": "HARROP: It takes a village to sell out national security - Standard-Examiner",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (41 articles), market-performance (5 articles), Customers & Partners (2 articles). A total of 48 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (29 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 35 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -41,9 +41,9 @@
       "title": "Key Stakeholders",
       "articleCount": 8,
       "topHeadline": "Can Anthropic afford to put safety first?",
-      "topHeadlineId": "a2",
+      "topHeadlineId": "a7",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 8 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 61
+  "totalArticles": 48
 }
