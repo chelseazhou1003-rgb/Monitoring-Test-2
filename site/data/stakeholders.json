@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T00:58:08.566Z",
+  "generatedAt": "2026-11-21T08:49:15.120Z",
   "date": "2026-11-21",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,35 +9,35 @@
       {
         "text": "Geopolitics & Export Controls: A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, Germ",
         "articleIds": [
-          "a9"
+          "a12"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Customers & Partners: Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new H",
         "articleIds": [
-          "a24"
+          "a29"
         ],
         "subCategory": "customers-partners"
       },
       {
         "text": "market-performance: Key TakeawaysBrad Gerstner’s Altimeter Capital opened a $680 million Tesla position in the third quarter, added to Meta Platforms and Micron, and sold out of Qualcomm and Applied Materials. Tesla trad",
         "articleIds": [
-          "a34"
+          "a31"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "Semiconductors: TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
         "articleIds": [
-          "a36"
+          "a33"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Platform & Ecosystem Partners: Alphabet builds its own AI chips, so a surprise Qualcomm position in its latest filing raises an obvious question. The explanation points to a startup deal, and the real investment case lies somewhere",
         "articleIds": [
-          "a37"
+          "a34"
         ],
         "subCategory": "platform-partner"
       }
@@ -52,7 +52,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-20T18:04:16.000Z",
-      "fetchedAt": "2026-11-21T00:58:06.726Z",
+      "fetchedAt": "2026-11-21T08:49:13.576Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -63,7 +63,7 @@
         "oem"
       ],
       "summary": "A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, German and UPC litigation.",
-      "id": "a9"
+      "id": "a12"
     },
     {
       "title": "Chip Industry Week In Review",
@@ -73,7 +73,7 @@
       "sourceId": "semiconductor-engineering",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-11-20T08:01:14.000Z",
-      "fetchedAt": "2026-11-21T00:58:04.016Z",
+      "fetchedAt": "2026-11-21T08:49:10.076Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -84,7 +84,7 @@
         "platform-partner"
       ],
       "summary": "Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new HPC HW; JEDEC previews DDR6; Europe pushes ahead with €33B in chip projects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "id": "a24"
+      "id": "a29"
     },
     {
       "title": "Inside Brad Gerstner’s Portfolio: Every Move He Made in the Third Quarter",
@@ -94,7 +94,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T20:05:22.000Z",
-      "fetchedAt": "2026-11-21T00:58:02.127Z",
+      "fetchedAt": "2026-11-21T08:49:08.360Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -104,7 +104,7 @@
         "platform-partner"
       ],
       "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital opened a $680 million Tesla position in the third quarter, added to Meta Platforms and Micron, and sold out of Qualcomm and Applied Materials. Tesla trades at about 180x forward earnings, and analysts’ average target is just 7% above the price, so the new stake is a bet on Robotaxi profits that the estimates don’t show yet.",
-      "id": "a34"
+      "id": "a31"
     },
     {
       "title": "Qualcomm vs. Taiwan Semiconductor: Diverging Revenue Trends for Major Chipmakers",
@@ -114,7 +114,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T17:03:02.000Z",
-      "fetchedAt": "2026-11-21T00:58:02.127Z",
+      "fetchedAt": "2026-11-21T08:49:08.360Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -124,7 +124,7 @@
         "foundry"
       ],
       "summary": "TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
-      "id": "a36"
+      "id": "a33"
     },
     {
       "title": "Google’s Parent Now Holds a $548 Million Qualcomm Stake That Wasn’t in Its June Filing",
@@ -134,7 +134,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T16:52:35.000Z",
-      "fetchedAt": "2026-11-21T00:58:02.127Z",
+      "fetchedAt": "2026-11-21T08:49:08.360Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -144,7 +144,7 @@
         "platform-partner"
       ],
       "summary": "Alphabet builds its own AI chips, so a surprise Qualcomm position in its latest filing raises an obvious question. The explanation points to a startup deal, and the real investment case lies somewhere else entirely.",
-      "id": "a37"
+      "id": "a34"
     },
     {
       "title": "Samsung, TSMC suspend some China chip shipments",
@@ -154,7 +154,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-19T15:47:46.000Z",
-      "fetchedAt": "2026-11-21T00:58:06.662Z",
+      "fetchedAt": "2026-11-21T08:49:13.250Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -166,7 +166,7 @@
         "foundry"
       ],
       "summary": "Taiwan Semiconductor Manufacturing Co and Samsung Electronics reportedly responded to new US export controls by putting a halt on some chip shipments to Chinese companies. The post Samsung, TSMC suspend some China chip shipments appeared first on Mobile World Live.",
-      "id": "a39"
+      "id": "a36"
     }
   ]
 }

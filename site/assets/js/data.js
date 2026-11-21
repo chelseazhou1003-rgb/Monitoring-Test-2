@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-11-21T00:58:08.566Z",
+    "generatedAt": "2026-11-21T08:49:15.120Z",
     "date": "2026-11-21",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,7 +13,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-11-21T00:58:08.566Z",
+    "generatedAt": "2026-11-21T08:49:15.120Z",
     "date": "2026-11-21",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -21,22 +21,40 @@ export const NEWS_DATA = {
       "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: Filings confirm hundreds of permanent job cuts as the chipmaker raises billions in debt and shifts its focus toward AI and data centers.",
+          "text": "Semiconductors: Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 21 bought Qualcomm and 15 sold, with George Soros among the buyers and David Tepper among the sellers.",
           "articleIds": [
-            "a35"
+            "a3"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Wireless Communication: LIVE FROM UNWRAPPED – THE 5G EVOLUTION: Hemanth Sampath, VP of engineering at Qualcomm is bullish on the operator opportunity within 6G around core connectivity and compute, while he urged telcos to u",
           "articleIds": [
-            "a42"
+            "a38"
           ],
           "subCategory": "wireless"
         }
       ]
     },
     "articles": [
+      {
+        "title": "George Soros and 20 Other Big Funds Bought Qualcomm Last Quarter. David Tepper and 14 Others Sold. Who’s Right?",
+        "url": "https://www.tikr.com/blog/george-soros-and-20-other-big-funds-bought-qualcomm-last-quarter-david-tepper-and-14-others-sold-whos-right?ref=yahoofinance&tlnk=yf-261120-7fxgch3m&.tsrc=rss",
+        "description": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 21 bought Qualcomm and 15 sold, with George Soros among the buyers and David Tepper among the sellers.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-21T00:35:15.000Z",
+        "fetchedAt": "2026-11-21T08:49:08.360Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 21 bought Qualcomm and 15 sold, with George Soros among the buyers and David Tepper among the sellers.",
+        "id": "a3"
+      },
       {
         "title": "Qualcomm lays off 100s amid global restructuring, raises $4 billion",
         "url": "https://www.thestreet.com/employment/qualcomm-lays-off-100s-amid-global-restructuring-raises-4-billion?.tsrc=rss",
@@ -45,7 +63,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-19T18:33:00.000Z",
-        "fetchedAt": "2026-11-21T00:58:02.127Z",
+        "fetchedAt": "2026-11-21T08:49:08.360Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -53,7 +71,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Filings confirm hundreds of permanent job cuts as the chipmaker raises billions in debt and shifts its focus toward AI and data centers.",
-        "id": "a35"
+        "id": "a32"
       },
       {
         "title": "Qualcomm vs. Taiwan Semiconductor: Diverging Revenue Trends for Major Chipmakers",
@@ -63,7 +81,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-19T17:03:02.000Z",
-        "fetchedAt": "2026-11-21T00:58:02.127Z",
+        "fetchedAt": "2026-11-21T08:49:08.360Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -73,25 +91,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
-        "id": "a36"
-      },
-      {
-        "title": "Global Wired Interface Market Report 2026: Size, Share, Trends, and Forecast to 2030 | Capitalize on High-Speed, Fiber Optic Demand with Intel, Broadcom, Qualcomm, and Infineon",
-        "url": "https://finance.yahoo.com/technology/articles/global-wired-interface-market-report-143600909.html?.tsrc=rss",
-        "description": "Players: Intel, Broadcom, Qualcomm, Texas Instruments and Infineon. Profile covers wired-interface products, services, innovations and competitive activity.Dublin, Nov. 19, 2026 (GLOBE NEWSWIRE) -- \"Wired Interface Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global wired interface market is experiencing strong growth as businesses and consumers increase their reliance on reliable, secure, and high-speed connectivity. The market is projected to grow from $21.64 bi",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-19T14:36:00.000Z",
-        "fetchedAt": "2026-11-21T00:58:02.127Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Players: Intel, Broadcom, Qualcomm, Texas Instruments and Infineon. Profile covers wired-interface products, services, innovations and competitive activity.Dublin, Nov. 19, 2026 (GLOBE NEWSWIRE) -- \"Wired Interface Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global wired interface market is experiencing strong growth as businesses and consumers increase their reliance on reliable, secure, and high-speed connectivity. The market is projected to grow from $21.64 bi",
-        "id": "a41"
+        "id": "a33"
       },
       {
         "title": "Qualcomm VP argues 6G hardware overhaul may be necessary",
@@ -101,7 +101,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-19T12:30:00.000Z",
-        "fetchedAt": "2026-11-21T00:58:06.662Z",
+        "fetchedAt": "2026-11-21T08:49:13.250Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -109,12 +109,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "LIVE FROM UNWRAPPED – THE 5G EVOLUTION: Hemanth Sampath, VP of engineering at Qualcomm is bullish on the operator opportunity within 6G around core connectivity and compute, while he urged telcos to upgrade to 5G-Advanced to begin the journey towards the next-generation. The post Qualcomm VP argues 6G hardware overhaul may be necessary appeared first on Mobile World Live.",
-        "id": "a42"
+        "id": "a38"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-11-21T00:58:08.566Z",
+    "generatedAt": "2026-11-21T08:49:15.120Z",
     "date": "2026-11-21",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -124,7 +124,7 @@ export const NEWS_DATA = {
         {
           "text": "Embodied AI & Robotics: Qualcomm (NasdaqGS:QCOM) is cutting more than 500 jobs in California as it reshapes operations under pressure in its smartphone business. The company is reallocating resources toward new AI inference ",
           "articleIds": [
-            "a28"
+            "a30"
           ],
           "subCategory": "embodied-ai-robotics"
         }
@@ -139,7 +139,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T02:16:53.000Z",
-        "fetchedAt": "2026-11-21T00:58:02.127Z",
+        "fetchedAt": "2026-11-21T08:49:08.360Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "embodied-ai-robotics",
@@ -147,12 +147,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (NasdaqGS:QCOM) is cutting more than 500 jobs in California as it reshapes operations under pressure in its smartphone business. The company is reallocating resources toward new AI inference initiatives, backed by fresh technology partnerships announced in recent months. Qualcomm is also extending its reach into K-8 robotics education through programs built with Arduino, Disney Imagineering, and REV Robotics. These layoffs and new AI and education partnerships matter, but investors...",
-        "id": "a28"
+        "id": "a30"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-11-21T00:58:08.566Z",
+    "generatedAt": "2026-11-21T08:49:15.120Z",
     "date": "2026-11-21",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -163,14 +163,14 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-11-21T00:58:08.569Z",
+    "generatedAt": "2026-11-21T08:49:15.121Z",
     "date": "2026-11-21",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 4,
-        "topHeadline": "Qualcomm lays off 100s amid global restructuring, raises $4 billion",
-        "topHeadlineId": "a35",
+        "topHeadline": "George Soros and 20 Other Big Funds Bought Qualcomm Last Quarter. David Tepper and 14 Others Sold. Who’s Right?",
+        "topHeadlineId": "a3",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources."
       },
       "ip-legal": {
@@ -184,15 +184,15 @@ export const NEWS_DATA = {
         "title": "Growth Areas",
         "articleCount": 1,
         "topHeadline": "What Should Qualcomm (QCOM) Investors Watch After 500 California Layoffs And New AI Moves?",
-        "topHeadlineId": "a28",
+        "topHeadlineId": "a30",
         "briefingSummary": "One article today covering Embodied AI & Robotics. Qualcomm (NasdaqGS:QCOM) is cutting more than 500 jobs in California as it reshapes operations under pressure in its smartphone business. The company "
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 39,
-        "topHeadline": "Top US Senate Democrat accuses Trump of putting national security at risk with AI chip sales to China - Anadolu Ajansı",
+        "articleCount": 35,
+        "topHeadline": "How China is using summits to expand its global influence",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (34 articles), market-performance (4 articles), Customers & Partners (1 article). A total of 39 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (30 articles), market-performance (4 articles), Customers & Partners (1 article). A total of 35 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -205,22 +205,22 @@ export const NEWS_DATA = {
         "title": "Key Stakeholders",
         "articleCount": 6,
         "topHeadline": "A year after issuing mediation guidelines, China’s top court reveals how it brokered a global CCC v. OPPO royalty deal to end multijurisdictional litigation",
-        "topHeadlineId": "a9",
+        "topHeadlineId": "a12",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Customers & Partners (1 article), market-performance (1 article). A total of 6 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 50
+    "totalArticles": 46
   },
   "macro-environment": {
-    "generatedAt": "2026-11-21T00:58:08.566Z",
+    "generatedAt": "2026-11-21T08:49:15.120Z",
     "date": "2026-11-21",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (34 articles), market-performance (4 articles), Customers & Partners (1 article). A total of 39 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (30 articles), market-performance (4 articles), Customers & Partners (1 article). A total of 35 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Top US Senate Democrat accuses Trump of putting national security at risk with AI chip sales to China Anadolu Ajansı",
+          "text": "Geopolitics & Export Controls: Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
           "articleIds": [
             "a1"
           ],
@@ -229,20 +229,78 @@ export const NEWS_DATA = {
         {
           "text": "market-performance: Today’s big story: Will 2027 Be A 2022 Repeat For Stocks.",
           "articleIds": [
-            "a5"
+            "a9"
           ],
           "subCategory": "market-performance"
         },
         {
           "text": "Customers & Partners: Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new H",
           "articleIds": [
-            "a24"
+            "a29"
           ],
           "subCategory": "customers-partners"
         }
       ]
     },
     "articles": [
+      {
+        "title": "How China is using summits to expand its global influence",
+        "url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+        "description": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-21T06:00:02.000Z",
+        "fetchedAt": "2026-11-21T08:49:08.446Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
+        "id": "a1"
+      },
+      {
+        "title": "China Deploys 5G Across Manufacturing Base as 6G Testing Advances, CCTV Reports",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-deploys-5g-across-manufacturing-base-as-6g-testing-advances-cctv-reports",
+        "description": "China is expanding the use of 5G across its manufacturing sector, with more than 26,000 private industrial 5G networks built nationwide, China Central Television said on Saturday.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-21T02:33:58.000Z",
+        "fetchedAt": "2026-11-21T08:49:08.651Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China is expanding the use of 5G across its manufacturing sector, with more than 26,000 private industrial 5G networks built nationwide, China Central Television said on Saturday.",
+        "id": "a2"
+      },
+      {
+        "title": "Lutnick faces scrutiny over Nvidia chip exports to China - Fox Business",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1adjVYQy1WYzZVcVBxdzl0Y0s2YVM1YVhQZ1pBSzQ0M1lQdmJEODdoZTR0RnlEbWZxdFZzUnhpaDRJRXMxOGtsbEI0ZHVNWVpsWGJUMTUxcGVMTDA?oc=5",
+        "description": "Lutnick faces scrutiny over Nvidia chip exports to China Fox Business",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-20T22:57:14.000Z",
+        "fetchedAt": "2026-11-21T08:49:15.085Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Fox Business",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Lutnick faces scrutiny over Nvidia chip exports to China Fox Business",
+        "id": "a4"
+      },
       {
         "title": "Top US Senate Democrat accuses Trump of putting national security at risk with AI chip sales to China - Anadolu Ajansı",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdklwSWJ4MFZhTjUwOE52QlF6dWNKNkpJZjFCRW0yWWctLVc5N21tT2lBT09vUkQzUlNFSXBwamZHZng0bEpGcFhLUWtPMENUYmtCREpJYWdLX2xlazhRcUZkdW5DYXVHRlRoRzlYa2U3cFFLSzhGMFlOVkFFdVE1cHRIX0lzb3JqblM2RFJMUGVhVUpSbDg0VmxSa29JV0dBVkZIRTN6YWZZdFBsT0I5QnVnbldRem9YR3NPOWpnWnI2NFJ4TDNwT1ZJbENqQTVCb0JCUFJiUDAweDg?oc=5",
@@ -251,7 +309,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T22:45:12.000Z",
-        "fetchedAt": "2026-11-21T00:58:08.512Z",
+        "fetchedAt": "2026-11-21T08:49:15.085Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Anadolu Ajansı",
         "geopoliticalBypass": true,
@@ -261,7 +319,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Top US Senate Democrat accuses Trump of putting national security at risk with AI chip sales to China Anadolu Ajansı",
-        "id": "a1"
+        "id": "a5"
       },
       {
         "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
@@ -271,7 +329,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T22:08:41.000Z",
-        "fetchedAt": "2026-11-21T00:58:02.038Z",
+        "fetchedAt": "2026-11-21T08:49:08.446Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -280,7 +338,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Trump said he discussed Jensen Huang with China's Xi. Bessent said the ousted Nvidia CEO didn't come up in talks he had while in China.",
-        "id": "a2"
+        "id": "a6"
       },
       {
         "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
@@ -290,7 +348,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T20:47:58.000Z",
-        "fetchedAt": "2026-11-21T00:58:02.037Z",
+        "fetchedAt": "2026-11-21T08:49:08.446Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -299,7 +357,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
-        "id": "a3"
+        "id": "a7"
       },
       {
         "title": "Exclusive | Top Republican Senator Says Lutnick Ignored His China Chip Warnings - WSJ",
@@ -309,7 +367,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T19:39:00.000Z",
-        "fetchedAt": "2026-11-21T00:58:08.512Z",
+        "fetchedAt": "2026-11-21T08:49:15.085Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "WSJ",
         "geopoliticalBypass": true,
@@ -319,7 +377,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Exclusive | Top Republican Senator Says Lutnick Ignored His China Chip Warnings WSJ",
-        "id": "a4"
+        "id": "a8"
       },
       {
         "title": "Why Are Investors Ignoring Qualcomm Stock's High Cash Yield?",
@@ -329,7 +387,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T19:22:44.000Z",
-        "fetchedAt": "2026-11-21T00:58:02.127Z",
+        "fetchedAt": "2026-11-21T08:49:08.360Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -337,26 +395,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Today’s big story: Will 2027 Be A 2022 Repeat For Stocks.",
-        "id": "a5"
-      },
-      {
-        "title": "’Tis the season to be grateful to China",
-        "url": "https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e?syn-25a6b1a6=1",
-        "description": "Forget the harrumphing Scrooges at COP — no other country is doing more for the climate",
-        "source": "Financial Times",
-        "sourceId": "ft",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-20T18:57:07.000Z",
-        "fetchedAt": "2026-11-21T00:58:02.791Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Forget the harrumphing Scrooges at COP — no other country is doing more for the climate",
-        "id": "a6"
+        "id": "a9"
       },
       {
         "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
@@ -366,7 +405,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-20T18:50:19.000Z",
-        "fetchedAt": "2026-11-21T00:58:02.902Z",
+        "fetchedAt": "2026-11-21T08:49:09.067Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -375,7 +414,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a press conference Friday following his summit with China President Xi Jinping and Russia President Vladimir Putin. \"They allowed that to happen with chips and everything else, and it was very destructive to our country. It's where we started going behind.\" Should the US allow data centers to be built outside of the country, T … Read the full story at The Verge.",
-        "id": "a7"
+        "id": "a10"
       },
       {
         "title": "Jennifer Huddleston examines the U.S. approval of AI chip sales to Chinese companies, the associated national security concerns, and the outlook for the AI industry after the midterm elections on Bloomberg TV’s Bloomberg Surveillance - Cato Institute",
@@ -385,7 +424,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T18:12:59.000Z",
-        "fetchedAt": "2026-11-21T00:58:08.512Z",
+        "fetchedAt": "2026-11-21T08:49:15.085Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Cato Institute",
         "geopoliticalBypass": true,
@@ -395,7 +434,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Jennifer Huddleston examines the U.S. approval of AI chip sales to Chinese companies, the associated national security concerns, and the outlook for the AI industry after the midterm elections on Bloomberg TV’s Bloomberg Surveillance Cato Institute",
-        "id": "a8"
+        "id": "a11"
       },
       {
         "title": "A year after issuing mediation guidelines, China’s top court reveals how it brokered a global CCC v. OPPO royalty deal to end multijurisdictional litigation",
@@ -405,7 +444,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-20T18:04:16.000Z",
-        "fetchedAt": "2026-11-21T00:58:06.726Z",
+        "fetchedAt": "2026-11-21T08:49:13.576Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -416,7 +455,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, German and UPC litigation.",
-        "id": "a9"
+        "id": "a12"
       },
       {
         "title": "Burlison Raises National Security Concerns Over Nvidia, Weighs In on FAA Flight Disruptions - Newstalk KZRG",
@@ -426,7 +465,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T17:42:04.000Z",
-        "fetchedAt": "2026-11-21T00:58:08.513Z",
+        "fetchedAt": "2026-11-21T08:49:15.085Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Newstalk KZRG",
         "geopoliticalBypass": true,
@@ -436,7 +475,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Burlison Raises National Security Concerns Over Nvidia, Weighs In on FAA Flight Disruptions Newstalk KZRG",
-        "id": "a10"
+        "id": "a13"
       },
       {
         "title": "Nvidia China chip licenses: what Congress disclosed - NeoTeo",
@@ -446,7 +485,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T16:19:52.000Z",
-        "fetchedAt": "2026-11-21T00:58:08.513Z",
+        "fetchedAt": "2026-11-21T08:49:15.085Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "NeoTeo",
         "geopoliticalBypass": true,
@@ -456,27 +495,47 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia China chip licenses: what Congress disclosed NeoTeo",
-        "id": "a11"
+        "id": "a14"
       },
       {
-        "title": "Bessent vows to enforce AI chip export restrictions and close remote access gaps - Cryptonews.net",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fZ1lsRXlmVk55REtGTEVEWDZtT2pMd1ZqSmFEUVNKdHZ3S1VtY1B6bEU0WWZRdWdJckxTVUNyNUZuRUg0RUlGTkdCZ0k3LTdnWnY1RjVB?oc=5",
-        "description": "Bessent vows to enforce AI chip export restrictions and close remote access gaps Cryptonews.net",
+        "title": "House describes Nvidia sales approved to China - Taipei Times",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nSVBmLXJsWVVJamVLRmtlRGh1Y1ltNWhSekZqTFBmcm1xcVdFUWJla1BRVTlaQU1lbGhRcnRQV3FnR3VvaWVkRHdtc2t2YVU3LS1fTzE4N0oyREFQZGpvc05OYV84OGpHV2p1VzEyMkxuMGgybXc?oc=5",
+        "description": "House describes Nvidia sales approved to China Taipei Times",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-20T15:52:15.000Z",
-        "fetchedAt": "2026-11-21T00:58:08.513Z",
+        "publishedAt": "2026-11-20T16:00:00.000Z",
+        "fetchedAt": "2026-11-21T08:49:15.085Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "Cryptonews.net",
+        "googleNewsSource": "Taipei Times",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Bessent vows to enforce AI chip export restrictions and close remote access gaps Cryptonews.net",
-        "id": "a12"
+        "summary": "House describes Nvidia sales approved to China Taipei Times",
+        "id": "a15"
+      },
+      {
+        "title": "Bessent vows to enforce AI chip export restrictions and close remote access gaps - Crypto Briefing",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NUk5qcTZVaGlaSGpUVnJYSm5UcVNVTG9WNXJNeGtJd2hOTERtZ296OTZTNl9QNWF4QWJQSVVxSFRKQ1VVd0lXbENvRjd3bmxFcGJWUEVmYTZmbFVrUmhwR3RMYXhZNjgxdGNCbHBQZlBfY0Fwb2FoNTB6SQ?oc=5",
+        "description": "Bessent vows to enforce AI chip export restrictions and close remote access gaps Crypto Briefing",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-20T15:32:38.000Z",
+        "fetchedAt": "2026-11-21T08:49:15.085Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Crypto Briefing",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Bessent vows to enforce AI chip export restrictions and close remote access gaps Crypto Briefing",
+        "id": "a16"
       },
       {
         "title": "FCC tightens grip on Chinese telcos, blocks direct access to US phone numbers",
@@ -486,7 +545,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-20T14:06:42.000Z",
-        "fetchedAt": "2026-11-21T00:58:06.813Z",
+        "fetchedAt": "2026-11-21T08:49:13.655Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -495,7 +554,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The FCC has banned Chinese carriers from gaining direct access to US phone numbers over national security concerns and to crack down on scam robocalls.",
-        "id": "a13"
+        "id": "a17"
       },
       {
         "title": "Commerce Department approved 879,000 AI chip shipments to China - qz.com",
@@ -505,7 +564,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T14:05:29.000Z",
-        "fetchedAt": "2026-11-21T00:58:08.513Z",
+        "fetchedAt": "2026-11-21T08:49:15.085Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "qz.com",
         "geopoliticalBypass": true,
@@ -515,7 +574,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Commerce Department approved 879,000 AI chip shipments to China qz.com",
-        "id": "a14"
+        "id": "a18"
+      },
+      {
+        "title": "Nvidia’s Real Scandal Is a National Security Affair - RealClearWorld",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMUlHTExLNl92a0FiYllPX1Y5MW10OGZycUtPWEM4SHdFcXc4d3ZSMHpRc3VLcUZzelNpVnp0d0YtX05OR0tPLS1Bc3NNUk1QamxnaXB6V3ZaWmU1UTJRZXpPV1JOZlBpWWhDQ2gzYmJvalU1QXYzUldZVGpBOExjeFRzREY5LUxsNTRJVlNBc3hZNERaWjRrQXRsS3ZaVjlHZkNGVG5xOVU?oc=5",
+        "description": "Nvidia’s Real Scandal Is a National Security Affair RealClearWorld",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-20T13:53:16.000Z",
+        "fetchedAt": "2026-11-21T08:49:15.085Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "RealClearWorld",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Nvidia’s Real Scandal Is a National Security Affair RealClearWorld",
+        "id": "a19"
       },
       {
         "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
@@ -525,7 +604,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T13:29:50.000Z",
-        "fetchedAt": "2026-11-21T00:58:02.038Z",
+        "fetchedAt": "2026-11-21T08:49:08.446Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -534,7 +613,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.",
-        "id": "a15"
+        "id": "a20"
       },
       {
         "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
@@ -544,7 +623,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-20T13:21:11.000Z",
-        "fetchedAt": "2026-11-21T00:58:02.045Z",
+        "fetchedAt": "2026-11-21T08:49:08.327Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -553,7 +632,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
-        "id": "a16"
+        "id": "a21"
+      },
+      {
+        "title": "Nvidia's sex and spy scandal spurs push to tighter China chip export control, Huang set to testify - voz.us",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSFFTX0pxVW5YeG9BRTVzVEtndlRLR2ZpY3V5YWQyamNfMzEzWDBUT1JYaXlrT3lwaG5ZUTNGYnB3UUlYbHI5cW9QZHo5aU9lWkpNM1pSV3pZdENBUHJfNmYxWFBfNEUtV3k1QU5iTnRpMnpGLXJoeWlreTBDbWJjZjVHNTBaR0dGM1gwSG9BallITVVjalVETkx4YS1BWmZPLUZ6cXpxalVOS1g2YkdvVlJwVGhldjgyRlkzam9WYl9mbENJX2tKVjgxOTFqMzhXd2RmaHNwY1Y?oc=5",
+        "description": "Nvidia's sex and spy scandal spurs push to tighter China chip export control, Huang set to testify voz.us",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-20T13:09:26.000Z",
+        "fetchedAt": "2026-11-21T08:49:15.085Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "voz.us",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Nvidia's sex and spy scandal spurs push to tighter China chip export control, Huang set to testify voz.us",
+        "id": "a22"
       },
       {
         "title": "Here is What to Know Beyond Why QUALCOMM Incorporated (QCOM) is a Trending Stock",
@@ -563,7 +662,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T13:00:04.000Z",
-        "fetchedAt": "2026-11-21T00:58:02.127Z",
+        "fetchedAt": "2026-11-21T08:49:08.360Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -571,7 +670,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-        "id": "a17"
+        "id": "a23"
       },
       {
         "title": "The Friday File: Nvidia; US AI chips; Telus",
@@ -581,7 +680,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-20T12:17:47.000Z",
-        "fetchedAt": "2026-11-21T00:58:06.662Z",
+        "fetchedAt": "2026-11-21T08:49:13.250Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -590,7 +689,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Mobile World Live brings you our top three picks of the week as Nvidia slashed its Nokia stake, US tightened the screws on AI chip exports to curb China’s access to computing power and Quebecor made an ambitious $22 billion bid to take over Canadian rival Telus. The post The Friday File: Nvidia; US AI chips; Telus appeared first on Mobile World Live.",
-        "id": "a18"
+        "id": "a24"
       },
       {
         "title": "Ben Thompson: Jensen Huang Won't Be Back—and the Chip Ban Is Building the Rival It Fears - BigGo Finance",
@@ -600,7 +699,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T12:08:00.000Z",
-        "fetchedAt": "2026-11-21T00:58:08.512Z",
+        "fetchedAt": "2026-11-21T08:49:15.085Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "BigGo Finance",
         "geopoliticalBypass": true,
@@ -610,7 +709,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Ben Thompson: Jensen Huang Won't Be Back—and the Chip Ban Is Building the Rival It Fears BigGo Finance",
-        "id": "a19"
+        "id": "a25"
       },
       {
         "title": "Was Nvidia's Billionaire CEO Targeted By Chinese Intelligence? The Jensen Huang Affair, The Megaspeed Connection And A Growing US National Security Investigation - Inventiva",
@@ -620,7 +719,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T10:50:43.000Z",
-        "fetchedAt": "2026-11-21T00:58:08.513Z",
+        "fetchedAt": "2026-11-21T08:49:15.085Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Inventiva",
         "geopoliticalBypass": true,
@@ -630,7 +729,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Was Nvidia's Billionaire CEO Targeted By Chinese Intelligence? The Jensen Huang Affair, The Megaspeed Connection And A Growing US National Security Investigation Inventiva",
-        "id": "a20"
+        "id": "a26"
       },
       {
         "title": "Congress must hold Lutnick to the new China chip rule - Washington Examiner",
@@ -640,7 +739,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T10:00:00.000Z",
-        "fetchedAt": "2026-11-21T00:58:08.513Z",
+        "fetchedAt": "2026-11-21T08:49:15.085Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Washington Examiner",
         "geopoliticalBypass": true,
@@ -650,7 +749,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Congress must hold Lutnick to the new China chip rule Washington Examiner",
-        "id": "a21"
+        "id": "a27"
       },
       {
         "title": "EU Chips Act Unlocks €33B in Semiconductor Investments: What’s Being Built? - TechRepublic",
@@ -660,7 +759,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T08:53:16.000Z",
-        "fetchedAt": "2026-11-21T00:58:08.512Z",
+        "fetchedAt": "2026-11-21T08:49:15.085Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "TechRepublic",
         "geopoliticalBypass": true,
@@ -670,27 +769,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "EU Chips Act Unlocks €33B in Semiconductor Investments: What’s Being Built?",
-        "id": "a22"
-      },
-      {
-        "title": "California probes Nvidia over chip access in China - Free Malaysia Today",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzBJLU4zNGd1eHBaSU1IdEV1TVNWLWFvTU5Oelh4ZGtlRklpTFpXMUotOGh5ZmFPdGtKYTd1UjRCb2xqYkN4TkRRaHJ1M0pXa1c5SG1RZVlUa1N5RFBqSnZ5aDhKSVhpYmNoSGNPOHMyYmluMUdyeXNWQVJubWYzaF9PNkpmRWxTYldELTVUNktmcGg2TktsSzRtb3M1dlNJSkpQYTRVd3FhdWRrSzQwWGpCSQ?oc=5",
-        "description": "California probes Nvidia over chip access in China Free Malaysia Today",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-20T08:20:06.000Z",
-        "fetchedAt": "2026-11-21T00:58:08.513Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Free Malaysia Today",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "California probes Nvidia over chip access in China Free Malaysia Today",
-        "id": "a23"
+        "id": "a28"
       },
       {
         "title": "Chip Industry Week In Review",
@@ -700,7 +779,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-engineering",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-11-20T08:01:14.000Z",
-        "fetchedAt": "2026-11-21T00:58:04.016Z",
+        "fetchedAt": "2026-11-21T08:49:10.076Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -711,166 +790,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new HPC HW; JEDEC previews DDR6; Europe pushes ahead with €33B in chip projects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-        "id": "a24"
-      },
-      {
-        "title": "Why California Subpoenaed Nvidia Over China Chip Leaks And Investor Risks - ИФЗ РАН",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRWkzcDl4VjJFQnItdmplSGx0dXotX1JkRFFCRFRxUDd6UVNEVDduczBNeUs2VFZKZ1JJOGxxSzdxWkhCakdNTjVjXy1IbDNFUG5jMjJxNDV1enFxcGcwVTJZcGpCbnlteFFaai1LS1B0aC12NTRnWnZPYmw5cl83LUZ0d1lSUm5YYzhCRlln?oc=5",
-        "description": "Why California Subpoenaed Nvidia Over China Chip Leaks And Investor Risks ИФЗ РАН",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-20T06:05:40.000Z",
-        "fetchedAt": "2026-11-21T00:58:08.513Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "ИФЗ РАН",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Why California Subpoenaed Nvidia Over China Chip Leaks And Investor Risks ИФЗ РАН",
-        "id": "a25"
-      },
-      {
-        "title": "US Approved Nearly 880,000 AI Chip Sales to China - Equitypandit",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXdEbWZVckM3MFFxblF4TVNyS3hjOXNObzQyaFFPYzB1emRkT2NoZklkRFlzdDBGM0Q0SThya2NRVzd2MEtWMFBYc1Y4NVRYNk5pWUFnODdqQi1zYktueGo2MGVDNkk4bmNIanRJYUtNVEFZY0xlMks2WllkckVuQVVLVE0?oc=5",
-        "description": "US Approved Nearly 880,000 AI Chip Sales to China Equitypandit",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-20T06:03:00.000Z",
-        "fetchedAt": "2026-11-21T00:58:08.513Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Equitypandit",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "US Approved Nearly 880,000 AI Chip Sales to China Equitypandit",
-        "id": "a26"
-      },
-      {
-        "title": "Nvidia scandal could be tipping point toward tougher export control enforcement - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdnk2bEFlaUVZN3JSTzlfalRjZTdIY0NrbUx2X0VTQU5HQ2stenVlWnI0LWo3dDdPNm5Nb1lOZi14aVNjOVQ5NFJ4ZGZRR3hSX3dHRHMyOWE4ZmpURjlQU1JqSzRPUHBUMUY1eHQ0eHZRc2xGSm8yYlRORkQ3dGo1QUdBaF9CZnJuMkhyMDA3dEd1Yk1UUnJ1OG1pSDZuQWM3SGo4c04tcmtlUUNMQmV0akNFVQ?oc=5",
-        "description": "Nvidia scandal could be tipping point toward tougher export control enforcement The Washington Post",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-20T04:00:29.000Z",
-        "fetchedAt": "2026-11-21T00:58:08.512Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "The Washington Post",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Nvidia scandal could be tipping point toward tougher export control enforcement The Washington Post",
-        "id": "a27"
-      },
-      {
-        "title": "'Simply no way': Outrage as critics say Trump Cabinet member 'sold out' national security - Raw Story",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tY1djcDc3X2dfR1ljXzV5dlh0eEVXVndUcjQxelhCck1BLW9Ub1l0VzNIeTlkT0VrWjZQaFlYcGRzeUdCai1TaGxsQ01GbGoyd3pMMtIBZ0FVX3lxTFBQSWMxYnU4c2diNGlpM3hGZUNIdG1PbEJVOV9xUkZEbDY5LXU2WjNCZ2d0cmhMVTdEMTdWaUlxZ0x4LTE5aFVNbXVMVlViQ3RUSzZvSHFoOXhUWExmVGxkYnNLbkR3eFk?oc=5",
-        "description": "'Simply no way': Outrage as critics say Trump Cabinet member 'sold out' national security Raw Story",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-20T01:55:00.000Z",
-        "fetchedAt": "2026-11-21T00:58:08.513Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Raw Story",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "'Simply no way': Outrage as critics say Trump Cabinet member 'sold out' national security Raw Story",
         "id": "a29"
-      },
-      {
-        "title": "US approved nearly 900,000 AI chip shipments to China in six months - NST Online",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHM3a184R2d6bC03aEhmbkd0b2l3M05kcldXVUJQRVFNdFpaWWNwb1BVTERVVDRGeXpMdEhKcDctYXhVaUNqelpRbE5pTy1DWlFlX3kydFc4cFYySElXN1ZlcWxtWUJ5RGVyU1VucmNTeUpuZnFhRWlBQXZyODFKVVQzak9Zc0dITUdMTW4xcC02cFJESHFDM3pNQm1Kdk1BUGd3QmsyVkNsUHlHR0Q4amxZd1lUUdIBtgFBVV95cUxOcHM3a184R2d6bC03aEhmbkd0b2l3M05kcldXVUJQRVFNdFpaWWNwb1BVTERVVDRGeXpMdEhKcDctYXhVaUNqelpRbE5pTy1DWlFlX3kydFc4cFYySElXN1ZlcWxtWUJ5RGVyU1VucmNTeUpuZnFhRWlBQXZyODFKVVQzak9Zc0dITUdMTW4xcC02cFJESHFDM3pNQm1Kdk1BUGd3QmsyVkNsUHlHR0Q4amxZd1lUUQ?oc=5",
-        "description": "US approved nearly 900,000 AI chip shipments to China in six months NST Online",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-20T01:42:06.000Z",
-        "fetchedAt": "2026-11-21T00:58:08.513Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "NST Online",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "US approved nearly 900,000 AI chip shipments to China in six months NST Online",
-        "id": "a30"
-      },
-      {
-        "title": "US cleared nearly 9 lakh AI chips for China despite military-linked firms being among buyers - Mathrubhumi English",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTi1sSFR2NkNIbzRmQ09zWlY5bGtxdmxzY3VYU2lQLVlmSE41SHJrUUZ2VDBaelVDN1pmSnkxVUtvWWFJYjNBaTBTODVxcnhGYkJ3eGpXa29kX24td0VvSXBxeHIxdFRFV0dsbExaUmtKREZ5d3lJM0RRcVFWOXdYTVFhOVl2Mm8xYUlLUHR4Vmd2MFFNQWfSAZYBQVVfeXFMTk4tbEhUdjZDSG80ZkNPc1pWOWxrcXZsc2N1WFNpUC1ZZkhONUhya1FGdlQwWnpVQzdaZkp5MVVLb1lhSWIzQWkwUzg1cXJ4RmJCd3hqV2tvZF9uLXdFb0lwcXhyMXRURVdHbGxMWlJrSkRGeXd5STNEUXFRVjl3WE1RYTlZdjJvMWFJS1B0eFZndjBRTUFn?oc=5",
-        "description": "US cleared nearly 9 lakh AI chips for China despite military-linked firms being among buyers Mathrubhumi English",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-20T01:18:22.000Z",
-        "fetchedAt": "2026-11-21T00:58:08.513Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Mathrubhumi English",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "US cleared nearly 9 lakh AI chips for China despite military-linked firms being among buyers Mathrubhumi English",
-        "id": "a31"
-      },
-      {
-        "title": "U.S. approved nearly 900,000 AI chip sales to China - The San Joaquin Valley Sun",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrTG1iVFA2SlFKU1l4UENmV3JBNFpybUs4ZUNlMDhYZkhPNkF1NmJucFU3TGlPSjBfUC1RTjRLazVYVjljMDkxdEdMOEdoOFFMbFM5SjhPRGtJVG0zWFdBekk0REJMNmJJOVdHMDBJNFc2eGpzWnhNdHg5QU5xZw?oc=5",
-        "description": "U.S. approved nearly 900,000 AI chip sales to China The San Joaquin Valley Sun",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-20T01:18:12.000Z",
-        "fetchedAt": "2026-11-21T00:58:08.513Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "The San Joaquin Valley Sun",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "approved nearly 900,000 AI chip sales to China The San Joaquin Valley Sun",
-        "id": "a32"
-      },
-      {
-        "title": "The unfolding Jensen Huang scandal: a timeline",
-        "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-        "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-        "source": "TechCrunch",
-        "sourceId": "techcrunch",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-11-19T20:18:49.000Z",
-        "fetchedAt": "2026-11-21T00:58:02.045Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-        "id": "a33"
       },
       {
         "title": "Inside Brad Gerstner’s Portfolio: Every Move He Made in the Third Quarter",
@@ -880,7 +800,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-19T20:05:22.000Z",
-        "fetchedAt": "2026-11-21T00:58:02.127Z",
+        "fetchedAt": "2026-11-21T08:49:08.360Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -890,7 +810,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital opened a $680 million Tesla position in the third quarter, added to Meta Platforms and Micron, and sold out of Qualcomm and Applied Materials. Tesla trades at about 180x forward earnings, and analysts’ average target is just 7% above the price, so the new stake is a bet on Robotaxi profits that the estimates don’t show yet.",
-        "id": "a34"
+        "id": "a31"
       },
       {
         "title": "Gartner Warns of Risks Behind Sovereign Tech Claims",
@@ -900,7 +820,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-11-19T16:30:35.000Z",
-        "fetchedAt": "2026-11-21T00:58:03.028Z",
+        "fetchedAt": "2026-11-21T08:49:09.148Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -909,7 +829,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Gartner research predicts that digital sovereignty will become a core component of national security strategies globally by 2030. The post Gartner Warns of Risks Behind Sovereign Tech Claims appeared first on EE Times.",
-        "id": "a38"
+        "id": "a35"
       },
       {
         "title": "Samsung, TSMC suspend some China chip shipments",
@@ -919,7 +839,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-19T15:47:46.000Z",
-        "fetchedAt": "2026-11-21T00:58:06.662Z",
+        "fetchedAt": "2026-11-21T08:49:13.250Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -931,7 +851,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "Taiwan Semiconductor Manufacturing Co and Samsung Electronics reportedly responded to new US export controls by putting a halt on some chip shipments to Chinese companies. The post Samsung, TSMC suspend some China chip shipments appeared first on Mobile World Live.",
-        "id": "a39"
+        "id": "a36"
       },
       {
         "title": "Why It’s Time to Buy the Pullback in Qualcomm Stock",
@@ -941,7 +861,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-19T15:00:04.000Z",
-        "fetchedAt": "2026-11-21T00:58:02.127Z",
+        "fetchedAt": "2026-11-21T08:49:08.360Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -949,7 +869,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The negatives are already reflected in Qualcomm's share price. At the same time, its growing pipeline of opportunities provides a solid base for growth.",
-        "id": "a40"
+        "id": "a37"
       },
       {
         "title": "Global patent filings hit record 3.9 million in 2025, WIPO says: China leads with 1.9 million, India passes 100,000 mark",
@@ -959,7 +879,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-19T07:43:46.000Z",
-        "fetchedAt": "2026-11-21T00:58:06.726Z",
+        "fetchedAt": "2026-11-21T08:49:13.576Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -968,7 +888,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "WIPO’s latest annual indicators show the fastest filing growth in almost a decade, with Asia’s share at 71.2%, while some offices suspect AI drafting tools may be reshaping filing patterns.",
-        "id": "a43"
+        "id": "a39"
       },
       {
         "title": "REGEN-VAIM patent dispute spread from Korea to China with infringement suit and customs recordal",
@@ -978,7 +898,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-18T18:08:24.000Z",
-        "fetchedAt": "2026-11-21T00:58:06.726Z",
+        "fetchedAt": "2026-11-21T08:49:13.576Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -987,7 +907,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "REGEN and VAIM’s Korean patent fight has reached China, where a party linked to REGEN has sued VAIM for infringement. ip fray found out about a registration of the the likely patent-at-issue with China Customs 15 days before a key launch.",
-        "id": "a44"
+        "id": "a40"
       },
       {
         "title": "China PAT Intellectual Property Office",
@@ -997,7 +917,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-18T09:00:00.000Z",
-        "fetchedAt": "2026-11-21T00:58:05.033Z",
+        "fetchedAt": "2026-11-21T08:49:10.819Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1006,7 +926,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China PAT Intellectual Property Office — reported by IAM.",
-        "id": "a45"
+        "id": "a41"
       }
     ]
   },
@@ -1202,7 +1122,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-11-21T00:58:08.566Z",
+    "generatedAt": "2026-11-21T08:49:15.120Z",
     "date": "2026-11-21",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -1212,35 +1132,35 @@ export const NEWS_DATA = {
         {
           "text": "Geopolitics & Export Controls: A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, Germ",
           "articleIds": [
-            "a9"
+            "a12"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
           "text": "Customers & Partners: Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new H",
           "articleIds": [
-            "a24"
+            "a29"
           ],
           "subCategory": "customers-partners"
         },
         {
           "text": "market-performance: Key TakeawaysBrad Gerstner’s Altimeter Capital opened a $680 million Tesla position in the third quarter, added to Meta Platforms and Micron, and sold out of Qualcomm and Applied Materials. Tesla trad",
           "articleIds": [
-            "a34"
+            "a31"
           ],
           "subCategory": "market-performance"
         },
         {
           "text": "Semiconductors: TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
           "articleIds": [
-            "a36"
+            "a33"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Platform & Ecosystem Partners: Alphabet builds its own AI chips, so a surprise Qualcomm position in its latest filing raises an obvious question. The explanation points to a startup deal, and the real investment case lies somewhere",
           "articleIds": [
-            "a37"
+            "a34"
           ],
           "subCategory": "platform-partner"
         }
@@ -1255,7 +1175,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-20T18:04:16.000Z",
-        "fetchedAt": "2026-11-21T00:58:06.726Z",
+        "fetchedAt": "2026-11-21T08:49:13.576Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1266,7 +1186,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, German and UPC litigation.",
-        "id": "a9"
+        "id": "a12"
       },
       {
         "title": "Chip Industry Week In Review",
@@ -1276,7 +1196,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-engineering",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-11-20T08:01:14.000Z",
-        "fetchedAt": "2026-11-21T00:58:04.016Z",
+        "fetchedAt": "2026-11-21T08:49:10.076Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1287,7 +1207,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new HPC HW; JEDEC previews DDR6; Europe pushes ahead with €33B in chip projects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-        "id": "a24"
+        "id": "a29"
       },
       {
         "title": "Inside Brad Gerstner’s Portfolio: Every Move He Made in the Third Quarter",
@@ -1297,7 +1217,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-19T20:05:22.000Z",
-        "fetchedAt": "2026-11-21T00:58:02.127Z",
+        "fetchedAt": "2026-11-21T08:49:08.360Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -1307,7 +1227,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital opened a $680 million Tesla position in the third quarter, added to Meta Platforms and Micron, and sold out of Qualcomm and Applied Materials. Tesla trades at about 180x forward earnings, and analysts’ average target is just 7% above the price, so the new stake is a bet on Robotaxi profits that the estimates don’t show yet.",
-        "id": "a34"
+        "id": "a31"
       },
       {
         "title": "Qualcomm vs. Taiwan Semiconductor: Diverging Revenue Trends for Major Chipmakers",
@@ -1317,7 +1237,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-19T17:03:02.000Z",
-        "fetchedAt": "2026-11-21T00:58:02.127Z",
+        "fetchedAt": "2026-11-21T08:49:08.360Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -1327,7 +1247,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
-        "id": "a36"
+        "id": "a33"
       },
       {
         "title": "Google’s Parent Now Holds a $548 Million Qualcomm Stake That Wasn’t in Its June Filing",
@@ -1337,7 +1257,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-19T16:52:35.000Z",
-        "fetchedAt": "2026-11-21T00:58:02.127Z",
+        "fetchedAt": "2026-11-21T08:49:08.360Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -1347,7 +1267,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Alphabet builds its own AI chips, so a surprise Qualcomm position in its latest filing raises an obvious question. The explanation points to a startup deal, and the real investment case lies somewhere else entirely.",
-        "id": "a37"
+        "id": "a34"
       },
       {
         "title": "Samsung, TSMC suspend some China chip shipments",
@@ -1357,7 +1277,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-19T15:47:46.000Z",
-        "fetchedAt": "2026-11-21T00:58:06.662Z",
+        "fetchedAt": "2026-11-21T08:49:13.250Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1369,7 +1289,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "Taiwan Semiconductor Manufacturing Co and Samsung Electronics reportedly responded to new US export controls by putting a halt on some chip shipments to Chinese companies. The post Samsung, TSMC suspend some China chip shipments appeared first on Mobile World Live.",
-        "id": "a39"
+        "id": "a36"
       }
     ]
   },
@@ -24622,11 +24542,11 @@ export const NEWS_DATA = {
     "totalArticles": 62
   },
   "archive-2026-11-21": {
-    "generatedAt": "2026-11-21T00:58:08.569Z",
+    "generatedAt": "2026-11-21T08:49:15.122Z",
     "date": "2026-11-21",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-11-21T00:58:08.566Z",
+        "generatedAt": "2026-11-21T08:49:15.120Z",
         "date": "2026-11-21",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -24634,22 +24554,40 @@ export const NEWS_DATA = {
           "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Semiconductors: Filings confirm hundreds of permanent job cuts as the chipmaker raises billions in debt and shifts its focus toward AI and data centers.",
+              "text": "Semiconductors: Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 21 bought Qualcomm and 15 sold, with George Soros among the buyers and David Tepper among the sellers.",
               "articleIds": [
-                "a35"
+                "a3"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Wireless Communication: LIVE FROM UNWRAPPED – THE 5G EVOLUTION: Hemanth Sampath, VP of engineering at Qualcomm is bullish on the operator opportunity within 6G around core connectivity and compute, while he urged telcos to u",
               "articleIds": [
-                "a42"
+                "a38"
               ],
               "subCategory": "wireless"
             }
           ]
         },
         "articles": [
+          {
+            "title": "George Soros and 20 Other Big Funds Bought Qualcomm Last Quarter. David Tepper and 14 Others Sold. Who’s Right?",
+            "url": "https://www.tikr.com/blog/george-soros-and-20-other-big-funds-bought-qualcomm-last-quarter-david-tepper-and-14-others-sold-whos-right?ref=yahoofinance&tlnk=yf-261120-7fxgch3m&.tsrc=rss",
+            "description": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 21 bought Qualcomm and 15 sold, with George Soros among the buyers and David Tepper among the sellers.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-21T00:35:15.000Z",
+            "fetchedAt": "2026-11-21T08:49:08.360Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 21 bought Qualcomm and 15 sold, with George Soros among the buyers and David Tepper among the sellers.",
+            "id": "a3"
+          },
           {
             "title": "Qualcomm lays off 100s amid global restructuring, raises $4 billion",
             "url": "https://www.thestreet.com/employment/qualcomm-lays-off-100s-amid-global-restructuring-raises-4-billion?.tsrc=rss",
@@ -24658,7 +24596,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-19T18:33:00.000Z",
-            "fetchedAt": "2026-11-21T00:58:02.127Z",
+            "fetchedAt": "2026-11-21T08:49:08.360Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -24666,7 +24604,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Filings confirm hundreds of permanent job cuts as the chipmaker raises billions in debt and shifts its focus toward AI and data centers.",
-            "id": "a35"
+            "id": "a32"
           },
           {
             "title": "Qualcomm vs. Taiwan Semiconductor: Diverging Revenue Trends for Major Chipmakers",
@@ -24676,7 +24614,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-19T17:03:02.000Z",
-            "fetchedAt": "2026-11-21T00:58:02.127Z",
+            "fetchedAt": "2026-11-21T08:49:08.360Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -24686,25 +24624,7 @@ export const NEWS_DATA = {
               "foundry"
             ],
             "summary": "TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
-            "id": "a36"
-          },
-          {
-            "title": "Global Wired Interface Market Report 2026: Size, Share, Trends, and Forecast to 2030 | Capitalize on High-Speed, Fiber Optic Demand with Intel, Broadcom, Qualcomm, and Infineon",
-            "url": "https://finance.yahoo.com/technology/articles/global-wired-interface-market-report-143600909.html?.tsrc=rss",
-            "description": "Players: Intel, Broadcom, Qualcomm, Texas Instruments and Infineon. Profile covers wired-interface products, services, innovations and competitive activity.Dublin, Nov. 19, 2026 (GLOBE NEWSWIRE) -- \"Wired Interface Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global wired interface market is experiencing strong growth as businesses and consumers increase their reliance on reliable, secure, and high-speed connectivity. The market is projected to grow from $21.64 bi",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-19T14:36:00.000Z",
-            "fetchedAt": "2026-11-21T00:58:02.127Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Players: Intel, Broadcom, Qualcomm, Texas Instruments and Infineon. Profile covers wired-interface products, services, innovations and competitive activity.Dublin, Nov. 19, 2026 (GLOBE NEWSWIRE) -- \"Wired Interface Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global wired interface market is experiencing strong growth as businesses and consumers increase their reliance on reliable, secure, and high-speed connectivity. The market is projected to grow from $21.64 bi",
-            "id": "a41"
+            "id": "a33"
           },
           {
             "title": "Qualcomm VP argues 6G hardware overhaul may be necessary",
@@ -24714,7 +24634,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-19T12:30:00.000Z",
-            "fetchedAt": "2026-11-21T00:58:06.662Z",
+            "fetchedAt": "2026-11-21T08:49:13.250Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "wireless",
@@ -24722,12 +24642,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "LIVE FROM UNWRAPPED – THE 5G EVOLUTION: Hemanth Sampath, VP of engineering at Qualcomm is bullish on the operator opportunity within 6G around core connectivity and compute, while he urged telcos to upgrade to 5G-Advanced to begin the journey towards the next-generation. The post Qualcomm VP argues 6G hardware overhaul may be necessary appeared first on Mobile World Live.",
-            "id": "a42"
+            "id": "a38"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-11-21T00:58:08.566Z",
+        "generatedAt": "2026-11-21T08:49:15.120Z",
         "date": "2026-11-21",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -24738,7 +24658,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-11-21T00:58:08.566Z",
+        "generatedAt": "2026-11-21T08:49:15.120Z",
         "date": "2026-11-21",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -24748,7 +24668,7 @@ export const NEWS_DATA = {
             {
               "text": "Embodied AI & Robotics: Qualcomm (NasdaqGS:QCOM) is cutting more than 500 jobs in California as it reshapes operations under pressure in its smartphone business. The company is reallocating resources toward new AI inference ",
               "articleIds": [
-                "a28"
+                "a30"
               ],
               "subCategory": "embodied-ai-robotics"
             }
@@ -24763,7 +24683,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T02:16:53.000Z",
-            "fetchedAt": "2026-11-21T00:58:02.127Z",
+            "fetchedAt": "2026-11-21T08:49:08.360Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "embodied-ai-robotics",
@@ -24771,20 +24691,20 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (NasdaqGS:QCOM) is cutting more than 500 jobs in California as it reshapes operations under pressure in its smartphone business. The company is reallocating resources toward new AI inference initiatives, backed by fresh technology partnerships announced in recent months. Qualcomm is also extending its reach into K-8 robotics education through programs built with Arduino, Disney Imagineering, and REV Robotics. These layoffs and new AI and education partnerships matter, but investors...",
-            "id": "a28"
+            "id": "a30"
           }
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-11-21T00:58:08.566Z",
+        "generatedAt": "2026-11-21T08:49:15.120Z",
         "date": "2026-11-21",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (34 articles), market-performance (4 articles), Customers & Partners (1 article). A total of 39 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (30 articles), market-performance (4 articles), Customers & Partners (1 article). A total of 35 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Top US Senate Democrat accuses Trump of putting national security at risk with AI chip sales to China Anadolu Ajansı",
+              "text": "Geopolitics & Export Controls: Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
               "articleIds": [
                 "a1"
               ],
@@ -24793,20 +24713,78 @@ export const NEWS_DATA = {
             {
               "text": "market-performance: Today’s big story: Will 2027 Be A 2022 Repeat For Stocks.",
               "articleIds": [
-                "a5"
+                "a9"
               ],
               "subCategory": "market-performance"
             },
             {
               "text": "Customers & Partners: Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new H",
               "articleIds": [
-                "a24"
+                "a29"
               ],
               "subCategory": "customers-partners"
             }
           ]
         },
         "articles": [
+          {
+            "title": "How China is using summits to expand its global influence",
+            "url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+            "description": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-21T06:00:02.000Z",
+            "fetchedAt": "2026-11-21T08:49:08.446Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
+            "id": "a1"
+          },
+          {
+            "title": "China Deploys 5G Across Manufacturing Base as 6G Testing Advances, CCTV Reports",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-deploys-5g-across-manufacturing-base-as-6g-testing-advances-cctv-reports",
+            "description": "China is expanding the use of 5G across its manufacturing sector, with more than 26,000 private industrial 5G networks built nationwide, China Central Television said on Saturday.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-21T02:33:58.000Z",
+            "fetchedAt": "2026-11-21T08:49:08.651Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China is expanding the use of 5G across its manufacturing sector, with more than 26,000 private industrial 5G networks built nationwide, China Central Television said on Saturday.",
+            "id": "a2"
+          },
+          {
+            "title": "Lutnick faces scrutiny over Nvidia chip exports to China - Fox Business",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1adjVYQy1WYzZVcVBxdzl0Y0s2YVM1YVhQZ1pBSzQ0M1lQdmJEODdoZTR0RnlEbWZxdFZzUnhpaDRJRXMxOGtsbEI0ZHVNWVpsWGJUMTUxcGVMTDA?oc=5",
+            "description": "Lutnick faces scrutiny over Nvidia chip exports to China Fox Business",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-20T22:57:14.000Z",
+            "fetchedAt": "2026-11-21T08:49:15.085Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Fox Business",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Lutnick faces scrutiny over Nvidia chip exports to China Fox Business",
+            "id": "a4"
+          },
           {
             "title": "Top US Senate Democrat accuses Trump of putting national security at risk with AI chip sales to China - Anadolu Ajansı",
             "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdklwSWJ4MFZhTjUwOE52QlF6dWNKNkpJZjFCRW0yWWctLVc5N21tT2lBT09vUkQzUlNFSXBwamZHZng0bEpGcFhLUWtPMENUYmtCREpJYWdLX2xlazhRcUZkdW5DYXVHRlRoRzlYa2U3cFFLSzhGMFlOVkFFdVE1cHRIX0lzb3JqblM2RFJMUGVhVUpSbDg0VmxSa29JV0dBVkZIRTN6YWZZdFBsT0I5QnVnbldRem9YR3NPOWpnWnI2NFJ4TDNwT1ZJbENqQTVCb0JCUFJiUDAweDg?oc=5",
@@ -24815,7 +24793,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T22:45:12.000Z",
-            "fetchedAt": "2026-11-21T00:58:08.512Z",
+            "fetchedAt": "2026-11-21T08:49:15.085Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Anadolu Ajansı",
             "geopoliticalBypass": true,
@@ -24825,7 +24803,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Top US Senate Democrat accuses Trump of putting national security at risk with AI chip sales to China Anadolu Ajansı",
-            "id": "a1"
+            "id": "a5"
           },
           {
             "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
@@ -24835,7 +24813,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T22:08:41.000Z",
-            "fetchedAt": "2026-11-21T00:58:02.038Z",
+            "fetchedAt": "2026-11-21T08:49:08.446Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -24844,7 +24822,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Trump said he discussed Jensen Huang with China's Xi. Bessent said the ousted Nvidia CEO didn't come up in talks he had while in China.",
-            "id": "a2"
+            "id": "a6"
           },
           {
             "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
@@ -24854,7 +24832,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T20:47:58.000Z",
-            "fetchedAt": "2026-11-21T00:58:02.037Z",
+            "fetchedAt": "2026-11-21T08:49:08.446Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -24863,7 +24841,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
-            "id": "a3"
+            "id": "a7"
           },
           {
             "title": "Exclusive | Top Republican Senator Says Lutnick Ignored His China Chip Warnings - WSJ",
@@ -24873,7 +24851,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T19:39:00.000Z",
-            "fetchedAt": "2026-11-21T00:58:08.512Z",
+            "fetchedAt": "2026-11-21T08:49:15.085Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "WSJ",
             "geopoliticalBypass": true,
@@ -24883,7 +24861,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Exclusive | Top Republican Senator Says Lutnick Ignored His China Chip Warnings WSJ",
-            "id": "a4"
+            "id": "a8"
           },
           {
             "title": "Why Are Investors Ignoring Qualcomm Stock's High Cash Yield?",
@@ -24893,7 +24871,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T19:22:44.000Z",
-            "fetchedAt": "2026-11-21T00:58:02.127Z",
+            "fetchedAt": "2026-11-21T08:49:08.360Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -24901,26 +24879,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Today’s big story: Will 2027 Be A 2022 Repeat For Stocks.",
-            "id": "a5"
-          },
-          {
-            "title": "’Tis the season to be grateful to China",
-            "url": "https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e?syn-25a6b1a6=1",
-            "description": "Forget the harrumphing Scrooges at COP — no other country is doing more for the climate",
-            "source": "Financial Times",
-            "sourceId": "ft",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-20T18:57:07.000Z",
-            "fetchedAt": "2026-11-21T00:58:02.791Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Forget the harrumphing Scrooges at COP — no other country is doing more for the climate",
-            "id": "a6"
+            "id": "a9"
           },
           {
             "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
@@ -24930,7 +24889,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-20T18:50:19.000Z",
-            "fetchedAt": "2026-11-21T00:58:02.902Z",
+            "fetchedAt": "2026-11-21T08:49:09.067Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -24939,7 +24898,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a press conference Friday following his summit with China President Xi Jinping and Russia President Vladimir Putin. \"They allowed that to happen with chips and everything else, and it was very destructive to our country. It's where we started going behind.\" Should the US allow data centers to be built outside of the country, T … Read the full story at The Verge.",
-            "id": "a7"
+            "id": "a10"
           },
           {
             "title": "Jennifer Huddleston examines the U.S. approval of AI chip sales to Chinese companies, the associated national security concerns, and the outlook for the AI industry after the midterm elections on Bloomberg TV’s Bloomberg Surveillance - Cato Institute",
@@ -24949,7 +24908,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T18:12:59.000Z",
-            "fetchedAt": "2026-11-21T00:58:08.512Z",
+            "fetchedAt": "2026-11-21T08:49:15.085Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Cato Institute",
             "geopoliticalBypass": true,
@@ -24959,7 +24918,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Jennifer Huddleston examines the U.S. approval of AI chip sales to Chinese companies, the associated national security concerns, and the outlook for the AI industry after the midterm elections on Bloomberg TV’s Bloomberg Surveillance Cato Institute",
-            "id": "a8"
+            "id": "a11"
           },
           {
             "title": "A year after issuing mediation guidelines, China’s top court reveals how it brokered a global CCC v. OPPO royalty deal to end multijurisdictional litigation",
@@ -24969,7 +24928,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-20T18:04:16.000Z",
-            "fetchedAt": "2026-11-21T00:58:06.726Z",
+            "fetchedAt": "2026-11-21T08:49:13.576Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -24980,7 +24939,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, German and UPC litigation.",
-            "id": "a9"
+            "id": "a12"
           },
           {
             "title": "Burlison Raises National Security Concerns Over Nvidia, Weighs In on FAA Flight Disruptions - Newstalk KZRG",
@@ -24990,7 +24949,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T17:42:04.000Z",
-            "fetchedAt": "2026-11-21T00:58:08.513Z",
+            "fetchedAt": "2026-11-21T08:49:15.085Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Newstalk KZRG",
             "geopoliticalBypass": true,
@@ -25000,7 +24959,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Burlison Raises National Security Concerns Over Nvidia, Weighs In on FAA Flight Disruptions Newstalk KZRG",
-            "id": "a10"
+            "id": "a13"
           },
           {
             "title": "Nvidia China chip licenses: what Congress disclosed - NeoTeo",
@@ -25010,7 +24969,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T16:19:52.000Z",
-            "fetchedAt": "2026-11-21T00:58:08.513Z",
+            "fetchedAt": "2026-11-21T08:49:15.085Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "NeoTeo",
             "geopoliticalBypass": true,
@@ -25020,27 +24979,47 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Nvidia China chip licenses: what Congress disclosed NeoTeo",
-            "id": "a11"
+            "id": "a14"
           },
           {
-            "title": "Bessent vows to enforce AI chip export restrictions and close remote access gaps - Cryptonews.net",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fZ1lsRXlmVk55REtGTEVEWDZtT2pMd1ZqSmFEUVNKdHZ3S1VtY1B6bEU0WWZRdWdJckxTVUNyNUZuRUg0RUlGTkdCZ0k3LTdnWnY1RjVB?oc=5",
-            "description": "Bessent vows to enforce AI chip export restrictions and close remote access gaps Cryptonews.net",
+            "title": "House describes Nvidia sales approved to China - Taipei Times",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nSVBmLXJsWVVJamVLRmtlRGh1Y1ltNWhSekZqTFBmcm1xcVdFUWJla1BRVTlaQU1lbGhRcnRQV3FnR3VvaWVkRHdtc2t2YVU3LS1fTzE4N0oyREFQZGpvc05OYV84OGpHV2p1VzEyMkxuMGgybXc?oc=5",
+            "description": "House describes Nvidia sales approved to China Taipei Times",
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
-            "publishedAt": "2026-11-20T15:52:15.000Z",
-            "fetchedAt": "2026-11-21T00:58:08.513Z",
+            "publishedAt": "2026-11-20T16:00:00.000Z",
+            "fetchedAt": "2026-11-21T08:49:15.085Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "Cryptonews.net",
+            "googleNewsSource": "Taipei Times",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Bessent vows to enforce AI chip export restrictions and close remote access gaps Cryptonews.net",
-            "id": "a12"
+            "summary": "House describes Nvidia sales approved to China Taipei Times",
+            "id": "a15"
+          },
+          {
+            "title": "Bessent vows to enforce AI chip export restrictions and close remote access gaps - Crypto Briefing",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NUk5qcTZVaGlaSGpUVnJYSm5UcVNVTG9WNXJNeGtJd2hOTERtZ296OTZTNl9QNWF4QWJQSVVxSFRKQ1VVd0lXbENvRjd3bmxFcGJWUEVmYTZmbFVrUmhwR3RMYXhZNjgxdGNCbHBQZlBfY0Fwb2FoNTB6SQ?oc=5",
+            "description": "Bessent vows to enforce AI chip export restrictions and close remote access gaps Crypto Briefing",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-20T15:32:38.000Z",
+            "fetchedAt": "2026-11-21T08:49:15.085Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Crypto Briefing",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Bessent vows to enforce AI chip export restrictions and close remote access gaps Crypto Briefing",
+            "id": "a16"
           },
           {
             "title": "FCC tightens grip on Chinese telcos, blocks direct access to US phone numbers",
@@ -25050,7 +25029,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-20T14:06:42.000Z",
-            "fetchedAt": "2026-11-21T00:58:06.813Z",
+            "fetchedAt": "2026-11-21T08:49:13.655Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25059,7 +25038,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The FCC has banned Chinese carriers from gaining direct access to US phone numbers over national security concerns and to crack down on scam robocalls.",
-            "id": "a13"
+            "id": "a17"
           },
           {
             "title": "Commerce Department approved 879,000 AI chip shipments to China - qz.com",
@@ -25069,7 +25048,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T14:05:29.000Z",
-            "fetchedAt": "2026-11-21T00:58:08.513Z",
+            "fetchedAt": "2026-11-21T08:49:15.085Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "qz.com",
             "geopoliticalBypass": true,
@@ -25079,7 +25058,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Commerce Department approved 879,000 AI chip shipments to China qz.com",
-            "id": "a14"
+            "id": "a18"
+          },
+          {
+            "title": "Nvidia’s Real Scandal Is a National Security Affair - RealClearWorld",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMUlHTExLNl92a0FiYllPX1Y5MW10OGZycUtPWEM4SHdFcXc4d3ZSMHpRc3VLcUZzelNpVnp0d0YtX05OR0tPLS1Bc3NNUk1QamxnaXB6V3ZaWmU1UTJRZXpPV1JOZlBpWWhDQ2gzYmJvalU1QXYzUldZVGpBOExjeFRzREY5LUxsNTRJVlNBc3hZNERaWjRrQXRsS3ZaVjlHZkNGVG5xOVU?oc=5",
+            "description": "Nvidia’s Real Scandal Is a National Security Affair RealClearWorld",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-20T13:53:16.000Z",
+            "fetchedAt": "2026-11-21T08:49:15.085Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "RealClearWorld",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia’s Real Scandal Is a National Security Affair RealClearWorld",
+            "id": "a19"
           },
           {
             "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
@@ -25089,7 +25088,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T13:29:50.000Z",
-            "fetchedAt": "2026-11-21T00:58:02.038Z",
+            "fetchedAt": "2026-11-21T08:49:08.446Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25098,7 +25097,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.",
-            "id": "a15"
+            "id": "a20"
           },
           {
             "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
@@ -25108,7 +25107,7 @@ export const NEWS_DATA = {
             "sourceId": "techcrunch",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-20T13:21:11.000Z",
-            "fetchedAt": "2026-11-21T00:58:02.045Z",
+            "fetchedAt": "2026-11-21T08:49:08.327Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25117,7 +25116,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
-            "id": "a16"
+            "id": "a21"
+          },
+          {
+            "title": "Nvidia's sex and spy scandal spurs push to tighter China chip export control, Huang set to testify - voz.us",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSFFTX0pxVW5YeG9BRTVzVEtndlRLR2ZpY3V5YWQyamNfMzEzWDBUT1JYaXlrT3lwaG5ZUTNGYnB3UUlYbHI5cW9QZHo5aU9lWkpNM1pSV3pZdENBUHJfNmYxWFBfNEUtV3k1QU5iTnRpMnpGLXJoeWlreTBDbWJjZjVHNTBaR0dGM1gwSG9BallITVVjalVETkx4YS1BWmZPLUZ6cXpxalVOS1g2YkdvVlJwVGhldjgyRlkzam9WYl9mbENJX2tKVjgxOTFqMzhXd2RmaHNwY1Y?oc=5",
+            "description": "Nvidia's sex and spy scandal spurs push to tighter China chip export control, Huang set to testify voz.us",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-20T13:09:26.000Z",
+            "fetchedAt": "2026-11-21T08:49:15.085Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "voz.us",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia's sex and spy scandal spurs push to tighter China chip export control, Huang set to testify voz.us",
+            "id": "a22"
           },
           {
             "title": "Here is What to Know Beyond Why QUALCOMM Incorporated (QCOM) is a Trending Stock",
@@ -25127,7 +25146,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T13:00:04.000Z",
-            "fetchedAt": "2026-11-21T00:58:02.127Z",
+            "fetchedAt": "2026-11-21T08:49:08.360Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -25135,7 +25154,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (QCOM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-            "id": "a17"
+            "id": "a23"
           },
           {
             "title": "The Friday File: Nvidia; US AI chips; Telus",
@@ -25145,7 +25164,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-20T12:17:47.000Z",
-            "fetchedAt": "2026-11-21T00:58:06.662Z",
+            "fetchedAt": "2026-11-21T08:49:13.250Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25154,7 +25173,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Mobile World Live brings you our top three picks of the week as Nvidia slashed its Nokia stake, US tightened the screws on AI chip exports to curb China’s access to computing power and Quebecor made an ambitious $22 billion bid to take over Canadian rival Telus. The post The Friday File: Nvidia; US AI chips; Telus appeared first on Mobile World Live.",
-            "id": "a18"
+            "id": "a24"
           },
           {
             "title": "Ben Thompson: Jensen Huang Won't Be Back—and the Chip Ban Is Building the Rival It Fears - BigGo Finance",
@@ -25164,7 +25183,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T12:08:00.000Z",
-            "fetchedAt": "2026-11-21T00:58:08.512Z",
+            "fetchedAt": "2026-11-21T08:49:15.085Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "BigGo Finance",
             "geopoliticalBypass": true,
@@ -25174,7 +25193,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Ben Thompson: Jensen Huang Won't Be Back—and the Chip Ban Is Building the Rival It Fears BigGo Finance",
-            "id": "a19"
+            "id": "a25"
           },
           {
             "title": "Was Nvidia's Billionaire CEO Targeted By Chinese Intelligence? The Jensen Huang Affair, The Megaspeed Connection And A Growing US National Security Investigation - Inventiva",
@@ -25184,7 +25203,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T10:50:43.000Z",
-            "fetchedAt": "2026-11-21T00:58:08.513Z",
+            "fetchedAt": "2026-11-21T08:49:15.085Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Inventiva",
             "geopoliticalBypass": true,
@@ -25194,7 +25213,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Was Nvidia's Billionaire CEO Targeted By Chinese Intelligence? The Jensen Huang Affair, The Megaspeed Connection And A Growing US National Security Investigation Inventiva",
-            "id": "a20"
+            "id": "a26"
           },
           {
             "title": "Congress must hold Lutnick to the new China chip rule - Washington Examiner",
@@ -25204,7 +25223,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T10:00:00.000Z",
-            "fetchedAt": "2026-11-21T00:58:08.513Z",
+            "fetchedAt": "2026-11-21T08:49:15.085Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Washington Examiner",
             "geopoliticalBypass": true,
@@ -25214,7 +25233,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Congress must hold Lutnick to the new China chip rule Washington Examiner",
-            "id": "a21"
+            "id": "a27"
           },
           {
             "title": "EU Chips Act Unlocks €33B in Semiconductor Investments: What’s Being Built? - TechRepublic",
@@ -25224,7 +25243,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T08:53:16.000Z",
-            "fetchedAt": "2026-11-21T00:58:08.512Z",
+            "fetchedAt": "2026-11-21T08:49:15.085Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "TechRepublic",
             "geopoliticalBypass": true,
@@ -25234,27 +25253,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "EU Chips Act Unlocks €33B in Semiconductor Investments: What’s Being Built?",
-            "id": "a22"
-          },
-          {
-            "title": "California probes Nvidia over chip access in China - Free Malaysia Today",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzBJLU4zNGd1eHBaSU1IdEV1TVNWLWFvTU5Oelh4ZGtlRklpTFpXMUotOGh5ZmFPdGtKYTd1UjRCb2xqYkN4TkRRaHJ1M0pXa1c5SG1RZVlUa1N5RFBqSnZ5aDhKSVhpYmNoSGNPOHMyYmluMUdyeXNWQVJubWYzaF9PNkpmRWxTYldELTVUNktmcGg2TktsSzRtb3M1dlNJSkpQYTRVd3FhdWRrSzQwWGpCSQ?oc=5",
-            "description": "California probes Nvidia over chip access in China Free Malaysia Today",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-20T08:20:06.000Z",
-            "fetchedAt": "2026-11-21T00:58:08.513Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Free Malaysia Today",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "California probes Nvidia over chip access in China Free Malaysia Today",
-            "id": "a23"
+            "id": "a28"
           },
           {
             "title": "Chip Industry Week In Review",
@@ -25264,7 +25263,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-engineering",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-11-20T08:01:14.000Z",
-            "fetchedAt": "2026-11-21T00:58:04.016Z",
+            "fetchedAt": "2026-11-21T08:49:10.076Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25275,166 +25274,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new HPC HW; JEDEC previews DDR6; Europe pushes ahead with €33B in chip projects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-            "id": "a24"
-          },
-          {
-            "title": "Why California Subpoenaed Nvidia Over China Chip Leaks And Investor Risks - ИФЗ РАН",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRWkzcDl4VjJFQnItdmplSGx0dXotX1JkRFFCRFRxUDd6UVNEVDduczBNeUs2VFZKZ1JJOGxxSzdxWkhCakdNTjVjXy1IbDNFUG5jMjJxNDV1enFxcGcwVTJZcGpCbnlteFFaai1LS1B0aC12NTRnWnZPYmw5cl83LUZ0d1lSUm5YYzhCRlln?oc=5",
-            "description": "Why California Subpoenaed Nvidia Over China Chip Leaks And Investor Risks ИФЗ РАН",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-20T06:05:40.000Z",
-            "fetchedAt": "2026-11-21T00:58:08.513Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "ИФЗ РАН",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Why California Subpoenaed Nvidia Over China Chip Leaks And Investor Risks ИФЗ РАН",
-            "id": "a25"
-          },
-          {
-            "title": "US Approved Nearly 880,000 AI Chip Sales to China - Equitypandit",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXdEbWZVckM3MFFxblF4TVNyS3hjOXNObzQyaFFPYzB1emRkT2NoZklkRFlzdDBGM0Q0SThya2NRVzd2MEtWMFBYc1Y4NVRYNk5pWUFnODdqQi1zYktueGo2MGVDNkk4bmNIanRJYUtNVEFZY0xlMks2WllkckVuQVVLVE0?oc=5",
-            "description": "US Approved Nearly 880,000 AI Chip Sales to China Equitypandit",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-20T06:03:00.000Z",
-            "fetchedAt": "2026-11-21T00:58:08.513Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Equitypandit",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "US Approved Nearly 880,000 AI Chip Sales to China Equitypandit",
-            "id": "a26"
-          },
-          {
-            "title": "Nvidia scandal could be tipping point toward tougher export control enforcement - The Washington Post",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdnk2bEFlaUVZN3JSTzlfalRjZTdIY0NrbUx2X0VTQU5HQ2stenVlWnI0LWo3dDdPNm5Nb1lOZi14aVNjOVQ5NFJ4ZGZRR3hSX3dHRHMyOWE4ZmpURjlQU1JqSzRPUHBUMUY1eHQ0eHZRc2xGSm8yYlRORkQ3dGo1QUdBaF9CZnJuMkhyMDA3dEd1Yk1UUnJ1OG1pSDZuQWM3SGo4c04tcmtlUUNMQmV0akNFVQ?oc=5",
-            "description": "Nvidia scandal could be tipping point toward tougher export control enforcement The Washington Post",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-20T04:00:29.000Z",
-            "fetchedAt": "2026-11-21T00:58:08.512Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "The Washington Post",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Nvidia scandal could be tipping point toward tougher export control enforcement The Washington Post",
-            "id": "a27"
-          },
-          {
-            "title": "'Simply no way': Outrage as critics say Trump Cabinet member 'sold out' national security - Raw Story",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tY1djcDc3X2dfR1ljXzV5dlh0eEVXVndUcjQxelhCck1BLW9Ub1l0VzNIeTlkT0VrWjZQaFlYcGRzeUdCai1TaGxsQ01GbGoyd3pMMtIBZ0FVX3lxTFBQSWMxYnU4c2diNGlpM3hGZUNIdG1PbEJVOV9xUkZEbDY5LXU2WjNCZ2d0cmhMVTdEMTdWaUlxZ0x4LTE5aFVNbXVMVlViQ3RUSzZvSHFoOXhUWExmVGxkYnNLbkR3eFk?oc=5",
-            "description": "'Simply no way': Outrage as critics say Trump Cabinet member 'sold out' national security Raw Story",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-20T01:55:00.000Z",
-            "fetchedAt": "2026-11-21T00:58:08.513Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Raw Story",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "'Simply no way': Outrage as critics say Trump Cabinet member 'sold out' national security Raw Story",
             "id": "a29"
-          },
-          {
-            "title": "US approved nearly 900,000 AI chip shipments to China in six months - NST Online",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHM3a184R2d6bC03aEhmbkd0b2l3M05kcldXVUJQRVFNdFpaWWNwb1BVTERVVDRGeXpMdEhKcDctYXhVaUNqelpRbE5pTy1DWlFlX3kydFc4cFYySElXN1ZlcWxtWUJ5RGVyU1VucmNTeUpuZnFhRWlBQXZyODFKVVQzak9Zc0dITUdMTW4xcC02cFJESHFDM3pNQm1Kdk1BUGd3QmsyVkNsUHlHR0Q4amxZd1lUUdIBtgFBVV95cUxOcHM3a184R2d6bC03aEhmbkd0b2l3M05kcldXVUJQRVFNdFpaWWNwb1BVTERVVDRGeXpMdEhKcDctYXhVaUNqelpRbE5pTy1DWlFlX3kydFc4cFYySElXN1ZlcWxtWUJ5RGVyU1VucmNTeUpuZnFhRWlBQXZyODFKVVQzak9Zc0dITUdMTW4xcC02cFJESHFDM3pNQm1Kdk1BUGd3QmsyVkNsUHlHR0Q4amxZd1lUUQ?oc=5",
-            "description": "US approved nearly 900,000 AI chip shipments to China in six months NST Online",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-20T01:42:06.000Z",
-            "fetchedAt": "2026-11-21T00:58:08.513Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "NST Online",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "US approved nearly 900,000 AI chip shipments to China in six months NST Online",
-            "id": "a30"
-          },
-          {
-            "title": "US cleared nearly 9 lakh AI chips for China despite military-linked firms being among buyers - Mathrubhumi English",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTi1sSFR2NkNIbzRmQ09zWlY5bGtxdmxzY3VYU2lQLVlmSE41SHJrUUZ2VDBaelVDN1pmSnkxVUtvWWFJYjNBaTBTODVxcnhGYkJ3eGpXa29kX24td0VvSXBxeHIxdFRFV0dsbExaUmtKREZ5d3lJM0RRcVFWOXdYTVFhOVl2Mm8xYUlLUHR4Vmd2MFFNQWfSAZYBQVVfeXFMTk4tbEhUdjZDSG80ZkNPc1pWOWxrcXZsc2N1WFNpUC1ZZkhONUhya1FGdlQwWnpVQzdaZkp5MVVLb1lhSWIzQWkwUzg1cXJ4RmJCd3hqV2tvZF9uLXdFb0lwcXhyMXRURVdHbGxMWlJrSkRGeXd5STNEUXFRVjl3WE1RYTlZdjJvMWFJS1B0eFZndjBRTUFn?oc=5",
-            "description": "US cleared nearly 9 lakh AI chips for China despite military-linked firms being among buyers Mathrubhumi English",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-20T01:18:22.000Z",
-            "fetchedAt": "2026-11-21T00:58:08.513Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Mathrubhumi English",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "US cleared nearly 9 lakh AI chips for China despite military-linked firms being among buyers Mathrubhumi English",
-            "id": "a31"
-          },
-          {
-            "title": "U.S. approved nearly 900,000 AI chip sales to China - The San Joaquin Valley Sun",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrTG1iVFA2SlFKU1l4UENmV3JBNFpybUs4ZUNlMDhYZkhPNkF1NmJucFU3TGlPSjBfUC1RTjRLazVYVjljMDkxdEdMOEdoOFFMbFM5SjhPRGtJVG0zWFdBekk0REJMNmJJOVdHMDBJNFc2eGpzWnhNdHg5QU5xZw?oc=5",
-            "description": "U.S. approved nearly 900,000 AI chip sales to China The San Joaquin Valley Sun",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-20T01:18:12.000Z",
-            "fetchedAt": "2026-11-21T00:58:08.513Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "The San Joaquin Valley Sun",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "approved nearly 900,000 AI chip sales to China The San Joaquin Valley Sun",
-            "id": "a32"
-          },
-          {
-            "title": "The unfolding Jensen Huang scandal: a timeline",
-            "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-            "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-            "source": "TechCrunch",
-            "sourceId": "techcrunch",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-11-19T20:18:49.000Z",
-            "fetchedAt": "2026-11-21T00:58:02.045Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-            "id": "a33"
           },
           {
             "title": "Inside Brad Gerstner’s Portfolio: Every Move He Made in the Third Quarter",
@@ -25444,7 +25284,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-19T20:05:22.000Z",
-            "fetchedAt": "2026-11-21T00:58:02.127Z",
+            "fetchedAt": "2026-11-21T08:49:08.360Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -25454,7 +25294,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital opened a $680 million Tesla position in the third quarter, added to Meta Platforms and Micron, and sold out of Qualcomm and Applied Materials. Tesla trades at about 180x forward earnings, and analysts’ average target is just 7% above the price, so the new stake is a bet on Robotaxi profits that the estimates don’t show yet.",
-            "id": "a34"
+            "id": "a31"
           },
           {
             "title": "Gartner Warns of Risks Behind Sovereign Tech Claims",
@@ -25464,7 +25304,7 @@ export const NEWS_DATA = {
             "sourceId": "eetimes",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-11-19T16:30:35.000Z",
-            "fetchedAt": "2026-11-21T00:58:03.028Z",
+            "fetchedAt": "2026-11-21T08:49:09.148Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25473,7 +25313,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Gartner research predicts that digital sovereignty will become a core component of national security strategies globally by 2030. The post Gartner Warns of Risks Behind Sovereign Tech Claims appeared first on EE Times.",
-            "id": "a38"
+            "id": "a35"
           },
           {
             "title": "Samsung, TSMC suspend some China chip shipments",
@@ -25483,7 +25323,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-19T15:47:46.000Z",
-            "fetchedAt": "2026-11-21T00:58:06.662Z",
+            "fetchedAt": "2026-11-21T08:49:13.250Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25495,7 +25335,7 @@ export const NEWS_DATA = {
               "foundry"
             ],
             "summary": "Taiwan Semiconductor Manufacturing Co and Samsung Electronics reportedly responded to new US export controls by putting a halt on some chip shipments to Chinese companies. The post Samsung, TSMC suspend some China chip shipments appeared first on Mobile World Live.",
-            "id": "a39"
+            "id": "a36"
           },
           {
             "title": "Why It’s Time to Buy the Pullback in Qualcomm Stock",
@@ -25505,7 +25345,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-19T15:00:04.000Z",
-            "fetchedAt": "2026-11-21T00:58:02.127Z",
+            "fetchedAt": "2026-11-21T08:49:08.360Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -25513,7 +25353,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The negatives are already reflected in Qualcomm's share price. At the same time, its growing pipeline of opportunities provides a solid base for growth.",
-            "id": "a40"
+            "id": "a37"
           },
           {
             "title": "Global patent filings hit record 3.9 million in 2025, WIPO says: China leads with 1.9 million, India passes 100,000 mark",
@@ -25523,7 +25363,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-19T07:43:46.000Z",
-            "fetchedAt": "2026-11-21T00:58:06.726Z",
+            "fetchedAt": "2026-11-21T08:49:13.576Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25532,7 +25372,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "WIPO’s latest annual indicators show the fastest filing growth in almost a decade, with Asia’s share at 71.2%, while some offices suspect AI drafting tools may be reshaping filing patterns.",
-            "id": "a43"
+            "id": "a39"
           },
           {
             "title": "REGEN-VAIM patent dispute spread from Korea to China with infringement suit and customs recordal",
@@ -25542,7 +25382,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-18T18:08:24.000Z",
-            "fetchedAt": "2026-11-21T00:58:06.726Z",
+            "fetchedAt": "2026-11-21T08:49:13.576Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25551,7 +25391,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "REGEN and VAIM’s Korean patent fight has reached China, where a party linked to REGEN has sued VAIM for infringement. ip fray found out about a registration of the the likely patent-at-issue with China Customs 15 days before a key launch.",
-            "id": "a44"
+            "id": "a40"
           },
           {
             "title": "China PAT Intellectual Property Office",
@@ -25561,7 +25401,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-18T09:00:00.000Z",
-            "fetchedAt": "2026-11-21T00:58:05.033Z",
+            "fetchedAt": "2026-11-21T08:49:10.819Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25570,12 +25410,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China PAT Intellectual Property Office — reported by IAM.",
-            "id": "a45"
+            "id": "a41"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-11-21T00:58:08.566Z",
+        "generatedAt": "2026-11-21T08:49:15.120Z",
         "date": "2026-11-21",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -25586,7 +25426,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-11-21T00:58:08.566Z",
+        "generatedAt": "2026-11-21T08:49:15.120Z",
         "date": "2026-11-21",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -25596,35 +25436,35 @@ export const NEWS_DATA = {
             {
               "text": "Geopolitics & Export Controls: A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, Germ",
               "articleIds": [
-                "a9"
+                "a12"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
               "text": "Customers & Partners: Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new H",
               "articleIds": [
-                "a24"
+                "a29"
               ],
               "subCategory": "customers-partners"
             },
             {
               "text": "market-performance: Key TakeawaysBrad Gerstner’s Altimeter Capital opened a $680 million Tesla position in the third quarter, added to Meta Platforms and Micron, and sold out of Qualcomm and Applied Materials. Tesla trad",
               "articleIds": [
-                "a34"
+                "a31"
               ],
               "subCategory": "market-performance"
             },
             {
               "text": "Semiconductors: TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
               "articleIds": [
-                "a36"
+                "a33"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Platform & Ecosystem Partners: Alphabet builds its own AI chips, so a surprise Qualcomm position in its latest filing raises an obvious question. The explanation points to a startup deal, and the real investment case lies somewhere",
               "articleIds": [
-                "a37"
+                "a34"
               ],
               "subCategory": "platform-partner"
             }
@@ -25639,7 +25479,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-20T18:04:16.000Z",
-            "fetchedAt": "2026-11-21T00:58:06.726Z",
+            "fetchedAt": "2026-11-21T08:49:13.576Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25650,7 +25490,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, German and UPC litigation.",
-            "id": "a9"
+            "id": "a12"
           },
           {
             "title": "Chip Industry Week In Review",
@@ -25660,7 +25500,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-engineering",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-11-20T08:01:14.000Z",
-            "fetchedAt": "2026-11-21T00:58:04.016Z",
+            "fetchedAt": "2026-11-21T08:49:10.076Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25671,7 +25511,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new HPC HW; JEDEC previews DDR6; Europe pushes ahead with €33B in chip projects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-            "id": "a24"
+            "id": "a29"
           },
           {
             "title": "Inside Brad Gerstner’s Portfolio: Every Move He Made in the Third Quarter",
@@ -25681,7 +25521,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-19T20:05:22.000Z",
-            "fetchedAt": "2026-11-21T00:58:02.127Z",
+            "fetchedAt": "2026-11-21T08:49:08.360Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -25691,7 +25531,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital opened a $680 million Tesla position in the third quarter, added to Meta Platforms and Micron, and sold out of Qualcomm and Applied Materials. Tesla trades at about 180x forward earnings, and analysts’ average target is just 7% above the price, so the new stake is a bet on Robotaxi profits that the estimates don’t show yet.",
-            "id": "a34"
+            "id": "a31"
           },
           {
             "title": "Qualcomm vs. Taiwan Semiconductor: Diverging Revenue Trends for Major Chipmakers",
@@ -25701,7 +25541,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-19T17:03:02.000Z",
-            "fetchedAt": "2026-11-21T00:58:02.127Z",
+            "fetchedAt": "2026-11-21T08:49:08.360Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -25711,7 +25551,7 @@ export const NEWS_DATA = {
               "foundry"
             ],
             "summary": "TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
-            "id": "a36"
+            "id": "a33"
           },
           {
             "title": "Google’s Parent Now Holds a $548 Million Qualcomm Stake That Wasn’t in Its June Filing",
@@ -25721,7 +25561,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-19T16:52:35.000Z",
-            "fetchedAt": "2026-11-21T00:58:02.127Z",
+            "fetchedAt": "2026-11-21T08:49:08.360Z",
             "fetchStrategy": "rss",
             "section": "stakeholders",
             "subCategory": "platform-partner",
@@ -25731,7 +25571,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Alphabet builds its own AI chips, so a surprise Qualcomm position in its latest filing raises an obvious question. The explanation points to a startup deal, and the real investment case lies somewhere else entirely.",
-            "id": "a37"
+            "id": "a34"
           },
           {
             "title": "Samsung, TSMC suspend some China chip shipments",
@@ -25741,7 +25581,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-19T15:47:46.000Z",
-            "fetchedAt": "2026-11-21T00:58:06.662Z",
+            "fetchedAt": "2026-11-21T08:49:13.250Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25753,12 +25593,12 @@ export const NEWS_DATA = {
               "foundry"
             ],
             "summary": "Taiwan Semiconductor Manufacturing Co and Samsung Electronics reportedly responded to new US export controls by putting a halt on some chip shipments to Chinese companies. The post Samsung, TSMC suspend some China chip shipments appeared first on Mobile World Live.",
-            "id": "a39"
+            "id": "a36"
           }
         ]
       }
     },
-    "totalArticles": 50
+    "totalArticles": 46
   }
 };
 
