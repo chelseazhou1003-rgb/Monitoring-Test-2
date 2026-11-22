@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T02:40:40.837Z",
+  "generatedAt": "2026-11-22T10:22:00.776Z",
   "date": "2026-11-22",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,35 +9,35 @@
       {
         "text": "market-performance: Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public ",
         "articleIds": [
-          "a7"
+          "a14"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "Geopolitics & Export Controls: Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps. Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outsid",
         "articleIds": [
-          "a8"
+          "a15"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Customers & Partners: Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new H",
         "articleIds": [
-          "a27"
+          "a28"
         ],
         "subCategory": "customers-partners"
       },
       {
         "text": "Semiconductors: TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
         "articleIds": [
-          "a31"
+          "a32"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Platform & Ecosystem Partners: Alphabet builds its own AI chips, so a surprise Qualcomm position in its latest filing raises an obvious question. The explanation points to a startup deal, and the real investment case lies somewhere",
         "articleIds": [
-          "a32"
+          "a33"
         ],
         "subCategory": "platform-partner"
       }
@@ -52,7 +52,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-11-21T15:00:00.000Z",
-      "fetchedAt": "2026-11-22T02:40:28.602Z",
+      "fetchedAt": "2026-11-22T10:21:55.848Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -63,7 +63,7 @@
         "platform-partner"
       ],
       "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to say that Anthropic has become one of the most valuable companies on the planet. The real story is what happens now — and whether Anthropic can continue to thread the needle of caring about and investing in AI safety while also being a public company beholden to shareholders. Oh, and it also continuously growing the amount of money it makes so it can keep paying its ever-increasing compute bills, which total roughly $900 billion over the coming years.",
-      "id": "a7"
+      "id": "a14"
     },
     {
       "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
@@ -73,7 +73,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-11-21T13:00:00.000Z",
-      "fetchedAt": "2026-11-22T02:40:28.602Z",
+      "fetchedAt": "2026-11-22T10:21:55.848Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -84,7 +84,7 @@
         "oem"
       ],
       "summary": "Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps. Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was when Xiaomi last tried it on 2021's Mi 11 Ultra - not to mention earlier efforts by the likes of Nubia and Vivo. After a week or two with both of Xiaomi's new Pro phones, I'm not entirely sold. The rear display has a single, obvious use case - it's helped me take some of the best selfies I've ever managed - but it isn't very useful otherwise.",
-      "id": "a8"
+      "id": "a15"
     },
     {
       "title": "A year after issuing mediation guidelines, China’s top court reveals how it brokered a global CCC v. OPPO royalty deal to end multijurisdictional litigation",
@@ -94,7 +94,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-20T18:04:16.000Z",
-      "fetchedAt": "2026-11-22T02:40:37.592Z",
+      "fetchedAt": "2026-11-22T10:21:59.352Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -105,7 +105,7 @@
         "oem"
       ],
       "summary": "A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, German and UPC litigation.",
-      "id": "a22"
+      "id": "a23"
     },
     {
       "title": "Chip Industry Week In Review",
@@ -115,7 +115,7 @@
       "sourceId": "semiconductor-engineering",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-11-20T08:01:14.000Z",
-      "fetchedAt": "2026-11-22T02:40:29.701Z",
+      "fetchedAt": "2026-11-22T10:21:56.775Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -126,7 +126,7 @@
         "platform-partner"
       ],
       "summary": "Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new HPC HW; JEDEC previews DDR6; Europe pushes ahead with €33B in chip projects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "id": "a27"
+      "id": "a28"
     },
     {
       "title": "Inside Brad Gerstner’s Portfolio: Every Move He Made in the Third Quarter",
@@ -136,7 +136,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T20:05:22.000Z",
-      "fetchedAt": "2026-11-22T02:40:28.112Z",
+      "fetchedAt": "2026-11-22T10:21:55.564Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -146,7 +146,7 @@
         "platform-partner"
       ],
       "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital opened a $680 million Tesla position in the third quarter, added to Meta Platforms and Micron, and sold out of Qualcomm and Applied Materials. Tesla trades at about 180x forward earnings, and analysts’ average target is just 7% above the price, so the new stake is a bet on Robotaxi profits that the estimates don’t show yet.",
-      "id": "a29"
+      "id": "a30"
     },
     {
       "title": "Qualcomm vs. Taiwan Semiconductor: Diverging Revenue Trends for Major Chipmakers",
@@ -156,7 +156,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T17:03:02.000Z",
-      "fetchedAt": "2026-11-22T02:40:28.112Z",
+      "fetchedAt": "2026-11-22T10:21:55.564Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -166,7 +166,7 @@
         "foundry"
       ],
       "summary": "TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
-      "id": "a31"
+      "id": "a32"
     },
     {
       "title": "Google’s Parent Now Holds a $548 Million Qualcomm Stake That Wasn’t in Its June Filing",
@@ -176,7 +176,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T16:52:35.000Z",
-      "fetchedAt": "2026-11-22T02:40:28.112Z",
+      "fetchedAt": "2026-11-22T10:21:55.564Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -186,7 +186,7 @@
         "platform-partner"
       ],
       "summary": "Alphabet builds its own AI chips, so a surprise Qualcomm position in its latest filing raises an obvious question. The explanation points to a startup deal, and the real investment case lies somewhere else entirely.",
-      "id": "a32"
+      "id": "a33"
     },
     {
       "title": "Samsung, TSMC suspend some China chip shipments",
@@ -196,7 +196,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-19T15:47:46.000Z",
-      "fetchedAt": "2026-11-22T02:40:39.082Z",
+      "fetchedAt": "2026-11-22T10:21:58.888Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -208,7 +208,7 @@
         "foundry"
       ],
       "summary": "Taiwan Semiconductor Manufacturing Co and Samsung Electronics reportedly responded to new US export controls by putting a halt on some chip shipments to Chinese companies. The post Samsung, TSMC suspend some China chip shipments appeared first on Mobile World Live.",
-      "id": "a34"
+      "id": "a35"
     }
   ]
 }
