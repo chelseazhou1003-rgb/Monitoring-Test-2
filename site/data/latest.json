@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T22:27:14.006Z",
+  "generatedAt": "2026-11-22T02:40:40.840Z",
   "date": "2026-11-22",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 4,
       "topHeadline": "George Soros and 20 Other Big Funds Bought Qualcomm Last Quarter. David Tepper and 14 Others Sold. Who’s Right?",
-      "topHeadlineId": "a19",
+      "topHeadlineId": "a18",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
@@ -20,15 +20,15 @@
       "title": "Growth Areas",
       "articleCount": 1,
       "topHeadline": "What Should Qualcomm (QCOM) Investors Watch After 500 California Layoffs And New AI Moves?",
-      "topHeadlineId": "a32",
+      "topHeadlineId": "a28",
       "briefingSummary": "One article today covering Embodied AI & Robotics. Qualcomm (NasdaqGS:QCOM) is cutting more than 500 jobs in California as it reshapes operations under pressure in its smartphone business. The company "
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 35,
-      "topHeadline": "HARROP: It takes a village to sell out national security - Standard-Examiner",
+      "articleCount": 31,
+      "topHeadline": "Bessent Rejects Further Limits on Nvidia Chip Sales to China - cwibc.co.id",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (29 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 35 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (25 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 31 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -45,5 +45,5 @@
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 8 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 48
+  "totalArticles": 44
 }

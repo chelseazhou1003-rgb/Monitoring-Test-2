@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T22:27:14.004Z",
+  "generatedAt": "2026-11-22T02:40:40.837Z",
   "date": "2026-11-22",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,14 +9,14 @@
       {
         "text": "Semiconductors: Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 21 bought Qualcomm and 15 sold, with George Soros among the buyers and David Tepper among the sellers.",
         "articleIds": [
-          "a19"
+          "a18"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Wireless Communication: LIVE FROM UNWRAPPED – THE 5G EVOLUTION: Hemanth Sampath, VP of engineering at Qualcomm is bullish on the operator opportunity within 6G around core connectivity and compute, while he urged telcos to u",
         "articleIds": [
-          "a40"
+          "a36"
         ],
         "subCategory": "wireless"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-21T00:35:15.000Z",
-      "fetchedAt": "2026-11-21T22:27:06.849Z",
+      "fetchedAt": "2026-11-22T02:40:28.112Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -39,7 +39,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 21 bought Qualcomm and 15 sold, with George Soros among the buyers and David Tepper among the sellers.",
-      "id": "a19"
+      "id": "a18"
     },
     {
       "title": "Qualcomm lays off 100s amid global restructuring, raises $4 billion",
@@ -49,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T18:33:00.000Z",
-      "fetchedAt": "2026-11-21T22:27:06.849Z",
+      "fetchedAt": "2026-11-22T02:40:28.112Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -57,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Filings confirm hundreds of permanent job cuts as the chipmaker raises billions in debt and shifts its focus toward AI and data centers.",
-      "id": "a34"
+      "id": "a30"
     },
     {
       "title": "Qualcomm vs. Taiwan Semiconductor: Diverging Revenue Trends for Major Chipmakers",
@@ -67,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-19T17:03:02.000Z",
-      "fetchedAt": "2026-11-21T22:27:06.849Z",
+      "fetchedAt": "2026-11-22T02:40:28.112Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -77,7 +77,7 @@
         "foundry"
       ],
       "summary": "TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
-      "id": "a35"
+      "id": "a31"
     },
     {
       "title": "Qualcomm VP argues 6G hardware overhaul may be necessary",
@@ -87,7 +87,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-19T12:30:00.000Z",
-      "fetchedAt": "2026-11-21T22:27:12.062Z",
+      "fetchedAt": "2026-11-22T02:40:39.082Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -95,7 +95,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "LIVE FROM UNWRAPPED – THE 5G EVOLUTION: Hemanth Sampath, VP of engineering at Qualcomm is bullish on the operator opportunity within 6G around core connectivity and compute, while he urged telcos to upgrade to 5G-Advanced to begin the journey towards the next-generation. The post Qualcomm VP argues 6G hardware overhaul may be necessary appeared first on Mobile World Live.",
-      "id": "a40"
+      "id": "a36"
     }
   ]
 }

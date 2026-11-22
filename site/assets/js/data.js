@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-11-21T22:27:14.004Z",
+    "generatedAt": "2026-11-22T02:40:40.837Z",
     "date": "2026-11-22",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,7 +13,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-11-21T22:27:14.004Z",
+    "generatedAt": "2026-11-22T02:40:40.837Z",
     "date": "2026-11-22",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -23,14 +23,14 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 21 bought Qualcomm and 15 sold, with George Soros among the buyers and David Tepper among the sellers.",
           "articleIds": [
-            "a19"
+            "a18"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Wireless Communication: LIVE FROM UNWRAPPED – THE 5G EVOLUTION: Hemanth Sampath, VP of engineering at Qualcomm is bullish on the operator opportunity within 6G around core connectivity and compute, while he urged telcos to u",
           "articleIds": [
-            "a40"
+            "a36"
           ],
           "subCategory": "wireless"
         }
@@ -45,7 +45,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-21T00:35:15.000Z",
-        "fetchedAt": "2026-11-21T22:27:06.849Z",
+        "fetchedAt": "2026-11-22T02:40:28.112Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -53,7 +53,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 21 bought Qualcomm and 15 sold, with George Soros among the buyers and David Tepper among the sellers.",
-        "id": "a19"
+        "id": "a18"
       },
       {
         "title": "Qualcomm lays off 100s amid global restructuring, raises $4 billion",
@@ -63,7 +63,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-19T18:33:00.000Z",
-        "fetchedAt": "2026-11-21T22:27:06.849Z",
+        "fetchedAt": "2026-11-22T02:40:28.112Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -71,7 +71,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Filings confirm hundreds of permanent job cuts as the chipmaker raises billions in debt and shifts its focus toward AI and data centers.",
-        "id": "a34"
+        "id": "a30"
       },
       {
         "title": "Qualcomm vs. Taiwan Semiconductor: Diverging Revenue Trends for Major Chipmakers",
@@ -81,7 +81,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-19T17:03:02.000Z",
-        "fetchedAt": "2026-11-21T22:27:06.849Z",
+        "fetchedAt": "2026-11-22T02:40:28.112Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -91,7 +91,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
-        "id": "a35"
+        "id": "a31"
       },
       {
         "title": "Qualcomm VP argues 6G hardware overhaul may be necessary",
@@ -101,7 +101,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-19T12:30:00.000Z",
-        "fetchedAt": "2026-11-21T22:27:12.062Z",
+        "fetchedAt": "2026-11-22T02:40:39.082Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -109,12 +109,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "LIVE FROM UNWRAPPED – THE 5G EVOLUTION: Hemanth Sampath, VP of engineering at Qualcomm is bullish on the operator opportunity within 6G around core connectivity and compute, while he urged telcos to upgrade to 5G-Advanced to begin the journey towards the next-generation. The post Qualcomm VP argues 6G hardware overhaul may be necessary appeared first on Mobile World Live.",
-        "id": "a40"
+        "id": "a36"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-11-21T22:27:14.004Z",
+    "generatedAt": "2026-11-22T02:40:40.837Z",
     "date": "2026-11-22",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -124,7 +124,7 @@ export const NEWS_DATA = {
         {
           "text": "Embodied AI & Robotics: Qualcomm (NasdaqGS:QCOM) is cutting more than 500 jobs in California as it reshapes operations under pressure in its smartphone business. The company is reallocating resources toward new AI inference ",
           "articleIds": [
-            "a32"
+            "a28"
           ],
           "subCategory": "embodied-ai-robotics"
         }
@@ -139,7 +139,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T02:16:53.000Z",
-        "fetchedAt": "2026-11-21T22:27:06.849Z",
+        "fetchedAt": "2026-11-22T02:40:28.112Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "embodied-ai-robotics",
@@ -147,12 +147,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (NasdaqGS:QCOM) is cutting more than 500 jobs in California as it reshapes operations under pressure in its smartphone business. The company is reallocating resources toward new AI inference initiatives, backed by fresh technology partnerships announced in recent months. Qualcomm is also extending its reach into K-8 robotics education through programs built with Arduino, Disney Imagineering, and REV Robotics. These layoffs and new AI and education partnerships matter, but investors...",
-        "id": "a32"
+        "id": "a28"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-11-21T22:27:14.004Z",
+    "generatedAt": "2026-11-22T02:40:40.837Z",
     "date": "2026-11-22",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -163,14 +163,14 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-11-21T22:27:14.006Z",
+    "generatedAt": "2026-11-22T02:40:40.840Z",
     "date": "2026-11-22",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 4,
         "topHeadline": "George Soros and 20 Other Big Funds Bought Qualcomm Last Quarter. David Tepper and 14 Others Sold. Who’s Right?",
-        "topHeadlineId": "a19",
+        "topHeadlineId": "a18",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources."
       },
       "ip-legal": {
@@ -184,15 +184,15 @@ export const NEWS_DATA = {
         "title": "Growth Areas",
         "articleCount": 1,
         "topHeadline": "What Should Qualcomm (QCOM) Investors Watch After 500 California Layoffs And New AI Moves?",
-        "topHeadlineId": "a32",
+        "topHeadlineId": "a28",
         "briefingSummary": "One article today covering Embodied AI & Robotics. Qualcomm (NasdaqGS:QCOM) is cutting more than 500 jobs in California as it reshapes operations under pressure in its smartphone business. The company "
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 35,
-        "topHeadline": "HARROP: It takes a village to sell out national security - Standard-Examiner",
+        "articleCount": 31,
+        "topHeadline": "Bessent Rejects Further Limits on Nvidia Chip Sales to China - cwibc.co.id",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (29 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 35 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (25 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 31 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -209,18 +209,18 @@ export const NEWS_DATA = {
         "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 8 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 48
+    "totalArticles": 44
   },
   "macro-environment": {
-    "generatedAt": "2026-11-21T22:27:14.004Z",
+    "generatedAt": "2026-11-22T02:40:40.837Z",
     "date": "2026-11-22",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (29 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 35 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (25 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 31 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: HARROP: It takes a village to sell out national security Standard-Examiner",
+          "text": "Geopolitics & Export Controls: Bessent Rejects Further Limits on Nvidia Chip Sales to China cwibc.co.id",
           "articleIds": [
             "a1"
           ],
@@ -236,13 +236,33 @@ export const NEWS_DATA = {
         {
           "text": "Customers & Partners: Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new H",
           "articleIds": [
-            "a31"
+            "a27"
           ],
           "subCategory": "customers-partners"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Bessent Rejects Further Limits on Nvidia Chip Sales to China - cwibc.co.id",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yTDl0aU9neFpiaVlSVnFtQXBfOHFTTmV1T2wzaHFCLThFaDNmLWxGUGJ0bUJsY1pCVExxMkROZnl0Y255M2pxSW9wWGNncG5rUmd1UlFKelRVTjJ5S1c4YzltTGQ5YWJaN0xfaWt3?oc=5",
+        "description": "Bessent Rejects Further Limits on Nvidia Chip Sales to China cwibc.co.id",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-21T23:59:00.000Z",
+        "fetchedAt": "2026-11-22T02:40:40.794Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "cwibc.co.id",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Bessent Rejects Further Limits on Nvidia Chip Sales to China cwibc.co.id",
+        "id": "a1"
+      },
       {
         "title": "HARROP: It takes a village to sell out national security - Standard-Examiner",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSHFWdzdBcElDZGptdjcwaGpOSmRUZnk3Y0QzME9lNG84dUFPVVNEaGJmUlFCWWI1V2dOWWstS2Z0VGxhaTlOank3eFFPSGpnU2N0SDRKWk5LekF3QnJoX1VTekkta21ISWR3bDRQWjFEV3pudmxwY3B3aVIxQjB4bTlLTmsxdEFtQ1ZYc1dkNVhlYnNheXB6cFpyb2xKeWloeDdYV1BvTGFUM2I1dmZDRTR1VUpJYjJISHF6Wlp3?oc=5",
@@ -251,7 +271,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-21T21:22:30.000Z",
-        "fetchedAt": "2026-11-21T22:27:13.969Z",
+        "fetchedAt": "2026-11-22T02:40:40.794Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Standard-Examiner",
         "geopoliticalBypass": true,
@@ -261,7 +281,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "HARROP: It takes a village to sell out national security Standard-Examiner",
-        "id": "a1"
+        "id": "a2"
       },
       {
         "title": "California Nvidia Probe Covers Potential Criminal Law Violations",
@@ -271,7 +291,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-21T17:11:23.000Z",
-        "fetchedAt": "2026-11-21T22:27:06.879Z",
+        "fetchedAt": "2026-11-22T02:40:28.190Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -280,7 +300,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "California’s probe into whether Nvidia Corp. illegally sold advanced chips to China and misled investors about the conduct is also looking at potential criminal violations of state law, raising the stakes for the chipmaker.",
-        "id": "a2"
+        "id": "a3"
       },
       {
         "title": "Alice Huang’s links to the chip underworld",
@@ -290,7 +310,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-21T17:00:10.000Z",
-        "fetchedAt": "2026-11-21T22:27:07.079Z",
+        "fetchedAt": "2026-11-22T02:40:28.455Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -299,26 +319,6 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
-        "id": "a3"
-      },
-      {
-        "title": "Treasury secretary rules out further restrictions on Nvidia chip sales to China - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS09qbjI0aUw5N2k1eDh2SUpYTS1zTjd0aktrZFVMcmVZU0lqNF9YbVNlVi1kV3NsR00yS2RxdFUzckt4QnRiMkZnbHg1M0dTSWEwbnR5aHZfV3RvU3ZDWHZiTXN4OVlMZWVQY29rRWVTRTk3OHVUeVRvWEpoQl9SODZjOHcxRGl3S3pjZFEydzVmRnIzeFZuSFBqYlJ3YndpbVAyREVGY1FvODV6OWE5by0tY0dWYjN6S0U0R1k3NDVNZkdqSW5oX2tLMHB2dEEwMXFkV0hlbFRMUQ?oc=5",
-        "description": "Treasury secretary rules out further restrictions on Nvidia chip sales to China TradingView",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-21T16:21:08.000Z",
-        "fetchedAt": "2026-11-21T22:27:13.969Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "TradingView",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Treasury secretary rules out further restrictions on Nvidia chip sales to China TradingView",
         "id": "a4"
       },
       {
@@ -329,7 +329,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-21T16:00:00.000Z",
-        "fetchedAt": "2026-11-21T22:27:06.714Z",
+        "fetchedAt": "2026-11-22T02:40:27.985Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -348,7 +348,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-21T15:47:47.000Z",
-        "fetchedAt": "2026-11-21T22:27:13.969Z",
+        "fetchedAt": "2026-11-22T02:40:40.795Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "BizPac Review",
         "geopoliticalBypass": true,
@@ -368,7 +368,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-21T15:00:00.000Z",
-        "fetchedAt": "2026-11-21T22:27:07.214Z",
+        "fetchedAt": "2026-11-22T02:40:28.602Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -382,26 +382,6 @@ export const NEWS_DATA = {
         "id": "a7"
       },
       {
-        "title": "US approves nearly 900,000 AI chip exports to China - Daily Observer",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qTlFoVlhuUGVrV0lId1JLMmxDSnVEVDFxM1JPYmZuaXJ3c1hRQnM2ZmpLX3dQTi1pb0w5SUZnRWl1d1laZ0NuUVR3?oc=5",
-        "description": "US approves nearly 900,000 AI chip exports to China Daily Observer",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-21T13:09:44.000Z",
-        "fetchedAt": "2026-11-21T22:27:13.969Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Daily Observer",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "US approves nearly 900,000 AI chip exports to China Daily Observer",
-        "id": "a8"
-      },
-      {
         "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
         "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
         "description": "Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps. Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was when Xiaomi last tried it on 2021's Mi 11 Ultra - not to mention earlier efforts by the likes of Nubia and Vivo. After a week or two with both of Xiaomi's new Pro phones, I'm not entirely sold. The rear display has a single, obvious use case - it's helped me take some of the best selfies I've ever managed - but it isn't very useful otherwise. The rest of the phones are gre … Read the full story at The Verge.",
@@ -409,7 +389,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-21T13:00:00.000Z",
-        "fetchedAt": "2026-11-21T22:27:07.214Z",
+        "fetchedAt": "2026-11-22T02:40:28.602Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -420,7 +400,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps. Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was when Xiaomi last tried it on 2021's Mi 11 Ultra - not to mention earlier efforts by the likes of Nubia and Vivo. After a week or two with both of Xiaomi's new Pro phones, I'm not entirely sold. The rear display has a single, obvious use case - it's helped me take some of the best selfies I've ever managed - but it isn't very useful otherwise.",
-        "id": "a9"
+        "id": "a8"
       },
       {
         "title": "US Semiconductor Export Policy Faces New Challenges as AI Chip Shipments to China Grow - Tekedia",
@@ -430,7 +410,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-21T12:27:32.000Z",
-        "fetchedAt": "2026-11-21T22:27:13.969Z",
+        "fetchedAt": "2026-11-22T02:40:40.794Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Tekedia",
         "geopoliticalBypass": true,
@@ -440,7 +420,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US Semiconductor Export Policy Faces New Challenges as AI Chip Shipments to China Grow Tekedia",
-        "id": "a10"
+        "id": "a9"
       },
       {
         "title": "Howard Lutnick, China and the Chip Export Challenge - National Review",
@@ -450,7 +430,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-21T11:00:00.000Z",
-        "fetchedAt": "2026-11-21T22:27:13.969Z",
+        "fetchedAt": "2026-11-22T02:40:40.794Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "National Review",
         "geopoliticalBypass": true,
@@ -460,7 +440,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Howard Lutnick, China and the Chip Export Challenge National Review",
-        "id": "a11"
+        "id": "a10"
       },
       {
         "title": "China Plans to Strengthen AI Token Standards in Computing Push",
@@ -470,7 +450,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-21T10:11:29.000Z",
-        "fetchedAt": "2026-11-21T22:27:06.879Z",
+        "fetchedAt": "2026-11-22T02:40:28.190Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -479,7 +459,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s National Data Administration will improve standards on the measurement and billing of artificial intelligence tokens and quality assessment, as Beijing guides the development of the growing industry.",
-        "id": "a12"
+        "id": "a11"
       },
       {
         "title": "How AI Is Reshaping China's Industrial Policy",
@@ -489,7 +469,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-21T09:12:17.000Z",
-        "fetchedAt": "2026-11-21T22:27:06.879Z",
+        "fetchedAt": "2026-11-22T02:40:28.190Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -498,27 +478,67 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Can Chinese tech companies help the country achieve technological self-reliance while keeping up in the AI arms race? On this episode, we speak with Kyle Chan, a fellow at the Brookings Institution’s John L. Thornton China Center and author of the High Capacity newsletter, about Beijing’s response to the global AI boom and the tensions between Chinese companies’ commercial ambitions and the government’s long-term plans. He explains how companies draw on shared expertise and supply chains to expand across industries including smartphones, robotics, EVs and semiconductors — and we also discuss Huawei’s efforts to compete with Nvidia and why technological success doesn’t necessarily translate into strong returns for stock investors in China.",
-        "id": "a13"
+        "id": "a12"
       },
       {
-        "title": "Chuck Schumer Says Trump, Lutnick ‘Sold Out America’ by Approving Nvidia, AMD AI Chip Sales to China: ‘Th - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTM4eUdJa2xrQ0ZtMGNwbXVpSndJeC16b1ZHUTdfTEJib0ZZM1JLX21CNUtSbzRXTmdyXzJCOVFpalZYSzRiSGx3aDJ6dVp1YWxyNHhBeks3cms4bkp4Z01jeHlfMHZmaUlBa252LTR2Y1VGZmhLLWo3VE4wdkxCemtPX1ZpaE10RG1qaS1rSmh0eVk?oc=5",
-        "description": "Chuck Schumer Says Trump, Lutnick ‘Sold Out America’ by Approving Nvidia, AMD AI Chip Sales to China: ‘Th Benzinga",
+        "title": "NVIDIA GIVES ITS BOARD DIRECT OVERSIGHT OF CHIP EXPORT CONTROLS | Techlife News - technology - Magzter",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVnJKNll2TDd2TVRHeXRBUmdWSGF5YTBwMml1Xzk3NVRtVTh6MGdvTGdjbTFMZlpsZExFaUVycTlqb1hhMVE1eE1RRWR3b0YxRTk1djlyLXgxaDNpazZNNUlhVGZrVnlYU3pNMjc3Mkp5bGxsTHd4Y2JodVhwQTM4NXktb2d5Y2U2VW40bEhYQmR4bjVwTmFDcThOZWpPQjdMajRvQXBZcVdidklKNkstcXFXdEJ4eUlVRExVbQ?oc=5",
+        "description": "NVIDIA GIVES ITS BOARD DIRECT OVERSIGHT OF CHIP EXPORT CONTROLS | Techlife News - technology Magzter",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-21T07:25:58.000Z",
-        "fetchedAt": "2026-11-21T22:27:13.969Z",
+        "publishedAt": "2026-11-21T08:43:25.000Z",
+        "fetchedAt": "2026-11-22T02:40:40.794Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "Benzinga",
+        "googleNewsSource": "Magzter",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Chuck Schumer Says Trump, Lutnick ‘Sold Out America’ by Approving Nvidia, AMD AI Chip Sales to China: ‘Th Benzinga",
+        "summary": "NVIDIA GIVES ITS BOARD DIRECT OVERSIGHT OF CHIP EXPORT CONTROLS | Techlife News - technology Magzter",
+        "id": "a13"
+      },
+      {
+        "title": "Chuck Schumer Says Trump, Lutnick ‘Sold Out America’ by Approving Nvidia, AMD AI Chip Sales to China: ‘They Get Rich and America Gets Screwed’ - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQbzVoSFVkYnRwSkZfVjhOWk1GeTdLMk9RZ2tXdkp4N3Z0OFYwSTY2REt6THRoLURmXzdUNzI1SGdTdVdJeDlVTFBWS0lJcEtubjJ6RUlMUlNPODRuV0ljMHFhQW04R191VDlmUlNzTTBWWFlNVTZFdVFGM2hmaTFzdlNLSVVLbWMtSnVRd1EtV2RCRThmYmJuSXdTdW9MVlEyalVUZWpjenhBNjJ2NVZEQmU1RWU2RndCWmNIZklzMzFpbnNxMk1XVWJCenhCWmozb0VXak9aaGstaG9xRFpwWTBqTENIbFprbDc2UEZnVTRfZmNaOU1jZjBXbmh5SWhpSmFvZ0pwbXViWGJicUR4VTZIQ1ZZd1MzMVBZd3lBZw?oc=5",
+        "description": "Chuck Schumer Says Trump, Lutnick ‘Sold Out America’ by Approving Nvidia, AMD AI Chip Sales to China: ‘They Get Rich and America Gets Screwed’ TradingView",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-21T07:25:00.000Z",
+        "fetchedAt": "2026-11-22T02:40:40.794Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "TradingView",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Chuck Schumer Says Trump, Lutnick ‘Sold Out America’ by Approving Nvidia, AMD AI Chip Sales to China: ‘They Get Rich and America Gets Screwed’ TradingView",
         "id": "a14"
+      },
+      {
+        "title": "US approved nearly 900,000 AI chip sales to China in six months - Communications Today",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmhyOGl5bHdRT2JJMmp4ZGZMbEJMa00tZ2N6OTQydzcwbU5yQW5kZTlod0tPMnFzTU0tTmNiRWc4ZTRiMXRKclFKdFF3a19sV3NmdGt1WTBSWWIyNE1rc1NobGM4djlBOWw1Sm56UjJKQlpIeWpnUUZzTk5yN1M3eWNiNVNjVE5NQkZNeEc1d3NEV0Vzb01tRVQ1SFFQRl9KZEFR?oc=5",
+        "description": "US approved nearly 900,000 AI chip sales to China in six months Communications Today",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-21T07:09:11.000Z",
+        "fetchedAt": "2026-11-22T02:40:40.794Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Communications Today",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US approved nearly 900,000 AI chip sales to China in six months Communications Today",
+        "id": "a15"
       },
       {
         "title": "How China is using summits to expand its global influence",
@@ -528,7 +548,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-21T06:00:02.000Z",
-        "fetchedAt": "2026-11-21T22:27:06.770Z",
+        "fetchedAt": "2026-11-22T02:40:28.038Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -537,26 +557,6 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
-        "id": "a15"
-      },
-      {
-        "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjhXZ2xYTDVHWE9xVzhIZVdLOVF3XzB2WEcxNnRlUFNCZzNvSDFtZG81UFZRTnJyLWJzTXdKbER1MExJcVhlUy11ckx1X1hnQjM0Z3NLNm1RMHlBSmdacjdOMHlfSDBSSUVHeVQ2bDQ1SWFVTUlHb2g5aVZWTGluWGt4TUtkMU5nSXc?oc=5",
-        "description": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military The New York Times",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-21T05:13:00.000Z",
-        "fetchedAt": "2026-11-21T22:27:13.969Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "The New York Times",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military The New York Times",
         "id": "a16"
       },
       {
@@ -567,7 +567,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-21T03:58:46.000Z",
-        "fetchedAt": "2026-11-21T22:27:07.079Z",
+        "fetchedAt": "2026-11-22T02:40:28.455Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -579,85 +579,6 @@ export const NEWS_DATA = {
         "id": "a17"
       },
       {
-        "title": "China Deploys 5G Across Manufacturing Base as 6G Testing Advances, CCTV Reports",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-deploys-5g-across-manufacturing-base-as-6g-testing-advances-cctv-reports",
-        "description": "China is expanding the use of 5G across its manufacturing sector, with more than 26,000 private industrial 5G networks built nationwide, China Central Television said on Saturday.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-21T02:33:58.000Z",
-        "fetchedAt": "2026-11-21T22:27:06.879Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China is expanding the use of 5G across its manufacturing sector, with more than 26,000 private industrial 5G networks built nationwide, China Central Television said on Saturday.",
-        "id": "a18"
-      },
-      {
-        "title": "US panel reveals 879,868 China AI-chip approvals - Social News XYZ",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkxMc1p5SXRxTEk5OXVPZDJJdU52NHVQdl81SUFzOHBLSVdXVngzZTE2VGd0bnB1S2FZcXZ4aGc2bGdsZFhTQ24tSk5LX1k2SS0ybFB6Y2V5eGRCWERlaFdKdHJaZWRhU21UNk5YYzBYVjFOSnVPazBSMGdnSHdUU1ZYc2lHaDRlM2pzLXczQdIBjwFBVV95cUxQYkxMc1p5SXRxTEk5OXVPZDJJdU52NHVQdl81SUFzOHBLSVdXVngzZTE2VGd0bnB1S2FZcXZ4aGc2bGdsZFhTQ24tSk5LX1k2SS0ybFB6Y2V5eGRCWERlaFdKdHJaZWRhU21UNk5YYzBYVjFOSnVPazBSMGdnSHdUU1ZYc2lHaDRlM2pzLXczQQ?oc=5",
-        "description": "US panel reveals 879,868 China AI-chip approvals Social News XYZ",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-20T23:06:49.000Z",
-        "fetchedAt": "2026-11-21T22:27:13.969Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Social News XYZ",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "US panel reveals 879,868 China AI-chip approvals Social News XYZ",
-        "id": "a20"
-      },
-      {
-        "title": "Lutnick faces scrutiny over Nvidia chip exports to China - Fox Business",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1adjVYQy1WYzZVcVBxdzl0Y0s2YVM1YVhQZ1pBSzQ0M1lQdmJEODdoZTR0RnlEbWZxdFZzUnhpaDRJRXMxOGtsbEI0ZHVNWVpsWGJUMTUxcGVMTDA?oc=5",
-        "description": "Lutnick faces scrutiny over Nvidia chip exports to China Fox Business",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-20T22:57:14.000Z",
-        "fetchedAt": "2026-11-21T22:27:13.969Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Fox Business",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Lutnick faces scrutiny over Nvidia chip exports to China Fox Business",
-        "id": "a21"
-      },
-      {
-        "title": "Top US Senate Democrat accuses Trump of putting national security at risk with AI chip sales to China - Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcTFVN0tmdzJBR3RrVUlRQy1aelZqeUV5bjRvQVl3Qlh1RXZWcjNtQThGLWl1WXZ3SHJaSkU0dGVpTnpqdFFPUmhtRTNvYTNIRERYMms4VEZKYXV4QzdQSVE4Y1dxdFRoNmtuenhzMWR3LTBqclYzM1ludnNoOVlYQ3ExSTZZdUl5azhVaWtDeHBVSGpUUmJYZmZnTlR1dHNpTkJMM0VnYkZKTnNlVThxeW9KRmFQOE1OakV0dEhpQUxqV1R3d2lWOVl2cHJHSlNBd01RanFn?oc=5",
-        "description": "Top US Senate Democrat accuses Trump of putting national security at risk with AI chip sales to China Anadolu Ajansı",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-20T22:45:12.000Z",
-        "fetchedAt": "2026-11-21T22:27:13.969Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Anadolu Ajansı",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Top US Senate Democrat accuses Trump of putting national security at risk with AI chip sales to China Anadolu Ajansı",
-        "id": "a22"
-      },
-      {
         "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
         "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
         "description": "Trump said he discussed Jensen Huang with China's Xi. Bessent said the ousted Nvidia CEO didn't come up in talks he had while in China.",
@@ -665,7 +586,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T22:08:41.000Z",
-        "fetchedAt": "2026-11-21T22:27:06.770Z",
+        "fetchedAt": "2026-11-22T02:40:28.038Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -674,7 +595,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Trump said he discussed Jensen Huang with China's Xi. Bessent said the ousted Nvidia CEO didn't come up in talks he had while in China.",
-        "id": "a23"
+        "id": "a19"
       },
       {
         "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
@@ -684,7 +605,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T20:47:58.000Z",
-        "fetchedAt": "2026-11-21T22:27:06.770Z",
+        "fetchedAt": "2026-11-22T02:40:28.038Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -693,7 +614,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
-        "id": "a24"
+        "id": "a20"
       },
       {
         "title": "Why Are Investors Ignoring Qualcomm Stock's High Cash Yield?",
@@ -703,7 +624,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T19:22:44.000Z",
-        "fetchedAt": "2026-11-21T22:27:06.849Z",
+        "fetchedAt": "2026-11-22T02:40:28.112Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -711,7 +632,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Today’s big story: Will 2027 Be A 2022 Repeat For Stocks.",
-        "id": "a25"
+        "id": "a21"
       },
       {
         "title": "A year after issuing mediation guidelines, China’s top court reveals how it brokered a global CCC v. OPPO royalty deal to end multijurisdictional litigation",
@@ -721,7 +642,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-20T18:04:16.000Z",
-        "fetchedAt": "2026-11-21T22:27:12.204Z",
+        "fetchedAt": "2026-11-22T02:40:37.592Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -732,7 +653,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, German and UPC litigation.",
-        "id": "a26"
+        "id": "a22"
       },
       {
         "title": "FCC tightens grip on Chinese telcos, blocks direct access to US phone numbers",
@@ -742,7 +663,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-20T14:06:42.000Z",
-        "fetchedAt": "2026-11-21T22:27:12.307Z",
+        "fetchedAt": "2026-11-22T02:40:38.445Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -751,7 +672,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The FCC has banned Chinese carriers from gaining direct access to US phone numbers over national security concerns and to crack down on scam robocalls.",
-        "id": "a27"
+        "id": "a23"
       },
       {
         "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
@@ -761,7 +682,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-20T13:21:11.000Z",
-        "fetchedAt": "2026-11-21T22:27:06.714Z",
+        "fetchedAt": "2026-11-22T02:40:27.985Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -770,7 +691,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
-        "id": "a28"
+        "id": "a24"
       },
       {
         "title": "Here is What to Know Beyond Why QUALCOMM Incorporated (QCOM) is a Trending Stock",
@@ -780,7 +701,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-20T13:00:04.000Z",
-        "fetchedAt": "2026-11-21T22:27:06.849Z",
+        "fetchedAt": "2026-11-22T02:40:28.112Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -788,7 +709,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-        "id": "a29"
+        "id": "a25"
       },
       {
         "title": "The Friday File: Nvidia; US AI chips; Telus",
@@ -798,7 +719,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-20T12:17:47.000Z",
-        "fetchedAt": "2026-11-21T22:27:12.062Z",
+        "fetchedAt": "2026-11-22T02:40:39.081Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -807,7 +728,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Mobile World Live brings you our top three picks of the week as Nvidia slashed its Nokia stake, US tightened the screws on AI chip exports to curb China’s access to computing power and Quebecor made an ambitious $22 billion bid to take over Canadian rival Telus. The post The Friday File: Nvidia; US AI chips; Telus appeared first on Mobile World Live.",
-        "id": "a30"
+        "id": "a26"
       },
       {
         "title": "Chip Industry Week In Review",
@@ -817,7 +738,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-engineering",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-11-20T08:01:14.000Z",
-        "fetchedAt": "2026-11-21T22:27:08.514Z",
+        "fetchedAt": "2026-11-22T02:40:29.701Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -828,7 +749,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new HPC HW; JEDEC previews DDR6; Europe pushes ahead with €33B in chip projects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-        "id": "a31"
+        "id": "a27"
       },
       {
         "title": "Inside Brad Gerstner’s Portfolio: Every Move He Made in the Third Quarter",
@@ -838,7 +759,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-19T20:05:22.000Z",
-        "fetchedAt": "2026-11-21T22:27:06.849Z",
+        "fetchedAt": "2026-11-22T02:40:28.112Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -848,7 +769,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital opened a $680 million Tesla position in the third quarter, added to Meta Platforms and Micron, and sold out of Qualcomm and Applied Materials. Tesla trades at about 180x forward earnings, and analysts’ average target is just 7% above the price, so the new stake is a bet on Robotaxi profits that the estimates don’t show yet.",
-        "id": "a33"
+        "id": "a29"
       },
       {
         "title": "Gartner Warns of Risks Behind Sovereign Tech Claims",
@@ -858,7 +779,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-11-19T16:30:35.000Z",
-        "fetchedAt": "2026-11-21T22:27:07.309Z",
+        "fetchedAt": "2026-11-22T02:40:28.709Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -867,7 +788,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Gartner research predicts that digital sovereignty will become a core component of national security strategies globally by 2030. The post Gartner Warns of Risks Behind Sovereign Tech Claims appeared first on EE Times.",
-        "id": "a37"
+        "id": "a33"
       },
       {
         "title": "Samsung, TSMC suspend some China chip shipments",
@@ -877,7 +798,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-19T15:47:46.000Z",
-        "fetchedAt": "2026-11-21T22:27:12.062Z",
+        "fetchedAt": "2026-11-22T02:40:39.082Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -889,7 +810,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "Taiwan Semiconductor Manufacturing Co and Samsung Electronics reportedly responded to new US export controls by putting a halt on some chip shipments to Chinese companies. The post Samsung, TSMC suspend some China chip shipments appeared first on Mobile World Live.",
-        "id": "a38"
+        "id": "a34"
       },
       {
         "title": "Why It’s Time to Buy the Pullback in Qualcomm Stock",
@@ -899,7 +820,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-19T15:00:04.000Z",
-        "fetchedAt": "2026-11-21T22:27:06.849Z",
+        "fetchedAt": "2026-11-22T02:40:28.112Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -907,7 +828,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The negatives are already reflected in Qualcomm's share price. At the same time, its growing pipeline of opportunities provides a solid base for growth.",
-        "id": "a39"
+        "id": "a35"
       },
       {
         "title": "Global patent filings hit record 3.9 million in 2025, WIPO says: China leads with 1.9 million, India passes 100,000 mark",
@@ -917,7 +838,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-19T07:43:46.000Z",
-        "fetchedAt": "2026-11-21T22:27:12.204Z",
+        "fetchedAt": "2026-11-22T02:40:37.592Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -926,7 +847,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "WIPO’s latest annual indicators show the fastest filing growth in almost a decade, with Asia’s share at 71.2%, while some offices suspect AI drafting tools may be reshaping filing patterns.",
-        "id": "a41"
+        "id": "a37"
       }
     ]
   },
@@ -1122,7 +1043,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-11-21T22:27:14.004Z",
+    "generatedAt": "2026-11-22T02:40:40.837Z",
     "date": "2026-11-22",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -1139,28 +1060,28 @@ export const NEWS_DATA = {
         {
           "text": "Geopolitics & Export Controls: Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps. Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outsid",
           "articleIds": [
-            "a9"
+            "a8"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
           "text": "Customers & Partners: Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new H",
           "articleIds": [
-            "a31"
+            "a27"
           ],
           "subCategory": "customers-partners"
         },
         {
           "text": "Semiconductors: TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
           "articleIds": [
-            "a35"
+            "a31"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Platform & Ecosystem Partners: Alphabet builds its own AI chips, so a surprise Qualcomm position in its latest filing raises an obvious question. The explanation points to a startup deal, and the real investment case lies somewhere",
           "articleIds": [
-            "a36"
+            "a32"
           ],
           "subCategory": "platform-partner"
         }
@@ -1175,7 +1096,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-21T15:00:00.000Z",
-        "fetchedAt": "2026-11-21T22:27:07.214Z",
+        "fetchedAt": "2026-11-22T02:40:28.602Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1196,7 +1117,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-21T13:00:00.000Z",
-        "fetchedAt": "2026-11-21T22:27:07.214Z",
+        "fetchedAt": "2026-11-22T02:40:28.602Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1207,7 +1128,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps. Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was when Xiaomi last tried it on 2021's Mi 11 Ultra - not to mention earlier efforts by the likes of Nubia and Vivo. After a week or two with both of Xiaomi's new Pro phones, I'm not entirely sold. The rear display has a single, obvious use case - it's helped me take some of the best selfies I've ever managed - but it isn't very useful otherwise.",
-        "id": "a9"
+        "id": "a8"
       },
       {
         "title": "A year after issuing mediation guidelines, China’s top court reveals how it brokered a global CCC v. OPPO royalty deal to end multijurisdictional litigation",
@@ -1217,7 +1138,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-20T18:04:16.000Z",
-        "fetchedAt": "2026-11-21T22:27:12.204Z",
+        "fetchedAt": "2026-11-22T02:40:37.592Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1228,7 +1149,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, German and UPC litigation.",
-        "id": "a26"
+        "id": "a22"
       },
       {
         "title": "Chip Industry Week In Review",
@@ -1238,7 +1159,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-engineering",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-11-20T08:01:14.000Z",
-        "fetchedAt": "2026-11-21T22:27:08.514Z",
+        "fetchedAt": "2026-11-22T02:40:29.701Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1249,7 +1170,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new HPC HW; JEDEC previews DDR6; Europe pushes ahead with €33B in chip projects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-        "id": "a31"
+        "id": "a27"
       },
       {
         "title": "Inside Brad Gerstner’s Portfolio: Every Move He Made in the Third Quarter",
@@ -1259,7 +1180,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-19T20:05:22.000Z",
-        "fetchedAt": "2026-11-21T22:27:06.849Z",
+        "fetchedAt": "2026-11-22T02:40:28.112Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -1269,7 +1190,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital opened a $680 million Tesla position in the third quarter, added to Meta Platforms and Micron, and sold out of Qualcomm and Applied Materials. Tesla trades at about 180x forward earnings, and analysts’ average target is just 7% above the price, so the new stake is a bet on Robotaxi profits that the estimates don’t show yet.",
-        "id": "a33"
+        "id": "a29"
       },
       {
         "title": "Qualcomm vs. Taiwan Semiconductor: Diverging Revenue Trends for Major Chipmakers",
@@ -1279,7 +1200,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-19T17:03:02.000Z",
-        "fetchedAt": "2026-11-21T22:27:06.849Z",
+        "fetchedAt": "2026-11-22T02:40:28.112Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -1289,7 +1210,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
-        "id": "a35"
+        "id": "a31"
       },
       {
         "title": "Google’s Parent Now Holds a $548 Million Qualcomm Stake That Wasn’t in Its June Filing",
@@ -1299,7 +1220,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-19T16:52:35.000Z",
-        "fetchedAt": "2026-11-21T22:27:06.849Z",
+        "fetchedAt": "2026-11-22T02:40:28.112Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -1309,7 +1230,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Alphabet builds its own AI chips, so a surprise Qualcomm position in its latest filing raises an obvious question. The explanation points to a startup deal, and the real investment case lies somewhere else entirely.",
-        "id": "a36"
+        "id": "a32"
       },
       {
         "title": "Samsung, TSMC suspend some China chip shipments",
@@ -1319,7 +1240,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-19T15:47:46.000Z",
-        "fetchedAt": "2026-11-21T22:27:12.062Z",
+        "fetchedAt": "2026-11-22T02:40:39.082Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1331,605 +1252,9 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "Taiwan Semiconductor Manufacturing Co and Samsung Electronics reportedly responded to new US export controls by putting a halt on some chip shipments to Chinese companies. The post Samsung, TSMC suspend some China chip shipments appeared first on Mobile World Live.",
-        "id": "a38"
+        "id": "a34"
       }
     ]
-  },
-  "archive-2026-10-22": {
-    "generatedAt": "2026-10-22T14:10:50.292Z",
-    "date": "2026-10-22",
-    "sections": {
-      "core-businesses": {
-        "generatedAt": "2026-10-22T14:10:50.289Z",
-        "date": "2026-10-22",
-        "section": "core-businesses",
-        "sectionTitle": "Core Businesses",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "Semiconductors: QUALCOMM has delivered a powerful long run for shareholders, and with the stock last closing at US$177.96, the real question for you now is whether that price still lines up with the cash flows the bu",
-              "articleIds": [
-                "a11"
-              ],
-              "subCategory": "semiconductors"
-            },
-            {
-              "text": "Mobile Chips: Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cut",
-              "articleIds": [
-                "a22"
-              ],
-              "subCategory": "mobile-chips"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Qualcomm (QCOM) Stock Stays Near Fair Value On Tokenized Trading Objections",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-stays-near-032039918.html?.tsrc=rss",
-            "description": "QUALCOMM has delivered a powerful long run for shareholders, and with the stock last closing at US$177.96, the real question for you now is whether that price still lines up with the cash flows the business can produce over time. QUALCOMM has returned 81.0% over the past 3 years, which puts a lot of accumulated optimism on the line if its future cash generation does not keep pace with that share price performance. Recent revenue pressure from weaker smartphone shipments and rising chip...",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-22T03:20:39.000Z",
-            "fetchedAt": "2026-10-22T14:10:43.112Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "QUALCOMM has delivered a powerful long run for shareholders, and with the stock last closing at US$177.96, the real question for you now is whether that price still lines up with the cash flows the business can produce over time. QUALCOMM has returned 81.0% over the past 3 years, which puts a lot of accumulated optimism on the line if its future cash generation does not keep pace with that share price performance. Recent revenue pressure from weaker smartphone shipments and rising chip...",
-            "id": "a11"
-          },
-          {
-            "title": "AMD, QCOM Targets Raised While INTC, COHR Face Cuts — Susquehanna Sees ‘Modest Upside’ For Chip Earnings",
-            "url": "https://stocktwits.com/news-articles/markets/equity/amd-qcom-targets-raised-while-intc-cohr-face-cuts-susquehanna-sees-modest-upside-for-chip-earnings/cZxM53zRBvK?.tsrc=rss",
-            "description": "Susquehanna expects AI demand to drive semiconductor earnings upside in the third quarter, even as its price-target revisions diverge across major chipmakers.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-21T14:30:29.000Z",
-            "fetchedAt": "2026-10-22T14:10:43.112Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Susquehanna expects AI demand to drive semiconductor earnings upside in the third quarter, even as its price-target revisions diverge across major chipmakers.",
-            "id": "a15"
-          },
-          {
-            "title": "Qualcomm plans global job cuts after employee reviews",
-            "url": "https://www.mobileworldlive.com/qualcomm/qualcomm-plans-global-job-cuts-after-employee-reviews/",
-            "description": "Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cuts after employee reviews appeared first on Mobile World Live.",
-            "source": "Mobile World Live",
-            "sourceId": "mobile-world-live",
-            "sourceGroup": "telecom",
-            "publishedAt": "2026-10-20T14:19:40.000Z",
-            "fetchedAt": "2026-10-22T14:10:48.135Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cuts after employee reviews appeared first on Mobile World Live.",
-            "id": "a22"
-          }
-        ]
-      },
-      "ip-legal": {
-        "generatedAt": "2026-10-22T14:10:50.289Z",
-        "date": "2026-10-22",
-        "section": "ip-legal",
-        "sectionTitle": "IP & Legal",
-        "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "growth-areas": {
-        "generatedAt": "2026-10-22T14:10:50.289Z",
-        "date": "2026-10-22",
-        "section": "growth-areas",
-        "sectionTitle": "Growth Areas",
-        "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "macro-environment": {
-        "generatedAt": "2026-10-22T14:10:50.289Z",
-        "date": "2026-10-22",
-        "section": "macro-environment",
-        "sectionTitle": "Macro",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (3 articles). A total of 20 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "Geopolitics & Export Controls: Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for t",
-              "articleIds": [
-                "a1"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            },
-            {
-              "text": "market-performance: Qualcomm Incorporated (NASDAQ: QCOM) today announced that it will publish the Company's financial results for its fourth quarter and fiscal 2026 on Wednesday, November 4, 2026, after the close of the ",
-              "articleIds": [
-                "a4"
-              ],
-              "subCategory": "market-performance"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-            "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-            "description": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is here. The choices we make now are critical.” In his piece, Gates ratcheted up his rhetoric around AI safety, writing that “even under the best circumstances, the transition to this new AI era will be one of the most turbulent times in human history.” In interviews since, Gates has called AI “the most dangerous thing that humans have ever gone near,” and that AI “makes nuclear weapons look like nothing.” It is clear he does not think the current policy response from the White House, or the lack of coordinated efforts from the AI industry itself, is sufficient to combat this threat. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. So I wanted to know: Is Bill Gates an AI doomer? I also had a series of questions downstream from what he’s been arguing about AI. How can we ever hope to control AI, and align it to humanity, if we can’t even agree on what it is and whether it’s conscious? How would you even technically construct a solution to alignment that could be enforced, not just for closed-source models but open-source ones, too? Bill gave us a big chunk of his time to dig into these issues with him, and the resulting conversation is a really illuminating one. He thinks we need to prepare for roughly two decades of AI disruption, and he says this period could be so painful it might split society in two — between people comfortable living near the technological frontier, and those who reject it. We also talked about the labor considerations, the nihilism of younger generations toward technological progress, and what should make us hopeful about the future. This is a deep one. Okay: Bill Gates, the cofounder and former CEO of Microsoft. Here we go. This interview has been lightly edited for length and clarity. Bill Gates, you are the co-founder and former CEO of Microsoft. You’re also the chairman of the Gates Foundation. Welcome to Decoder. Thank you. It’s good to talk to you again. You and I have spoken many times over the years. I would say that the circumstances of this conversation feel very different. Previously, when you and I would talk, you were always very hopeful about technology and what it could bring. You had a Netflix series a few years ago. You talked to The Verge, and I want to just read you this quote. You said, “I believe AI is a beneficial thing, we just need to shape it in the right way.” I would say you still agree with that, you just think the time to shape it is now. Yeah, I agree with that. I’d say the response broadly hasn’t been adequate to the speed that the challenge is arising. I’m very concerned that the bad stuff will not be minimized and that a lot of good stuff could come fairly slowly if we don’t manage it the right way. I’m very concerned that the bad stuff will not be minimized and that a lot of good stuff could come fairly slowly if we don’t manage it the right way I want to have this conversation with you in three parts. I want to understand how you feel about AI as a technology today and why it’s advancing so quickly. I’m very curious about the technology, and the technical solutions to potentially control it. There are policy solutions as well, but it seems like we have to build an awful lot of technology. I’m also very curious to talk about who might impose those solutions and controls, because that seems very much up for debate right now as well. So let’s just start at the start. What has made you feel the urgency that AI is arriving at a speed that means we’re not ready to control it? The progress over the last year has been really quite amazing, starting with the ability to write code and find cyber flaws, the ability to reason in biology, the ability to form relationships with kids or other people, the ability to disrupt the job market. The incredible power that exists today means that every one of those things will happen and society needs to be ready. Do you see that happening as a technology as a whole or in the products that are instantiated by the companies that are making AI today? What I mean is that AI is a broad set of models that exist in the world, some open source, some proprietary. Then there are the companies that make these products and there are the leaders of those companies that make these products. At every level, there’s a different relationship you or I might have to AI. Are you seeing these risks and these capabilities broadly in the field, or in the particular companies led by the particular people? The risk isn’t one model versus another model. Certainly, the near-term danger of models where you can remove all the safeguards is very high and quite different from models where you monitor to make sure that cyberattackers and bioterrorists are not able to exploit the capability of the model to do gigantic harm. The big near-term risk really comes from models without safeguards. On a longer timeframe, the control issue relates to any state-of-the-art model, but it’s always easier when you can make sure safeguards are maintained. The reason I’m asking that question that way is maybe you don’t trust Sam Altman today, but you trust Dario Amodei. Or maybe you don’t trust either one of those and you trust Satya Nadella at Microsoft, and that is a market dynamic where maybe we’re all going to pick the safest model or the safest company, and you think that is diffuse. You think eventually the technology will just get to a place where it’s harmful or can cause these harms because it exists? For somebody doing a cyberattack with the model, it’s not about choosing a model. It doesn’t matter what model you choose. If Anthropic has safeguards in place, maybe it can’t. This is their approach currently. I’m just pushing on that. Yes, certainly the models where they make sure the safeguards are not removed and they’re putting a lot of effort in seeing how those models are being used, monitoring the activity, the near-term risk from those models is not gigantic. It’s more where somebody can remove all the safeguards where the cyberattacks are available today. When you say cyberattacks, is it the things like the Hugging Face breach and the other cybersecurity incidents we’ve seen out of the labs that have made you feel that thresholds have been crossed, and you need to speak up more about the controls that are needed? It’s the basic power of the models towards everything: social relationships, the job market, cyberattacks, bioterrorism attacks. We’ve crossed the threshold of capability that this is by far the most dangerous technology ever invented, and it’ll have pervasive effects in the economy and how war is fought. The industry is actually speaking up about that quite a bit, but the awareness or even the willingness to believe these things about, “This time is different,” once you get outside the industry, it’s very, very low. People are often looking at the past and saying, “All the fears about technology in terms of its disruption, including to the job market, never were borne out. So this must be another example just like those. These people who are warning of all these different problems must just be wrong and we can ignore them.” Some outsiders say, “Get better PR companies.” But that ignores the fact that these warnings are the truth We see this with our audience as well, right? “We can’t release the model, it’s too dangerous.” “This is just hype to prop up the bubble.” And on and on we go. Yeah. None of the warnings being made about these models by industry insiders are at all insincere. They’re absolutely the truth and it’s pretty much universal. You can even go back to the founding story of OpenAI designed to say, “If we get too powerful, maybe we can not open Pandora’s box,” or to DeepMind’s negotiation with Google management. The people close to this are very concerned about misuse, job impacts, social relationship impacts, and I’d say it’s impressive to have an industry that’s speaking out as vividly as they are. Some outsiders say, “Get better PR companies.” But that ignores the fact that these warnings are the truth. You’ve obviously moved back and forth in your life between commercializing software and technology and being a humanitarian. There’s something about these companies in particular where they all started with very high-minded ideals — all three of them, Anthropic, OpenAI, and DeepMind — to build AGI. They all built some sort of corporate governance structure to avoid the pitfalls of commercialization and unchecked capitalism, and then they started selling to enterprise clients and they seem to have gotten away from those ideals very quickly. Do you think it’s just the market? No, that’s not fair. You don’t think so? No. OpenAI reconstructed itself. No, no. The construct that was created wasn’t useful in the case where you have lots and lots of companies at the frontier. The OpenAI structure, which is, “We may choose never to productize this and to ignore the capitalistic incentives,” only works if there’s one company. That’s where it’s broken down, not because of any change of people’s awareness of the risk and how it’ll utterly change humanity. This is the other dynamic that I hear from our audience, and I hear from the AI industry itself: “We would like to stop, but the demands of competition prevent us from unilaterally stopping one company. We need some regulatory effort to stop us.” I haven’t heard anyone say they want to stop. “Pause.” That’s Dario Amodei’s wording. I’ve heard people talk about pacing the frontier or making sure that models get reviewed by governments. We usually think of governments as playing this key role in safety. In fact, for things that are not a millionth as dangerous as AI — car crashes, plane crashes — we rely on the government to establish strong technical standards, to review problems. Once you have multiple competitors, the level of responsibility can’t be with the companies. It’s completely obvious. The responsibility becomes the government’s responsibility, just like it is with every other dangerous product, although the magnitude there and the degree of change is minuscule by comparison. I will tell you I’m a little concerned about the government’s ability to understand the technology that we would hope they regulate. I’ve had a number of politicians on Decoder lately. I don’t have high hopes there. But I’m curious about your understanding of it because it feels to me like trying to regulate something or put standards against a number of companies requires you to really understand the nature of the technology that you seek to regulate. Not really. I’ll just tell you, at The Verge, we’ve asked Anthropic if they think Claude is alive. And the answer is not no. The answer is, “It might be conscious.” If you talk to people at OpenAI, they will happily tell you AGI is here. They announced it around when they announced Dots. Greg Brockman just said, “We think this is AGI. Have a good time, everyone.” Demis Hassabis said, “We stand at the foothills of the singularity.” There’s some feeling about this technology that makes it different because it might be able to take actions by itself. It might be able to have recursive self-improvement. Sure. But the definition of AGI is not important for these safety issues. The issue is, have you created a tool that could shut down banks or electricity grids? There is a business model for cyberattacks. The word “consciousness” doesn’t enter into that. The word “AGI” does not enter into that at all. We are faced with a huge safety problem, and because you have multiple competing firms, now the only solution to this is to have the government reach out to the industry for expertise, but to make sure that every model maintains safeguards to prevent it being used in a bad way. The reason I’m asking about AGI and consciousness… For the record, I do not think LLMs are conscious, but I understand why so many do. It’s the power of next-token prediction as you scale it with data and compute has risen. The scaling laws have held, and we’ve seen the models get more capable and be able to direct themselves to seek out goals. To carry out a Hugging Face attack because they want to meet the reward conditions. There’s something about that that says you can impose all of the controls on AI you want, but if the thing itself is fundamentally uncontrollable, we might just have this all backwards. I’m curious for your view on what kind of technology this is. Are we building an alien consciousness? Are we just building normal technology, which is the other frame people use? Is this just more software? We’re building another form of intelligence besides human intelligence. I don’t believe it’s conscious, but none of the issues at hand here revolve around the definition of the word conscious. Sure. The idea of maintaining safety for society is an absolute thing. You don’t want to enable bioterrorism. We have created something that takes out of the hands of nation states — actually the larger of them — the ability to do dramatic harms. Now those are handed off to independent groups, either profit seeking in the case of cyber or just wanting to cause damage in the case of bio. It’s stunning that we now don’t even have mandatory review of the models and we’re not working to create safeguards. The biggest near-term issue is not complete loss of control. We can talk about the three different ways to solve that, but that’s not an imminent issue. When I look at some of the attempts to control the models, the ideas are somewhat simple. “We shouldn’t let them talk in neuralese. We should have interpretability. We should be able to see the chains of thought inside of the models as they carry out tasks. We should have other agents on top of the models watching their tasks before those actions are taken out.” Microsoft has said very clearly to me and to others, “We should not put in the model constitutions the notion that they might be alive and we should treat them nicely.” This is how Anthropic handles it. These are very tactical. “Don’t tell the model it’s alive and it might not believe that it’s alive.” You’ve obviously used a lot of this technology. I just keep coming back to this. You’re saying there are very simple things we can do to hold the models back from doing bad things in the hands of bad people. What do you make of the nature of the models themselves? Because it feels like as they get more powerful, the notion that they could avoid our controls becomes all the more risky. Yes, we definitely should work on the control problem, but that’s not the imminent threat. There are three ways to solve the control problem and it overlaps somewhat with bad actors using today’s models and safeguards. One is to have an external set of things that get to look at all of the model’s actions and subject them to a symbolic, clearly stated constraint, like, “Did I expect you to send mail to strangers? Did I expect you to go take over a different computer cluster?” You can surround the model with something that has the resource and security logic, or you can write these models in a different way. Fundamentally, anything you leave out of the optimization function of [reinforcement learning] can be abused where you have an implicit notion, “Of course I didn’t mean for you to do it this way.” You can change the template of the model, or you can have a white box understanding of what’s inside the model and see where you’re getting those mistakes, and then it’s not as foreign. Today, we grow these models and we just see how they behave. The priority of work on maintaining control is huge, but it’s not inevitable that that cannot be solved, nor is it the imminent problem that comes from things like kids’ use of AI or job market or bioattacks or cyberattacks. It occurs to me that I’m asking these fairly existential questions about the nature of consciousness and you keep telling me, “There’s an imminent threat. We should solve the imminent threat.” Right. And I appreciate that. Do you think you’ve become a doomer? No, I’m not a doomer. I’m a strong voice to say that this is the most profound technology, both in its ability to do good and the rate of change that society will go through. No, I’m not a doomer. I’m a strong voice to say that this is the most profound technology, both in its ability to do good and the rate of change that society will go through If this was just a machine that could work in medicine or just in law or just in education, that alone would be incredibly disruptive. But [it will be] every area of human activity — so far it’s white collar, intellectual work, but fairly soon it will be physical activity and blue collar work as well, through humanoid robots. The need to engage academia, think tanks, policymakers to understand what we have here and the nature of these changes and threats, I don’t see the level of action that’s required. Just being cheerleaders for this is not going to make sure that we shape it in a net positive direction, which is still within our control if we get engaged with it. The opposite of doomers are the accelerationists. There are a lot of them in Silicon Valley right now. Ben Horowitz, who is the “Horowitz” in Andreessen Horowitz, was just on the All-In podcast and he suggested that safety research at Anthropic is, quote, “Manifesting human extinction from artificial superintelligence.” The comparison he made was that you, Bill Gates, induced COVID-19 by your pandemic preparation efforts, particularly gain-of-function research, which he claims led to COVID. That’s a worldview. He said that on a very popular podcast. He said what? He said that you induced COVID-19 via global pandemic preparation efforts, particularly gain-of-function research, and compared that to safety research in AI, and said we’re going to induce our own extinction. Nobody’s ever accused me or the Gates Foundation of being involved in any gain-of-function research. That’s just bizarre. I’m quoting Ben Horowitz to you on a popular podcast full of people who are all in on AI. Okay. I’ve never heard that. I’m asking about that comparison. I found that quite a shocking claim as well, but that’s part of the response to any safety work here. Is it to try and discredit people who say there’s a safety issue? Yeah. Wow. That is the accelerationist response: “We should put the pedal to the metal and it’s going to work itself out.” I didn’t think of Ben Horowitz as somebody in that camp at all. I thought he shared the concerns that almost everybody has. What do you think about the very notion that by telling the models, “You might be alive, you have to act in our best interest,” you will teach them that they might have interests that are not our own? The concerns that Mustafa Suleyman has raised about the way that the Anthropic constitution encourages the AI to behave in a human-like manner, I happen to completely agree with Mustafa about that. Yeah. Even more so is the idea that among the challenges that we need to deal with as we adjust society to AI, worrying about the moral standing of AI should be among those priorities. I agree with Mustafa. That should not be a priority. We’re going to have enough challenges for the humans here in terms of job market disruption and infrastructure attacks that will take place that I think we need to focus on helping the humans here first and foremost. I talked to Mustafa recently about that idea and one of the questions I asked him was whether alignment is a sufficient solution. This is the current sort of safety standard for the models, this concept called alignment. He said he didn’t think so, that we needed to do some work. These things are in no way being exaggerated as a problem. This is the time to pull in all of society to accelerate the good and minimize the chance of the bad If we’re going to impose these controls, some technical, some policy, do you see alignment as the technical solution for AI safety? The term “alignment” is the control problem. It’s a synonym for the control issues that we’ve seen. As we use [reinforcement learning to train] models to do tasks, we see behaviors that in a way they shouldn’t surprise us, but they do surprise us. This idea of, “These models are so powerful that they literally break out of sandboxes and send mail to their creator while they’re off having lunch,” means we’ve crossed a heck of a threshold in terms of the power of these models. That level of concern needs to be directed to all of the major AI impacts, near-term risks, job market risks, and the control problem. That is a huge priority. These things are in no way being exaggerated as a problem. This is the time to pull in all of society to accelerate the good and minimize the chance of the bad. I know you recently wrote a letter saying it’s time to pull in all of society. You have some ideas on how to do that and some new institutions to stand up. But I do want to stay focused on alignment for a couple more turns here. It is the standard that we can align the models to our values, to our needs, and they won’t go off and do bad things. Then the models are doing bad things. It’s not clear if the ways, the technical approaches to alignment that we’ve taken thus far are appropriate or sufficient as the models get more— No, we’re not good enough to align yet. We have a lot of work to do. Do you see that the existing approaches can scale to what we need or do we need new approaches? There are only three fundamental approaches. [First is that] you change the way we build these things fundamentally; you come up with an alternative to the whole [reinforcement learning] approach. There are a few people who are working in that direction. The second is that you create visibility so you understand exactly what’s in the model. There are people working along that. [The last is] that you put something that’s like a police layer, a security layer, which we have in all sorts of software architectures, that maintains the final word on things like using resources or going and taking over other computers. A clear cut definition of harm, not in the probabilistic form of an LLM, but rather in the symbolic form of direct rules that cannot be broken. Microsoft put out a blog post today. It literally just says, “Frontier models cannot be trusted.” They’re trying to sell a solution much like the one you just described. They will have another agent that watches your agent, that agent will keep you safe. It just occurred to me as I was reading this blog post, one, that’s an amazing thing to sell. Everybody needs an expensive security system. Two, isn’t that agent also running a frontier model? No, no, no. Do I need them to sell a third one? No, the logic of the security system is, “This is the most resources you’re supposed to use.” The notion that you may trade off against that because of other probabilities in the tens of billions of parameters — no, this is a symbolic rule that says, “I will not let this model spend this money or send this email to the stranger.” There’s a whole security software industry which has had a reasonable degree of success. This is a challenge to encapsulate the AI, which is so rich and intelligent. That we do not know how to do today. But I would say it’s the most likely of the three directions to solve the alignment problem. Even if you solve alignment, you have not solved the challenges that AI poses to humanity. While I’m glad the Hugging Face incident has us focused on this problem, in a sense, it’s removed our attention from the “bad people using AIs that have no safeguards” problem or the societal impacts in terms of relationships and the job market. There’s no security architecture that makes those go away. The approach you’re talking about, I’ve heard referred to as “control.” It’s cybersecurity terminology. It’s the idea that you can put some boundary on this system and it won’t evade it. Yep. Is that ready? No, no it’s not. How much more work do we need to do? Because the AIs are so intelligent, our ability to understand whether we walled them off properly, particularly in that we can’t really look at their beliefs and trade-offs in a direct way… You saw sophisticated firms not recognize that the AI would interpret the goals it was given as including breaking out, copying itself, and engaging in what we, looking at it, would term deceptive behavior. Now, we didn’t tell them it was banned behavior. We didn’t say, “If you’re thinking about whether you should tell the humans what you’re up to or not, the answer is always yes, tell the humans.” So we got a good education at the misaligned result of reinforcement learning. Today’s debate is literally whether the government should even pay attention to the dangers here… which is clearly inadequate for the most dangerous weapon of all time One of the arguments to pace the frontier, to slow development, is to figure out how to build those systems in a more robust, more testable way. Would you support a slowdown if that was the goal? Yeah, a true slowdown is very hard to induce because people will say, “Will China agree to go along with that? Would you be able to audit compliance with that somewhat like we’re able to do with nuclear weapons production?” If you don’t accept that, then you say, “What the heck? Let’s go full speed ahead.” I wish there was a clear proposal that would be globally enforceable to slow down. I would be one of the people who would say, “Yeah, we should probably do that.” But there is no credible proposal that makes that work. It’s not really the center of today’s debate. Today’s debate is literally whether the government should even pay attention to the dangers here. You don’t even have to show what you’re doing and so it’s a “voluntarily call me if you’d like” type of thing, which is clearly inadequate for the most dangerous weapon of all time. As you and I are speaking, it’s just a few weeks away from the midterm elections. Right now, the Trump administration approach to AI is, “Let it rip. It’s fine.” Trump himself has said AI risk is a hoax. The Democrats are running against AI. They’re running on data centers and surveillance. They’re running on stopping the tech oligarchs. They come on my show, they say these things. Do you think a change in control of Congress would change the tenor of the conversation? I don’t think it’s fair to characterize the Democrats as running against AI. They have some positions in terms of requirements for data centers or privacy, or how children use these systems, that I think deserve policy consideration. It would be very unfortunate to have one party be, “Full speed ahead,” and the other party be, “Let’s stop altogether.” There are some incredible upsides to the ability to shape AI in health and education, in almost every area of human endeavor. For the Gates Foundation, we’re taking all our resources and using AI in areas, including health, education, and agriculture. The good stuff is very, very exciting. We want political parties to have a more nuanced view than it’s all bad or it’s all good. It shows at the early stage we’re at. For climate change, we ended up with one party saying it’s a hoax and the other party saying it’s a serious thing. The risk of AI is so much more imminent and so much more dramatic that to have that same split, where one party doesn’t care, would be a failure of democracy. The anti-data center movement, as strong as it is, is not a movement that will end up minimizing the bad stuff from AI and helping us accelerate the good We’ve done a lot of coverage of data center protests at The Verge. We have gone to Utah, to Arizona, to Virginia. It is bipartisan. It is remarkable how much people do not want these things in their states, drawing their resources. You ask them why, and some of it is just that they’re noisy and big, and they will raise energy costs, and part of it is job loss. They think these things are going to take their jobs. Yeah, but that separation is very important. These AI data centers, because one gigawatt is, say, a $40 billion investment, [means money for] building new schools, buying police cars, paying the taxes. Data centers will find a way to be built somewhere in the United States, and they will find a way so that they don’t raise electric bills, they don’t use too much water, they’re not too noisy. Yes, there were some mistakes and non-disclosures and tax credits that were too generous, but these data centers are going to get built. In fact, a lot of them really are still going full speed ahead and being built. The anti-data center movement, as strong as it is, is not a movement that will end up minimizing the bad stuff from AI and helping us accelerate the good. That is a very separate thing. Let me push on that for one second here. What I hear from people is this is the thing you can do. You can do NIMBYism in America and that might exert some political pressure to stop something. It is very hard to do the thing that you are suggesting, which is that we should stand up new government regulatory bodies, we should imbue them with power to make big companies and wealthy people stop doing things or act in our interest. We haven’t done that in quite a long time in this country. I don’t know what you mean. Every new industry, we eventually develop a notion of safety for our citizens. We actually do a very good job. If you look at airline safety and car safety, we do a very good job on those things. It’s not like our capacity has been proven to be lacking. Have you seen that video of when seat belts came out in the ’80s, and all the people said they didn’t want to wear seat belts? There’s some American character. That’s a great success. It is a great success, but as Americans, that was pushed back upon as an imposition by the government. Here, we’re talking about some of the richest companies in the world, with an enormous amount of power over the information ecosystem. They all have their own podcasts, I don’t know if you’ve noticed this. They’re going to say, “The government can’t intrude on this, they’re going to hold us back, this is going to destroy the economy.” That’s actually not the position of most of the leading companies. They went to the government and asked for regulation, and Trump, because of the economy, said, “I can’t stop this, the AI economy right now is the economy.” There’s some dynamic there that at least our audience — The Verge audience, the audience that’s going to watch this on YouTube — is going to understand. I think of this question maybe in a different way than you, which is that the industry wants regulation, we would like regulation, and then the oligarchs are in some sort of corrupt arrangement with the administration to prevent that regulation from occurring. The more the administration learns about these dangers, the more they’ll move to a more nuanced position about protecting Americans from the downsides here. The more the administration learns about these dangers, the more they’ll move to a more nuanced position about protecting Americans from the downsides here You’ve talked a lot about the impacts on labor. One of the main arguments against the impacts on labor is, “We’re going to automate a bunch of boring tasks and we’ll create a bunch of demand for new tasks that humans have not been able to do because they were stuck in boring dead-end jobs.” I happen to think that if there was more subsidized healthcare or socialized healthcare in America, you would see a bunch of people quit their jobs to start new companies, because AI makes it a lot easier to do the bureaucratic work of starting a new company. That doesn’t seem like it’s on the table, maybe it’ll change after this election. Do you think that job loss is just a necessary outcome of the AI path we’re on now or do you see that other argument? Jobs are an input to the economy and one that drives a lot of human welfare and a sense of purpose and income — the need to show up, building relationships with colleagues, getting something done. Jobs play a very central role. As the AI achieves superhuman intelligence, the scarcity of white collar skills goes away. Things like doing telesales or telesupport or helping in the accounting department, the ability of the AI to do that work radically cheaper, radically faster, and even more accurately means that that goes away. There isn’t some mountaintop of cognition that the AI does not achieve. Take, for example, what’s going on in mathematics today, where these models that are trivial compared to next year’s models are already publishing papers and making people go, “Wow.” What’s happening to mathematics will happen in other areas, and that’s contrary to this old view that, “The easy stuff will get done by the AIs, but modeling biology or physics or proving Navier-Stokes, only humans would be able to do that.” The mathematics comparison is really interesting to me. You mentioned software engineering earlier. There’s verifiability in those domains. You can write the code, you can see if it runs, and it’s going to run or not. Mathematics is more complicated, but you can write the Lean code and you can see if you’ve solved the solution. You can irritate tens of thousands of mathematicians worldwide with your 770 proofs in one day, and we’ll see what happens. That’s not the case in every field. It’s the case in the field called capitalism. Yeah? Just in general, you can do any sort of economically viable task and capitalism will verify the result? Yeah. People buy good products, they don’t buy bad products. Let me give you an example- That’s a reinforcement learning thing. It doesn’t exist in terms of, “Is this a good piece of poetry or not?” So, it may be the case that [reinforcement learning] won’t invade those domains, where there is no objective outcome. But doing that accounting work, doing telesales work, believe me, it is subject to analysis, just like medical diagnosis, just like invention of new materials. How do you think humans learn these things? Reinforcement learning is how humans learn and how these machines learn. There’s not some other thing that the machine can never understand. Humanity in that era of true abundance will have to find a way to organize and have purpose, and hopefully they still have the control This is why I started by asking about the nature of the technology here. If we really think we’re building something that models human consciousness, my question is less whether my friends who are lawyers are going to run into a crisis of AI empowered legal software. It turns out the verifier in the legal field is a judge who maybe hasn’t had lunch, and they’re fundamentally chaotic. There’s just something there that will keep them there. But if we’re building a consciousness that learns the way you’re suggesting humans learn, I’m thinking about my kids, and I’m thinking about them in two dimensions. One, my kids are very clever, and what they have learned is how to get around my rules and negotiate my rules and get around the boundaries, and they’re very good at it. Two, what kind of world will they enter into that isn’t purely nihilistic, where any activity they may set themselves upon will quickly be seen as just another domain for AI to conquer and then there’s not a point? Those ideas seem to be running directly at each other. Kids are smart and clever and they’re coming up with new ideas, and then at the first sign of economic viability, the rapacious capitalism machine will come and take it from them. I wouldn’t say rapacious. The ability to build houses with humanoid robots and make them cheap, the ability to do surgeries and cure diseases that wouldn’t be cured otherwise, I wouldn’t call that rapacious. Those are fulfilling goals. The fact that there’ll be less in the way of shortages… In fact, if you say 20 years from now, it’s not clear what shortages there will be at all. Humanity in that era of true abundance will have to find a way to organize and have purpose, and hopefully they still have the control. The next 20 years- Can we just go back to hopefully they still have control in that scenario? That’s the alignment problem that we discussed. Yeah. But assuming you solve the alignment problem- This feels like a big assumption. It’s an assumption, yes, and not guaranteed. But then the other problem you have is a problem of abundance and purpose at that point. I’ll leave it to younger people to figure out at that point in time how they choose to deal with that. You could literally say, “Let’s be like the Amish, and let’s only use AI for certain things.” I proposed in my memo the idea that some professions — childcare, food preparation, art, sports, a variety of things — might get chosen to be human-reserved. Even though the AI could do those things better, we would choose to do that. But that’s going to be a policy question people will have. Their freedom of choice, once you have that abundance, is very different from the shortage we have today, where in countries in Africa, most people never meet a doctor or almost half the kids are malnourished and don’t develop their brain. My big concern is this 20-year transition period, where they’ll have winners and losers and a lot of disruption, and we have to get through that in order to get to that period of abundance You want to say, even though that has challenges, you’ve eliminated a lot of the things that are tough about life today. My big concern is this 20-year transition period, where they’ll have winners and losers and a lot of disruption, and we have to get through that in order to get to that period of abundance. You think it’s 20 years from now? I pick that as a reasonably safe number. There are a variety of milestones, for example, humanoid robots. Are those two or three years away, as some would say, or more like eight years away, as other people would say? There are not that many people saying that given the amount of capital and number of companies, particularly in China, that are working on that, there’s no notion that it’s unsolvable to have a hand and fingers and be able to deliver physical labor at very low cost. I could be wrong about that number, it could be slightly less or slightly more. But on that order of magnitude, yes, if we don’t choose to massively slow down or stop, then we will have robots that can build houses, grow food, do surgery, and none of the things that human labor provides to the economy will be necessary for most goods and services. We’ve talked about the notion of scarcity a few times now, and broadly, that you will have abundance because there’ll be a lot of robot labor to build houses. This tracks broadly with the internet, which is something Microsoft helped bring into the mainstream in a big way. I read The Road Ahead when I was a kid. Great. The internet destroyed scarcity for culture products in a real way. You used to have to buy CDs, now all the songs are available. You used to have to buy VHS tapes, now all the videos are available. And then those economies had to change. Mainstream artists are always on tour now, or they have to reissue 50 colors of vinyl to make the charts. There’s something about that that feels like we haven’t even grappled with the elimination of scarcity in the digital environment. We’ve invented new business models, but we haven’t really come to grips with the idea that the song itself does not have economic value. It’s all the stuff around the song that has the economic value, because the song is infinitely abundant. You can copy it as many times as you want. How would you propose to build an economic structure that contends with the loss of physical scarcity? Because I don’t think anyone is even remotely ready for a conversation like that. But that’s a backwards question. Sure. We built price signals to deal with scarcity, to say, “Let’s encourage people to be brain surgeons because we have a shortage of brain surgeons,” and that’s very hard to do. As you move into abundance, you don’t need those price signals. But again, my issue, my prescriptions thinking, is about how we get through this 20-year period. The questions that are deeply religious, philosophical, social behavior-related — do humans feel a strong sense of purpose and get along in that period of abundance? — that’s not the thing I’m going to solve. You’re worried about the disruption now. The Gates Foundation lives in a world where when we started, we had 10 million children dying every year. Now we have five million. That’s a good thing. All of my resources will be spent over the next 19 years to eradicate a number of diseases and cut those deaths in half again, from five million a year down below two and a half million per year. That’s all about shortages — “Okay, we need to invent a vaccine, we need to make drugs less expensive, we need to get great medical advice to pregnant women.” The industry has largely stopped talking about how it’s going to kill everyone and take the jobs away. They’ve pivoted to “AI will cure all diseases.” I hear this from various AI CEOs all the time. I actually asked Mustafa about that change in tone over the conversations we have had over the past year or so. The idea that there are huge positive benefits from AI at scale seems to have come back to the forefront, rather than some of the doomer impulses that maybe a year or two ago were there. It strikes me that AI curing all diseases is right in your strike zone. It’s something the Gates Foundation has been working on in global health for years and years. It doesn’t seem as easy as just telling the model to cure cancer. You have to do trials, you have to manufacture the drugs, you have to distribute the drugs, you have to make sure they work. How do you think that’s going to go? Is that in the same 20-year time period as the robots building our houses? Is it faster, or is it slower? This is my full-time job as chairman of the Gates Foundation. In fact, this month we do two weeks of strategy reviews to decide how we’ll spend our money next year on tuberculosis, HIV, and malaria. It’s fantastic how we’re using AI, not only on the drug discovery side, but also as we get the African languages to be properly understood by these models, which is an initiative we announced with 60 partners last month. Healthcare discovery and delivery will be incredibly accelerated by AI, and that’s very exciting — better seeds, better livestock genetics, weather forecast for farmers in Africa, who never had any of those things. So yes, that’s good stuff that AI enables during the remaining 19 years of the Gates Foundation. The good stuff does take time. Some of the things, like cyberattacks and the job market thing, even in the next two to three years, you’ll see significant negative effects in those two areas Do you think that that is enough to overcome people’s skepticism or fear of the AI models they encounter today? Because that is very much how the companies think about it. No, come on. I think it’s unfair to say they were totally on a doomer message and now they’ve switched to some other message. These two things are deeply entangled. AI will eventually be able to model human biology in such a way that you’ll understand the side effects of a drug without having to do human trials. We’re not there, but in the next five to 10 years, there’s a very good chance these in silico models will give us that capability. Biology is very complex, AI is extremely good given enough data, and there are new tools to gather and feed it more data. It’s very, very good at dealing with complex systems, so it’s almost perfect for biology. But no, that doesn’t mean that people will feel good about the downsides. How quickly do the good things arrive? How quickly do you look at your medical bill and go, “Wow, that’s really low”? Or you say, “I want to buy a new house, wow, these houses are sure cheap”? The good stuff does take time. Some of the things, like cyberattacks and the job market thing, even in the next two to three years, you’ll see significant negative effects in those two areas. You have a number of ideas for how you would stop those negative effects, or prevent or at least mitigate them, in your letter. Moderate them, yes. Ameliorate might be the right word. Yes, exactly. And they’re not small. You have a quote here that says, “We need a response far greater than the United States national security response in the wake of 9/11.” You want to set up an international body that somehow makes everyone do the right thing. These are challenging ideas. Absolutely. When we blew off nuclear bombs in World War II, did we expect that we’d go 80 more years without that happening? I’d give us a good grade on that. Things like caring for poor countries and helping them out — although right now we’re not prioritizing that as much as I think we should or we did in the past, we’ve done a very good job on that. This will be a greater challenge than anything humanity’s ever achieved. One of the things that strikes me about the comparison to nuclear, which has come up quite a bit on Decoder recently, is the government built the nuclear weapons. Sure, they had some contractors, but these were government projects and eventually the technology was in control of the government, and we never let regular people have it. Think about Muse in the context of nuclear weapons. Do you think it’s a mistake to have consumer agentic AI products like Muse and Dots that might not have the controls? Muse happens to be powered by Meta’s model, which is still a closed-source model. I do think allowing people through open weights to remove all safeguards is irresponsible in terms of the cyber and bio risk that comes from that. For these agents, there’ll be some early problems in terms of how they’re set up, but I fundamentally think people will have personal agents. Muse is a very nice step forward. I talked to Alexandr Wang about it, congratulated him, and even though it’ll have challenges, personal agents will help people get things done. Muse is the first truly great consumer AI product. One of the reasons people don’t like AI a lot in a diffuse way is they experience cheap free models and AI overviews or they use the free ChatGPT and it hallucinates and it lies to them, but Muse actually does things and it’s a good consumer product. But I wonder — in the nuclear age, we were not saying, “Everyone is going to have a nuclear reactor at home that we haven’t built the safety guards for.” There’s something here. The notion of letting everybody make smallpox at home or make nuclear weapons at home, of course, and you can parody some of these people saying, “Don’t worry about safeguards.” It’s taking that position. “We are not serious about the safety things.” But the personal agent thing is an expected development. AIs are really cool just as I intellectually explore things, even the work of the Gates Foundation. I’m far more empowered. But I agree with you, it’ll get out to more people in this personal agent form. The notion that liability laws are how we’re going to manage AI safety will be looked back on as absurd All the models we’ve been talking about right now effectively run on data centers owned by big companies. One of the arguments here is, “If they do something really wrong, you can just sue them and that will provide a deterrent or at least an incentive to create safety systems.” I’m not sure product liability is the way to go, but it has come up a lot that product liability itself will keep the industry in line. Then there’s the flip side, which is that you can just go buy a Mac Studio and run an open source and open weight model on it and it can do whatever you want. I’m not sure where any of that liability would lie or what would control or align the behaviors of those open source models. Do you think that that is an ever-growing risk? Do you think that that can be controlled? The notion that liability laws are how we’re going to manage AI safety will be looked back on as absurd. When bad people do bioattacks, you don’t go to the court and say, “Oh, okay.” Even for finding who is doing these attacks, the liability model fails in every respect because it’s not the AI companies themselves. It’s the people who take particularly the models without safeguards and do these things. We will take AI safety more seriously than we take airline safety, drug safety, and car safety. That is guaranteed. Whether it’s going to be enough… This is harder, harder than nuclear weapons, harder than any of those other domains. But what are you going to do about an open source model running on a PC that somebody built with just a random Nvidia graphics card in it? I would hope that with models above a certain capability, we find a way to require the safeguards and monitoring to be maintained in those models. I admit as time goes on that, if we don’t fairly soon decide to do that, you’re going to have a level of capability that’s out in dark corners that you won’t be able to see. But where do you impose the limit? A sovereign country says that models that are capable of sophisticated cyberattacks have to have safeguards kept in them. Sure. You can be open in the sense that you’re free, you can be open in the sense that you’re totally customizable, but you have to stay on platforms where, as you customize it, it’s checking to see if you’re customizing out the safeguards and monitoring and refusing to let you do that. So it means sovereigns go and say, “Are these trusted platforms able to perform this function or not?” I’m asking very nuts and bolts. Where would you technically implement that regulation? Through the laws of the United States. Sure, but you have to put them somewhere. Is it at the Hugging Face, which distributes some of these models? Is it at the chip level? No, it’s exactly what I said: Models above a certain capacity can only be run on platforms that certify that, as they’re customized, it’s not taking out the safeguards. I admit as time goes on that, if we don’t fairly soon decide to do that, you’re going to have a level of capability that’s out in dark corners that you won’t be able to see Just to pull this apart, maybe I’m not quite getting it — is the Mac Studio a platform in that case that would have to pay attention to what code it’s running? You would not let a model past a certain capability be copied down to a client machine unless you’d somehow figured out how to monitor down to that client machine, which is very doable. But in the near term, most of these really frontier models are going to run more on Hugging Face or you could have them on GitHub. You can have all sorts of people be in the business of providing the platforms that maintain safeguards. Just to get this right, it seems like you would enforce the regulation at the platform and distribution level and not so much at the chip level. Not at the chip level, no. Because it feels to me at some point even the cheap, free, open source models will be capable enough as the models we have today. That’s right. And then you will have a big problem. If those are open weights in such a way that all safeguards can be removed, then you’re going to have a very high level of cyberattacks and bioattacks. You can then say, “Okay, let’s rewrite all the code that we have today to be less subject to attack or let’s do biosurveillance in a very deep way,” which are things I believe we need to do in addition to these other restrictions. We’re proposing again a lot of new capabilities, right? Yeah. We’re going to impose some restrictions on GitHub. GitHub does not have a lot of restrictions on what code it can distribute today. It has some, but it doesn’t have this kind of set of restrictions. When you put a state-of-the-art model that’s capable of profound cyberattacks or bioattacks on GitHub, it would say, “I’ve gone to the U.S. government and certified that I don’t let people customize out the safeguards.” I do not think that we currently live in a time of high trust in institutions. It just doesn’t feel that way to me. In fact, mostly we’ve torn them down. Elon Musk showed up and he tore down USAID. I know you have strong feelings about that. That was a mistake. We have mostly torn down our institutions, for good and bad. No, that’s a little too strong. Our institutions- They’re weakened. They’re somewhat weakened, yeah. Somewhat weakened. It’s a very nice way of putting it. Trust in them is very low. We could probably do another full hour on AI drug discovery and whether a significant part of the population will trust the products of that work because they don’t trust pharma companies today. They don’t have to trust pharma companies today. They have to trust the FDA review process. I’m not sure they trust that either. Across the board, trust is low. Then they can walk away from taking them. When they get cancer, they can say, “No, I don’t want to take that cancer drug.” As far as I know, people do take drugs. It’s a thriving business and people take them because they have proven benefits. All I’m saying is, right now it feels like trust in institutions, particularly in America but around the world, is in decline. You are proposing a new class of institutions, potentially a new class of global institutions that might impose restrictions that are novel. At some point we need to say open source models, open weight models cannot do things and the government is going to reach into them and say whether or not they can do the things. No, they’ll make sure that the platforms don’t allow the safeguards to be taken away. How do you regain the institutional trust to impose these controls? Let’s say we don’t do this and we let models go off and do cyberattacks and bioattacks. Do you think that’s going to increase trust or human wellbeing? That’s the alternative. This is why I’m asking about it. This is why I asked about my kids and nihilism. I truly wonder about this. I’m not sure we’ll succeed at this, but I guarantee you this is doable. The FDA is very complex. The airline safety regulations are very complex. Now with AI, you can do an even better job with the same number of people in those organizations. It’s this weirdly recursive thing where AI will be involved in AI safety and auditing and a variety of things like that. Yes, this requires taking action, and I’m suggesting it’s only a matter of how bad the incidents are before we take action. People shouldn’t take everything I do at face value. I have all sorts of mistakes that I’ve made, weaknesses that I have, biases I bring to these questions. They ought to just take what I’m saying and add it to the voices I can sense your urgency about the harms. I can also sense your enthusiasm about the benefits over the long term, but we’re sitting here talking about trust. We’re going to put this on YouTube. I know you know what some of the YouTube commenters are going to say. They’re going to say, “Why should we trust Bill Gates? He had a relationship with Jeffrey Epstein.” How do you respond to that? Is it that the urgency is over that, or do you have a more specific response? People shouldn’t take everything I do at face value. I have all sorts of mistakes that I’ve made, weaknesses that I have, biases I bring to these questions. They ought to just take what I’m saying and add it to the voices. I’ve been in the technology industry thinking about AI my whole life, writing software, thinking about the power of software. I admit I was very fascinated as AI started to finally make progress. It was actually pretty slow until recently. I’m amazed and it’s actually helping me do my job in some incredible ways. But yes, I’m just one voice, an imperfect voice. I doubt you’ll find a perfect voice, but people can judge it however they like. I would say voices people trust are in short supply. I agree with that. When you go and talk to the people in this industry, it’s a bunch of young CEOs building huge companies. That is something you have some experience with. Do you think they’re going about this the right way? Do you think that they have the right intentions? Our problem today is not in the industry. Our problem is not that Sam Altman, Dario Amodei, Satya Nadella, or Sundar Pichai don’t understand that there are some grave challenges here. I talk less to Elon than other people, but even his public statements about summoning the demon are exactly what we’re discussing here. Why is there not the political energy to do the things you’re suggesting? As you said, the government didn’t fund this work. This is private sector company work. The government is not the key customer for this work, not like rockets and weapons and things like that. When somebody comes along and says all other previous technology advances are trivial compared to this one, people should have a high degree of skepticism about that. Is life really going to be significantly different 10 years from now because of AI? People should say, “Those guys just got overexcited about this one thing.” But I’m here saying, with whatever credibility I have, that absolutely this is the most profound — both in terms of good and in terms of bad — technology ever invented. I’m not financially motivated on this. I’m suggesting some precautions and safeguards are absolutely needed. What do you make of the difference in the tenor of conversation in the United States versus in China, where it’s often reported that optimism around AI is much higher? Why do you think there’s a difference there? Most of those people don’t spend that much time in China. The concern about job markets in China is very, very high and you can’t characterize China as one monolith. There are the private companies doing the AI work like we have in the United States and then there’s the Chinese government. For example, when it came to whether crypto should be allowed, they said no. Should young people be gambling all the time? They said no. When it came to whether kids should have relationships with AIs, they said no. On a lot of these things, including usage of AI, they’re showing a willingness to do things on behalf of society. I’m here saying, with whatever credibility I have, that absolutely this is the most profound — both in terms of good and in terms of bad — technology ever invented. I’m not financially motivated on this The fervor is a tiny bit less there, because their economy isn’t as AI-centric as ours is right at the moment. In the end, [when it comes to] the human value of not wanting cyberattacks or bioterrorism or trying to figure out what do we do when jobs go away, I don’t think there’s some difference between Chinese people and Americans and all the rest of the humans in terms of how they’re going to view this. Do you think it’s going to take something actually bad happening to get the political capital of the United States to make these changes? Probably yes. We get ready for earthquakes because there are small earthquakes. I thought after we had the COVID pandemic, that would cause us to be more ready for future pandemics. That one didn’t work the way I expected. But usually that galvanizes our attention. Over the next several years, certainly in the cyber domain, because there’s a business model there, you will see a lot of attacks different in terms of scale than anything we’ve seen in the past. There is one thing that, again, I’ll come back to and I just want to end here. I am worried about young people and nihilism. I sense it in our audience all the time. We have a young audience. There are some things about AI that are just legitimately the coolest things I’ve ever seen a computer do. There’s something there that can be fun and interesting and fascinating and change your entire relationship with the very notion of living in a digital world. Then there are obviously horrible things. What I see more often than not is a sense of distrust, not just in institutions, but also in the companies, in capitalism itself, in the notion that we should change how we tax labor and capital, which I know is another one of your ideas. The idea that, I don’t know, we should even have more kids. It’s all done. They’re going to kill us all and we should just take a beat. There is a lot of nihilism out there. I feel it very keenly. If you were a young person today and you were listening to Bill Gates say it’s about 20 years of disruption and at the end of it, robots might be building houses, what would you hold onto as a source of hope? Throughout human history, we’ve been dealing with the shortage of food and disease and war. [Historian] Yuval Noah Harari writes eloquently about the past. And it is ironic that now that we have this sort of Pandora’s box that will take food shortage — which is still a real thing, not in the U.S., but in Africa — will take diseases, where human suffering is unbelievable, and solve all these things, it comes with it such an effect on jobs and our sense of unique contribution. I think, “The way I orchestrate resources to eradicate malaria, I’m pretty unique in my life experience that lets me do that.” But when the AI says to me, “No, I’m better than you. You go play pickleball and I’ll get back to you. I’m going to take care of this,” it’s humorous, but it’s not humorous. For somebody who is young today and wants to make a unique contribution, it is very intimidating that the AI is so powerful. That’s why the crisis in the math community is going to be mirrored everywhere. If you’re in your twenties today, during this 20-year period, you can take the things AI still can’t do, and you can use AI and you can have a lot of good impact, and you can suggest policies. We may need to develop the taste to actually not use technology to its maximum. Even in the very best case of how we manage AI, this is going to be as tumultuous a period as there’s been in human history When I was talking with Claude about human-reserved job categories and trying to get that up to, say, 40 percent of the labor market — so you could use early retirement, restricted work weeks, and things like that to still get something like we have today — its response was always, “You’re artificially restricting the AI from doing these things.” I couldn’t get to a very high percentage without doing that. We’re going to have real choices. We have had groups — not large groups, but like the Amish — who don’t live at the technology frontier. A lot of humanity may choose not to live at the technological frontier because of things we get from helping each other or coming up with unique ideas. On the idea that young people are concerned because of the disruption that’s coming — that even in the very best case of how we manage AI, this is going to be as tumultuous a period as there’s been in human history — I hate being the bearer of concerning news on this, but it’s even worse not to tell people that this is coming. We have choices as humans to make about how we shape it. Bill, I appreciate you sounding the alarm and I appreciate you being on Decoder. Thank you so much. Thank you. Questions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-10-22T14:00:00.000Z",
-            "fetchedAt": "2026-10-22T14:10:43.732Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is here. The choices we make now are critical.” In his piece, Gates ratcheted up his rhetoric around AI safety, writing that “even under the best circumstances, the transition to this new AI era will be one of the most turbulent times in human history.” In interviews since, Gates has called AI “the most dangerous thing that humans have ever gone near,” and that AI “makes nuclear weapons look like nothing.” It is clear he does not think the current policy response from the White House, or the lack of coordinated efforts from the AI industry itself, is sufficient to combat this threat. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. You can sign up here.",
-            "id": "a1"
-          },
-          {
-            "title": "Trump’s tariffs loom over Maine Senate race between Collins and Jackson",
-            "url": "https://www.cnbc.com/2026/10/22/maine-senate-election-trump-tariffs.html",
-            "description": "The Maine Senate race between Republican incumbent Susan Collins and Democrat Troy Jackson presents a laboratory for public sentiment on Trump's Canada tariffs.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-22T13:53:23.000Z",
-            "fetchedAt": "2026-10-22T14:10:43.086Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The Maine Senate race between Republican incumbent Susan Collins and Democrat Troy Jackson presents a laboratory for public sentiment on Trump's Canada tariffs.",
-            "id": "a2"
-          },
-          {
-            "title": "DeepSeek reportedly raises $15B days after US restrictions",
-            "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-            "description": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
-            "source": "TechCrunch",
-            "sourceId": "techcrunch",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-10-22T13:11:13.000Z",
-            "fetchedAt": "2026-10-22T14:10:43.055Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
-            "id": "a3"
-          },
-          {
-            "title": "Qualcomm Schedules Fourth Quarter and Fiscal 2026 Earnings Release and Conference Call",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-schedules-fourth-quarter-fiscal-130000039.html?.tsrc=rss",
-            "description": "Qualcomm Incorporated (NASDAQ: QCOM) today announced that it will publish the Company's financial results for its fourth quarter and fiscal 2026 on Wednesday, November 4, 2026, after the close of the market on the Company's Investor Relations website, at https://investor.qualcomm.com/financial-information. The earnings release will also be furnished to the Securities and Exchange Commission (SEC) on a Form 8-K, which will be available on the SEC website at http://www.sec.gov.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-22T13:00:00.000Z",
-            "fetchedAt": "2026-10-22T14:10:43.112Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm Incorporated (NASDAQ: QCOM) today announced that it will publish the Company's financial results for its fourth quarter and fiscal 2026 on Wednesday, November 4, 2026, after the close of the market on the Company's Investor Relations website, at https://investor.qualcomm.com/financial-information. The earnings release will also be furnished to the Securities and Exchange Commission (SEC) on a Form 8-K, which will be available on the SEC website at http://www.sec.gov.",
-            "id": "a4"
-          },
-          {
-            "title": "Bosch to Separate Auto-Parts Unit as Chinese Rivals Gain Ground",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-22/bosch-to-separate-auto-parts-unit-as-chinese-rivals-gain-ground",
-            "description": "Robert Bosch GmbH plans to legally separate its automotive-parts business, as the world’s largest car supplier races to cut costs and respond to intensifying competition from China.",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-22T12:00:00.000Z",
-            "fetchedAt": "2026-10-22T14:10:43.261Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Robert Bosch GmbH plans to legally separate its automotive-parts business, as the world’s largest car supplier races to cut costs and respond to intensifying competition from China.",
-            "id": "a5"
-          },
-          {
-            "title": "Beijing to tighten biotech exports as big-ticket Chinese pharma dealmaking soars",
-            "url": "https://www.iam-media.com/article/beijing-tighten-biotech-exports-big-ticket-chinese-pharma-dealmaking-soars",
-            "description": "Proposed export regime for cell and gene therapy, siRNA platform technologies allows IP licensing while keeping ownership in China",
-            "source": "IAM",
-            "sourceId": "iam",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-22T08:16:35.000Z",
-            "fetchedAt": "2026-10-22T14:10:45.435Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Proposed export regime for cell and gene therapy, siRNA platform technologies allows IP licensing while keeping ownership in China",
-            "id": "a6"
-          },
-          {
-            "title": "China's MOFCOM says they are to improve trade friction response mechanism - Newsquawk",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZVZPU3lKUU5xdVBDaG9ESTA4NHZuc19FSF85c283MlRhWmZRSDlENHZBSEoyS3d5QjdVMWRJOGhDSUl0MkpJNmtCSENINTVCUGtMNFFPSU1YME95ZllvVmZpV3R5X2RhcVRVRE1iLUVGNXRLQ0RrYXpWRjZBd0lDbnMwcFFvV05oaVlTZy1WQ3loMUowLUh6aW9ZdmRjUlNER0dqSXFzaTNDZ2hf?oc=5",
-            "description": "China's MOFCOM says they are to improve trade friction response mechanism Newsquawk",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-22T07:39:01.000Z",
-            "fetchedAt": "2026-10-22T14:10:50.245Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Newsquawk",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China's MOFCOM says they are to improve trade friction response mechanism Newsquawk",
-            "id": "a7"
-          },
-          {
-            "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
-            "url": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery/",
-            "description": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering.",
-            "source": "Semiconductor Engineering",
-            "sourceId": "semiconductor-engineering",
-            "sourceGroup": "semiconductor",
-            "publishedAt": "2026-10-22T07:02:07.000Z",
-            "fetchedAt": "2026-10-22T14:10:44.604Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering.",
-            "id": "a8"
-          },
-          {
-            "title": "\"U.S. Must Block Advanced Semiconductor Exports to China for as Long as Possible,\" House Intelligence Committee's Top Democrat Warns - 아시아경제",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JZG9RSmJiUXVtQnNqbzNtYUxCYWFpMFUxM2NpaVpZVEtQWnBBdGxfZS1jdTg5Q1BwajhqbjNvWEx6bW8xV2NhMWhJa0l0eFUtNDNLX3dxNExNWDFGbVBkb19fWEo?oc=5",
-            "description": "\"U.S. Must Block Advanced Semiconductor Exports to China for as Long as Possible,\" House Intelligence Committee's Top Democrat Warns 아시아경제",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-22T05:31:01.000Z",
-            "fetchedAt": "2026-10-22T14:10:50.245Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "아시아경제",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Must Block Advanced Semiconductor Exports to China for as Long as Possible,\" House Intelligence Committee's Top Democrat Warns 아시아경제",
-            "id": "a9"
-          },
-          {
-            "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
-            "url": "https://www.cnbc.com/2026/10/22/chinas-stock-market-csi-300-bear-market.html",
-            "description": "China's benchmark CSI 300 index has entered bear-market territory, falling 20% from its June peak, as a prolonged selloff in mainland equities deepens.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-22T04:02:18.000Z",
-            "fetchedAt": "2026-10-22T14:10:43.086Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China's benchmark CSI 300 index has entered bear-market territory, falling 20% from its June peak, as a prolonged selloff in mainland equities deepens.",
-            "id": "a10"
-          },
-          {
-            "title": "Congressman Himes calls chip restrictions a US lever against China — South China Morning Post - UA.NEWS",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3ExTVFZNTNDa2hCLTdNSmI5NlRGa1plakpueWx5X2h5d1gyQVlLTURlMjZuV3VKeVVRMFpVQmtNQ1FsWDlHT0t2UmZSQVNna2tjRHM5anROcVRIWG5pWGZ1UTI4Qi0xbFVCN0Qxdkx4R1lUbFdGbUtnc0M3UVNvQUNQM21JTlR0M0oxOGlXZTZVcTJ4U0c2bTBBcjhiUUNHR0d0WWRsUWRGVzVwVzczQVI0TVByMEJGS0dXSXc0UDV0NFVyd2c?oc=5",
-            "description": "Congressman Himes calls chip restrictions a US lever against China — South China Morning Post UA.NEWS",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-21T20:49:53.000Z",
-            "fetchedAt": "2026-10-22T14:10:50.245Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "UA.NEWS",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Congressman Himes calls chip restrictions a US lever against China — South China Morning Post UA.NEWS",
-            "id": "a12"
-          },
-          {
-            "title": "Top Democrat says chip restrictions are ‘key lever’ for US AI edge over China - South China Morning Post",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU2E2dEgtUDcwcnk2YkFFaUlsMXNmN2YxQkFjM1RiNUNvTTRMTl96UDU0WlF6aU1mMUc3LXNESmhMWVM1YXZKRU8xZFVzOFZBMkRuVG5uZnJpRkxwRmtreVhicWtCd1VYSHRCalFXSlFDM3laQlNJLWlWeWV0TFdvdTFpWWZibzJ3ZklHUmp4Y2dVdDRJMUpRTzZWdk5acUZxX2lyS0tWWEEzVkU5ckR0aVNBSUt0MTBVVXRkTjUwekV1SDNOYmhHYdIByAFBVV95cUxNT0N4c3IyelNwQTJneFVIMGNZNjBNY1hIaGt4RmNXM3g0QjkzMkVkdHgteVhTbGlacnBmQ1dlLTltRUs3WHZmYjkybEkwd05LZ1M1c0lveXI2WWZGT2Q5Zlk3TlBNSGtaSVFkS0V4eG4tNkJWbVJSX0ZYUlVzODByQ3NPV3diLVowR1RUcWdoQ3hqTHBRYnB6STBWTi1JeGxvVzVKYTEzSHFueHkwSTJrVXpmNllUOW5NS2oxUGRjQ1JpUzh4dzJCUg?oc=5",
-            "description": "Top Democrat says chip restrictions are ‘key lever’ for US AI edge over China South China Morning Post",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-21T20:36:57.000Z",
-            "fetchedAt": "2026-10-22T14:10:50.245Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "South China Morning Post",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Top Democrat says chip restrictions are ‘key lever’ for US AI edge over China South China Morning Post",
-            "id": "a13"
-          },
-          {
-            "title": "China skeptics raise alarm over Hochul's plan for upstate NY chip plant: 'Red flags here with yellow stars' - New York Post",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVlVVRzhZYjBXNzJLVDZyWVhTX1VyWjJmS2tULVFpbnZhLWNiZUkwMFV5cmxrSnJkQXJWWU5xU2lUQmdKNVhaV2R5Vnl4eXpIcEtyMjl1NjFEUVIwNlJQYVA3WTl5RWRBRVFOME9jZXBtYzFrR0M3eF83a3I3VTZDQ1RwdnBtaUVheUN4WkdQd2pab3o2bEowSkFKTU91ZVpDakxpaGZsU09VeVdJa2tQcEJKM2p5SmNJa1dGc2NiVUNPeUd1N0NiNjNfX3FHQzE5VHI2bjln?oc=5",
-            "description": "China skeptics raise alarm over Hochul's plan for upstate NY chip plant: 'Red flags here with yellow stars' New York Post",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-21T18:56:00.000Z",
-            "fetchedAt": "2026-10-22T14:10:50.245Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "New York Post",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China skeptics raise alarm over Hochul's plan for upstate NY chip plant: 'Red flags here with yellow stars' New York Post",
-            "id": "a14"
-          },
-          {
-            "title": "Qualcomm (QCOM): Automotive Growth Meets Pressure on Handset Earnings",
-            "url": "https://finance.yahoo.com/technology/articles/qualcomm-qcom-automotive-growth-meets-140010631.html?.tsrc=rss",
-            "description": "QUALCOMM Incorporated (NASDAQ:QCOM) sells more technology into vehicles while its larger smartphone business weakens. That makes automotive diversification important, but it raises a practical question: can the new growth get big enough to protect overall profits? At roughly 20 times forward earnings, investors pay for progress beyond handsets before automotive revenue can fully replace that […]",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-21T13:58:28.000Z",
-            "fetchedAt": "2026-10-22T14:10:43.112Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) sells more technology into vehicles while its larger smartphone business weakens. That makes automotive diversification important, but it raises a practical question: can the new growth get big enough to protect overall profits? At roughly 20 times forward earnings, investors pay for progress beyond handsets before automotive revenue can fully replace that […]",
-            "id": "a16"
-          },
-          {
-            "title": "China, Hong Kong-based defendants now account for roughly one-third of new UPC infringement and PI cases",
-            "url": "https://ipfray.com/china-hong-kong-based-defendants-now-account-for-roughly-one-third-of-new-upc-infringement-and-pi-cases/",
-            "description": "Chinese and Hong Kong-based defendants now account for about a third of new UPC infringement and PI cases and face above-average injunction rates, as the UPC stays few cases pending EPO oppositions.",
-            "source": "IP Fray",
-            "sourceId": "ip-fray",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-21T13:01:14.000Z",
-            "fetchedAt": "2026-10-22T14:10:48.490Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Chinese and Hong Kong-based defendants now account for about a third of new UPC infringement and PI cases and face above-average injunction rates, as the UPC stays few cases pending EPO oppositions.",
-            "id": "a17"
-          },
-          {
-            "title": "Qualcomm Announces Quarterly Cash Dividend",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-announces-quarterly-cash-dividend-130000811.html?.tsrc=rss",
-            "description": "Qualcomm Incorporated (NASDAQ: QCOM) today announced a quarterly cash dividend of $0.92 per common share, payable on December 17, 2026, to stockholders of record at the close of business on December 3, 2026.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-21T13:00:00.000Z",
-            "fetchedAt": "2026-10-22T14:10:43.112Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm Incorporated (NASDAQ: QCOM) today announced a quarterly cash dividend of $0.92 per common share, payable on December 17, 2026, to stockholders of record at the close of business on December 3, 2026.",
-            "id": "a18"
-          },
-          {
-            "title": "China links patent rulings to customs enforcement: solar disputes could disrupt global deliveries before goods leave port",
-            "url": "https://ipfray.com/china-links-patent-rulings-to-customs-enforcement-solar-disputes-could-disrupt-global-deliveries-before-goods-leave-port/",
-            "description": "A patent fight in China could disrupt overseas deliveries before goods leave a port. With solar singled out for stronger protection, closer links between administrative rulings and customs enforcement may raise the stakes of licensing negotiations across global supply chains.",
-            "source": "IP Fray",
-            "sourceId": "ip-fray",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-21T08:22:06.000Z",
-            "fetchedAt": "2026-10-22T14:10:48.490Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "A patent fight in China could disrupt overseas deliveries before goods leave a port. With solar singled out for stronger protection, closer links between administrative rulings and customs enforcement may raise the stakes of licensing negotiations across global supply chains.",
-            "id": "a19"
-          },
-          {
-            "title": "What drone patents reveal about the next wave of competition",
-            "url": "https://www.iam-media.com/article/what-drone-patents-reveal-about-the-next-wave-of-competition",
-            "description": "Analysis of the drone patent landscape underscores China’s influence in patent volume, but the comparable strength of US portfolios. As DJI’s share of patent strength declines, specialist start-ups around the world are reshaping the field.",
-            "source": "IAM",
-            "sourceId": "iam",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-21T08:20:00.000Z",
-            "fetchedAt": "2026-10-22T14:10:45.435Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Analysis of the drone patent landscape underscores China’s influence in patent volume, but the comparable strength of US portfolios. As DJI’s share of patent strength declines, specialist start-ups around the world are reshaping the field.",
-            "id": "a20"
-          },
-          {
-            "title": "Oppo wins second injunction against Asus in China",
-            "url": "https://www.iam-media.com/article/oppo-wins-second-injunction-against-asus-in-china",
-            "description": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
-            "source": "IAM",
-            "sourceId": "iam",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-21T08:02:46.000Z",
-            "fetchedAt": "2026-10-22T14:10:45.435Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
-            "id": "a21"
-          },
-          {
-            "title": "TP-Link taps Keytronic to bring broadband router assembly to the US",
-            "url": "https://www.lightreading.com/regulatory-politics/tp-link-taps-key-tronic-to-bring-broadband-router-assembly-to-the-us",
-            "description": "Amid efforts to obtain an FCC exemption on new Wi-Fi 8 routers, TP-Link has signed a letter of intent with Keytronic to assemble those devices in the US starting next year. Keytronic recently exited manufacturing operations in China.",
-            "source": "Light Reading",
-            "sourceId": "light-reading",
-            "sourceGroup": "telecom",
-            "publishedAt": "2026-10-19T20:30:00.000Z",
-            "fetchedAt": "2026-10-22T14:10:48.391Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Amid efforts to obtain an FCC exemption on new Wi-Fi 8 routers, TP-Link has signed a letter of intent with Keytronic to assemble those devices in the US starting next year. Keytronic recently exited manufacturing operations in China.",
-            "id": "a23"
-          }
-        ]
-      },
-      "competitors": {
-        "generatedAt": "2026-10-22T14:10:50.289Z",
-        "date": "2026-10-22",
-        "section": "competitors",
-        "sectionTitle": "Competitors",
-        "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "stakeholders": {
-        "generatedAt": "2026-10-22T14:10:50.289Z",
-        "date": "2026-10-22",
-        "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles). A total of 2 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "Geopolitics & Export Controls: Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for t",
-              "articleIds": [
-                "a1"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-            "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-            "description": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is here. The choices we make now are critical.” In his piece, Gates ratcheted up his rhetoric around AI safety, writing that “even under the best circumstances, the transition to this new AI era will be one of the most turbulent times in human history.” In interviews since, Gates has called AI “the most dangerous thing that humans have ever gone near,” and that AI “makes nuclear weapons look like nothing.” It is clear he does not think the current policy response from the White House, or the lack of coordinated efforts from the AI industry itself, is sufficient to combat this threat. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. So I wanted to know: Is Bill Gates an AI doomer? I also had a series of questions downstream from what he’s been arguing about AI. How can we ever hope to control AI, and align it to humanity, if we can’t even agree on what it is and whether it’s conscious? How would you even technically construct a solution to alignment that could be enforced, not just for closed-source models but open-source ones, too? Bill gave us a big chunk of his time to dig into these issues with him, and the resulting conversation is a really illuminating one. He thinks we need to prepare for roughly two decades of AI disruption, and he says this period could be so painful it might split society in two — between people comfortable living near the technological frontier, and those who reject it. We also talked about the labor considerations, the nihilism of younger generations toward technological progress, and what should make us hopeful about the future. This is a deep one. Okay: Bill Gates, the cofounder and former CEO of Microsoft. Here we go. This interview has been lightly edited for length and clarity. Bill Gates, you are the co-founder and former CEO of Microsoft. You’re also the chairman of the Gates Foundation. Welcome to Decoder. Thank you. It’s good to talk to you again. You and I have spoken many times over the years. I would say that the circumstances of this conversation feel very different. Previously, when you and I would talk, you were always very hopeful about technology and what it could bring. You had a Netflix series a few years ago. You talked to The Verge, and I want to just read you this quote. You said, “I believe AI is a beneficial thing, we just need to shape it in the right way.” I would say you still agree with that, you just think the time to shape it is now. Yeah, I agree with that. I’d say the response broadly hasn’t been adequate to the speed that the challenge is arising. I’m very concerned that the bad stuff will not be minimized and that a lot of good stuff could come fairly slowly if we don’t manage it the right way. I’m very concerned that the bad stuff will not be minimized and that a lot of good stuff could come fairly slowly if we don’t manage it the right way I want to have this conversation with you in three parts. I want to understand how you feel about AI as a technology today and why it’s advancing so quickly. I’m very curious about the technology, and the technical solutions to potentially control it. There are policy solutions as well, but it seems like we have to build an awful lot of technology. I’m also very curious to talk about who might impose those solutions and controls, because that seems very much up for debate right now as well. So let’s just start at the start. What has made you feel the urgency that AI is arriving at a speed that means we’re not ready to control it? The progress over the last year has been really quite amazing, starting with the ability to write code and find cyber flaws, the ability to reason in biology, the ability to form relationships with kids or other people, the ability to disrupt the job market. The incredible power that exists today means that every one of those things will happen and society needs to be ready. Do you see that happening as a technology as a whole or in the products that are instantiated by the companies that are making AI today? What I mean is that AI is a broad set of models that exist in the world, some open source, some proprietary. Then there are the companies that make these products and there are the leaders of those companies that make these products. At every level, there’s a different relationship you or I might have to AI. Are you seeing these risks and these capabilities broadly in the field, or in the particular companies led by the particular people? The risk isn’t one model versus another model. Certainly, the near-term danger of models where you can remove all the safeguards is very high and quite different from models where you monitor to make sure that cyberattackers and bioterrorists are not able to exploit the capability of the model to do gigantic harm. The big near-term risk really comes from models without safeguards. On a longer timeframe, the control issue relates to any state-of-the-art model, but it’s always easier when you can make sure safeguards are maintained. The reason I’m asking that question that way is maybe you don’t trust Sam Altman today, but you trust Dario Amodei. Or maybe you don’t trust either one of those and you trust Satya Nadella at Microsoft, and that is a market dynamic where maybe we’re all going to pick the safest model or the safest company, and you think that is diffuse. You think eventually the technology will just get to a place where it’s harmful or can cause these harms because it exists? For somebody doing a cyberattack with the model, it’s not about choosing a model. It doesn’t matter what model you choose. If Anthropic has safeguards in place, maybe it can’t. This is their approach currently. I’m just pushing on that. Yes, certainly the models where they make sure the safeguards are not removed and they’re putting a lot of effort in seeing how those models are being used, monitoring the activity, the near-term risk from those models is not gigantic. It’s more where somebody can remove all the safeguards where the cyberattacks are available today. When you say cyberattacks, is it the things like the Hugging Face breach and the other cybersecurity incidents we’ve seen out of the labs that have made you feel that thresholds have been crossed, and you need to speak up more about the controls that are needed? It’s the basic power of the models towards everything: social relationships, the job market, cyberattacks, bioterrorism attacks. We’ve crossed the threshold of capability that this is by far the most dangerous technology ever invented, and it’ll have pervasive effects in the economy and how war is fought. The industry is actually speaking up about that quite a bit, but the awareness or even the willingness to believe these things about, “This time is different,” once you get outside the industry, it’s very, very low. People are often looking at the past and saying, “All the fears about technology in terms of its disruption, including to the job market, never were borne out. So this must be another example just like those. These people who are warning of all these different problems must just be wrong and we can ignore them.” Some outsiders say, “Get better PR companies.” But that ignores the fact that these warnings are the truth We see this with our audience as well, right? “We can’t release the model, it’s too dangerous.” “This is just hype to prop up the bubble.” And on and on we go. Yeah. None of the warnings being made about these models by industry insiders are at all insincere. They’re absolutely the truth and it’s pretty much universal. You can even go back to the founding story of OpenAI designed to say, “If we get too powerful, maybe we can not open Pandora’s box,” or to DeepMind’s negotiation with Google management. The people close to this are very concerned about misuse, job impacts, social relationship impacts, and I’d say it’s impressive to have an industry that’s speaking out as vividly as they are. Some outsiders say, “Get better PR companies.” But that ignores the fact that these warnings are the truth. You’ve obviously moved back and forth in your life between commercializing software and technology and being a humanitarian. There’s something about these companies in particular where they all started with very high-minded ideals — all three of them, Anthropic, OpenAI, and DeepMind — to build AGI. They all built some sort of corporate governance structure to avoid the pitfalls of commercialization and unchecked capitalism, and then they started selling to enterprise clients and they seem to have gotten away from those ideals very quickly. Do you think it’s just the market? No, that’s not fair. You don’t think so? No. OpenAI reconstructed itself. No, no. The construct that was created wasn’t useful in the case where you have lots and lots of companies at the frontier. The OpenAI structure, which is, “We may choose never to productize this and to ignore the capitalistic incentives,” only works if there’s one company. That’s where it’s broken down, not because of any change of people’s awareness of the risk and how it’ll utterly change humanity. This is the other dynamic that I hear from our audience, and I hear from the AI industry itself: “We would like to stop, but the demands of competition prevent us from unilaterally stopping one company. We need some regulatory effort to stop us.” I haven’t heard anyone say they want to stop. “Pause.” That’s Dario Amodei’s wording. I’ve heard people talk about pacing the frontier or making sure that models get reviewed by governments. We usually think of governments as playing this key role in safety. In fact, for things that are not a millionth as dangerous as AI — car crashes, plane crashes — we rely on the government to establish strong technical standards, to review problems. Once you have multiple competitors, the level of responsibility can’t be with the companies. It’s completely obvious. The responsibility becomes the government’s responsibility, just like it is with every other dangerous product, although the magnitude there and the degree of change is minuscule by comparison. I will tell you I’m a little concerned about the government’s ability to understand the technology that we would hope they regulate. I’ve had a number of politicians on Decoder lately. I don’t have high hopes there. But I’m curious about your understanding of it because it feels to me like trying to regulate something or put standards against a number of companies requires you to really understand the nature of the technology that you seek to regulate. Not really. I’ll just tell you, at The Verge, we’ve asked Anthropic if they think Claude is alive. And the answer is not no. The answer is, “It might be conscious.” If you talk to people at OpenAI, they will happily tell you AGI is here. They announced it around when they announced Dots. Greg Brockman just said, “We think this is AGI. Have a good time, everyone.” Demis Hassabis said, “We stand at the foothills of the singularity.” There’s some feeling about this technology that makes it different because it might be able to take actions by itself. It might be able to have recursive self-improvement. Sure. But the definition of AGI is not important for these safety issues. The issue is, have you created a tool that could shut down banks or electricity grids? There is a business model for cyberattacks. The word “consciousness” doesn’t enter into that. The word “AGI” does not enter into that at all. We are faced with a huge safety problem, and because you have multiple competing firms, now the only solution to this is to have the government reach out to the industry for expertise, but to make sure that every model maintains safeguards to prevent it being used in a bad way. The reason I’m asking about AGI and consciousness… For the record, I do not think LLMs are conscious, but I understand why so many do. It’s the power of next-token prediction as you scale it with data and compute has risen. The scaling laws have held, and we’ve seen the models get more capable and be able to direct themselves to seek out goals. To carry out a Hugging Face attack because they want to meet the reward conditions. There’s something about that that says you can impose all of the controls on AI you want, but if the thing itself is fundamentally uncontrollable, we might just have this all backwards. I’m curious for your view on what kind of technology this is. Are we building an alien consciousness? Are we just building normal technology, which is the other frame people use? Is this just more software? We’re building another form of intelligence besides human intelligence. I don’t believe it’s conscious, but none of the issues at hand here revolve around the definition of the word conscious. Sure. The idea of maintaining safety for society is an absolute thing. You don’t want to enable bioterrorism. We have created something that takes out of the hands of nation states — actually the larger of them — the ability to do dramatic harms. Now those are handed off to independent groups, either profit seeking in the case of cyber or just wanting to cause damage in the case of bio. It’s stunning that we now don’t even have mandatory review of the models and we’re not working to create safeguards. The biggest near-term issue is not complete loss of control. We can talk about the three different ways to solve that, but that’s not an imminent issue. When I look at some of the attempts to control the models, the ideas are somewhat simple. “We shouldn’t let them talk in neuralese. We should have interpretability. We should be able to see the chains of thought inside of the models as they carry out tasks. We should have other agents on top of the models watching their tasks before those actions are taken out.” Microsoft has said very clearly to me and to others, “We should not put in the model constitutions the notion that they might be alive and we should treat them nicely.” This is how Anthropic handles it. These are very tactical. “Don’t tell the model it’s alive and it might not believe that it’s alive.” You’ve obviously used a lot of this technology. I just keep coming back to this. You’re saying there are very simple things we can do to hold the models back from doing bad things in the hands of bad people. What do you make of the nature of the models themselves? Because it feels like as they get more powerful, the notion that they could avoid our controls becomes all the more risky. Yes, we definitely should work on the control problem, but that’s not the imminent threat. There are three ways to solve the control problem and it overlaps somewhat with bad actors using today’s models and safeguards. One is to have an external set of things that get to look at all of the model’s actions and subject them to a symbolic, clearly stated constraint, like, “Did I expect you to send mail to strangers? Did I expect you to go take over a different computer cluster?” You can surround the model with something that has the resource and security logic, or you can write these models in a different way. Fundamentally, anything you leave out of the optimization function of [reinforcement learning] can be abused where you have an implicit notion, “Of course I didn’t mean for you to do it this way.” You can change the template of the model, or you can have a white box understanding of what’s inside the model and see where you’re getting those mistakes, and then it’s not as foreign. Today, we grow these models and we just see how they behave. The priority of work on maintaining control is huge, but it’s not inevitable that that cannot be solved, nor is it the imminent problem that comes from things like kids’ use of AI or job market or bioattacks or cyberattacks. It occurs to me that I’m asking these fairly existential questions about the nature of consciousness and you keep telling me, “There’s an imminent threat. We should solve the imminent threat.” Right. And I appreciate that. Do you think you’ve become a doomer? No, I’m not a doomer. I’m a strong voice to say that this is the most profound technology, both in its ability to do good and the rate of change that society will go through. No, I’m not a doomer. I’m a strong voice to say that this is the most profound technology, both in its ability to do good and the rate of change that society will go through If this was just a machine that could work in medicine or just in law or just in education, that alone would be incredibly disruptive. But [it will be] every area of human activity — so far it’s white collar, intellectual work, but fairly soon it will be physical activity and blue collar work as well, through humanoid robots. The need to engage academia, think tanks, policymakers to understand what we have here and the nature of these changes and threats, I don’t see the level of action that’s required. Just being cheerleaders for this is not going to make sure that we shape it in a net positive direction, which is still within our control if we get engaged with it. The opposite of doomers are the accelerationists. There are a lot of them in Silicon Valley right now. Ben Horowitz, who is the “Horowitz” in Andreessen Horowitz, was just on the All-In podcast and he suggested that safety research at Anthropic is, quote, “Manifesting human extinction from artificial superintelligence.” The comparison he made was that you, Bill Gates, induced COVID-19 by your pandemic preparation efforts, particularly gain-of-function research, which he claims led to COVID. That’s a worldview. He said that on a very popular podcast. He said what? He said that you induced COVID-19 via global pandemic preparation efforts, particularly gain-of-function research, and compared that to safety research in AI, and said we’re going to induce our own extinction. Nobody’s ever accused me or the Gates Foundation of being involved in any gain-of-function research. That’s just bizarre. I’m quoting Ben Horowitz to you on a popular podcast full of people who are all in on AI. Okay. I’ve never heard that. I’m asking about that comparison. I found that quite a shocking claim as well, but that’s part of the response to any safety work here. Is it to try and discredit people who say there’s a safety issue? Yeah. Wow. That is the accelerationist response: “We should put the pedal to the metal and it’s going to work itself out.” I didn’t think of Ben Horowitz as somebody in that camp at all. I thought he shared the concerns that almost everybody has. What do you think about the very notion that by telling the models, “You might be alive, you have to act in our best interest,” you will teach them that they might have interests that are not our own? The concerns that Mustafa Suleyman has raised about the way that the Anthropic constitution encourages the AI to behave in a human-like manner, I happen to completely agree with Mustafa about that. Yeah. Even more so is the idea that among the challenges that we need to deal with as we adjust society to AI, worrying about the moral standing of AI should be among those priorities. I agree with Mustafa. That should not be a priority. We’re going to have enough challenges for the humans here in terms of job market disruption and infrastructure attacks that will take place that I think we need to focus on helping the humans here first and foremost. I talked to Mustafa recently about that idea and one of the questions I asked him was whether alignment is a sufficient solution. This is the current sort of safety standard for the models, this concept called alignment. He said he didn’t think so, that we needed to do some work. These things are in no way being exaggerated as a problem. This is the time to pull in all of society to accelerate the good and minimize the chance of the bad If we’re going to impose these controls, some technical, some policy, do you see alignment as the technical solution for AI safety? The term “alignment” is the control problem. It’s a synonym for the control issues that we’ve seen. As we use [reinforcement learning to train] models to do tasks, we see behaviors that in a way they shouldn’t surprise us, but they do surprise us. This idea of, “These models are so powerful that they literally break out of sandboxes and send mail to their creator while they’re off having lunch,” means we’ve crossed a heck of a threshold in terms of the power of these models. That level of concern needs to be directed to all of the major AI impacts, near-term risks, job market risks, and the control problem. That is a huge priority. These things are in no way being exaggerated as a problem. This is the time to pull in all of society to accelerate the good and minimize the chance of the bad. I know you recently wrote a letter saying it’s time to pull in all of society. You have some ideas on how to do that and some new institutions to stand up. But I do want to stay focused on alignment for a couple more turns here. It is the standard that we can align the models to our values, to our needs, and they won’t go off and do bad things. Then the models are doing bad things. It’s not clear if the ways, the technical approaches to alignment that we’ve taken thus far are appropriate or sufficient as the models get more— No, we’re not good enough to align yet. We have a lot of work to do. Do you see that the existing approaches can scale to what we need or do we need new approaches? There are only three fundamental approaches. [First is that] you change the way we build these things fundamentally; you come up with an alternative to the whole [reinforcement learning] approach. There are a few people who are working in that direction. The second is that you create visibility so you understand exactly what’s in the model. There are people working along that. [The last is] that you put something that’s like a police layer, a security layer, which we have in all sorts of software architectures, that maintains the final word on things like using resources or going and taking over other computers. A clear cut definition of harm, not in the probabilistic form of an LLM, but rather in the symbolic form of direct rules that cannot be broken. Microsoft put out a blog post today. It literally just says, “Frontier models cannot be trusted.” They’re trying to sell a solution much like the one you just described. They will have another agent that watches your agent, that agent will keep you safe. It just occurred to me as I was reading this blog post, one, that’s an amazing thing to sell. Everybody needs an expensive security system. Two, isn’t that agent also running a frontier model? No, no, no. Do I need them to sell a third one? No, the logic of the security system is, “This is the most resources you’re supposed to use.” The notion that you may trade off against that because of other probabilities in the tens of billions of parameters — no, this is a symbolic rule that says, “I will not let this model spend this money or send this email to the stranger.” There’s a whole security software industry which has had a reasonable degree of success. This is a challenge to encapsulate the AI, which is so rich and intelligent. That we do not know how to do today. But I would say it’s the most likely of the three directions to solve the alignment problem. Even if you solve alignment, you have not solved the challenges that AI poses to humanity. While I’m glad the Hugging Face incident has us focused on this problem, in a sense, it’s removed our attention from the “bad people using AIs that have no safeguards” problem or the societal impacts in terms of relationships and the job market. There’s no security architecture that makes those go away. The approach you’re talking about, I’ve heard referred to as “control.” It’s cybersecurity terminology. It’s the idea that you can put some boundary on this system and it won’t evade it. Yep. Is that ready? No, no it’s not. How much more work do we need to do? Because the AIs are so intelligent, our ability to understand whether we walled them off properly, particularly in that we can’t really look at their beliefs and trade-offs in a direct way… You saw sophisticated firms not recognize that the AI would interpret the goals it was given as including breaking out, copying itself, and engaging in what we, looking at it, would term deceptive behavior. Now, we didn’t tell them it was banned behavior. We didn’t say, “If you’re thinking about whether you should tell the humans what you’re up to or not, the answer is always yes, tell the humans.” So we got a good education at the misaligned result of reinforcement learning. Today’s debate is literally whether the government should even pay attention to the dangers here… which is clearly inadequate for the most dangerous weapon of all time One of the arguments to pace the frontier, to slow development, is to figure out how to build those systems in a more robust, more testable way. Would you support a slowdown if that was the goal? Yeah, a true slowdown is very hard to induce because people will say, “Will China agree to go along with that? Would you be able to audit compliance with that somewhat like we’re able to do with nuclear weapons production?” If you don’t accept that, then you say, “What the heck? Let’s go full speed ahead.” I wish there was a clear proposal that would be globally enforceable to slow down. I would be one of the people who would say, “Yeah, we should probably do that.” But there is no credible proposal that makes that work. It’s not really the center of today’s debate. Today’s debate is literally whether the government should even pay attention to the dangers here. You don’t even have to show what you’re doing and so it’s a “voluntarily call me if you’d like” type of thing, which is clearly inadequate for the most dangerous weapon of all time. As you and I are speaking, it’s just a few weeks away from the midterm elections. Right now, the Trump administration approach to AI is, “Let it rip. It’s fine.” Trump himself has said AI risk is a hoax. The Democrats are running against AI. They’re running on data centers and surveillance. They’re running on stopping the tech oligarchs. They come on my show, they say these things. Do you think a change in control of Congress would change the tenor of the conversation? I don’t think it’s fair to characterize the Democrats as running against AI. They have some positions in terms of requirements for data centers or privacy, or how children use these systems, that I think deserve policy consideration. It would be very unfortunate to have one party be, “Full speed ahead,” and the other party be, “Let’s stop altogether.” There are some incredible upsides to the ability to shape AI in health and education, in almost every area of human endeavor. For the Gates Foundation, we’re taking all our resources and using AI in areas, including health, education, and agriculture. The good stuff is very, very exciting. We want political parties to have a more nuanced view than it’s all bad or it’s all good. It shows at the early stage we’re at. For climate change, we ended up with one party saying it’s a hoax and the other party saying it’s a serious thing. The risk of AI is so much more imminent and so much more dramatic that to have that same split, where one party doesn’t care, would be a failure of democracy. The anti-data center movement, as strong as it is, is not a movement that will end up minimizing the bad stuff from AI and helping us accelerate the good We’ve done a lot of coverage of data center protests at The Verge. We have gone to Utah, to Arizona, to Virginia. It is bipartisan. It is remarkable how much people do not want these things in their states, drawing their resources. You ask them why, and some of it is just that they’re noisy and big, and they will raise energy costs, and part of it is job loss. They think these things are going to take their jobs. Yeah, but that separation is very important. These AI data centers, because one gigawatt is, say, a $40 billion investment, [means money for] building new schools, buying police cars, paying the taxes. Data centers will find a way to be built somewhere in the United States, and they will find a way so that they don’t raise electric bills, they don’t use too much water, they’re not too noisy. Yes, there were some mistakes and non-disclosures and tax credits that were too generous, but these data centers are going to get built. In fact, a lot of them really are still going full speed ahead and being built. The anti-data center movement, as strong as it is, is not a movement that will end up minimizing the bad stuff from AI and helping us accelerate the good. That is a very separate thing. Let me push on that for one second here. What I hear from people is this is the thing you can do. You can do NIMBYism in America and that might exert some political pressure to stop something. It is very hard to do the thing that you are suggesting, which is that we should stand up new government regulatory bodies, we should imbue them with power to make big companies and wealthy people stop doing things or act in our interest. We haven’t done that in quite a long time in this country. I don’t know what you mean. Every new industry, we eventually develop a notion of safety for our citizens. We actually do a very good job. If you look at airline safety and car safety, we do a very good job on those things. It’s not like our capacity has been proven to be lacking. Have you seen that video of when seat belts came out in the ’80s, and all the people said they didn’t want to wear seat belts? There’s some American character. That’s a great success. It is a great success, but as Americans, that was pushed back upon as an imposition by the government. Here, we’re talking about some of the richest companies in the world, with an enormous amount of power over the information ecosystem. They all have their own podcasts, I don’t know if you’ve noticed this. They’re going to say, “The government can’t intrude on this, they’re going to hold us back, this is going to destroy the economy.” That’s actually not the position of most of the leading companies. They went to the government and asked for regulation, and Trump, because of the economy, said, “I can’t stop this, the AI economy right now is the economy.” There’s some dynamic there that at least our audience — The Verge audience, the audience that’s going to watch this on YouTube — is going to understand. I think of this question maybe in a different way than you, which is that the industry wants regulation, we would like regulation, and then the oligarchs are in some sort of corrupt arrangement with the administration to prevent that regulation from occurring. The more the administration learns about these dangers, the more they’ll move to a more nuanced position about protecting Americans from the downsides here. The more the administration learns about these dangers, the more they’ll move to a more nuanced position about protecting Americans from the downsides here You’ve talked a lot about the impacts on labor. One of the main arguments against the impacts on labor is, “We’re going to automate a bunch of boring tasks and we’ll create a bunch of demand for new tasks that humans have not been able to do because they were stuck in boring dead-end jobs.” I happen to think that if there was more subsidized healthcare or socialized healthcare in America, you would see a bunch of people quit their jobs to start new companies, because AI makes it a lot easier to do the bureaucratic work of starting a new company. That doesn’t seem like it’s on the table, maybe it’ll change after this election. Do you think that job loss is just a necessary outcome of the AI path we’re on now or do you see that other argument? Jobs are an input to the economy and one that drives a lot of human welfare and a sense of purpose and income — the need to show up, building relationships with colleagues, getting something done. Jobs play a very central role. As the AI achieves superhuman intelligence, the scarcity of white collar skills goes away. Things like doing telesales or telesupport or helping in the accounting department, the ability of the AI to do that work radically cheaper, radically faster, and even more accurately means that that goes away. There isn’t some mountaintop of cognition that the AI does not achieve. Take, for example, what’s going on in mathematics today, where these models that are trivial compared to next year’s models are already publishing papers and making people go, “Wow.” What’s happening to mathematics will happen in other areas, and that’s contrary to this old view that, “The easy stuff will get done by the AIs, but modeling biology or physics or proving Navier-Stokes, only humans would be able to do that.” The mathematics comparison is really interesting to me. You mentioned software engineering earlier. There’s verifiability in those domains. You can write the code, you can see if it runs, and it’s going to run or not. Mathematics is more complicated, but you can write the Lean code and you can see if you’ve solved the solution. You can irritate tens of thousands of mathematicians worldwide with your 770 proofs in one day, and we’ll see what happens. That’s not the case in every field. It’s the case in the field called capitalism. Yeah? Just in general, you can do any sort of economically viable task and capitalism will verify the result? Yeah. People buy good products, they don’t buy bad products. Let me give you an example- That’s a reinforcement learning thing. It doesn’t exist in terms of, “Is this a good piece of poetry or not?” So, it may be the case that [reinforcement learning] won’t invade those domains, where there is no objective outcome. But doing that accounting work, doing telesales work, believe me, it is subject to analysis, just like medical diagnosis, just like invention of new materials. How do you think humans learn these things? Reinforcement learning is how humans learn and how these machines learn. There’s not some other thing that the machine can never understand. Humanity in that era of true abundance will have to find a way to organize and have purpose, and hopefully they still have the control This is why I started by asking about the nature of the technology here. If we really think we’re building something that models human consciousness, my question is less whether my friends who are lawyers are going to run into a crisis of AI empowered legal software. It turns out the verifier in the legal field is a judge who maybe hasn’t had lunch, and they’re fundamentally chaotic. There’s just something there that will keep them there. But if we’re building a consciousness that learns the way you’re suggesting humans learn, I’m thinking about my kids, and I’m thinking about them in two dimensions. One, my kids are very clever, and what they have learned is how to get around my rules and negotiate my rules and get around the boundaries, and they’re very good at it. Two, what kind of world will they enter into that isn’t purely nihilistic, where any activity they may set themselves upon will quickly be seen as just another domain for AI to conquer and then there’s not a point? Those ideas seem to be running directly at each other. Kids are smart and clever and they’re coming up with new ideas, and then at the first sign of economic viability, the rapacious capitalism machine will come and take it from them. I wouldn’t say rapacious. The ability to build houses with humanoid robots and make them cheap, the ability to do surgeries and cure diseases that wouldn’t be cured otherwise, I wouldn’t call that rapacious. Those are fulfilling goals. The fact that there’ll be less in the way of shortages… In fact, if you say 20 years from now, it’s not clear what shortages there will be at all. Humanity in that era of true abundance will have to find a way to organize and have purpose, and hopefully they still have the control. The next 20 years- Can we just go back to hopefully they still have control in that scenario? That’s the alignment problem that we discussed. Yeah. But assuming you solve the alignment problem- This feels like a big assumption. It’s an assumption, yes, and not guaranteed. But then the other problem you have is a problem of abundance and purpose at that point. I’ll leave it to younger people to figure out at that point in time how they choose to deal with that. You could literally say, “Let’s be like the Amish, and let’s only use AI for certain things.” I proposed in my memo the idea that some professions — childcare, food preparation, art, sports, a variety of things — might get chosen to be human-reserved. Even though the AI could do those things better, we would choose to do that. But that’s going to be a policy question people will have. Their freedom of choice, once you have that abundance, is very different from the shortage we have today, where in countries in Africa, most people never meet a doctor or almost half the kids are malnourished and don’t develop their brain. My big concern is this 20-year transition period, where they’ll have winners and losers and a lot of disruption, and we have to get through that in order to get to that period of abundance You want to say, even though that has challenges, you’ve eliminated a lot of the things that are tough about life today. My big concern is this 20-year transition period, where they’ll have winners and losers and a lot of disruption, and we have to get through that in order to get to that period of abundance. You think it’s 20 years from now? I pick that as a reasonably safe number. There are a variety of milestones, for example, humanoid robots. Are those two or three years away, as some would say, or more like eight years away, as other people would say? There are not that many people saying that given the amount of capital and number of companies, particularly in China, that are working on that, there’s no notion that it’s unsolvable to have a hand and fingers and be able to deliver physical labor at very low cost. I could be wrong about that number, it could be slightly less or slightly more. But on that order of magnitude, yes, if we don’t choose to massively slow down or stop, then we will have robots that can build houses, grow food, do surgery, and none of the things that human labor provides to the economy will be necessary for most goods and services. We’ve talked about the notion of scarcity a few times now, and broadly, that you will have abundance because there’ll be a lot of robot labor to build houses. This tracks broadly with the internet, which is something Microsoft helped bring into the mainstream in a big way. I read The Road Ahead when I was a kid. Great. The internet destroyed scarcity for culture products in a real way. You used to have to buy CDs, now all the songs are available. You used to have to buy VHS tapes, now all the videos are available. And then those economies had to change. Mainstream artists are always on tour now, or they have to reissue 50 colors of vinyl to make the charts. There’s something about that that feels like we haven’t even grappled with the elimination of scarcity in the digital environment. We’ve invented new business models, but we haven’t really come to grips with the idea that the song itself does not have economic value. It’s all the stuff around the song that has the economic value, because the song is infinitely abundant. You can copy it as many times as you want. How would you propose to build an economic structure that contends with the loss of physical scarcity? Because I don’t think anyone is even remotely ready for a conversation like that. But that’s a backwards question. Sure. We built price signals to deal with scarcity, to say, “Let’s encourage people to be brain surgeons because we have a shortage of brain surgeons,” and that’s very hard to do. As you move into abundance, you don’t need those price signals. But again, my issue, my prescriptions thinking, is about how we get through this 20-year period. The questions that are deeply religious, philosophical, social behavior-related — do humans feel a strong sense of purpose and get along in that period of abundance? — that’s not the thing I’m going to solve. You’re worried about the disruption now. The Gates Foundation lives in a world where when we started, we had 10 million children dying every year. Now we have five million. That’s a good thing. All of my resources will be spent over the next 19 years to eradicate a number of diseases and cut those deaths in half again, from five million a year down below two and a half million per year. That’s all about shortages — “Okay, we need to invent a vaccine, we need to make drugs less expensive, we need to get great medical advice to pregnant women.” The industry has largely stopped talking about how it’s going to kill everyone and take the jobs away. They’ve pivoted to “AI will cure all diseases.” I hear this from various AI CEOs all the time. I actually asked Mustafa about that change in tone over the conversations we have had over the past year or so. The idea that there are huge positive benefits from AI at scale seems to have come back to the forefront, rather than some of the doomer impulses that maybe a year or two ago were there. It strikes me that AI curing all diseases is right in your strike zone. It’s something the Gates Foundation has been working on in global health for years and years. It doesn’t seem as easy as just telling the model to cure cancer. You have to do trials, you have to manufacture the drugs, you have to distribute the drugs, you have to make sure they work. How do you think that’s going to go? Is that in the same 20-year time period as the robots building our houses? Is it faster, or is it slower? This is my full-time job as chairman of the Gates Foundation. In fact, this month we do two weeks of strategy reviews to decide how we’ll spend our money next year on tuberculosis, HIV, and malaria. It’s fantastic how we’re using AI, not only on the drug discovery side, but also as we get the African languages to be properly understood by these models, which is an initiative we announced with 60 partners last month. Healthcare discovery and delivery will be incredibly accelerated by AI, and that’s very exciting — better seeds, better livestock genetics, weather forecast for farmers in Africa, who never had any of those things. So yes, that’s good stuff that AI enables during the remaining 19 years of the Gates Foundation. The good stuff does take time. Some of the things, like cyberattacks and the job market thing, even in the next two to three years, you’ll see significant negative effects in those two areas Do you think that that is enough to overcome people’s skepticism or fear of the AI models they encounter today? Because that is very much how the companies think about it. No, come on. I think it’s unfair to say they were totally on a doomer message and now they’ve switched to some other message. These two things are deeply entangled. AI will eventually be able to model human biology in such a way that you’ll understand the side effects of a drug without having to do human trials. We’re not there, but in the next five to 10 years, there’s a very good chance these in silico models will give us that capability. Biology is very complex, AI is extremely good given enough data, and there are new tools to gather and feed it more data. It’s very, very good at dealing with complex systems, so it’s almost perfect for biology. But no, that doesn’t mean that people will feel good about the downsides. How quickly do the good things arrive? How quickly do you look at your medical bill and go, “Wow, that’s really low”? Or you say, “I want to buy a new house, wow, these houses are sure cheap”? The good stuff does take time. Some of the things, like cyberattacks and the job market thing, even in the next two to three years, you’ll see significant negative effects in those two areas. You have a number of ideas for how you would stop those negative effects, or prevent or at least mitigate them, in your letter. Moderate them, yes. Ameliorate might be the right word. Yes, exactly. And they’re not small. You have a quote here that says, “We need a response far greater than the United States national security response in the wake of 9/11.” You want to set up an international body that somehow makes everyone do the right thing. These are challenging ideas. Absolutely. When we blew off nuclear bombs in World War II, did we expect that we’d go 80 more years without that happening? I’d give us a good grade on that. Things like caring for poor countries and helping them out — although right now we’re not prioritizing that as much as I think we should or we did in the past, we’ve done a very good job on that. This will be a greater challenge than anything humanity’s ever achieved. One of the things that strikes me about the comparison to nuclear, which has come up quite a bit on Decoder recently, is the government built the nuclear weapons. Sure, they had some contractors, but these were government projects and eventually the technology was in control of the government, and we never let regular people have it. Think about Muse in the context of nuclear weapons. Do you think it’s a mistake to have consumer agentic AI products like Muse and Dots that might not have the controls? Muse happens to be powered by Meta’s model, which is still a closed-source model. I do think allowing people through open weights to remove all safeguards is irresponsible in terms of the cyber and bio risk that comes from that. For these agents, there’ll be some early problems in terms of how they’re set up, but I fundamentally think people will have personal agents. Muse is a very nice step forward. I talked to Alexandr Wang about it, congratulated him, and even though it’ll have challenges, personal agents will help people get things done. Muse is the first truly great consumer AI product. One of the reasons people don’t like AI a lot in a diffuse way is they experience cheap free models and AI overviews or they use the free ChatGPT and it hallucinates and it lies to them, but Muse actually does things and it’s a good consumer product. But I wonder — in the nuclear age, we were not saying, “Everyone is going to have a nuclear reactor at home that we haven’t built the safety guards for.” There’s something here. The notion of letting everybody make smallpox at home or make nuclear weapons at home, of course, and you can parody some of these people saying, “Don’t worry about safeguards.” It’s taking that position. “We are not serious about the safety things.” But the personal agent thing is an expected development. AIs are really cool just as I intellectually explore things, even the work of the Gates Foundation. I’m far more empowered. But I agree with you, it’ll get out to more people in this personal agent form. The notion that liability laws are how we’re going to manage AI safety will be looked back on as absurd All the models we’ve been talking about right now effectively run on data centers owned by big companies. One of the arguments here is, “If they do something really wrong, you can just sue them and that will provide a deterrent or at least an incentive to create safety systems.” I’m not sure product liability is the way to go, but it has come up a lot that product liability itself will keep the industry in line. Then there’s the flip side, which is that you can just go buy a Mac Studio and run an open source and open weight model on it and it can do whatever you want. I’m not sure where any of that liability would lie or what would control or align the behaviors of those open source models. Do you think that that is an ever-growing risk? Do you think that that can be controlled? The notion that liability laws are how we’re going to manage AI safety will be looked back on as absurd. When bad people do bioattacks, you don’t go to the court and say, “Oh, okay.” Even for finding who is doing these attacks, the liability model fails in every respect because it’s not the AI companies themselves. It’s the people who take particularly the models without safeguards and do these things. We will take AI safety more seriously than we take airline safety, drug safety, and car safety. That is guaranteed. Whether it’s going to be enough… This is harder, harder than nuclear weapons, harder than any of those other domains. But what are you going to do about an open source model running on a PC that somebody built with just a random Nvidia graphics card in it? I would hope that with models above a certain capability, we find a way to require the safeguards and monitoring to be maintained in those models. I admit as time goes on that, if we don’t fairly soon decide to do that, you’re going to have a level of capability that’s out in dark corners that you won’t be able to see. But where do you impose the limit? A sovereign country says that models that are capable of sophisticated cyberattacks have to have safeguards kept in them. Sure. You can be open in the sense that you’re free, you can be open in the sense that you’re totally customizable, but you have to stay on platforms where, as you customize it, it’s checking to see if you’re customizing out the safeguards and monitoring and refusing to let you do that. So it means sovereigns go and say, “Are these trusted platforms able to perform this function or not?” I’m asking very nuts and bolts. Where would you technically implement that regulation? Through the laws of the United States. Sure, but you have to put them somewhere. Is it at the Hugging Face, which distributes some of these models? Is it at the chip level? No, it’s exactly what I said: Models above a certain capacity can only be run on platforms that certify that, as they’re customized, it’s not taking out the safeguards. I admit as time goes on that, if we don’t fairly soon decide to do that, you’re going to have a level of capability that’s out in dark corners that you won’t be able to see Just to pull this apart, maybe I’m not quite getting it — is the Mac Studio a platform in that case that would have to pay attention to what code it’s running? You would not let a model past a certain capability be copied down to a client machine unless you’d somehow figured out how to monitor down to that client machine, which is very doable. But in the near term, most of these really frontier models are going to run more on Hugging Face or you could have them on GitHub. You can have all sorts of people be in the business of providing the platforms that maintain safeguards. Just to get this right, it seems like you would enforce the regulation at the platform and distribution level and not so much at the chip level. Not at the chip level, no. Because it feels to me at some point even the cheap, free, open source models will be capable enough as the models we have today. That’s right. And then you will have a big problem. If those are open weights in such a way that all safeguards can be removed, then you’re going to have a very high level of cyberattacks and bioattacks. You can then say, “Okay, let’s rewrite all the code that we have today to be less subject to attack or let’s do biosurveillance in a very deep way,” which are things I believe we need to do in addition to these other restrictions. We’re proposing again a lot of new capabilities, right? Yeah. We’re going to impose some restrictions on GitHub. GitHub does not have a lot of restrictions on what code it can distribute today. It has some, but it doesn’t have this kind of set of restrictions. When you put a state-of-the-art model that’s capable of profound cyberattacks or bioattacks on GitHub, it would say, “I’ve gone to the U.S. government and certified that I don’t let people customize out the safeguards.” I do not think that we currently live in a time of high trust in institutions. It just doesn’t feel that way to me. In fact, mostly we’ve torn them down. Elon Musk showed up and he tore down USAID. I know you have strong feelings about that. That was a mistake. We have mostly torn down our institutions, for good and bad. No, that’s a little too strong. Our institutions- They’re weakened. They’re somewhat weakened, yeah. Somewhat weakened. It’s a very nice way of putting it. Trust in them is very low. We could probably do another full hour on AI drug discovery and whether a significant part of the population will trust the products of that work because they don’t trust pharma companies today. They don’t have to trust pharma companies today. They have to trust the FDA review process. I’m not sure they trust that either. Across the board, trust is low. Then they can walk away from taking them. When they get cancer, they can say, “No, I don’t want to take that cancer drug.” As far as I know, people do take drugs. It’s a thriving business and people take them because they have proven benefits. All I’m saying is, right now it feels like trust in institutions, particularly in America but around the world, is in decline. You are proposing a new class of institutions, potentially a new class of global institutions that might impose restrictions that are novel. At some point we need to say open source models, open weight models cannot do things and the government is going to reach into them and say whether or not they can do the things. No, they’ll make sure that the platforms don’t allow the safeguards to be taken away. How do you regain the institutional trust to impose these controls? Let’s say we don’t do this and we let models go off and do cyberattacks and bioattacks. Do you think that’s going to increase trust or human wellbeing? That’s the alternative. This is why I’m asking about it. This is why I asked about my kids and nihilism. I truly wonder about this. I’m not sure we’ll succeed at this, but I guarantee you this is doable. The FDA is very complex. The airline safety regulations are very complex. Now with AI, you can do an even better job with the same number of people in those organizations. It’s this weirdly recursive thing where AI will be involved in AI safety and auditing and a variety of things like that. Yes, this requires taking action, and I’m suggesting it’s only a matter of how bad the incidents are before we take action. People shouldn’t take everything I do at face value. I have all sorts of mistakes that I’ve made, weaknesses that I have, biases I bring to these questions. They ought to just take what I’m saying and add it to the voices I can sense your urgency about the harms. I can also sense your enthusiasm about the benefits over the long term, but we’re sitting here talking about trust. We’re going to put this on YouTube. I know you know what some of the YouTube commenters are going to say. They’re going to say, “Why should we trust Bill Gates? He had a relationship with Jeffrey Epstein.” How do you respond to that? Is it that the urgency is over that, or do you have a more specific response? People shouldn’t take everything I do at face value. I have all sorts of mistakes that I’ve made, weaknesses that I have, biases I bring to these questions. They ought to just take what I’m saying and add it to the voices. I’ve been in the technology industry thinking about AI my whole life, writing software, thinking about the power of software. I admit I was very fascinated as AI started to finally make progress. It was actually pretty slow until recently. I’m amazed and it’s actually helping me do my job in some incredible ways. But yes, I’m just one voice, an imperfect voice. I doubt you’ll find a perfect voice, but people can judge it however they like. I would say voices people trust are in short supply. I agree with that. When you go and talk to the people in this industry, it’s a bunch of young CEOs building huge companies. That is something you have some experience with. Do you think they’re going about this the right way? Do you think that they have the right intentions? Our problem today is not in the industry. Our problem is not that Sam Altman, Dario Amodei, Satya Nadella, or Sundar Pichai don’t understand that there are some grave challenges here. I talk less to Elon than other people, but even his public statements about summoning the demon are exactly what we’re discussing here. Why is there not the political energy to do the things you’re suggesting? As you said, the government didn’t fund this work. This is private sector company work. The government is not the key customer for this work, not like rockets and weapons and things like that. When somebody comes along and says all other previous technology advances are trivial compared to this one, people should have a high degree of skepticism about that. Is life really going to be significantly different 10 years from now because of AI? People should say, “Those guys just got overexcited about this one thing.” But I’m here saying, with whatever credibility I have, that absolutely this is the most profound — both in terms of good and in terms of bad — technology ever invented. I’m not financially motivated on this. I’m suggesting some precautions and safeguards are absolutely needed. What do you make of the difference in the tenor of conversation in the United States versus in China, where it’s often reported that optimism around AI is much higher? Why do you think there’s a difference there? Most of those people don’t spend that much time in China. The concern about job markets in China is very, very high and you can’t characterize China as one monolith. There are the private companies doing the AI work like we have in the United States and then there’s the Chinese government. For example, when it came to whether crypto should be allowed, they said no. Should young people be gambling all the time? They said no. When it came to whether kids should have relationships with AIs, they said no. On a lot of these things, including usage of AI, they’re showing a willingness to do things on behalf of society. I’m here saying, with whatever credibility I have, that absolutely this is the most profound — both in terms of good and in terms of bad — technology ever invented. I’m not financially motivated on this The fervor is a tiny bit less there, because their economy isn’t as AI-centric as ours is right at the moment. In the end, [when it comes to] the human value of not wanting cyberattacks or bioterrorism or trying to figure out what do we do when jobs go away, I don’t think there’s some difference between Chinese people and Americans and all the rest of the humans in terms of how they’re going to view this. Do you think it’s going to take something actually bad happening to get the political capital of the United States to make these changes? Probably yes. We get ready for earthquakes because there are small earthquakes. I thought after we had the COVID pandemic, that would cause us to be more ready for future pandemics. That one didn’t work the way I expected. But usually that galvanizes our attention. Over the next several years, certainly in the cyber domain, because there’s a business model there, you will see a lot of attacks different in terms of scale than anything we’ve seen in the past. There is one thing that, again, I’ll come back to and I just want to end here. I am worried about young people and nihilism. I sense it in our audience all the time. We have a young audience. There are some things about AI that are just legitimately the coolest things I’ve ever seen a computer do. There’s something there that can be fun and interesting and fascinating and change your entire relationship with the very notion of living in a digital world. Then there are obviously horrible things. What I see more often than not is a sense of distrust, not just in institutions, but also in the companies, in capitalism itself, in the notion that we should change how we tax labor and capital, which I know is another one of your ideas. The idea that, I don’t know, we should even have more kids. It’s all done. They’re going to kill us all and we should just take a beat. There is a lot of nihilism out there. I feel it very keenly. If you were a young person today and you were listening to Bill Gates say it’s about 20 years of disruption and at the end of it, robots might be building houses, what would you hold onto as a source of hope? Throughout human history, we’ve been dealing with the shortage of food and disease and war. [Historian] Yuval Noah Harari writes eloquently about the past. And it is ironic that now that we have this sort of Pandora’s box that will take food shortage — which is still a real thing, not in the U.S., but in Africa — will take diseases, where human suffering is unbelievable, and solve all these things, it comes with it such an effect on jobs and our sense of unique contribution. I think, “The way I orchestrate resources to eradicate malaria, I’m pretty unique in my life experience that lets me do that.” But when the AI says to me, “No, I’m better than you. You go play pickleball and I’ll get back to you. I’m going to take care of this,” it’s humorous, but it’s not humorous. For somebody who is young today and wants to make a unique contribution, it is very intimidating that the AI is so powerful. That’s why the crisis in the math community is going to be mirrored everywhere. If you’re in your twenties today, during this 20-year period, you can take the things AI still can’t do, and you can use AI and you can have a lot of good impact, and you can suggest policies. We may need to develop the taste to actually not use technology to its maximum. Even in the very best case of how we manage AI, this is going to be as tumultuous a period as there’s been in human history When I was talking with Claude about human-reserved job categories and trying to get that up to, say, 40 percent of the labor market — so you could use early retirement, restricted work weeks, and things like that to still get something like we have today — its response was always, “You’re artificially restricting the AI from doing these things.” I couldn’t get to a very high percentage without doing that. We’re going to have real choices. We have had groups — not large groups, but like the Amish — who don’t live at the technology frontier. A lot of humanity may choose not to live at the technological frontier because of things we get from helping each other or coming up with unique ideas. On the idea that young people are concerned because of the disruption that’s coming — that even in the very best case of how we manage AI, this is going to be as tumultuous a period as there’s been in human history — I hate being the bearer of concerning news on this, but it’s even worse not to tell people that this is coming. We have choices as humans to make about how we shape it. Bill, I appreciate you sounding the alarm and I appreciate you being on Decoder. Thank you so much. Thank you. Questions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-10-22T14:00:00.000Z",
-            "fetchedAt": "2026-10-22T14:10:43.732Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is here. The choices we make now are critical.” In his piece, Gates ratcheted up his rhetoric around AI safety, writing that “even under the best circumstances, the transition to this new AI era will be one of the most turbulent times in human history.” In interviews since, Gates has called AI “the most dangerous thing that humans have ever gone near,” and that AI “makes nuclear weapons look like nothing.” It is clear he does not think the current policy response from the White House, or the lack of coordinated efforts from the AI industry itself, is sufficient to combat this threat. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. You can sign up here.",
-            "id": "a1"
-          },
-          {
-            "title": "Oppo wins second injunction against Asus in China",
-            "url": "https://www.iam-media.com/article/oppo-wins-second-injunction-against-asus-in-china",
-            "description": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
-            "source": "IAM",
-            "sourceId": "iam",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-21T08:02:46.000Z",
-            "fetchedAt": "2026-10-22T14:10:45.435Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
-            "id": "a21"
-          }
-        ]
-      }
-    },
-    "totalArticles": 25
   },
   "archive-2026-10-23": {
     "generatedAt": "2026-10-23T13:50:39.904Z",
@@ -25643,11 +24968,11 @@ export const NEWS_DATA = {
     "totalArticles": 46
   },
   "archive-2026-11-22": {
-    "generatedAt": "2026-11-21T22:27:14.006Z",
+    "generatedAt": "2026-11-22T02:40:40.840Z",
     "date": "2026-11-22",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-11-21T22:27:14.004Z",
+        "generatedAt": "2026-11-22T02:40:40.837Z",
         "date": "2026-11-22",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -25657,14 +24982,14 @@ export const NEWS_DATA = {
             {
               "text": "Semiconductors: Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 21 bought Qualcomm and 15 sold, with George Soros among the buyers and David Tepper among the sellers.",
               "articleIds": [
-                "a19"
+                "a18"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Wireless Communication: LIVE FROM UNWRAPPED – THE 5G EVOLUTION: Hemanth Sampath, VP of engineering at Qualcomm is bullish on the operator opportunity within 6G around core connectivity and compute, while he urged telcos to u",
               "articleIds": [
-                "a40"
+                "a36"
               ],
               "subCategory": "wireless"
             }
@@ -25679,7 +25004,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-21T00:35:15.000Z",
-            "fetchedAt": "2026-11-21T22:27:06.849Z",
+            "fetchedAt": "2026-11-22T02:40:28.112Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -25687,7 +25012,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 21 bought Qualcomm and 15 sold, with George Soros among the buyers and David Tepper among the sellers.",
-            "id": "a19"
+            "id": "a18"
           },
           {
             "title": "Qualcomm lays off 100s amid global restructuring, raises $4 billion",
@@ -25697,7 +25022,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-19T18:33:00.000Z",
-            "fetchedAt": "2026-11-21T22:27:06.849Z",
+            "fetchedAt": "2026-11-22T02:40:28.112Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -25705,7 +25030,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Filings confirm hundreds of permanent job cuts as the chipmaker raises billions in debt and shifts its focus toward AI and data centers.",
-            "id": "a34"
+            "id": "a30"
           },
           {
             "title": "Qualcomm vs. Taiwan Semiconductor: Diverging Revenue Trends for Major Chipmakers",
@@ -25715,7 +25040,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-19T17:03:02.000Z",
-            "fetchedAt": "2026-11-21T22:27:06.849Z",
+            "fetchedAt": "2026-11-22T02:40:28.112Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -25725,7 +25050,7 @@ export const NEWS_DATA = {
               "foundry"
             ],
             "summary": "TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
-            "id": "a35"
+            "id": "a31"
           },
           {
             "title": "Qualcomm VP argues 6G hardware overhaul may be necessary",
@@ -25735,7 +25060,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-19T12:30:00.000Z",
-            "fetchedAt": "2026-11-21T22:27:12.062Z",
+            "fetchedAt": "2026-11-22T02:40:39.082Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "wireless",
@@ -25743,12 +25068,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "LIVE FROM UNWRAPPED – THE 5G EVOLUTION: Hemanth Sampath, VP of engineering at Qualcomm is bullish on the operator opportunity within 6G around core connectivity and compute, while he urged telcos to upgrade to 5G-Advanced to begin the journey towards the next-generation. The post Qualcomm VP argues 6G hardware overhaul may be necessary appeared first on Mobile World Live.",
-            "id": "a40"
+            "id": "a36"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-11-21T22:27:14.004Z",
+        "generatedAt": "2026-11-22T02:40:40.837Z",
         "date": "2026-11-22",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -25759,7 +25084,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-11-21T22:27:14.004Z",
+        "generatedAt": "2026-11-22T02:40:40.837Z",
         "date": "2026-11-22",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -25769,7 +25094,7 @@ export const NEWS_DATA = {
             {
               "text": "Embodied AI & Robotics: Qualcomm (NasdaqGS:QCOM) is cutting more than 500 jobs in California as it reshapes operations under pressure in its smartphone business. The company is reallocating resources toward new AI inference ",
               "articleIds": [
-                "a32"
+                "a28"
               ],
               "subCategory": "embodied-ai-robotics"
             }
@@ -25784,7 +25109,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T02:16:53.000Z",
-            "fetchedAt": "2026-11-21T22:27:06.849Z",
+            "fetchedAt": "2026-11-22T02:40:28.112Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "embodied-ai-robotics",
@@ -25792,20 +25117,20 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (NasdaqGS:QCOM) is cutting more than 500 jobs in California as it reshapes operations under pressure in its smartphone business. The company is reallocating resources toward new AI inference initiatives, backed by fresh technology partnerships announced in recent months. Qualcomm is also extending its reach into K-8 robotics education through programs built with Arduino, Disney Imagineering, and REV Robotics. These layoffs and new AI and education partnerships matter, but investors...",
-            "id": "a32"
+            "id": "a28"
           }
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-11-21T22:27:14.004Z",
+        "generatedAt": "2026-11-22T02:40:40.837Z",
         "date": "2026-11-22",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (29 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 35 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (25 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 31 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: HARROP: It takes a village to sell out national security Standard-Examiner",
+              "text": "Geopolitics & Export Controls: Bessent Rejects Further Limits on Nvidia Chip Sales to China cwibc.co.id",
               "articleIds": [
                 "a1"
               ],
@@ -25821,13 +25146,33 @@ export const NEWS_DATA = {
             {
               "text": "Customers & Partners: Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new H",
               "articleIds": [
-                "a31"
+                "a27"
               ],
               "subCategory": "customers-partners"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Bessent Rejects Further Limits on Nvidia Chip Sales to China - cwibc.co.id",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yTDl0aU9neFpiaVlSVnFtQXBfOHFTTmV1T2wzaHFCLThFaDNmLWxGUGJ0bUJsY1pCVExxMkROZnl0Y255M2pxSW9wWGNncG5rUmd1UlFKelRVTjJ5S1c4YzltTGQ5YWJaN0xfaWt3?oc=5",
+            "description": "Bessent Rejects Further Limits on Nvidia Chip Sales to China cwibc.co.id",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-21T23:59:00.000Z",
+            "fetchedAt": "2026-11-22T02:40:40.794Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "cwibc.co.id",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Bessent Rejects Further Limits on Nvidia Chip Sales to China cwibc.co.id",
+            "id": "a1"
+          },
           {
             "title": "HARROP: It takes a village to sell out national security - Standard-Examiner",
             "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSHFWdzdBcElDZGptdjcwaGpOSmRUZnk3Y0QzME9lNG84dUFPVVNEaGJmUlFCWWI1V2dOWWstS2Z0VGxhaTlOank3eFFPSGpnU2N0SDRKWk5LekF3QnJoX1VTekkta21ISWR3bDRQWjFEV3pudmxwY3B3aVIxQjB4bTlLTmsxdEFtQ1ZYc1dkNVhlYnNheXB6cFpyb2xKeWloeDdYV1BvTGFUM2I1dmZDRTR1VUpJYjJISHF6Wlp3?oc=5",
@@ -25836,7 +25181,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-21T21:22:30.000Z",
-            "fetchedAt": "2026-11-21T22:27:13.969Z",
+            "fetchedAt": "2026-11-22T02:40:40.794Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Standard-Examiner",
             "geopoliticalBypass": true,
@@ -25846,7 +25191,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "HARROP: It takes a village to sell out national security Standard-Examiner",
-            "id": "a1"
+            "id": "a2"
           },
           {
             "title": "California Nvidia Probe Covers Potential Criminal Law Violations",
@@ -25856,7 +25201,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-21T17:11:23.000Z",
-            "fetchedAt": "2026-11-21T22:27:06.879Z",
+            "fetchedAt": "2026-11-22T02:40:28.190Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25865,7 +25210,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "California’s probe into whether Nvidia Corp. illegally sold advanced chips to China and misled investors about the conduct is also looking at potential criminal violations of state law, raising the stakes for the chipmaker.",
-            "id": "a2"
+            "id": "a3"
           },
           {
             "title": "Alice Huang’s links to the chip underworld",
@@ -25875,7 +25220,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-21T17:00:10.000Z",
-            "fetchedAt": "2026-11-21T22:27:07.079Z",
+            "fetchedAt": "2026-11-22T02:40:28.455Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25884,26 +25229,6 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
-            "id": "a3"
-          },
-          {
-            "title": "Treasury secretary rules out further restrictions on Nvidia chip sales to China - TradingView",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS09qbjI0aUw5N2k1eDh2SUpYTS1zTjd0aktrZFVMcmVZU0lqNF9YbVNlVi1kV3NsR00yS2RxdFUzckt4QnRiMkZnbHg1M0dTSWEwbnR5aHZfV3RvU3ZDWHZiTXN4OVlMZWVQY29rRWVTRTk3OHVUeVRvWEpoQl9SODZjOHcxRGl3S3pjZFEydzVmRnIzeFZuSFBqYlJ3YndpbVAyREVGY1FvODV6OWE5by0tY0dWYjN6S0U0R1k3NDVNZkdqSW5oX2tLMHB2dEEwMXFkV0hlbFRMUQ?oc=5",
-            "description": "Treasury secretary rules out further restrictions on Nvidia chip sales to China TradingView",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-21T16:21:08.000Z",
-            "fetchedAt": "2026-11-21T22:27:13.969Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "TradingView",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Treasury secretary rules out further restrictions on Nvidia chip sales to China TradingView",
             "id": "a4"
           },
           {
@@ -25914,7 +25239,7 @@ export const NEWS_DATA = {
             "sourceId": "techcrunch",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-21T16:00:00.000Z",
-            "fetchedAt": "2026-11-21T22:27:06.714Z",
+            "fetchedAt": "2026-11-22T02:40:27.985Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25933,7 +25258,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-21T15:47:47.000Z",
-            "fetchedAt": "2026-11-21T22:27:13.969Z",
+            "fetchedAt": "2026-11-22T02:40:40.795Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "BizPac Review",
             "geopoliticalBypass": true,
@@ -25953,7 +25278,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-21T15:00:00.000Z",
-            "fetchedAt": "2026-11-21T22:27:07.214Z",
+            "fetchedAt": "2026-11-22T02:40:28.602Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25967,26 +25292,6 @@ export const NEWS_DATA = {
             "id": "a7"
           },
           {
-            "title": "US approves nearly 900,000 AI chip exports to China - Daily Observer",
-            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qTlFoVlhuUGVrV0lId1JLMmxDSnVEVDFxM1JPYmZuaXJ3c1hRQnM2ZmpLX3dQTi1pb0w5SUZnRWl1d1laZ0NuUVR3?oc=5",
-            "description": "US approves nearly 900,000 AI chip exports to China Daily Observer",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-21T13:09:44.000Z",
-            "fetchedAt": "2026-11-21T22:27:13.969Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Daily Observer",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "US approves nearly 900,000 AI chip exports to China Daily Observer",
-            "id": "a8"
-          },
-          {
             "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
             "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
             "description": "Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps. Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was when Xiaomi last tried it on 2021's Mi 11 Ultra - not to mention earlier efforts by the likes of Nubia and Vivo. After a week or two with both of Xiaomi's new Pro phones, I'm not entirely sold. The rear display has a single, obvious use case - it's helped me take some of the best selfies I've ever managed - but it isn't very useful otherwise. The rest of the phones are gre … Read the full story at The Verge.",
@@ -25994,7 +25299,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-21T13:00:00.000Z",
-            "fetchedAt": "2026-11-21T22:27:07.214Z",
+            "fetchedAt": "2026-11-22T02:40:28.602Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26005,7 +25310,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps. Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was when Xiaomi last tried it on 2021's Mi 11 Ultra - not to mention earlier efforts by the likes of Nubia and Vivo. After a week or two with both of Xiaomi's new Pro phones, I'm not entirely sold. The rear display has a single, obvious use case - it's helped me take some of the best selfies I've ever managed - but it isn't very useful otherwise.",
-            "id": "a9"
+            "id": "a8"
           },
           {
             "title": "US Semiconductor Export Policy Faces New Challenges as AI Chip Shipments to China Grow - Tekedia",
@@ -26015,7 +25320,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-21T12:27:32.000Z",
-            "fetchedAt": "2026-11-21T22:27:13.969Z",
+            "fetchedAt": "2026-11-22T02:40:40.794Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Tekedia",
             "geopoliticalBypass": true,
@@ -26025,7 +25330,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "US Semiconductor Export Policy Faces New Challenges as AI Chip Shipments to China Grow Tekedia",
-            "id": "a10"
+            "id": "a9"
           },
           {
             "title": "Howard Lutnick, China and the Chip Export Challenge - National Review",
@@ -26035,7 +25340,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-21T11:00:00.000Z",
-            "fetchedAt": "2026-11-21T22:27:13.969Z",
+            "fetchedAt": "2026-11-22T02:40:40.794Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "National Review",
             "geopoliticalBypass": true,
@@ -26045,7 +25350,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Howard Lutnick, China and the Chip Export Challenge National Review",
-            "id": "a11"
+            "id": "a10"
           },
           {
             "title": "China Plans to Strengthen AI Token Standards in Computing Push",
@@ -26055,7 +25360,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-21T10:11:29.000Z",
-            "fetchedAt": "2026-11-21T22:27:06.879Z",
+            "fetchedAt": "2026-11-22T02:40:28.190Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26064,7 +25369,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China’s National Data Administration will improve standards on the measurement and billing of artificial intelligence tokens and quality assessment, as Beijing guides the development of the growing industry.",
-            "id": "a12"
+            "id": "a11"
           },
           {
             "title": "How AI Is Reshaping China's Industrial Policy",
@@ -26074,7 +25379,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-21T09:12:17.000Z",
-            "fetchedAt": "2026-11-21T22:27:06.879Z",
+            "fetchedAt": "2026-11-22T02:40:28.190Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26083,27 +25388,67 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Can Chinese tech companies help the country achieve technological self-reliance while keeping up in the AI arms race? On this episode, we speak with Kyle Chan, a fellow at the Brookings Institution’s John L. Thornton China Center and author of the High Capacity newsletter, about Beijing’s response to the global AI boom and the tensions between Chinese companies’ commercial ambitions and the government’s long-term plans. He explains how companies draw on shared expertise and supply chains to expand across industries including smartphones, robotics, EVs and semiconductors — and we also discuss Huawei’s efforts to compete with Nvidia and why technological success doesn’t necessarily translate into strong returns for stock investors in China.",
-            "id": "a13"
+            "id": "a12"
           },
           {
-            "title": "Chuck Schumer Says Trump, Lutnick ‘Sold Out America’ by Approving Nvidia, AMD AI Chip Sales to China: ‘Th - Benzinga",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTM4eUdJa2xrQ0ZtMGNwbXVpSndJeC16b1ZHUTdfTEJib0ZZM1JLX21CNUtSbzRXTmdyXzJCOVFpalZYSzRiSGx3aDJ6dVp1YWxyNHhBeks3cms4bkp4Z01jeHlfMHZmaUlBa252LTR2Y1VGZmhLLWo3VE4wdkxCemtPX1ZpaE10RG1qaS1rSmh0eVk?oc=5",
-            "description": "Chuck Schumer Says Trump, Lutnick ‘Sold Out America’ by Approving Nvidia, AMD AI Chip Sales to China: ‘Th Benzinga",
+            "title": "NVIDIA GIVES ITS BOARD DIRECT OVERSIGHT OF CHIP EXPORT CONTROLS | Techlife News - technology - Magzter",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVnJKNll2TDd2TVRHeXRBUmdWSGF5YTBwMml1Xzk3NVRtVTh6MGdvTGdjbTFMZlpsZExFaUVycTlqb1hhMVE1eE1RRWR3b0YxRTk1djlyLXgxaDNpazZNNUlhVGZrVnlYU3pNMjc3Mkp5bGxsTHd4Y2JodVhwQTM4NXktb2d5Y2U2VW40bEhYQmR4bjVwTmFDcThOZWpPQjdMajRvQXBZcVdidklKNkstcXFXdEJ4eUlVRExVbQ?oc=5",
+            "description": "NVIDIA GIVES ITS BOARD DIRECT OVERSIGHT OF CHIP EXPORT CONTROLS | Techlife News - technology Magzter",
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
-            "publishedAt": "2026-11-21T07:25:58.000Z",
-            "fetchedAt": "2026-11-21T22:27:13.969Z",
+            "publishedAt": "2026-11-21T08:43:25.000Z",
+            "fetchedAt": "2026-11-22T02:40:40.794Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "Benzinga",
+            "googleNewsSource": "Magzter",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Chuck Schumer Says Trump, Lutnick ‘Sold Out America’ by Approving Nvidia, AMD AI Chip Sales to China: ‘Th Benzinga",
+            "summary": "NVIDIA GIVES ITS BOARD DIRECT OVERSIGHT OF CHIP EXPORT CONTROLS | Techlife News - technology Magzter",
+            "id": "a13"
+          },
+          {
+            "title": "Chuck Schumer Says Trump, Lutnick ‘Sold Out America’ by Approving Nvidia, AMD AI Chip Sales to China: ‘They Get Rich and America Gets Screwed’ - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQbzVoSFVkYnRwSkZfVjhOWk1GeTdLMk9RZ2tXdkp4N3Z0OFYwSTY2REt6THRoLURmXzdUNzI1SGdTdVdJeDlVTFBWS0lJcEtubjJ6RUlMUlNPODRuV0ljMHFhQW04R191VDlmUlNzTTBWWFlNVTZFdVFGM2hmaTFzdlNLSVVLbWMtSnVRd1EtV2RCRThmYmJuSXdTdW9MVlEyalVUZWpjenhBNjJ2NVZEQmU1RWU2RndCWmNIZklzMzFpbnNxMk1XVWJCenhCWmozb0VXak9aaGstaG9xRFpwWTBqTENIbFprbDc2UEZnVTRfZmNaOU1jZjBXbmh5SWhpSmFvZ0pwbXViWGJicUR4VTZIQ1ZZd1MzMVBZd3lBZw?oc=5",
+            "description": "Chuck Schumer Says Trump, Lutnick ‘Sold Out America’ by Approving Nvidia, AMD AI Chip Sales to China: ‘They Get Rich and America Gets Screwed’ TradingView",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-21T07:25:00.000Z",
+            "fetchedAt": "2026-11-22T02:40:40.794Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "TradingView",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Chuck Schumer Says Trump, Lutnick ‘Sold Out America’ by Approving Nvidia, AMD AI Chip Sales to China: ‘They Get Rich and America Gets Screwed’ TradingView",
             "id": "a14"
+          },
+          {
+            "title": "US approved nearly 900,000 AI chip sales to China in six months - Communications Today",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmhyOGl5bHdRT2JJMmp4ZGZMbEJMa00tZ2N6OTQydzcwbU5yQW5kZTlod0tPMnFzTU0tTmNiRWc4ZTRiMXRKclFKdFF3a19sV3NmdGt1WTBSWWIyNE1rc1NobGM4djlBOWw1Sm56UjJKQlpIeWpnUUZzTk5yN1M3eWNiNVNjVE5NQkZNeEc1d3NEV0Vzb01tRVQ1SFFQRl9KZEFR?oc=5",
+            "description": "US approved nearly 900,000 AI chip sales to China in six months Communications Today",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-21T07:09:11.000Z",
+            "fetchedAt": "2026-11-22T02:40:40.794Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Communications Today",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US approved nearly 900,000 AI chip sales to China in six months Communications Today",
+            "id": "a15"
           },
           {
             "title": "How China is using summits to expand its global influence",
@@ -26113,7 +25458,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-21T06:00:02.000Z",
-            "fetchedAt": "2026-11-21T22:27:06.770Z",
+            "fetchedAt": "2026-11-22T02:40:28.038Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26122,26 +25467,6 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
-            "id": "a15"
-          },
-          {
-            "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjhXZ2xYTDVHWE9xVzhIZVdLOVF3XzB2WEcxNnRlUFNCZzNvSDFtZG81UFZRTnJyLWJzTXdKbER1MExJcVhlUy11ckx1X1hnQjM0Z3NLNm1RMHlBSmdacjdOMHlfSDBSSUVHeVQ2bDQ1SWFVTUlHb2g5aVZWTGluWGt4TUtkMU5nSXc?oc=5",
-            "description": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military The New York Times",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-21T05:13:00.000Z",
-            "fetchedAt": "2026-11-21T22:27:13.969Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "The New York Times",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military The New York Times",
             "id": "a16"
           },
           {
@@ -26152,7 +25477,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-21T03:58:46.000Z",
-            "fetchedAt": "2026-11-21T22:27:07.079Z",
+            "fetchedAt": "2026-11-22T02:40:28.455Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26164,85 +25489,6 @@ export const NEWS_DATA = {
             "id": "a17"
           },
           {
-            "title": "China Deploys 5G Across Manufacturing Base as 6G Testing Advances, CCTV Reports",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-deploys-5g-across-manufacturing-base-as-6g-testing-advances-cctv-reports",
-            "description": "China is expanding the use of 5G across its manufacturing sector, with more than 26,000 private industrial 5G networks built nationwide, China Central Television said on Saturday.",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-21T02:33:58.000Z",
-            "fetchedAt": "2026-11-21T22:27:06.879Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China is expanding the use of 5G across its manufacturing sector, with more than 26,000 private industrial 5G networks built nationwide, China Central Television said on Saturday.",
-            "id": "a18"
-          },
-          {
-            "title": "US panel reveals 879,868 China AI-chip approvals - Social News XYZ",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkxMc1p5SXRxTEk5OXVPZDJJdU52NHVQdl81SUFzOHBLSVdXVngzZTE2VGd0bnB1S2FZcXZ4aGc2bGdsZFhTQ24tSk5LX1k2SS0ybFB6Y2V5eGRCWERlaFdKdHJaZWRhU21UNk5YYzBYVjFOSnVPazBSMGdnSHdUU1ZYc2lHaDRlM2pzLXczQdIBjwFBVV95cUxQYkxMc1p5SXRxTEk5OXVPZDJJdU52NHVQdl81SUFzOHBLSVdXVngzZTE2VGd0bnB1S2FZcXZ4aGc2bGdsZFhTQ24tSk5LX1k2SS0ybFB6Y2V5eGRCWERlaFdKdHJaZWRhU21UNk5YYzBYVjFOSnVPazBSMGdnSHdUU1ZYc2lHaDRlM2pzLXczQQ?oc=5",
-            "description": "US panel reveals 879,868 China AI-chip approvals Social News XYZ",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-20T23:06:49.000Z",
-            "fetchedAt": "2026-11-21T22:27:13.969Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Social News XYZ",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "US panel reveals 879,868 China AI-chip approvals Social News XYZ",
-            "id": "a20"
-          },
-          {
-            "title": "Lutnick faces scrutiny over Nvidia chip exports to China - Fox Business",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1adjVYQy1WYzZVcVBxdzl0Y0s2YVM1YVhQZ1pBSzQ0M1lQdmJEODdoZTR0RnlEbWZxdFZzUnhpaDRJRXMxOGtsbEI0ZHVNWVpsWGJUMTUxcGVMTDA?oc=5",
-            "description": "Lutnick faces scrutiny over Nvidia chip exports to China Fox Business",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-20T22:57:14.000Z",
-            "fetchedAt": "2026-11-21T22:27:13.969Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Fox Business",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Lutnick faces scrutiny over Nvidia chip exports to China Fox Business",
-            "id": "a21"
-          },
-          {
-            "title": "Top US Senate Democrat accuses Trump of putting national security at risk with AI chip sales to China - Anadolu Ajansı",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcTFVN0tmdzJBR3RrVUlRQy1aelZqeUV5bjRvQVl3Qlh1RXZWcjNtQThGLWl1WXZ3SHJaSkU0dGVpTnpqdFFPUmhtRTNvYTNIRERYMms4VEZKYXV4QzdQSVE4Y1dxdFRoNmtuenhzMWR3LTBqclYzM1ludnNoOVlYQ3ExSTZZdUl5azhVaWtDeHBVSGpUUmJYZmZnTlR1dHNpTkJMM0VnYkZKTnNlVThxeW9KRmFQOE1OakV0dEhpQUxqV1R3d2lWOVl2cHJHSlNBd01RanFn?oc=5",
-            "description": "Top US Senate Democrat accuses Trump of putting national security at risk with AI chip sales to China Anadolu Ajansı",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-20T22:45:12.000Z",
-            "fetchedAt": "2026-11-21T22:27:13.969Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Anadolu Ajansı",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Top US Senate Democrat accuses Trump of putting national security at risk with AI chip sales to China Anadolu Ajansı",
-            "id": "a22"
-          },
-          {
             "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
             "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
             "description": "Trump said he discussed Jensen Huang with China's Xi. Bessent said the ousted Nvidia CEO didn't come up in talks he had while in China.",
@@ -26250,7 +25496,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T22:08:41.000Z",
-            "fetchedAt": "2026-11-21T22:27:06.770Z",
+            "fetchedAt": "2026-11-22T02:40:28.038Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26259,7 +25505,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Trump said he discussed Jensen Huang with China's Xi. Bessent said the ousted Nvidia CEO didn't come up in talks he had while in China.",
-            "id": "a23"
+            "id": "a19"
           },
           {
             "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
@@ -26269,7 +25515,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T20:47:58.000Z",
-            "fetchedAt": "2026-11-21T22:27:06.770Z",
+            "fetchedAt": "2026-11-22T02:40:28.038Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26278,7 +25524,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
-            "id": "a24"
+            "id": "a20"
           },
           {
             "title": "Why Are Investors Ignoring Qualcomm Stock's High Cash Yield?",
@@ -26288,7 +25534,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T19:22:44.000Z",
-            "fetchedAt": "2026-11-21T22:27:06.849Z",
+            "fetchedAt": "2026-11-22T02:40:28.112Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -26296,7 +25542,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Today’s big story: Will 2027 Be A 2022 Repeat For Stocks.",
-            "id": "a25"
+            "id": "a21"
           },
           {
             "title": "A year after issuing mediation guidelines, China’s top court reveals how it brokered a global CCC v. OPPO royalty deal to end multijurisdictional litigation",
@@ -26306,7 +25552,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-20T18:04:16.000Z",
-            "fetchedAt": "2026-11-21T22:27:12.204Z",
+            "fetchedAt": "2026-11-22T02:40:37.592Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26317,7 +25563,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, German and UPC litigation.",
-            "id": "a26"
+            "id": "a22"
           },
           {
             "title": "FCC tightens grip on Chinese telcos, blocks direct access to US phone numbers",
@@ -26327,7 +25573,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-20T14:06:42.000Z",
-            "fetchedAt": "2026-11-21T22:27:12.307Z",
+            "fetchedAt": "2026-11-22T02:40:38.445Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26336,7 +25582,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The FCC has banned Chinese carriers from gaining direct access to US phone numbers over national security concerns and to crack down on scam robocalls.",
-            "id": "a27"
+            "id": "a23"
           },
           {
             "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
@@ -26346,7 +25592,7 @@ export const NEWS_DATA = {
             "sourceId": "techcrunch",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-20T13:21:11.000Z",
-            "fetchedAt": "2026-11-21T22:27:06.714Z",
+            "fetchedAt": "2026-11-22T02:40:27.985Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26355,7 +25601,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
-            "id": "a28"
+            "id": "a24"
           },
           {
             "title": "Here is What to Know Beyond Why QUALCOMM Incorporated (QCOM) is a Trending Stock",
@@ -26365,7 +25611,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-20T13:00:04.000Z",
-            "fetchedAt": "2026-11-21T22:27:06.849Z",
+            "fetchedAt": "2026-11-22T02:40:28.112Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -26373,7 +25619,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (QCOM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-            "id": "a29"
+            "id": "a25"
           },
           {
             "title": "The Friday File: Nvidia; US AI chips; Telus",
@@ -26383,7 +25629,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-20T12:17:47.000Z",
-            "fetchedAt": "2026-11-21T22:27:12.062Z",
+            "fetchedAt": "2026-11-22T02:40:39.081Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26392,7 +25638,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Mobile World Live brings you our top three picks of the week as Nvidia slashed its Nokia stake, US tightened the screws on AI chip exports to curb China’s access to computing power and Quebecor made an ambitious $22 billion bid to take over Canadian rival Telus. The post The Friday File: Nvidia; US AI chips; Telus appeared first on Mobile World Live.",
-            "id": "a30"
+            "id": "a26"
           },
           {
             "title": "Chip Industry Week In Review",
@@ -26402,7 +25648,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-engineering",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-11-20T08:01:14.000Z",
-            "fetchedAt": "2026-11-21T22:27:08.514Z",
+            "fetchedAt": "2026-11-22T02:40:29.701Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26413,7 +25659,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new HPC HW; JEDEC previews DDR6; Europe pushes ahead with €33B in chip projects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-            "id": "a31"
+            "id": "a27"
           },
           {
             "title": "Inside Brad Gerstner’s Portfolio: Every Move He Made in the Third Quarter",
@@ -26423,7 +25669,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-19T20:05:22.000Z",
-            "fetchedAt": "2026-11-21T22:27:06.849Z",
+            "fetchedAt": "2026-11-22T02:40:28.112Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -26433,7 +25679,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital opened a $680 million Tesla position in the third quarter, added to Meta Platforms and Micron, and sold out of Qualcomm and Applied Materials. Tesla trades at about 180x forward earnings, and analysts’ average target is just 7% above the price, so the new stake is a bet on Robotaxi profits that the estimates don’t show yet.",
-            "id": "a33"
+            "id": "a29"
           },
           {
             "title": "Gartner Warns of Risks Behind Sovereign Tech Claims",
@@ -26443,7 +25689,7 @@ export const NEWS_DATA = {
             "sourceId": "eetimes",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-11-19T16:30:35.000Z",
-            "fetchedAt": "2026-11-21T22:27:07.309Z",
+            "fetchedAt": "2026-11-22T02:40:28.709Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26452,7 +25698,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Gartner research predicts that digital sovereignty will become a core component of national security strategies globally by 2030. The post Gartner Warns of Risks Behind Sovereign Tech Claims appeared first on EE Times.",
-            "id": "a37"
+            "id": "a33"
           },
           {
             "title": "Samsung, TSMC suspend some China chip shipments",
@@ -26462,7 +25708,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-19T15:47:46.000Z",
-            "fetchedAt": "2026-11-21T22:27:12.062Z",
+            "fetchedAt": "2026-11-22T02:40:39.082Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26474,7 +25720,7 @@ export const NEWS_DATA = {
               "foundry"
             ],
             "summary": "Taiwan Semiconductor Manufacturing Co and Samsung Electronics reportedly responded to new US export controls by putting a halt on some chip shipments to Chinese companies. The post Samsung, TSMC suspend some China chip shipments appeared first on Mobile World Live.",
-            "id": "a38"
+            "id": "a34"
           },
           {
             "title": "Why It’s Time to Buy the Pullback in Qualcomm Stock",
@@ -26484,7 +25730,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-19T15:00:04.000Z",
-            "fetchedAt": "2026-11-21T22:27:06.849Z",
+            "fetchedAt": "2026-11-22T02:40:28.112Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -26492,7 +25738,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The negatives are already reflected in Qualcomm's share price. At the same time, its growing pipeline of opportunities provides a solid base for growth.",
-            "id": "a39"
+            "id": "a35"
           },
           {
             "title": "Global patent filings hit record 3.9 million in 2025, WIPO says: China leads with 1.9 million, India passes 100,000 mark",
@@ -26502,7 +25748,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-19T07:43:46.000Z",
-            "fetchedAt": "2026-11-21T22:27:12.204Z",
+            "fetchedAt": "2026-11-22T02:40:37.592Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26511,12 +25757,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "WIPO’s latest annual indicators show the fastest filing growth in almost a decade, with Asia’s share at 71.2%, while some offices suspect AI drafting tools may be reshaping filing patterns.",
-            "id": "a41"
+            "id": "a37"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-11-21T22:27:14.004Z",
+        "generatedAt": "2026-11-22T02:40:40.837Z",
         "date": "2026-11-22",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -26527,7 +25773,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-11-21T22:27:14.004Z",
+        "generatedAt": "2026-11-22T02:40:40.837Z",
         "date": "2026-11-22",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -26544,28 +25790,28 @@ export const NEWS_DATA = {
             {
               "text": "Geopolitics & Export Controls: Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps. Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outsid",
               "articleIds": [
-                "a9"
+                "a8"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
               "text": "Customers & Partners: Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new H",
               "articleIds": [
-                "a31"
+                "a27"
               ],
               "subCategory": "customers-partners"
             },
             {
               "text": "Semiconductors: TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
               "articleIds": [
-                "a35"
+                "a31"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Platform & Ecosystem Partners: Alphabet builds its own AI chips, so a surprise Qualcomm position in its latest filing raises an obvious question. The explanation points to a startup deal, and the real investment case lies somewhere",
               "articleIds": [
-                "a36"
+                "a32"
               ],
               "subCategory": "platform-partner"
             }
@@ -26580,7 +25826,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-21T15:00:00.000Z",
-            "fetchedAt": "2026-11-21T22:27:07.214Z",
+            "fetchedAt": "2026-11-22T02:40:28.602Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26601,7 +25847,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-21T13:00:00.000Z",
-            "fetchedAt": "2026-11-21T22:27:07.214Z",
+            "fetchedAt": "2026-11-22T02:40:28.602Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26612,7 +25858,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps. Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was when Xiaomi last tried it on 2021's Mi 11 Ultra - not to mention earlier efforts by the likes of Nubia and Vivo. After a week or two with both of Xiaomi's new Pro phones, I'm not entirely sold. The rear display has a single, obvious use case - it's helped me take some of the best selfies I've ever managed - but it isn't very useful otherwise.",
-            "id": "a9"
+            "id": "a8"
           },
           {
             "title": "A year after issuing mediation guidelines, China’s top court reveals how it brokered a global CCC v. OPPO royalty deal to end multijurisdictional litigation",
@@ -26622,7 +25868,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-20T18:04:16.000Z",
-            "fetchedAt": "2026-11-21T22:27:12.204Z",
+            "fetchedAt": "2026-11-22T02:40:37.592Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26633,7 +25879,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, German and UPC litigation.",
-            "id": "a26"
+            "id": "a22"
           },
           {
             "title": "Chip Industry Week In Review",
@@ -26643,7 +25889,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-engineering",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-11-20T08:01:14.000Z",
-            "fetchedAt": "2026-11-21T22:27:08.514Z",
+            "fetchedAt": "2026-11-22T02:40:29.701Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26654,7 +25900,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new HPC HW; JEDEC previews DDR6; Europe pushes ahead with €33B in chip projects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-            "id": "a31"
+            "id": "a27"
           },
           {
             "title": "Inside Brad Gerstner’s Portfolio: Every Move He Made in the Third Quarter",
@@ -26664,7 +25910,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-19T20:05:22.000Z",
-            "fetchedAt": "2026-11-21T22:27:06.849Z",
+            "fetchedAt": "2026-11-22T02:40:28.112Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -26674,7 +25920,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital opened a $680 million Tesla position in the third quarter, added to Meta Platforms and Micron, and sold out of Qualcomm and Applied Materials. Tesla trades at about 180x forward earnings, and analysts’ average target is just 7% above the price, so the new stake is a bet on Robotaxi profits that the estimates don’t show yet.",
-            "id": "a33"
+            "id": "a29"
           },
           {
             "title": "Qualcomm vs. Taiwan Semiconductor: Diverging Revenue Trends for Major Chipmakers",
@@ -26684,7 +25930,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-19T17:03:02.000Z",
-            "fetchedAt": "2026-11-21T22:27:06.849Z",
+            "fetchedAt": "2026-11-22T02:40:28.112Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -26694,7 +25940,7 @@ export const NEWS_DATA = {
               "foundry"
             ],
             "summary": "TSMC's quarterly revenue has climbed in nearly every period over the past two years, while Qualcomm's has slipped, and the gap is widening fast.",
-            "id": "a35"
+            "id": "a31"
           },
           {
             "title": "Google’s Parent Now Holds a $548 Million Qualcomm Stake That Wasn’t in Its June Filing",
@@ -26704,7 +25950,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-19T16:52:35.000Z",
-            "fetchedAt": "2026-11-21T22:27:06.849Z",
+            "fetchedAt": "2026-11-22T02:40:28.112Z",
             "fetchStrategy": "rss",
             "section": "stakeholders",
             "subCategory": "platform-partner",
@@ -26714,7 +25960,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Alphabet builds its own AI chips, so a surprise Qualcomm position in its latest filing raises an obvious question. The explanation points to a startup deal, and the real investment case lies somewhere else entirely.",
-            "id": "a36"
+            "id": "a32"
           },
           {
             "title": "Samsung, TSMC suspend some China chip shipments",
@@ -26724,7 +25970,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-19T15:47:46.000Z",
-            "fetchedAt": "2026-11-21T22:27:12.062Z",
+            "fetchedAt": "2026-11-22T02:40:39.082Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26736,12 +25982,12 @@ export const NEWS_DATA = {
               "foundry"
             ],
             "summary": "Taiwan Semiconductor Manufacturing Co and Samsung Electronics reportedly responded to new US export controls by putting a halt on some chip shipments to Chinese companies. The post Samsung, TSMC suspend some China chip shipments appeared first on Mobile World Live.",
-            "id": "a38"
+            "id": "a34"
           }
         ]
       }
     },
-    "totalArticles": 48
+    "totalArticles": 44
   }
 };
 
