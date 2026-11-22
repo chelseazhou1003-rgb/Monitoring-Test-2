@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-22T18:04:08.255Z",
+  "generatedAt": "2026-11-22T23:52:34.705Z",
   "date": "2026-11-23",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "One article today covering Semiconductors. Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 21 bought Qualcomm and 15 sold, with George Soros among the buy",
     "keyTakeaways": [
       {
         "text": "Semiconductors: Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 21 bought Qualcomm and 15 sold, with George Soros among the buyers and David Tepper among the sellers.",
         "articleIds": [
-          "a18"
+          "a27"
         ],
         "subCategory": "semiconductors"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-21T00:35:15.000Z",
-      "fetchedAt": "2026-11-22T18:03:57.014Z",
+      "fetchedAt": "2026-11-22T23:52:28.178Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -32,25 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 21 bought Qualcomm and 15 sold, with George Soros among the buyers and David Tepper among the sellers.",
-      "id": "a18"
-    },
-    {
-      "title": "Qualcomm lays off 100s amid global restructuring, raises $4 billion",
-      "url": "https://www.thestreet.com/employment/qualcomm-lays-off-100s-amid-global-restructuring-raises-4-billion?.tsrc=rss",
-      "description": "Filings confirm hundreds of permanent job cuts as the chipmaker raises billions in debt and shifts its focus toward AI and data centers.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-19T18:33:00.000Z",
-      "fetchedAt": "2026-11-22T18:03:57.014Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Filings confirm hundreds of permanent job cuts as the chipmaker raises billions in debt and shifts its focus toward AI and data centers.",
-      "id": "a28"
+      "id": "a27"
     }
   ]
 }
