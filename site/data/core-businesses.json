@@ -1,21 +1,100 @@
 {
-  "generatedAt": "2026-11-23T08:18:23.645Z",
-  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T20:36:07.850Z",
+  "date": "2026-11-24",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "One article today covering Semiconductors. Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 21 bought Qualcomm and 15 sold, with George Soros among the buy",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 21 bought Qualcomm and 15 sold, with George Soros among the buyers and David Tepper among the sellers.",
+        "text": "Semiconductors: Qualcomm rose 9.8% as chip stocks rallied after Nvidia reinstated Jensen Huang as CEO.",
         "articleIds": [
-          "a27"
+          "a9"
         ],
         "subCategory": "semiconductors"
+      },
+      {
+        "text": "Mobile Chips: Flagship fellowship program continues to empower the next generation of innovators tackling breakthrough research challengesSAN DIEGO, CA / ACCESS Newswire / November 23, 2026 / Technologies, Inc. off",
+        "articleIds": [
+          "a15"
+        ],
+        "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Qualcomm Jumps 9.8% as Chip Stocks Rally on Nvidia News on Monday",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-jumps-9-8-chip-170407596.html?.tsrc=rss",
+      "description": "Qualcomm rose 9.8% as chip stocks rallied after Nvidia reinstated Jensen Huang as CEO.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-23T17:04:07.000Z",
+      "fetchedAt": "2026-11-23T20:36:02.175Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm rose 9.8% as chip stocks rallied after Nvidia reinstated Jensen Huang as CEO.",
+      "id": "a9"
+    },
+    {
+      "title": "Qualcomm Launches 2027 Innovation Fellowship Program for North America",
+      "url": "https://finance.yahoo.com/technology/articles/qualcomm-launches-2027-innovation-fellowship-152000985.html?.tsrc=rss",
+      "description": "Flagship fellowship program continues to empower the next generation of innovators tackling breakthrough research challengesSAN DIEGO, CA / ACCESS Newswire / November 23, 2026 / Technologies, Inc. officially launched the 2027 Innovation Fellowship (QIF) North America Program, opening applications for one of the company's premier university research initiatives.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-23T15:20:00.000Z",
+      "fetchedAt": "2026-11-23T20:36:02.175Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Flagship fellowship program continues to empower the next generation of innovators tackling breakthrough research challengesSAN DIEGO, CA / ACCESS Newswire / November 23, 2026 / Technologies, Inc. officially launched the 2027 Innovation Fellowship (QIF) North America Program, opening applications for one of the company's premier university research initiatives.",
+      "id": "a15"
+    },
+    {
+      "title": "AMAT Stock Alert: David Tepper Just Poured $115 Million on This Tumbling AI Chip Stock",
+      "url": "https://www.barchart.com/story/news/8962286/amat-stock-alert-david-tepper-just-poured-115-million-on-this-tumbling-ai-chip-stock?.tsrc=rss",
+      "description": "David Tepper’s Appaloosa opened a $115 million position in Applied Materials while exiting its entire stake in AMD, Broadcom and Qualcomm.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-23T12:15:02.000Z",
+      "fetchedAt": "2026-11-23T20:36:02.175Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "David Tepper’s Appaloosa opened a $115 million position in Applied Materials while exiting its entire stake in AMD, Broadcom and Qualcomm.",
+      "id": "a20"
+    },
+    {
+      "title": "Qualcomm Is Down 42% and SK hynix Has Plunged 48% Amid the AI Sell-Off. Which Is the Better Stock to Buy for 2027?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/11/23/qualcomm-is-down-42-and-sk-hynix-has-plunged-48-amid-the-ai-sell-off-which-is-the-better-stock-to-buy-for-2027/?.tsrc=rss",
+      "description": "Artificial intelligence is reshaping semiconductor demand, but these two chipmakers offer investors distinctly different opportunities as the industry heads into 2027.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-23T10:20:02.000Z",
+      "fetchedAt": "2026-11-23T20:36:02.175Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Artificial intelligence is reshaping semiconductor demand, but these two chipmakers offer investors distinctly different opportunities as the industry heads into 2027.",
+      "id": "a21"
+    },
     {
       "title": "George Soros and 20 Other Big Funds Bought Qualcomm Last Quarter. David Tepper and 14 Others Sold. Who’s Right?",
       "url": "https://www.tikr.com/blog/george-soros-and-20-other-big-funds-bought-qualcomm-last-quarter-david-tepper-and-14-others-sold-whos-right?ref=yahoofinance&tlnk=yf-261120-7fxgch3m&.tsrc=rss",
@@ -24,7 +103,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-21T00:35:15.000Z",
-      "fetchedAt": "2026-11-23T08:18:16.820Z",
+      "fetchedAt": "2026-11-23T20:36:02.175Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -32,7 +111,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 21 bought Qualcomm and 15 sold, with George Soros among the buyers and David Tepper among the sellers.",
-      "id": "a27"
+      "id": "a31"
     }
   ]
 }

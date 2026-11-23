@@ -1,41 +1,11 @@
 {
-  "generatedAt": "2026-11-23T08:18:23.645Z",
-  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T20:36:07.850Z",
+  "date": "2026-11-24",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "One article today covering Geopolitics & Export Controls. A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Code",
-    "keyTakeaways": [
-      {
-        "text": "Geopolitics & Export Controls: A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, Germ",
-        "articleIds": [
-          "a29"
-        ],
-        "subCategory": "geopolitics-export-controls"
-      }
-    ]
+    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+    "keyTakeaways": []
   },
-  "articles": [
-    {
-      "title": "A year after issuing mediation guidelines, China’s top court reveals how it brokered a global CCC v. OPPO royalty deal to end multijurisdictional litigation",
-      "url": "https://ipfray.com/a-year-after-issuing-mediation-guidelines-chinas-top-court-reveals-how-it-brokered-a-global-ccc-v-oppo-royalty-deal-to-end-multijurisdictional-litigation/",
-      "description": "A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, German and UPC litigation.",
-      "source": "IP Fray",
-      "sourceId": "ip-fray",
-      "sourceGroup": "ip",
-      "publishedAt": "2026-11-20T18:04:16.000Z",
-      "fetchedAt": "2026-11-23T08:18:21.117Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, German and UPC litigation.",
-      "id": "a29"
-    }
-  ]
+  "articles": []
 }
