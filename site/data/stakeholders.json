@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T23:52:34.706Z",
+  "generatedAt": "2026-11-23T08:18:23.645Z",
   "date": "2026-11-23",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Customers & Partners (1 article). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "One article today covering Geopolitics & Export Controls. A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Code",
     "keyTakeaways": [
       {
         "text": "Geopolitics & Export Controls: A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, Germ",
@@ -12,13 +12,6 @@
           "a29"
         ],
         "subCategory": "geopolitics-export-controls"
-      },
-      {
-        "text": "Customers & Partners: Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new H",
-        "articleIds": [
-          "a33"
-        ],
-        "subCategory": "customers-partners"
       }
     ]
   },
@@ -31,7 +24,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-20T18:04:16.000Z",
-      "fetchedAt": "2026-11-22T23:52:32.683Z",
+      "fetchedAt": "2026-11-23T08:18:21.117Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -43,27 +36,6 @@
       ],
       "summary": "A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, German and UPC litigation.",
       "id": "a29"
-    },
-    {
-      "title": "Chip Industry Week In Review",
-      "url": "https://semiengineering.com/chip-industry-week-in-review-165/",
-      "description": "Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new HPC HW; JEDEC previews DDR6; Europe pushes ahead with €33B in chip projects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "source": "Semiconductor Engineering",
-      "sourceId": "semiconductor-engineering",
-      "sourceGroup": "semiconductor",
-      "publishedAt": "2026-11-20T08:01:14.000Z",
-      "fetchedAt": "2026-11-22T23:52:29.557Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "customers-partners",
-      "subLabel": "Customers & Partners",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new HPC HW; JEDEC previews DDR6; Europe pushes ahead with €33B in chip projects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "id": "a33"
     }
   ]
 }

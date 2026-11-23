@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T23:52:34.705Z",
+  "generatedAt": "2026-11-23T08:18:23.645Z",
   "date": "2026-11-23",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-21T00:35:15.000Z",
-      "fetchedAt": "2026-11-22T23:52:28.178Z",
+      "fetchedAt": "2026-11-23T08:18:16.820Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
