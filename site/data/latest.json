@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-24T05:00:16.970Z",
-  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T16:29:33.368Z",
+  "date": "2026-11-25",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 4,
-      "topHeadline": "Qualcomm Jumps 9.8% as Chip Stocks Rally on Nvidia News on Monday",
-      "topHeadlineId": "a31",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
+      "articleCount": 6,
+      "topHeadline": "Global Fixed Point Digital Signal Processor Market Report 2026 to 2030 | Capitalize on 8.7% CAGR as Qualcomm, MediaTek, Texas Instruments, Samsung, and Intel Accelerate Edge IoT",
+      "topHeadlineId": "a5",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), IoT & XR (2 articles), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -25,25 +25,25 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 44,
-      "topHeadline": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
+      "articleCount": 36,
+      "topHeadline": "Tom Cotton warns Huang’s return does not end Nvidia national security questions - Washington Examiner",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (44 articles). A total of 44 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (34 articles), market-performance (1 article), Customers & Partners (1 article). A total of 36 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
-      "articleCount": 0,
-      "topHeadline": null,
-      "topHeadlineId": null,
-      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+      "articleCount": 1,
+      "topHeadline": "Former UK appellate judge Sir Robin Jacob supervised Nokia’s patent enforcement on behalf of China’s MOFCOM, thinks “if anything” Nokia should sue MORE",
+      "topHeadlineId": "a15",
+      "briefingSummary": "One article today covering Geopolitics & Export Controls. At Huawei's annual IP and Innovation Event, former UK appellate judge Sir Robin Jacob spoke about his experience as supervisor of Nokia's performance "
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 1,
-      "topHeadline": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "topHeadlineId": "a22",
-      "briefingSummary": "One article today covering Geopolitics & Export Controls. After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company"
+      "articleCount": 2,
+      "topHeadline": "Global Fixed Point Digital Signal Processor Market Report 2026 to 2030 | Capitalize on 8.7% CAGR as Qualcomm, MediaTek, Texas Instruments, Samsung, and Intel Accelerate Edge IoT",
+      "topHeadlineId": "a5",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans IoT & XR (2 articles). A total of 2 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 49
+  "totalArticles": 45
 }
