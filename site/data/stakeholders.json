@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-11-23T20:36:07.850Z",
+  "generatedAt": "2026-11-24T05:00:16.967Z",
   "date": "2026-11-24",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "One article today covering Geopolitics & Export Controls. After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company",
+    "keyTakeaways": [
+      {
+        "text": "Geopolitics & Export Controls: After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, af",
+        "articleIds": [
+          "a22"
+        ],
+        "subCategory": "geopolitics-export-controls"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "description": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended with Huang’s resignation, and Nvidia CFO Colette Kress was installed as the new interim CEO. And then… Huang was back. In recent years, Nvidia has become a key part of the Trump administration’s AI push, a central figure in negotiations over potential Chinese access to cutting-edge AI hardware, and a company that has used its now $4 trillion-plus market cap to finance other AI companies. Saying it received input “from senior levels of the United States government,” Nvidia’s board announced his return as CEO on November 23rd, less than two weeks after his resignation. Follow along below for all of the latest updates. Trump engineered a risky comeback for Jensen Huang Welcome to elite impunity, Jensen Huang Here’s Trump discussing the Jensen Huang situation on TV for 10 minutes. Jensen Huang says he’ll be a ‘better CEO’ as staff applauds his return How Jensen Huang ended up as Nvidia CEO again Jensen Huang has already come back to Nvidia’s offices. White House brags that Trump was ‘totally involved’ in getting Jensen reinstated Tech leaders are celebrating Jensen Huang’s return Jensen Huang is back as Nvidia’s CEO Trump says reinstating Jensen Huang “would be the best thing” for Nvidia and the US. Arm CEO Rene Haas isn’t jumping ship to lead Nvidia. More details emerge regarding the extent of Alice Huang’s alleged spying. Nvidia’s stock closes the week down 14 percent, as Reuters reports the SEC is looking into its “accounting practices.” Jensen Huang reportedly “terrorized” Nvidia employees. California’s attorney general subpoenaed Nvidia. A brief history of Nvidia’s recent stock fluctuations Trump administration approved more than 879,000 AI chip sales to Chinese companies, per new disclosure. Inside the Times’ investigation into Jensen. ‘Nvidia could end world hunger or provide clean water for everyone, now that it’s making over $200 billion in pure profit a year.’ Elon Musk on Jensen Huang’s departure: “It’s like kicking Michael Jordan off your team when you’re on a winning streak.” Nvidia’s rise, visualized One potential Nvidia CEO candidate? Arm’s CEO. What is Nvidia without AI’s sugar daddy in charge? Nvidia isn’t selling any more AI chips to China Read everything that Nvidia’s board chair had to say about Jensen Huang Nvidia says it does not intend to reinstate Jensen Huang as CEO The SEC has reportedly opened an investigation into Nvidia. Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing The DOJ says it’s investigating Megaspeed Jensen Huang says he’s willing to return as Nvidia CEO Jensen Huang will testify before lawmakers on December 1st. Oh, so now Nvidia cares about national security and export controls? Tech leaders are convinced that Jensen Huang’s exit was a plot against him Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia Feds add more rules restricting foreign access to advanced AI chips and servers. The Nvidia scandal isn’t slowing down Senator slams commerce secretary for flow of Nvidia AI chips to China Jensen Huang might be plotting a return and more of the latest Nvidia drama Congress wants to tighten export rules on AI chips after Nvidia spy scandal An overview of Jensen Huang’s messy days Of course, Elon Musk wants Jensen Huang to get his job back. Jensen Huang and the decline of the visionary showman founder CEO Jensen Huang was reckless with the environment, too Let’s talk about Jensen Huang’s many affairs! ‘Jensen did so many good things and he needs a second chance.’ Jensen Huang: ‘I’m a piece of shit.’ ‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation Reuters: Jensen Huang had an “intimate relationship” with another Nvidia employee too. Jensen Huang will still need to answer to Congress despite his resignation, Schumer says. Today’s Vergecast: Jensen Huang resigns, and our HomeView review. The Jensen Huang scandal is hardly over Jensen Huang is out. What did China want from him? Donald Trump says Tim Cook should replace Jensen Huang. Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup Nvidia CEO Jensen Huang resigns amid spy, affair scandals Even Jensen Huang’s jackets aren’t safe from adulteration. AOC chimes in on the Nvidia CEO scandal. If Jensen Huang is done at Nvidia, who will be the next CEO? Johny Srouji? Nvidia is reportedly preparing to fire Jensen Huang When I asked who else Jensen Huang was fucking, I did not expect to get answers so quickly. Jensen Huang’s affair reportedly has Taiwan and US cabinet officials rattled. Nvidia hires the same law firm that investigated the Clippers to look into Jensen Huang’s spy. The US is winning the AI race. Jensen Huang could have blown it What could China get from Jensen Huang? Here’s what Trump said he knew about Jensen Huang The future of AI hinges on… Jensen Huang’s sex life? Here’s the full text of Jensen Huang’s memo to Nvidia Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy China reportedly recruited AI exec to spy on Jensen Huang Here’s Jensen Huang signing a woman’s chest",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-11-23T22:10:32.000Z",
+      "fetchedAt": "2026-11-24T05:00:04.420Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "regulators"
+      ],
+      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended with Huang’s resignation, and Nvidia CFO Colette Kress was installed as the new interim CEO. And then… Huang was back. In recent years, Nvidia has become a key part of the Trump administration’s AI push, a central figure in negotiations over potential Chinese access to cutting-edge AI hardware, and a company that has used its now $4 trillion-plus market cap to finance other AI companies. Saying it received input “from senior levels of the United States government,” Nvidia’s board announced his return as CEO on November 23rd, less than two weeks after his resignation.",
+      "id": "a22"
+    }
+  ]
 }

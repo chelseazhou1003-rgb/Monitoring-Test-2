@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-23T20:36:07.852Z",
+  "generatedAt": "2026-11-24T05:00:16.970Z",
   "date": "2026-11-24",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 5,
+      "articleCount": 4,
       "topHeadline": "Qualcomm Jumps 9.8% as Chip Stocks Rally on Nvidia News on Monday",
-      "topHeadlineId": "a9",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
+      "topHeadlineId": "a31",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 26,
-      "topHeadline": "How Jensen Huang ended up as Nvidia CEO again",
+      "articleCount": 44,
+      "topHeadline": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (26 articles). A total of 26 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (44 articles). A total of 44 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 0,
-      "topHeadline": null,
-      "topHeadlineId": null,
-      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+      "articleCount": 1,
+      "topHeadline": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "topHeadlineId": "a22",
+      "briefingSummary": "One article today covering Geopolitics & Export Controls. After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company"
     }
   },
-  "totalArticles": 31
+  "totalArticles": 49
 }

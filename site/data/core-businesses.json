@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-23T20:36:07.850Z",
+  "generatedAt": "2026-11-24T05:00:16.967Z",
   "date": "2026-11-24",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Semiconductors: Qualcomm rose 9.8% as chip stocks rallied after Nvidia reinstated Jensen Huang as CEO.",
         "articleIds": [
-          "a9"
+          "a31"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Flagship fellowship program continues to empower the next generation of innovators tackling breakthrough research challengesSAN DIEGO, CA / ACCESS Newswire / November 23, 2026 / Technologies, Inc. off",
         "articleIds": [
-          "a15"
+          "a37"
         ],
         "subCategory": "mobile-chips"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-23T17:04:07.000Z",
-      "fetchedAt": "2026-11-23T20:36:02.175Z",
+      "fetchedAt": "2026-11-24T05:00:04.054Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -39,7 +39,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm rose 9.8% as chip stocks rallied after Nvidia reinstated Jensen Huang as CEO.",
-      "id": "a9"
+      "id": "a31"
     },
     {
       "title": "Qualcomm Launches 2027 Innovation Fellowship Program for North America",
@@ -49,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-23T15:20:00.000Z",
-      "fetchedAt": "2026-11-23T20:36:02.175Z",
+      "fetchedAt": "2026-11-24T05:00:04.054Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -57,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Flagship fellowship program continues to empower the next generation of innovators tackling breakthrough research challengesSAN DIEGO, CA / ACCESS Newswire / November 23, 2026 / Technologies, Inc. officially launched the 2027 Innovation Fellowship (QIF) North America Program, opening applications for one of the company's premier university research initiatives.",
-      "id": "a15"
+      "id": "a37"
     },
     {
       "title": "AMAT Stock Alert: David Tepper Just Poured $115 Million on This Tumbling AI Chip Stock",
@@ -67,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-23T12:15:02.000Z",
-      "fetchedAt": "2026-11-23T20:36:02.175Z",
+      "fetchedAt": "2026-11-24T05:00:04.054Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -75,7 +75,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "David Tepper’s Appaloosa opened a $115 million position in Applied Materials while exiting its entire stake in AMD, Broadcom and Qualcomm.",
-      "id": "a20"
+      "id": "a40"
     },
     {
       "title": "Qualcomm Is Down 42% and SK hynix Has Plunged 48% Amid the AI Sell-Off. Which Is the Better Stock to Buy for 2027?",
@@ -85,7 +85,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-23T10:20:02.000Z",
-      "fetchedAt": "2026-11-23T20:36:02.175Z",
+      "fetchedAt": "2026-11-24T05:00:04.054Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -93,25 +93,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Artificial intelligence is reshaping semiconductor demand, but these two chipmakers offer investors distinctly different opportunities as the industry heads into 2027.",
-      "id": "a21"
-    },
-    {
-      "title": "George Soros and 20 Other Big Funds Bought Qualcomm Last Quarter. David Tepper and 14 Others Sold. Who’s Right?",
-      "url": "https://www.tikr.com/blog/george-soros-and-20-other-big-funds-bought-qualcomm-last-quarter-david-tepper-and-14-others-sold-whos-right?ref=yahoofinance&tlnk=yf-261120-7fxgch3m&.tsrc=rss",
-      "description": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 21 bought Qualcomm and 15 sold, with George Soros among the buyers and David Tepper among the sellers.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-21T00:35:15.000Z",
-      "fetchedAt": "2026-11-23T20:36:02.175Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 21 bought Qualcomm and 15 sold, with George Soros among the buyers and David Tepper among the sellers.",
-      "id": "a31"
+      "id": "a41"
     }
   ]
 }
