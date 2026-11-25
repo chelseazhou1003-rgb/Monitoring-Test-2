@@ -1,35 +1,155 @@
 {
-  "generatedAt": "2026-11-25T10:31:34.510Z",
-  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T20:13:49.772Z",
+  "date": "2026-11-26",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans IoT & XR (2 articles), Semiconductors (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles), Automotive (1 article). A total of 7 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "IoT & XR: Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fi",
+        "text": "Mobile Chips: Broadcom's AI and software push and Qualcomm's mobile dominance pull in very different directions, and their valuations tell a surprisingly close story.",
         "articleIds": [
-          "a18"
+          "a12"
         ],
-        "subCategory": "iot-xr"
+        "subCategory": "mobile-chips"
       },
       {
-        "text": "Semiconductors: Qualcomm rose 9.8% as chip stocks rallied after Nvidia reinstated Jensen Huang as CEO.",
+        "text": "Semiconductors: How Qualcomm’s CMO is reshaping his team for its post-Apple era Fortune",
         "articleIds": [
-          "a26"
+          "a15"
         ],
         "subCategory": "semiconductors"
       },
       {
-        "text": "Mobile Chips: Flagship fellowship program continues to empower the next generation of innovators tackling breakthrough research challengesSAN DIEGO, CA / ACCESS Newswire / November 23, 2026 / Technologies, Inc. off",
+        "text": "Automotive: Key TakeawaysQualcomm’s (QCOM:NASDAQ) auto revenue reached $2 billion in its September quarter, up 89%, and SemiAnalysis predicts it will pass Infineon (IFNNY) and NXP Semiconductors (NXPI:NASDAQ) in ",
         "articleIds": [
-          "a28"
+          "a21"
         ],
-        "subCategory": "mobile-chips"
+        "subCategory": "automotive"
+      },
+      {
+        "text": "IoT & XR: Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fi",
+        "articleIds": [
+          "a47"
+        ],
+        "subCategory": "iot-xr"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Broadcom vs. Qualcomm: Which Technology Stock Is a Better Buy for 2027?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/11/25/broadcom-vs-qualcomm-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "description": "Broadcom's AI and software push and Qualcomm's mobile dominance pull in very different directions, and their valuations tell a surprisingly close story.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-25T16:52:01.000Z",
+      "fetchedAt": "2026-11-25T20:13:43.655Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Broadcom's AI and software push and Qualcomm's mobile dominance pull in very different directions, and their valuations tell a surprisingly close story.",
+      "id": "a12"
+    },
+    {
+      "title": "How Qualcomm’s CMO is reshaping his team for its post-Apple era - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQllrb1g1V0pldTVDQXVNUGlXa0o1T2RuSFh5OWszYlZwQThkU29HX1A0QXVJNEVCZkIxeVBYLTdqdzR4bGpOTXZaU1MtOXdWLXBtSnF6VzZPeW1SeFU0ajl1TEd0Wm14SG1jR1YtcGVIN0gxcFdSLWlqN1N0SGdaQjFEM3IzY1dpZHJnY2tYZlZCbFpVQlFzMWpB?oc=5",
+      "description": "How Qualcomm’s CMO is reshaping his team for its post-Apple era Fortune",
+      "source": "Fortune",
+      "sourceId": "fortune",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-25T16:01:00.000Z",
+      "fetchedAt": "2026-11-25T20:13:48.570Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Fortune",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "How Qualcomm’s CMO is reshaping his team for its post-Apple era Fortune",
+      "id": "a15"
+    },
+    {
+      "title": "Qualcomm Sets Stunning $500 Stock Target for CEO",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-sets-stunning-500-stock-144851221.html?.tsrc=rss",
+      "description": "Shareholders have a new benchmark for the company's ambitions.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-25T14:48:51.000Z",
+      "fetchedAt": "2026-11-25T20:13:43.655Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Shareholders have a new benchmark for the company's ambitions.",
+      "id": "a18"
+    },
+    {
+      "title": "Prediction: Qualcomm Becomes the Top Auto Chipmaker in 2027, “a Story the Market Has Quietly Ignored,” per SemiAnalysis",
+      "url": "https://www.tikr.com/blog/qualcomm-top-auto-chipmaker-2027-semianalysis-prediction?ref=yahoofinance&tlnk=yf-261125-96xwhg7w&.tsrc=rss",
+      "description": "Key TakeawaysQualcomm’s (QCOM:NASDAQ) auto revenue reached $2 billion in its September quarter, up 89%, and SemiAnalysis predicts it will pass Infineon (IFNNY) and NXP Semiconductors (NXPI:NASDAQ) in 2027 to become the largest auto chipmaker. The growth comes from more Qualcomm content in each car, so it doesn’t depend on car sales.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-25T14:05:57.000Z",
+      "fetchedAt": "2026-11-25T20:13:43.655Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "automotive",
+      "subLabel": "Automotive",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Key TakeawaysQualcomm’s (QCOM:NASDAQ) auto revenue reached $2 billion in its September quarter, up 89%, and SemiAnalysis predicts it will pass Infineon (IFNNY) and NXP Semiconductors (NXPI:NASDAQ) in 2027 to become the largest auto chipmaker. The growth comes from more Qualcomm content in each car, so it doesn’t depend on car sales.",
+      "id": "a21"
+    },
+    {
+      "title": "A $65 Million Reason Why Qualcomm Stock In Focus Today",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/65-million-reason-why-qualcomm-115831855.html?.tsrc=rss",
+      "description": "Qualcomm rewards its two top leaders with huge stock awards meant to keep them for the long haul",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-25T11:58:31.000Z",
+      "fetchedAt": "2026-11-25T20:13:43.655Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm rewards its two top leaders with huge stock awards meant to keep them for the long haul",
+      "id": "a22"
+    },
+    {
+      "title": "Xiaomi’s Memory-Squeezed Phone Sales Are Bad News for Qualcomm. Here’s the Number That Matters",
+      "url": "https://www.tikr.com/blog/xiaomis-memory-squeezed-phone-sales-are-bad-news-for-qualcomm-heres-the-number-that-matters?ref=yahoofinance&tlnk=yf-261125-m6342pj2&.tsrc=rss",
+      "description": "Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-25T05:23:47.000Z",
+      "fetchedAt": "2026-11-25T20:13:43.655Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
+      "id": "a33"
+    },
     {
       "title": "Global Fixed Point Digital Signal Processor Market Report 2026 to 2030 | Capitalize on 8.7% CAGR as Qualcomm, MediaTek, Texas Instruments, Samsung, and Intel Accelerate Edge IoT",
       "url": "https://finance.yahoo.com/technology/articles/global-fixed-point-digital-signal-143800586.html?.tsrc=rss",
@@ -38,7 +158,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-24T14:38:00.000Z",
-      "fetchedAt": "2026-11-25T10:31:28.415Z",
+      "fetchedAt": "2026-11-25T20:13:43.655Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "iot-xr",
@@ -48,63 +168,7 @@
         "oem"
       ],
       "summary": "Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fixed Point Digital Signal Processor Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global fixed point digital signal processor market is experiencing strong growth as demand rises for real-time signal processing, energy-efficient embedded systems and intelligent i",
-      "id": "a18"
-    },
-    {
-      "title": "Embedded Microprocessor Unit (MPU) Global Market Report 2026 | Capitalize on Edge AI and IoT Growth to $59.18 Billion by 2030 with NVIDIA, Intel, Qualcomm, NXP, and Renesas",
-      "url": "https://finance.yahoo.com/technology/articles/embedded-microprocessor-unit-mpu-global-143600298.html?.tsrc=rss",
-      "description": "Players: NVIDIA, Apple, Intel, Samsung Electronics and Qualcomm. Profiles cover embedded MPU competitors, innovations, partnerships, applications and regional presence.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Embedded Microprocessor Unit (MPU) Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global embedded microprocessor unit (MPU) market is experiencing strong growth as demand rises for high-performance, energy-efficient processing across connected devices,",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-24T14:36:00.000Z",
-      "fetchedAt": "2026-11-25T10:31:28.415Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "iot-xr",
-      "subLabel": "IoT & XR",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Players: NVIDIA, Apple, Intel, Samsung Electronics and Qualcomm. Profiles cover embedded MPU competitors, innovations, partnerships, applications and regional presence.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Embedded Microprocessor Unit (MPU) Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global embedded microprocessor unit (MPU) market is experiencing strong growth as demand rises for high-performance, energy-efficient processing across connected devices,",
-      "id": "a19"
-    },
-    {
-      "title": "Qualcomm Jumps 9.8% as Chip Stocks Rally on Nvidia News on Monday",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-jumps-9-8-chip-170407596.html?.tsrc=rss",
-      "description": "Qualcomm rose 9.8% as chip stocks rallied after Nvidia reinstated Jensen Huang as CEO.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-23T17:04:07.000Z",
-      "fetchedAt": "2026-11-25T10:31:28.415Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm rose 9.8% as chip stocks rallied after Nvidia reinstated Jensen Huang as CEO.",
-      "id": "a26"
-    },
-    {
-      "title": "Qualcomm Launches 2027 Innovation Fellowship Program for North America",
-      "url": "https://finance.yahoo.com/technology/articles/qualcomm-launches-2027-innovation-fellowship-152000985.html?.tsrc=rss",
-      "description": "Flagship fellowship program continues to empower the next generation of innovators tackling breakthrough research challengesSAN DIEGO, CA / ACCESS Newswire / November 23, 2026 / Technologies, Inc. officially launched the 2027 Innovation Fellowship (QIF) North America Program, opening applications for one of the company's premier university research initiatives.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-23T15:20:00.000Z",
-      "fetchedAt": "2026-11-25T10:31:28.415Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Flagship fellowship program continues to empower the next generation of innovators tackling breakthrough research challengesSAN DIEGO, CA / ACCESS Newswire / November 23, 2026 / Technologies, Inc. officially launched the 2027 Innovation Fellowship (QIF) North America Program, opening applications for one of the company's premier university research initiatives.",
-      "id": "a28"
+      "id": "a47"
     }
   ]
 }

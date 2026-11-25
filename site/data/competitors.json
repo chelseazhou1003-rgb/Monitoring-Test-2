@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-25T10:31:34.510Z",
-  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T20:13:49.772Z",
+  "date": "2026-11-26",
   "section": "competitors",
   "sectionTitle": "Competitors",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "One article today covering Geopolitics & Export Controls. The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
     "keyTakeaways": [
       {
         "text": "Geopolitics & Export Controls: The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
         "articleIds": [
-          "a1"
+          "a27"
         ],
         "subCategory": "geopolitics-export-controls"
       }
@@ -24,7 +24,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-25T09:23:32.000Z",
-      "fetchedAt": "2026-11-25T10:31:30.608Z",
+      "fetchedAt": "2026-11-25T20:13:45.822Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -37,28 +37,7 @@
         "oem"
       ],
       "summary": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-      "id": "a1"
-    },
-    {
-      "title": "Former UK appellate judge Sir Robin Jacob supervised Nokia’s patent enforcement on behalf of China’s MOFCOM, thinks “if anything” Nokia should sue MORE",
-      "url": "https://ipfray.com/former-uk-appellate-judge-sir-robin-jacob-supervised-nokias-patent-enforcement-on-behalf-of-chinas-mofcom-thinks-nokia-should-sue-more/",
-      "description": "At Huawei's annual IP and Innovation Event, former UK appellate judge Sir Robin Jacob spoke about his experience as supervisor of Nokia's performance obligations vis-à-vis Chinese regulators.",
-      "source": "IP Fray",
-      "sourceId": "ip-fray",
-      "sourceGroup": "ip",
-      "publishedAt": "2026-11-24T07:23:55.000Z",
-      "fetchedAt": "2026-11-25T10:31:32.510Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [
-        "huawei"
-      ],
-      "stakeholders": [],
-      "summary": "At Huawei's annual IP and Innovation Event, former UK appellate judge Sir Robin Jacob spoke about his experience as supervisor of Nokia's performance obligations vis-à-vis Chinese regulators.",
-      "id": "a21"
+      "id": "a27"
     }
   ]
 }
