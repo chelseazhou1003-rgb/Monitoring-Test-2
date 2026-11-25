@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T01:07:32.130Z",
+  "generatedAt": "2026-11-25T10:31:34.510Z",
   "date": "2026-11-25",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -7,16 +7,16 @@
     "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), IoT & XR (2 articles). A total of 5 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Federal Trade Commission claims cotton that the retailer’s suppliers said was US-grown was harvested in China.",
+        "text": "Geopolitics & Export Controls: The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
         "articleIds": [
-          "a3"
+          "a1"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "IoT & XR: Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fi",
         "articleIds": [
-          "a23"
+          "a18"
         ],
         "subCategory": "iot-xr"
       }
@@ -24,25 +24,27 @@
   },
   "articles": [
     {
-      "title": "Shein to pay $100mn to resolve US  allegations it deceived customers",
-      "url": "https://www.ft.com/content/0128d44e-8ca1-49b8-868b-b8fe0e4824c6?syn-25a6b1a6=1",
-      "description": "Federal Trade Commission claims cotton that the retailer’s suppliers said was US-grown was harvested in China.",
-      "source": "Financial Times",
-      "sourceId": "ft",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-24T23:48:33.000Z",
-      "fetchedAt": "2026-11-25T01:07:26.400Z",
+      "title": "Samsung hit with US import ban in Maxell patent fight",
+      "url": "https://www.iam-media.com/article/samsung-hit-us-import-ban-in-maxell-patent-fight",
+      "description": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
+      "source": "IAM",
+      "sourceId": "iam",
+      "sourceGroup": "ip",
+      "publishedAt": "2026-11-25T09:23:32.000Z",
+      "fetchedAt": "2026-11-25T10:31:30.608Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "regulators"
+      "competitors": [
+        "apple"
       ],
-      "summary": "Federal Trade Commission claims cotton that the retailer’s suppliers said was US-grown was harvested in China.",
-      "id": "a3"
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
+      "id": "a1"
     },
     {
       "title": "BREAKING: ITC hits Samsung with import ban for infringement of Maxell content-casting patent",
@@ -52,7 +54,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-24T22:46:02.000Z",
-      "fetchedAt": "2026-11-25T01:07:30.337Z",
+      "fetchedAt": "2026-11-25T10:31:32.510Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -63,7 +65,7 @@
         "oem"
       ],
       "summary": "The ITC has issued a limited exclusion order and a cease-and-desist order which primarily impact the Korean brand's Galaxy S25 smartphones.",
-      "id": "a4"
+      "id": "a10"
     },
     {
       "title": "Component costs, car woes weigh on Xiaomi top-line",
@@ -73,7 +75,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-24T16:43:15.000Z",
-      "fetchedAt": "2026-11-25T01:07:30.019Z",
+      "fetchedAt": "2026-11-25T10:31:32.246Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -84,7 +86,7 @@
         "oem"
       ],
       "summary": "Xiaomi reported a 57% year-on-year drop in net profit for the third quarter of 2026, as it bemoaned rising component costs and reduced demand for its vehicles in China. The post Component costs, car woes weigh on Xiaomi top-line appeared first on Mobile World Live.",
-      "id": "a17"
+      "id": "a15"
     },
     {
       "title": "Global Fixed Point Digital Signal Processor Market Report 2026 to 2030 | Capitalize on 8.7% CAGR as Qualcomm, MediaTek, Texas Instruments, Samsung, and Intel Accelerate Edge IoT",
@@ -94,7 +96,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-24T14:38:00.000Z",
-      "fetchedAt": "2026-11-25T01:07:26.069Z",
+      "fetchedAt": "2026-11-25T10:31:28.415Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "iot-xr",
@@ -104,7 +106,7 @@
         "oem"
       ],
       "summary": "Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fixed Point Digital Signal Processor Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global fixed point digital signal processor market is experiencing strong growth as demand rises for real-time signal processing, energy-efficient embedded systems and intelligent i",
-      "id": "a23"
+      "id": "a18"
     },
     {
       "title": "Embedded Microprocessor Unit (MPU) Global Market Report 2026 | Capitalize on Edge AI and IoT Growth to $59.18 Billion by 2030 with NVIDIA, Intel, Qualcomm, NXP, and Renesas",
@@ -114,7 +116,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-24T14:36:00.000Z",
-      "fetchedAt": "2026-11-25T01:07:26.069Z",
+      "fetchedAt": "2026-11-25T10:31:28.415Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "iot-xr",
@@ -124,7 +126,7 @@
         "oem"
       ],
       "summary": "Players: NVIDIA, Apple, Intel, Samsung Electronics and Qualcomm. Profiles cover embedded MPU competitors, innovations, partnerships, applications and regional presence.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Embedded Microprocessor Unit (MPU) Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global embedded microprocessor unit (MPU) market is experiencing strong growth as demand rises for high-performance, energy-efficient processing across connected devices,",
-      "id": "a24"
+      "id": "a19"
     }
   ]
 }
