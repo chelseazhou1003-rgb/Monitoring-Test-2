@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-11-24T16:29:33.366Z",
+  "generatedAt": "2026-11-25T01:07:32.130Z",
   "date": "2026-11-25",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), IoT & XR (2 articles), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans IoT & XR (2 articles), Semiconductors (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "IoT & XR: Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fi",
         "articleIds": [
-          "a5"
+          "a23"
         ],
         "subCategory": "iot-xr"
       },
       {
         "text": "Semiconductors: Qualcomm rose 9.8% as chip stocks rallied after Nvidia reinstated Jensen Huang as CEO.",
         "articleIds": [
-          "a33"
+          "a41"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Flagship fellowship program continues to empower the next generation of innovators tackling breakthrough research challengesSAN DIEGO, CA / ACCESS Newswire / November 23, 2026 / Technologies, Inc. off",
         "articleIds": [
-          "a36"
+          "a43"
         ],
         "subCategory": "mobile-chips"
       }
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-24T14:38:00.000Z",
-      "fetchedAt": "2026-11-24T16:29:26.190Z",
+      "fetchedAt": "2026-11-25T01:07:26.069Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "iot-xr",
@@ -48,7 +48,7 @@
         "oem"
       ],
       "summary": "Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fixed Point Digital Signal Processor Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global fixed point digital signal processor market is experiencing strong growth as demand rises for real-time signal processing, energy-efficient embedded systems and intelligent i",
-      "id": "a5"
+      "id": "a23"
     },
     {
       "title": "Embedded Microprocessor Unit (MPU) Global Market Report 2026 | Capitalize on Edge AI and IoT Growth to $59.18 Billion by 2030 with NVIDIA, Intel, Qualcomm, NXP, and Renesas",
@@ -58,7 +58,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-24T14:36:00.000Z",
-      "fetchedAt": "2026-11-24T16:29:26.190Z",
+      "fetchedAt": "2026-11-25T01:07:26.069Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "iot-xr",
@@ -68,7 +68,7 @@
         "oem"
       ],
       "summary": "Players: NVIDIA, Apple, Intel, Samsung Electronics and Qualcomm. Profiles cover embedded MPU competitors, innovations, partnerships, applications and regional presence.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Embedded Microprocessor Unit (MPU) Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global embedded microprocessor unit (MPU) market is experiencing strong growth as demand rises for high-performance, energy-efficient processing across connected devices,",
-      "id": "a6"
+      "id": "a24"
     },
     {
       "title": "Qualcomm Jumps 9.8% as Chip Stocks Rally on Nvidia News on Monday",
@@ -78,7 +78,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-23T17:04:07.000Z",
-      "fetchedAt": "2026-11-24T16:29:26.190Z",
+      "fetchedAt": "2026-11-25T01:07:26.069Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -86,7 +86,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm rose 9.8% as chip stocks rallied after Nvidia reinstated Jensen Huang as CEO.",
-      "id": "a33"
+      "id": "a41"
     },
     {
       "title": "Qualcomm Launches 2027 Innovation Fellowship Program for North America",
@@ -96,7 +96,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-23T15:20:00.000Z",
-      "fetchedAt": "2026-11-24T16:29:26.190Z",
+      "fetchedAt": "2026-11-25T01:07:26.069Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -104,43 +104,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Flagship fellowship program continues to empower the next generation of innovators tackling breakthrough research challengesSAN DIEGO, CA / ACCESS Newswire / November 23, 2026 / Technologies, Inc. officially launched the 2027 Innovation Fellowship (QIF) North America Program, opening applications for one of the company's premier university research initiatives.",
-      "id": "a36"
-    },
-    {
-      "title": "AMAT Stock Alert: David Tepper Just Poured $115 Million on This Tumbling AI Chip Stock",
-      "url": "https://www.barchart.com/story/news/8962286/amat-stock-alert-david-tepper-just-poured-115-million-on-this-tumbling-ai-chip-stock?.tsrc=rss",
-      "description": "David Tepper’s Appaloosa opened a $115 million position in Applied Materials while exiting its entire stake in AMD, Broadcom and Qualcomm.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-23T12:15:02.000Z",
-      "fetchedAt": "2026-11-24T16:29:26.190Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "David Tepper’s Appaloosa opened a $115 million position in Applied Materials while exiting its entire stake in AMD, Broadcom and Qualcomm.",
-      "id": "a37"
-    },
-    {
-      "title": "Qualcomm Is Down 42% and SK hynix Has Plunged 48% Amid the AI Sell-Off. Which Is the Better Stock to Buy for 2027?",
-      "url": "https://www.fool.com/coverage/better-buy/2026/11/23/qualcomm-is-down-42-and-sk-hynix-has-plunged-48-amid-the-ai-sell-off-which-is-the-better-stock-to-buy-for-2027/?.tsrc=rss",
-      "description": "Artificial intelligence is reshaping semiconductor demand, but these two chipmakers offer investors distinctly different opportunities as the industry heads into 2027.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-23T10:20:02.000Z",
-      "fetchedAt": "2026-11-24T16:29:26.190Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Artificial intelligence is reshaping semiconductor demand, but these two chipmakers offer investors distinctly different opportunities as the industry heads into 2027.",
-      "id": "a38"
+      "id": "a43"
     }
   ]
 }

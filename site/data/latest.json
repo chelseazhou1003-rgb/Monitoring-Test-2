@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-24T16:29:33.368Z",
+  "generatedAt": "2026-11-25T01:07:32.132Z",
   "date": "2026-11-25",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 6,
+      "articleCount": 4,
       "topHeadline": "Global Fixed Point Digital Signal Processor Market Report 2026 to 2030 | Capitalize on 8.7% CAGR as Qualcomm, MediaTek, Texas Instruments, Samsung, and Intel Accelerate Edge IoT",
-      "topHeadlineId": "a5",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), IoT & XR (2 articles), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources."
+      "topHeadlineId": "a23",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans IoT & XR (2 articles), Semiconductors (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -25,25 +25,25 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 36,
-      "topHeadline": "Tom Cotton warns Huang’s return does not end Nvidia national security questions - Washington Examiner",
+      "articleCount": 41,
+      "topHeadline": "US financial crimes bureau discloses ‘cybersecurity incident’",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (34 articles), market-performance (1 article), Customers & Partners (1 article). A total of 36 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (37 articles), market-performance (4 articles). A total of 41 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
       "articleCount": 1,
       "topHeadline": "Former UK appellate judge Sir Robin Jacob supervised Nokia’s patent enforcement on behalf of China’s MOFCOM, thinks “if anything” Nokia should sue MORE",
-      "topHeadlineId": "a15",
+      "topHeadlineId": "a31",
       "briefingSummary": "One article today covering Geopolitics & Export Controls. At Huawei's annual IP and Innovation Event, former UK appellate judge Sir Robin Jacob spoke about his experience as supervisor of Nokia's performance "
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 2,
-      "topHeadline": "Global Fixed Point Digital Signal Processor Market Report 2026 to 2030 | Capitalize on 8.7% CAGR as Qualcomm, MediaTek, Texas Instruments, Samsung, and Intel Accelerate Edge IoT",
-      "topHeadlineId": "a5",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans IoT & XR (2 articles). A total of 2 articles were aggregated from monitored sources."
+      "articleCount": 5,
+      "topHeadline": "Shein to pay $100mn to resolve US  allegations it deceived customers",
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), IoT & XR (2 articles). A total of 5 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 45
+  "totalArticles": 51
 }

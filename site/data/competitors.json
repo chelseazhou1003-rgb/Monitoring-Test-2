@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T16:29:33.366Z",
+  "generatedAt": "2026-11-25T01:07:32.130Z",
   "date": "2026-11-25",
   "section": "competitors",
   "sectionTitle": "Competitors",
@@ -9,7 +9,7 @@
       {
         "text": "Geopolitics & Export Controls: At Huawei's annual IP and Innovation Event, former UK appellate judge Sir Robin Jacob spoke about his experience as supervisor of Nokia's performance obligations vis-à-vis Chinese regulators.",
         "articleIds": [
-          "a15"
+          "a31"
         ],
         "subCategory": "geopolitics-export-controls"
       }
@@ -24,7 +24,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-24T07:23:55.000Z",
-      "fetchedAt": "2026-11-24T16:29:31.278Z",
+      "fetchedAt": "2026-11-25T01:07:30.337Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -35,7 +35,7 @@
       ],
       "stakeholders": [],
       "summary": "At Huawei's annual IP and Innovation Event, former UK appellate judge Sir Robin Jacob spoke about his experience as supervisor of Nokia's performance obligations vis-à-vis Chinese regulators.",
-      "id": "a15"
+      "id": "a31"
     }
   ]
 }
