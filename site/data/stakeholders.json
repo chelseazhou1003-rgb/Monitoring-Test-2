@@ -1,31 +1,24 @@
 {
-  "generatedAt": "2026-11-26T13:12:44.579Z",
-  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T22:38:01.261Z",
+  "date": "2026-11-27",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles), Customers & Partners (1 article), Semiconductors (1 article). A total of 8 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Customers & Partners (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Huawei Technologies Co. is preparing to release details of a new high-bandwidth memory chip that could potentially surpass current offerings from Samsung Electronics Co. and SK Hynix Inc., moving to l",
+        "text": "Geopolitics & Export Controls: Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
         "articleIds": [
-          "a11"
+          "a32"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Customers & Partners: After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the",
         "articleIds": [
-          "a33"
+          "a39"
         ],
         "subCategory": "customers-partners"
-      },
-      {
-        "text": "Semiconductors: How Qualcomm’s CMO is reshaping his team for its post-Apple era Fortune",
-        "articleIds": [
-          "a34"
-        ],
-        "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
@@ -38,27 +31,6 @@
   },
   "articles": [
     {
-      "title": "Huawei Teases Next-Gen AI Memory Chip to Take On Samsung, Hynix",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/huawei-teases-next-gen-ai-memory-chip-to-take-on-samsung-hynix",
-      "description": "Huawei Technologies Co. is preparing to release details of a new high-bandwidth memory chip that could potentially surpass current offerings from Samsung Electronics Co. and SK Hynix Inc., moving to launch Chinese production of a key AI component currently blocked by US sanctions.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-26T04:06:10.000Z",
-      "fetchedAt": "2026-11-26T13:12:37.255Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Huawei Technologies Co. is preparing to release details of a new high-bandwidth memory chip that could potentially surpass current offerings from Samsung Electronics Co. and SK Hynix Inc., moving to launch Chinese production of a key AI component currently blocked by US sanctions.",
-      "id": "a11"
-    },
-    {
       "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
       "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
       "description": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
@@ -66,7 +38,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T21:00:08.000Z",
-      "fetchedAt": "2026-11-26T13:12:36.919Z",
+      "fetchedAt": "2026-11-26T22:37:54.746Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -77,7 +49,7 @@
         "regulators"
       ],
       "summary": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
-      "id": "a21"
+      "id": "a32"
     },
     {
       "title": "How Qualcomm’s CMO is reshaping his team for its post-Apple era",
@@ -87,7 +59,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T16:01:55.000Z",
-      "fetchedAt": "2026-11-26T13:12:37.023Z",
+      "fetchedAt": "2026-11-26T22:37:54.840Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "customers-partners",
@@ -97,38 +69,17 @@
         "oem"
       ],
       "summary": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the transition.",
-      "id": "a33"
-    },
-    {
-      "title": "How Qualcomm’s CMO is reshaping his team for its post-Apple era - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQllrb1g1V0pldTVDQXVNUGlXa0o1T2RuSFh5OWszYlZwQThkU29HX1A0QXVJNEVCZkIxeVBYLTdqdzR4bGpOTXZaU1MtOXdWLXBtSnF6VzZPeW1SeFU0ajl1TEd0Wm14SG1jR1YtcGVIN0gxcFdSLWlqN1N0SGdaQjFEM3IzY1dpZHJnY2tYZlZCbFpVQlFzMWpB?oc=5",
-      "description": "How Qualcomm’s CMO is reshaping his team for its post-Apple era Fortune",
-      "source": "Fortune",
-      "sourceId": "fortune",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-25T16:01:00.000Z",
-      "fetchedAt": "2026-11-26T13:12:43.368Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Fortune",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "How Qualcomm’s CMO is reshaping his team for its post-Apple era Fortune",
-      "id": "a34"
+      "id": "a39"
     },
     {
       "title": "Samsung hit with US import ban in Maxell patent fight",
-      "url": "https://www.iam-media.com/index.php/article/samsung-hit-us-import-ban-in-maxell-patent-fight",
+      "url": "https://www.iam-media.com/article/samsung-hit-us-import-ban-in-maxell-patent-fight",
       "description": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
       "source": "IAM",
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-25T09:23:32.000Z",
-      "fetchedAt": "2026-11-26T13:12:39.956Z",
+      "fetchedAt": "2026-11-26T22:37:56.963Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -151,7 +102,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T05:23:47.000Z",
-      "fetchedAt": "2026-11-26T13:12:37.023Z",
+      "fetchedAt": "2026-11-26T22:37:54.840Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -164,27 +115,6 @@
       "id": "a48"
     },
     {
-      "title": "BREAKING: ITC hits Samsung with import ban for infringement of Maxell content-casting patent",
-      "url": "https://ipfray.com/itc-hits-samsung-with-import-ban-for-infringement-of-maxell-content-casting-patent/",
-      "description": "The ITC has issued a limited exclusion order and a cease-and-desist order which primarily impact the Korean brand's Galaxy S25 smartphones.",
-      "source": "IP Fray",
-      "sourceId": "ip-fray",
-      "sourceGroup": "ip",
-      "publishedAt": "2026-11-24T22:46:02.000Z",
-      "fetchedAt": "2026-11-26T13:12:42.263Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "The ITC has issued a limited exclusion order and a cease-and-desist order which primarily impact the Korean brand's Galaxy S25 smartphones.",
-      "id": "a50"
-    },
-    {
       "title": "Component costs, car woes weigh on Xiaomi top-line",
       "url": "https://www.mobileworldlive.com/xiaomi/component-costs-car-woes-weigh-on-xiaomi-top-line/",
       "description": "Xiaomi reported a 57% year-on-year drop in net profit for the third quarter of 2026, as it bemoaned rising component costs and reduced demand for its vehicles in China. The post Component costs, car woes weigh on Xiaomi top-line appeared first on Mobile World Live.",
@@ -192,7 +122,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-24T16:43:15.000Z",
-      "fetchedAt": "2026-11-26T13:12:42.466Z",
+      "fetchedAt": "2026-11-26T22:37:59.500Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -203,7 +133,7 @@
         "oem"
       ],
       "summary": "Xiaomi reported a 57% year-on-year drop in net profit for the third quarter of 2026, as it bemoaned rising component costs and reduced demand for its vehicles in China. The post Component costs, car woes weigh on Xiaomi top-line appeared first on Mobile World Live.",
-      "id": "a54"
+      "id": "a52"
     }
   ]
 }

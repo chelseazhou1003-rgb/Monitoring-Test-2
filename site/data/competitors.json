@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-26T13:12:44.579Z",
-  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T22:38:01.261Z",
+  "date": "2026-11-27",
   "section": "competitors",
   "sectionTitle": "Competitors",
   "briefing": {
@@ -18,13 +18,13 @@
   "articles": [
     {
       "title": "Samsung hit with US import ban in Maxell patent fight",
-      "url": "https://www.iam-media.com/index.php/article/samsung-hit-us-import-ban-in-maxell-patent-fight",
+      "url": "https://www.iam-media.com/article/samsung-hit-us-import-ban-in-maxell-patent-fight",
       "description": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
       "source": "IAM",
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-25T09:23:32.000Z",
-      "fetchedAt": "2026-11-26T13:12:39.956Z",
+      "fetchedAt": "2026-11-26T22:37:56.963Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T13:12:44.581Z",
-  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T22:38:01.263Z",
+  "date": "2026-11-27",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 9,
-      "topHeadline": "Qualcomm vs. Sandisk: Which Technology Stock Is a Better Buy for 2027?",
-      "topHeadlineId": "a20",
+      "topHeadline": "What Is Qualcomm (QCOM) Worth Watching In Automotive AI Right Now?",
+      "topHeadlineId": "a6",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (2 articles), Automotive (1 article). A total of 9 articles were aggregated from monitored sources."
     },
     "ip-legal": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 47,
-      "topHeadline": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+      "articleCount": 44,
+      "topHeadline": "Nvidia Chip Sellers Scramble to Find Customers After Government Tightens China Remote Access Rules - Breitbart",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (40 articles), market-performance (6 articles), Customers & Partners (1 article). A total of 47 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (37 articles), market-performance (6 articles), Customers & Partners (1 article). A total of 44 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 8,
-      "topHeadline": "Huawei Teases Next-Gen AI Memory Chip to Take On Samsung, Hynix",
-      "topHeadlineId": "a11",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles), Customers & Partners (1 article), Semiconductors (1 article). A total of 8 articles were aggregated from monitored sources."
+      "articleCount": 5,
+      "topHeadline": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+      "topHeadlineId": "a32",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Customers & Partners (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 65
+  "totalArticles": 59
 }
