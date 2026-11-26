@@ -1,49 +1,63 @@
 {
-  "generatedAt": "2026-11-26T03:11:39.884Z",
+  "generatedAt": "2026-11-26T13:12:44.579Z",
   "date": "2026-11-26",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Platform & Ecosystem Partners (1 article), Customers & Partners (1 article). A total of 8 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles), Customers & Partners (1 article), Semiconductors (1 article). A total of 8 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+        "text": "Geopolitics & Export Controls: Huawei Technologies Co. is preparing to release details of a new high-bandwidth memory chip that could potentially surpass current offerings from Samsung Electronics Co. and SK Hynix Inc., moving to l",
         "articleIds": [
-          "a8"
+          "a11"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "Platform & Ecosystem Partners: The Fairphone 6 Plus comes with 12 replaceable parts. | Photo: Dominic Preston / The Verge Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that",
-        "articleIds": [
-          "a14"
-        ],
-        "subCategory": "platform-partner"
-      },
-      {
         "text": "Customers & Partners: After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the",
         "articleIds": [
-          "a19"
+          "a33"
         ],
         "subCategory": "customers-partners"
       },
       {
         "text": "Semiconductors: How Qualcomm’s CMO is reshaping his team for its post-Apple era Fortune",
         "articleIds": [
-          "a20"
+          "a34"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
         "articleIds": [
-          "a43"
+          "a48"
         ],
         "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Huawei Teases Next-Gen AI Memory Chip to Take On Samsung, Hynix",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/huawei-teases-next-gen-ai-memory-chip-to-take-on-samsung-hynix",
+      "description": "Huawei Technologies Co. is preparing to release details of a new high-bandwidth memory chip that could potentially surpass current offerings from Samsung Electronics Co. and SK Hynix Inc., moving to launch Chinese production of a key AI component currently blocked by US sanctions.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-26T04:06:10.000Z",
+      "fetchedAt": "2026-11-26T13:12:37.255Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Huawei Technologies Co. is preparing to release details of a new high-bandwidth memory chip that could potentially surpass current offerings from Samsung Electronics Co. and SK Hynix Inc., moving to launch Chinese production of a key AI component currently blocked by US sanctions.",
+      "id": "a11"
+    },
     {
       "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
       "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
@@ -52,7 +66,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T21:00:08.000Z",
-      "fetchedAt": "2026-11-26T03:11:32.209Z",
+      "fetchedAt": "2026-11-26T13:12:36.919Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -63,27 +77,7 @@
         "regulators"
       ],
       "summary": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
-      "id": "a8"
-    },
-    {
-      "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
-      "url": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
-      "description": "The Fairphone 6 Plus comes with 12 replaceable parts. | Photo: Dominic Preston / The Verge Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, especially now that it’s dropped to a new low of $552.49 (about $98 off) at Amazon as part of the retailer’s ongoing Black Friday sale. Fairphone 6 Plus Where to Buy: $649.99 $552.49 at Amazon (black) $649.99 $552.49 at Amazon (green) $649.99 $552.49 at Amazon (blue) The 6.3-inch Fairphone 6 Plus features 12 user-replaceable parts, including the battery, screen, USB-C port, and cameras, all of which you can swap out with the included screwdriver. Replacement parts are relatively affordable, too; a new battery costs $39.99, which helps offset its middling battery life and lack of wireless charging. It also comes with a five-year warranty and up to six Android OS upgrades, making it a good option if you want a phone you can keep using for years. Although repairability is its marquee feature, the 6 Plus is also a solid midrange Android device. Fairphone prioritizes ethically sourced materials, making it a strong choice for environmentally conscious buyers who don’t want to sacrifice performance. Its Snapdragon 7s Gen 4 processor handles everyday tasks well, and its cameras take decent photos, though they’re not quite on par with those of pricier phones. What’s more, it offers a clean, bloatware-free Android experience and modular back panels, which you can swap for optional accessories like a card holder or crossbody strap. Our own Allison Johnson particularly liked the phone’s dedicated switch for turning on customizable focus modes called Moments, which can simplify your homescreen and limit access to distracting apps — something we could all use a little less of. Read our full Fairphone 6 Plus review.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-11-25T18:00:00.000Z",
-      "fetchedAt": "2026-11-26T03:11:33.067Z",
-      "fetchStrategy": "rss",
-      "section": "stakeholders",
-      "subCategory": "platform-partner",
-      "subLabel": "Platform & Ecosystem Partners",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "The Fairphone 6 Plus comes with 12 replaceable parts. | Photo: Dominic Preston / The Verge Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, especially now that it’s dropped to a new low of $552.49 (about $98 off) at Amazon as part of the retailer’s ongoing Black Friday sale. Fairphone 6 Plus Where to Buy: $649.99 $552.49 at Amazon (black) $649.99 $552.49 at Amazon (green) $649.99 $552.49 at Amazon (blue) The 6.3-inch Fairphone 6 Plus features 12 user-replaceable parts, including the battery, screen, USB-C port, and cameras, all of which you can swap out with the included screwdriver. Replacement parts are relatively affordable, too; a new battery costs $39.99, which helps offset its middling battery life and lack of wireless charging.",
-      "id": "a14"
+      "id": "a21"
     },
     {
       "title": "How Qualcomm’s CMO is reshaping his team for its post-Apple era",
@@ -93,7 +87,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T16:01:55.000Z",
-      "fetchedAt": "2026-11-26T03:11:32.204Z",
+      "fetchedAt": "2026-11-26T13:12:37.023Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "customers-partners",
@@ -103,7 +97,7 @@
         "oem"
       ],
       "summary": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the transition.",
-      "id": "a19"
+      "id": "a33"
     },
     {
       "title": "How Qualcomm’s CMO is reshaping his team for its post-Apple era - Fortune",
@@ -113,7 +107,7 @@
       "sourceId": "fortune",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T16:01:00.000Z",
-      "fetchedAt": "2026-11-26T03:11:38.640Z",
+      "fetchedAt": "2026-11-26T13:12:43.368Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Fortune",
       "section": "core-businesses",
@@ -124,17 +118,17 @@
         "oem"
       ],
       "summary": "How Qualcomm’s CMO is reshaping his team for its post-Apple era Fortune",
-      "id": "a20"
+      "id": "a34"
     },
     {
       "title": "Samsung hit with US import ban in Maxell patent fight",
-      "url": "https://www.iam-media.com/article/samsung-hit-us-import-ban-in-maxell-patent-fight",
+      "url": "https://www.iam-media.com/index.php/article/samsung-hit-us-import-ban-in-maxell-patent-fight",
       "description": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
       "source": "IAM",
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-25T09:23:32.000Z",
-      "fetchedAt": "2026-11-26T03:11:35.503Z",
+      "fetchedAt": "2026-11-26T13:12:39.956Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -147,7 +141,7 @@
         "oem"
       ],
       "summary": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-      "id": "a35"
+      "id": "a46"
     },
     {
       "title": "Xiaomi’s Memory-Squeezed Phone Sales Are Bad News for Qualcomm. Here’s the Number That Matters",
@@ -157,7 +151,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T05:23:47.000Z",
-      "fetchedAt": "2026-11-26T03:11:32.204Z",
+      "fetchedAt": "2026-11-26T13:12:37.023Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -167,7 +161,7 @@
         "oem"
       ],
       "summary": "Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
-      "id": "a43"
+      "id": "a48"
     },
     {
       "title": "BREAKING: ITC hits Samsung with import ban for infringement of Maxell content-casting patent",
@@ -177,7 +171,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-24T22:46:02.000Z",
-      "fetchedAt": "2026-11-26T03:11:37.908Z",
+      "fetchedAt": "2026-11-26T13:12:42.263Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -188,7 +182,7 @@
         "oem"
       ],
       "summary": "The ITC has issued a limited exclusion order and a cease-and-desist order which primarily impact the Korean brand's Galaxy S25 smartphones.",
-      "id": "a47"
+      "id": "a50"
     },
     {
       "title": "Component costs, car woes weigh on Xiaomi top-line",
@@ -198,7 +192,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-24T16:43:15.000Z",
-      "fetchedAt": "2026-11-26T03:11:37.722Z",
+      "fetchedAt": "2026-11-26T13:12:42.466Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -209,7 +203,7 @@
         "oem"
       ],
       "summary": "Xiaomi reported a 57% year-on-year drop in net profit for the third quarter of 2026, as it bemoaned rising component costs and reduced demand for its vehicles in China. The post Component costs, car woes weigh on Xiaomi top-line appeared first on Mobile World Live.",
-      "id": "a51"
+      "id": "a54"
     }
   ]
 }
