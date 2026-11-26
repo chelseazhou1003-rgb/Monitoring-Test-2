@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-11-25T20:13:49.772Z",
+    "generatedAt": "2026-11-26T03:11:39.884Z",
     "date": "2026-11-26",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -12,7 +12,7 @@ export const NEWS_DATA = {
         {
           "text": "Geopolitics & Export Controls: The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
           "articleIds": [
-            "a27"
+            "a35"
           ],
           "subCategory": "geopolitics-export-controls"
         }
@@ -27,7 +27,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-25T09:23:32.000Z",
-        "fetchedAt": "2026-11-25T20:13:45.822Z",
+        "fetchedAt": "2026-11-26T03:11:35.503Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -40,49 +40,96 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-        "id": "a27"
+        "id": "a35"
       }
     ]
   },
   "core-businesses": {
-    "generatedAt": "2026-11-25T20:13:49.772Z",
+    "generatedAt": "2026-11-26T03:11:39.884Z",
     "date": "2026-11-26",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles), Automotive (1 article). A total of 7 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (2 articles), Automotive (1 article). A total of 9 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Mobile Chips: Broadcom's AI and software push and Qualcomm's mobile dominance pull in very different directions, and their valuations tell a surprisingly close story.",
+          "text": "Semiconductors: Sandisk's revenue surged over 270%, driven by demand for cloud memory, while Qualcomm is branching into automotive and satellite connectivity. Which chip stock holds up better?",
           "articleIds": [
-            "a12"
-          ],
-          "subCategory": "mobile-chips"
-        },
-        {
-          "text": "Semiconductors: How Qualcomm’s CMO is reshaping his team for its post-Apple era Fortune",
-          "articleIds": [
-            "a15"
+            "a7"
           ],
           "subCategory": "semiconductors"
         },
         {
-          "text": "Automotive: Key TakeawaysQualcomm’s (QCOM:NASDAQ) auto revenue reached $2 billion in its September quarter, up 89%, and SemiAnalysis predicts it will pass Infineon (IFNNY) and NXP Semiconductors (NXPI:NASDAQ) in ",
+          "text": "Mobile Chips: Broadcom's AI and software push and Qualcomm's mobile dominance pull in very different directions, and their valuations tell a surprisingly close story.",
           "articleIds": [
-            "a21"
+            "a17"
           ],
-          "subCategory": "automotive"
+          "subCategory": "mobile-chips"
         },
         {
-          "text": "IoT & XR: Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fi",
+          "text": "Automotive: Key TakeawaysQualcomm’s (QCOM:NASDAQ) auto revenue reached $2 billion in its September quarter, up 89%, and SemiAnalysis predicts it will pass Infineon (IFNNY) and NXP Semiconductors (NXPI:NASDAQ) in ",
           "articleIds": [
-            "a47"
+            "a25"
           ],
-          "subCategory": "iot-xr"
+          "subCategory": "automotive"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Qualcomm vs. Sandisk: Which Technology Stock Is a Better Buy for 2027?",
+        "url": "https://www.fool.com/coverage/better-buy/2026/11/25/qualcomm-vs-sandisk-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+        "description": "Sandisk's revenue surged over 270%, driven by demand for cloud memory, while Qualcomm is branching into automotive and satellite connectivity. Which chip stock holds up better?",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-25T21:20:02.000Z",
+        "fetchedAt": "2026-11-26T03:11:32.204Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Sandisk's revenue surged over 270%, driven by demand for cloud memory, while Qualcomm is branching into automotive and satellite connectivity. Which chip stock holds up better?",
+        "id": "a7"
+      },
+      {
+        "title": "What Sent Qualcomm Stock Higher?",
+        "url": "https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
+        "description": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-25T20:23:30.000Z",
+        "fetchedAt": "2026-11-26T03:11:32.204Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+        "id": "a10"
+      },
+      {
+        "title": "Billionaire Brad Gerstner’s Altimeter Opened a $680 Million Tesla Stake and Exited Qualcomm and Applied Materials",
+        "url": "https://247wallst.com/investing/2026/11/25/billionaire-brad-gerstners-altimeter-opened-a-680-million-tesla-stake-and-exited-qualcomm-and-applied-materials/?.tsrc=rss",
+        "description": "Altimeter dumped two chip-equipment names, bought a put on the semiconductor sector, and bet big on Elon Musk's robots and robotaxis. Gerstner stays silent on why, but Tesla's own numbers and a steep valuation hint at the real tension.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-25T20:22:01.000Z",
+        "fetchedAt": "2026-11-26T03:11:32.204Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Altimeter dumped two chip-equipment names, bought a put on the semiconductor sector, and bet big on Elon Musk's robots and robotaxis. Gerstner stays silent on why, but Tesla's own numbers and a steep valuation hint at the real tension.",
+        "id": "a11"
+      },
       {
         "title": "Broadcom vs. Qualcomm: Which Technology Stock Is a Better Buy for 2027?",
         "url": "https://www.fool.com/coverage/better-buy/2026/11/25/broadcom-vs-qualcomm-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
@@ -91,7 +138,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T16:52:01.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.655Z",
+        "fetchedAt": "2026-11-26T03:11:32.204Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -99,7 +146,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Broadcom's AI and software push and Qualcomm's mobile dominance pull in very different directions, and their valuations tell a surprisingly close story.",
-        "id": "a12"
+        "id": "a17"
       },
       {
         "title": "How Qualcomm’s CMO is reshaping his team for its post-Apple era - Fortune",
@@ -109,7 +156,7 @@ export const NEWS_DATA = {
         "sourceId": "fortune",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T16:01:00.000Z",
-        "fetchedAt": "2026-11-25T20:13:48.570Z",
+        "fetchedAt": "2026-11-26T03:11:38.640Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Fortune",
         "section": "core-businesses",
@@ -120,7 +167,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "How Qualcomm’s CMO is reshaping his team for its post-Apple era Fortune",
-        "id": "a15"
+        "id": "a20"
       },
       {
         "title": "Qualcomm Sets Stunning $500 Stock Target for CEO",
@@ -130,7 +177,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T14:48:51.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.655Z",
+        "fetchedAt": "2026-11-26T03:11:32.204Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -138,7 +185,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Shareholders have a new benchmark for the company's ambitions.",
-        "id": "a18"
+        "id": "a23"
       },
       {
         "title": "Prediction: Qualcomm Becomes the Top Auto Chipmaker in 2027, “a Story the Market Has Quietly Ignored,” per SemiAnalysis",
@@ -148,7 +195,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T14:05:57.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.655Z",
+        "fetchedAt": "2026-11-26T03:11:32.204Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "automotive",
@@ -156,7 +203,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Key TakeawaysQualcomm’s (QCOM:NASDAQ) auto revenue reached $2 billion in its September quarter, up 89%, and SemiAnalysis predicts it will pass Infineon (IFNNY) and NXP Semiconductors (NXPI:NASDAQ) in 2027 to become the largest auto chipmaker. The growth comes from more Qualcomm content in each car, so it doesn’t depend on car sales.",
-        "id": "a21"
+        "id": "a25"
       },
       {
         "title": "A $65 Million Reason Why Qualcomm Stock In Focus Today",
@@ -166,7 +213,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T11:58:31.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.655Z",
+        "fetchedAt": "2026-11-26T03:11:32.204Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -174,7 +221,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm rewards its two top leaders with huge stock awards meant to keep them for the long haul",
-        "id": "a22"
+        "id": "a27"
       },
       {
         "title": "Xiaomi’s Memory-Squeezed Phone Sales Are Bad News for Qualcomm. Here’s the Number That Matters",
@@ -184,7 +231,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T05:23:47.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.655Z",
+        "fetchedAt": "2026-11-26T03:11:32.204Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -194,32 +241,12 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
-        "id": "a33"
-      },
-      {
-        "title": "Global Fixed Point Digital Signal Processor Market Report 2026 to 2030 | Capitalize on 8.7% CAGR as Qualcomm, MediaTek, Texas Instruments, Samsung, and Intel Accelerate Edge IoT",
-        "url": "https://finance.yahoo.com/technology/articles/global-fixed-point-digital-signal-143800586.html?.tsrc=rss",
-        "description": "Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fixed Point Digital Signal Processor Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global fixed point digital signal processor market is experiencing strong growth as demand rises for real-time signal processing, energy-efficient embedded systems and intelligent i",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-24T14:38:00.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.655Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "iot-xr",
-        "subLabel": "IoT & XR",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fixed Point Digital Signal Processor Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global fixed point digital signal processor market is experiencing strong growth as demand rises for real-time signal processing, energy-efficient embedded systems and intelligent i",
-        "id": "a47"
+        "id": "a43"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-11-25T20:13:49.772Z",
+    "generatedAt": "2026-11-26T03:11:39.884Z",
     "date": "2026-11-26",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -230,7 +257,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-11-25T20:13:49.772Z",
+    "generatedAt": "2026-11-26T03:11:39.884Z",
     "date": "2026-11-26",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -241,15 +268,15 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-11-25T20:13:49.774Z",
+    "generatedAt": "2026-11-26T03:11:39.885Z",
     "date": "2026-11-26",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 7,
-        "topHeadline": "Broadcom vs. Qualcomm: Which Technology Stock Is a Better Buy for 2027?",
-        "topHeadlineId": "a12",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles), Automotive (1 article). A total of 7 articles were aggregated from monitored sources."
+        "articleCount": 9,
+        "topHeadline": "Qualcomm vs. Sandisk: Which Technology Stock Is a Better Buy for 2027?",
+        "topHeadlineId": "a7",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (2 articles), Automotive (1 article). A total of 9 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
@@ -267,109 +294,109 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 41,
-        "topHeadline": "Huang back at Nvidia as China builds own chip production system - Nikkei Asia",
+        "articleCount": 43,
+        "topHeadline": "ANALYSIS - Jensen Huang's return to Nvidia fuels Washington fight over China's chip access - Awani International",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (33 articles), market-performance (7 articles), Customers & Partners (1 article). A total of 41 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (37 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 43 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
         "articleCount": 1,
         "topHeadline": "Samsung hit with US import ban in Maxell patent fight",
-        "topHeadlineId": "a27",
+        "topHeadlineId": "a35",
         "briefingSummary": "One article today covering Geopolitics & Export Controls. The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win"
       },
       "stakeholders": {
         "title": "Key Stakeholders",
         "articleCount": 8,
-        "topHeadline": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
-        "topHeadlineId": "a6",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Platform & Ecosystem Partners (1 article), Customers & Partners (1 article). A total of 8 articles were aggregated from monitored sources."
+        "topHeadline": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+        "topHeadlineId": "a8",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Platform & Ecosystem Partners (1 article), Customers & Partners (1 article). A total of 8 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 57
+    "totalArticles": 61
   },
   "macro-environment": {
-    "generatedAt": "2026-11-25T20:13:49.772Z",
+    "generatedAt": "2026-11-26T03:11:39.884Z",
     "date": "2026-11-26",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (33 articles), market-performance (7 articles), Customers & Partners (1 article). A total of 41 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (37 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 43 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Huang back at Nvidia as China builds own chip production system Nikkei Asia",
+          "text": "Geopolitics & Export Controls: ANALYSIS - Jensen Huang's return to Nvidia fuels Washington fight over China's chip access Awani International",
           "articleIds": [
             "a1"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
-          "text": "market-performance: Bloomberg’s Ed Ludlow takes a look at markets as the Nasdaq 100 touches bear-market territory with traders dumping tech shares. Plus, Nvidia shares also tumble after the return of CEO Jensen Huang, wi",
+          "text": "Customers & Partners: After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the",
           "articleIds": [
-            "a5"
-          ],
-          "subCategory": "market-performance"
-        },
-        {
-          "text": "Customers & Partners: After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company's marketing strategy to support the",
-          "articleIds": [
-            "a14"
+            "a19"
           ],
           "subCategory": "customers-partners"
+        },
+        {
+          "text": "market-performance: Key TakeawaysA fund with $3. 2 billion in US stocks bought IQVIA (IQV:NYSE) and added to Qualcomm (QCOM:NASDAQ) and QXO (QXO:NYSE) in Q3.",
+          "articleIds": [
+            "a29"
+          ],
+          "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
       {
-        "title": "Huang back at Nvidia as China builds own chip production system - Nikkei Asia",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU3NCeXdFRXp2VnpnMGVxX1c1blgxenI0N2pwQjMyRnhZNnNZakRhYk4tVy1jSnpiVFE1VnRtR2lRbUQwUzg4TW1mTFA4QVRzV05OUGhVd19BQUVFR1VuSnpkRXJVaC1iOExLVVgtb3prb1RFM3NydE15Snh5OWVGUFlzcW1Hc001aHY4aGxhNVY0VGU0SWlXRFFDTQ?oc=5",
-        "description": "Huang back at Nvidia as China builds own chip production system Nikkei Asia",
+        "title": "ANALYSIS - Jensen Huang's return to Nvidia fuels Washington fight over China's chip access - Awani International",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU1lRaENkSDUzaGdlcV9Tc3Biay11UEJLWWNqa2xNdzZVNmtKVEZIa0s2NW9rRGo2N3lXcjNKemdhak9GaV9Jd3FONENrM29hTEtweUVzUjBoLTN1QVpkdC00ZXBhMjhxbFhabmVqVl81d1hZamdnYjlLUW41VmgyWncxektiVFBidEFpMW1WZEFDX2lUVHBPLTZSVzB2amxIeE5lc2dIOHY5S2w5akd0bXE1NkszMGpYb1lNcF9JQVFvTm5zeTRlVUpaXzA5RzZCR3c?oc=5",
+        "description": "ANALYSIS - Jensen Huang's return to Nvidia fuels Washington fight over China's chip access Awani International",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-25T20:05:00.000Z",
-        "fetchedAt": "2026-11-25T20:13:49.717Z",
+        "publishedAt": "2026-11-26T02:49:17.000Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "Nikkei Asia",
+        "googleNewsSource": "Awani International",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Huang back at Nvidia as China builds own chip production system Nikkei Asia",
+        "summary": "ANALYSIS - Jensen Huang's return to Nvidia fuels Washington fight over China's chip access Awani International",
         "id": "a1"
       },
       {
-        "title": "Explainer-How China got access to Nvidia’s AI chips despite rules to stop them - KFGO",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ2I1TTZ4bGZWZVZ5Zk5EN1ZMLWdCYTFMaDRZVzg2V0xpa1BRWnhhSnoxWFR2NFIya0ZseFJPcmpUYlNXMldES0YtOEx0NXh2TVJHTDNNZlJ5b0hkcTZOdHR1NzdBbHBMYTVOX2hMTkRVekhON1ZHdVU5TUxzVXUzcVlYem1zR2dPVG5nd2VoT0Z5aXBlWk9ncC0yamtmNm8zWlptNUcyS3RBZw?oc=5",
-        "description": "Explainer-How China got access to Nvidia’s AI chips despite rules to stop them KFGO",
+        "title": "Congress Moves to Tighten Chip Export Controls - Wisevoter",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM2xtTktsZWtfQzlOWmVsUV9mWFp0YkNxV0I4U0dWWTFwUFV3dWtXUm53YUhXNG1BYUpDQnpvSDhZVVVSQjdzaVJKOVR1QkctSGFnQkNCZnM4NXJqYzdKQXRrNDN6VnY3dXJpTUFMaHZ5ckhHOHdVV3o4bDN2c0lWalVoOTBfWDNzbG5Ldk1laDVQQQ?oc=5",
+        "description": "Congress Moves to Tighten Chip Export Controls Wisevoter",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-25T19:56:23.000Z",
-        "fetchedAt": "2026-11-25T20:13:49.717Z",
+        "publishedAt": "2026-11-26T02:23:01.000Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "KFGO",
+        "googleNewsSource": "Wisevoter",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Explainer-How China got access to Nvidia’s AI chips despite rules to stop them KFGO",
+        "summary": "Congress Moves to Tighten Chip Export Controls Wisevoter",
         "id": "a2"
       },
       {
-        "title": "Can US Chip Controls Slow China’s AI Progress?",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-25/can-us-chip-controls-slow-china-s-ai-progress-video",
-        "description": "Nvidia is at the center of a renewed debate over how much access China should have to advanced US AI chips. CSIS’s Emily Harding discusses whether export controls can meaningfully slow China’s AI progress without accelerating its domestic chip industry, what lawmakers should ask Jensen Huang when he testifies before Congress, and why technology companies increasingly need to think of themselves as potential national security targets. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
+        "title": "‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback",
+        "url": "https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1",
+        "description": "Jensen Huang is among the few business leaders to straddle both sides of the Taiwan Strait",
+        "source": "Financial Times",
+        "sourceId": "ft",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-25T18:32:16.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.668Z",
+        "publishedAt": "2026-11-26T00:45:54.000Z",
+        "fetchedAt": "2026-11-26T03:11:32.744Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -377,66 +404,48 @@ export const NEWS_DATA = {
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Nvidia is at the center of a renewed debate over how much access China should have to advanced US AI chips. CSIS’s Emily Harding discusses whether export controls can meaningfully slow China’s AI progress without accelerating its domestic chip industry, what lawmakers should ask Jensen Huang when he testifies before Congress, and why technology companies increasingly need to think of themselves as potential national security targets. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+        "summary": "Jensen Huang is among the few business leaders to straddle both sides of the Taiwan Strait",
         "id": "a3"
       },
       {
-        "title": "US Genesis Mission Looks to AI to Accelerate Science",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-25/us-genesis-mission-looks-to-ai-to-accelerate-science-video",
-        "description": "One year after the launch of the Genesis Mission, the US Department of Energy says the AI-driven initiative has grown to nearly 300 research projects spanning energy, biology, advanced manufacturing and national security. DOE Undersecretary for Science Dario Gil discusses using AI to simulate the power grid 1,000 times faster, efforts to accelerate nuclear and fusion development, and the goal of doubling the productivity and impact of US research and development within a decade. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-25T18:30:27.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.668Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "One year after the launch of the Genesis Mission, the US Department of Energy says the AI-driven initiative has grown to nearly 300 research projects spanning energy, biology, advanced manufacturing and national security. DOE Undersecretary for Science Dario Gil discusses using AI to simulate the power grid 1,000 times faster, efforts to accelerate nuclear and fusion development, and the goal of doubling the productivity and impact of US research and development within a decade. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-        "id": "a4"
-      },
-      {
-        "title": "Nasdaq 100 Tumbles in ‘Sell First’ Mode",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-25/bloomberg-tech-11-25-2026-video",
-        "description": "Bloomberg’s Ed Ludlow takes a look at markets as the Nasdaq 100 touches bear-market territory with traders dumping tech shares. Plus, Nvidia shares also tumble after the return of CEO Jensen Huang, with the stock remaining down 35% from its October 6 peak; and Under Secretary of Energy Dario Gil joins to discuss AI's role in national security on the one-year anniversary of President Trump's Genesis Mission. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-25T18:28:16.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.668Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Bloomberg’s Ed Ludlow takes a look at markets as the Nasdaq 100 touches bear-market territory with traders dumping tech shares. Plus, Nvidia shares also tumble after the return of CEO Jensen Huang, with the stock remaining down 35% from its October 6 peak; and Under Secretary of Energy Dario Gil joins to discuss AI's role in national security on the one-year anniversary of President Trump's Genesis Mission.",
-        "id": "a5"
-      },
-      {
-        "title": "In backing Nvidia’s Huang, Trump deals his China hawks a setback - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcmJ6ZEs2YmJNVWgtVTAwMXIycHFWYWdGNlhfLUl6dThuMlY2ODFFZm9LVTlwaThWSWZodUpPbUMxR1pMSEVybEN2MEJ0bUlHV0xyeFpDLVVVZXp1UWtBVnBUUzVMSWlIMFpNQUhvRjlnbXpLaF91NWNFRExIejhjRUZuSmNuS2owVHVqdC1UYVVfSlFzdGtkUDJfY1ZvSG42OEVpYkI3MFNfU3c?oc=5",
-        "description": "In backing Nvidia’s Huang, Trump deals his China hawks a setback The Washington Post",
+        "title": "U.S. targets ASML servicing in China, Netherlands pushes back - 디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdnktbkNiS1hvYlRycU5nU0VSb2ppcEJKZGtVbVBuc19sZHhqcUdERG8xd3dJUm9vM01qLTZMNV9ibU5PSE1Jb1NmcmNOek14SE5xWW1STUJTQThjdVUyY0xyMWwzdkNjYkt6VWI0MlpLN21wMXZTWG0yRkw2b1dxYzdnNnNjb0QwZEJESUtnR05VclhiTGZXaTVtZ01NZ3Y1bUFXT25OZ1BiUFRadHc?oc=5",
+        "description": "U.S. targets ASML servicing in China, Netherlands pushes back 디지털투데이",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-25T18:00:00.000Z",
-        "fetchedAt": "2026-11-25T20:13:49.717Z",
+        "publishedAt": "2026-11-25T23:41:48.000Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "The Washington Post",
+        "googleNewsSource": "디지털투데이",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "In backing Nvidia’s Huang, Trump deals his China hawks a setback The Washington Post",
-        "id": "a7"
+        "summary": "targets ASML servicing in China, Netherlands pushes back 디지털투데이",
+        "id": "a4"
+      },
+      {
+        "title": "Jensen Huang's dilemma: Nvidia CEO returns but China business in fog - 디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlhkQ0lIakRoQ1k4LWZ1YzZ1YU0wNzZqWVY4N2xUMS1TVklOU2NTTW1NY211N1JUSlBfRGhKc0k0X285NFBRVTEyWXN5VGdkQmhPeDdKeVVfY0JzaHVJRG0wYi14MktpSlcxZ2NubWdtemJMT1d5STA3OTA1WUhSblJGOFJXeTMzeGQ3NW51R2EwVnZGUEVyVDcwdUstdXg5SGk1UlBKN2xZdV9LWHVPMWdn?oc=5",
+        "description": "Jensen Huang's dilemma: Nvidia CEO returns but China business in fog 디지털투데이",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-25T23:19:04.000Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "디지털투데이",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Jensen Huang's dilemma: Nvidia CEO returns but China business in fog 디지털투데이",
+        "id": "a5"
       },
       {
         "title": "US export control agency accuses semiconductor company of illicit Russia, China sales - Global Investigations Review",
@@ -445,8 +454,8 @@ export const NEWS_DATA = {
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-25T17:31:27.000Z",
-        "fetchedAt": "2026-11-25T20:13:49.717Z",
+        "publishedAt": "2026-11-25T23:14:07.000Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Global Investigations Review",
         "geopoliticalBypass": true,
@@ -456,26 +465,88 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US export control agency accuses semiconductor company of illicit Russia, China sales Global Investigations Review",
-        "id": "a8"
+        "id": "a6"
       },
       {
-        "title": "Nasdaq 100 Enters Bear Market",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-25/open-interest-11-25-2026-video",
-        "description": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Another brutal day for the AI trade. The Nasdaq 100 enters bear-market territory as the global tech rout deepens. President Trump rebuilds his tariff wall, targeting China, Europe and other major trading partners. And Treasuries rally as fresh inflation data keeps a December Fed hike in play. White House economic adviser Kevin Hassett joins Bloomberg Open Interest on what he calls a “goldilocks” economy, rates and the road ahead. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
+        "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+        "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+        "description": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-25T17:27:09.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.668Z",
+        "publishedAt": "2026-11-25T21:00:08.000Z",
+        "fetchedAt": "2026-11-26T03:11:32.209Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
+        "stakeholders": [
+          "regulators"
+        ],
+        "summary": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+        "id": "a8"
+      },
+      {
+        "title": "Lam Research (LRCX) Stock Slides 6.71% in Afternoon Trading on AI Selloff, China Curb Fears - JournalArta",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRUVjczlYdDNJb2hNUVRjcEVxTXRrRV9Ua0prOGltcFpqdUdyUjltbF9XbXZiVmZXM0lkRnpqWlozLW1peXFlUkR6NXdDRmRhUjRDSnVtVG9Gc3JodUdRQ0RHbXVwSTFGWF9rZkZwTXFaa2ljaWROTGQxdTJnQVpoNXFEV1lrdmRUdGU5eTVraEFoQ2dnVmZzOGVwY2NEQk9xRG9sQjIyUWstVThQdU1rTnZJRmVDOGtqNXhsRWxINFc?oc=5",
+        "description": "Lam Research (LRCX) Stock Slides 6.71% in Afternoon Trading on AI Selloff, China Curb Fears JournalArta",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-25T20:29:53.000Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "JournalArta",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
         "stakeholders": [],
-        "summary": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Another brutal day for the AI trade. The Nasdaq 100 enters bear-market territory as the global tech rout deepens. President Trump rebuilds his tariff wall, targeting China, Europe and other major trading partners. And Treasuries rally as fresh inflation data keeps a December Fed hike in play. White House economic adviser Kevin Hassett joins Bloomberg Open Interest on what he calls a “goldilocks” economy, rates and the road ahead.",
+        "summary": "Lam Research (LRCX) Stock Slides 6.71% in Afternoon Trading on AI Selloff, China Curb Fears JournalArta",
         "id": "a9"
+      },
+      {
+        "title": "Huang back at Nvidia as China builds own chip production system - Nikkei Asia",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU3NCeXdFRXp2VnpnMGVxX1c1blgxenI0N2pwQjMyRnhZNnNZakRhYk4tVy1jSnpiVFE1VnRtR2lRbUQwUzg4TW1mTFA4QVRzV05OUGhVd19BQUVFR1VuSnpkRXJVaC1iOExLVVgtb3prb1RFM3NydE15Snh5OWVGUFlzcW1Hc001aHY4aGxhNVY0VGU0SWlXRFFDTQ?oc=5",
+        "description": "Huang back at Nvidia as China builds own chip production system Nikkei Asia",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-25T20:05:00.000Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Nikkei Asia",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Huang back at Nvidia as China builds own chip production system Nikkei Asia",
+        "id": "a12"
+      },
+      {
+        "title": "How China got access to Nvidia's AI chips despite rules to stop them - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU05FY1hvQmJod19oM3p3aTZQaS1CdktCWEZsSnk0TmVWREE1a0tmVW5kVnBxdG5VNU1TX2FmWnZ1aTc1UEQyblFkSklCZ3NlcU1XQUZQVDUwTXZ6R3BoVjlRb1RPY0pTNGdmUUdNZkw0Zi1oanJOcXFieGlBdzRTN05pa3FsaVhUWVk0UWpzc0hkN2kySGF6bGRpU1Y1a2IyNi1iaUFQZThLNVZON0E?oc=5",
+        "description": "How China got access to Nvidia's AI chips despite rules to stop them Reuters",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-25T19:58:10.000Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Reuters",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "How China got access to Nvidia's AI chips despite rules to stop them Reuters",
+        "id": "a13"
       },
       {
         "title": "Big Cannabis is cashing in on Thanksgiving’s not-so-secret ‘cousin walk’ - Fortune",
@@ -485,7 +556,7 @@ export const NEWS_DATA = {
         "sourceId": "fortune",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T17:26:00.000Z",
-        "fetchedAt": "2026-11-25T20:13:48.571Z",
+        "fetchedAt": "2026-11-26T03:11:38.640Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Fortune",
         "geopoliticalBypass": true,
@@ -495,7 +566,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Big Cannabis is cashing in on Thanksgiving’s not-so-secret ‘cousin walk’ Fortune",
-        "id": "a10"
+        "id": "a15"
       },
       {
         "title": "US agency mulls tariffs on China, EU",
@@ -505,7 +576,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-25T17:11:04.000Z",
-        "fetchedAt": "2026-11-25T20:13:47.639Z",
+        "fetchedAt": "2026-11-26T03:11:37.722Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -514,7 +585,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Telecommunications is among the Chinese sectors flagged in new Section 301 tariff proposals from the US Trade Representative (USTR), which targeted 14 trading partners over excess manufacturing capacity. The post US agency mulls tariffs on China, EU appeared first on Mobile World Live.",
-        "id": "a11"
+        "id": "a16"
       },
       {
         "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
@@ -524,7 +595,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T16:02:52.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.535Z",
+        "fetchedAt": "2026-11-26T03:11:32.209Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -533,17 +604,17 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The new levies seek to counter foreign trade practices deemed unfair, discriminatory or burdensome to U.S.",
-        "id": "a13"
+        "id": "a18"
       },
       {
         "title": "How Qualcomm’s CMO is reshaping his team for its post-Apple era",
         "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-cmo-reshaping-team-post-160155309.html?.tsrc=rss",
-        "description": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company's marketing strategy to support the transition.",
+        "description": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the transition.",
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T16:01:55.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.655Z",
+        "fetchedAt": "2026-11-26T03:11:32.204Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "customers-partners",
@@ -552,8 +623,8 @@ export const NEWS_DATA = {
         "stakeholders": [
           "oem"
         ],
-        "summary": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company's marketing strategy to support the transition.",
-        "id": "a14"
+        "summary": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the transition.",
+        "id": "a19"
       },
       {
         "title": "ASML shares drop on U.S. chip export control bill fears - StreetInsider",
@@ -563,7 +634,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T15:17:51.000Z",
-        "fetchedAt": "2026-11-25T20:13:49.717Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "StreetInsider",
         "geopoliticalBypass": true,
@@ -573,7 +644,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "ASML shares drop on U.S. chip export control bill fears StreetInsider",
-        "id": "a16"
+        "id": "a21"
       },
       {
         "title": "Trump Just Put His Thumb on the Scale at NVIDIA: He Pressured the Board and Jensen Huang Is Back as CEO of the Chip Giant - National Security Journal",
@@ -583,7 +654,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T14:56:46.000Z",
-        "fetchedAt": "2026-11-25T20:13:49.717Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "National Security Journal",
         "geopoliticalBypass": true,
@@ -593,26 +664,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Trump Just Put His Thumb on the Scale at NVIDIA: He Pressured the Board and Jensen Huang Is Back as CEO of the Chip Giant National Security Journal",
-        "id": "a17"
-      },
-      {
-        "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-        "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-        "description": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-25T14:29:00.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.535Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
-        "id": "a19"
+        "id": "a22"
       },
       {
         "title": "Semiconductors ripe for private equity after CHIPS Act - https://www.facilitiesmanagement-now.com/",
@@ -622,7 +674,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T14:18:22.000Z",
-        "fetchedAt": "2026-11-25T20:13:49.717Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "https://www.facilitiesmanagement-now.com/",
         "geopoliticalBypass": true,
@@ -632,7 +684,47 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Semiconductors ripe for private equity after CHIPS Act https://www.facilitiesmanagement-now.com/",
-        "id": "a20"
+        "id": "a24"
+      },
+      {
+        "title": "US and Singapore Cooperate to Prevent Chip Diversion to China - Aviamost",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGxhalVmcXZJd3pWZTlqMElJOXJyMU1WanhPODNab01vcG4xeTQ1RFlid0RsMXJqZlI1Ty1UZDE3Sk1FbjJjeklXdHJaVVUyUmFlR2Q5b3F2Zld6eEszaGk3emNNV0FCVU96clZ3Mmd2eEhZNWNoSzdyUjlGSU9PeFlMWUdPbFc0Vmc?oc=5",
+        "description": "US and Singapore Cooperate to Prevent Chip Diversion to China Aviamost",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-25T13:50:48.000Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Aviamost",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US and Singapore Cooperate to Prevent Chip Diversion to China Aviamost",
+        "id": "a26"
+      },
+      {
+        "title": "Lawmakers seek answers on the national security as Nvidia CEO returns - NPR",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaXhaRGNPcy1YZWVMcmJqcWxjelFRRWRLX3lEQlRaMUo1TThJM21MV1diZjNXbXYxMVBGRTE1eS1jTXVicFpkLWhXSS1vanZISWxBbU5sN0dZN1Q4aGZxcDNva205cGlyc3VnSFI4SjZzTDQ5RGdYY1lJUzdYN2lsRjBhcEktVUtVeXhQY1NGVWJmcU1vb3Uxc3hORzZ1c1o3RXFQbWVsSlNhR1VwMzJrSFdvdUE?oc=5",
+        "description": "Lawmakers seek answers on the national security as Nvidia CEO returns NPR",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-25T11:50:51.000Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "NPR",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Lawmakers seek answers on the national security as Nvidia CEO returns NPR",
+        "id": "a28"
       },
       {
         "title": "A Fund With $3.2 Billion in US Equities Just Bought These 3 Stocks",
@@ -642,7 +734,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T11:28:42.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.655Z",
+        "fetchedAt": "2026-11-26T03:11:32.204Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -650,7 +742,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Key TakeawaysA fund with $3. 2 billion in US stocks bought IQVIA (IQV:NYSE) and added to Qualcomm (QCOM:NASDAQ) and QXO (QXO:NYSE) in Q3.",
-        "id": "a23"
+        "id": "a29"
       },
       {
         "title": "China rolls out 6G pilot testing in eight provinces",
@@ -660,7 +752,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-25T11:14:49.000Z",
-        "fetchedAt": "2026-11-25T20:13:47.983Z",
+        "fetchedAt": "2026-11-26T03:11:38.145Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -669,7 +761,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China has launched a coordinated 6G pilot testing program in Beijing, Shanghai, Hebei, Jiangsu, Zhejiang, Anhui, Hubei and Guangdong.",
-        "id": "a24"
+        "id": "a30"
       },
       {
         "title": "ETFs Bought $75.2 Million of Qualcomm (QCOM) on Monday",
@@ -679,7 +771,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T11:01:42.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.655Z",
+        "fetchedAt": "2026-11-26T03:11:32.204Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -687,7 +779,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Thirty-nine ETFs added Qualcomm shares while 30 trimmed positions.",
-        "id": "a25"
+        "id": "a31"
       },
       {
         "title": "Jensen Huang’s Nvidia comeback gives China chip restrictions new momentum in Congress - The Hill",
@@ -697,7 +789,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T11:00:00.000Z",
-        "fetchedAt": "2026-11-25T20:13:49.717Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Hill",
         "geopoliticalBypass": true,
@@ -707,7 +799,47 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Jensen Huang’s Nvidia comeback gives China chip restrictions new momentum in Congress The Hill",
-        "id": "a26"
+        "id": "a32"
+      },
+      {
+        "title": "Elizabeth Warren Calls Nvidia’s Jensen Huang Reinstatement ‘Reckless’, Says it Raises U.S National Security Concerns - Tekedia",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ1BQWVJBLU5KeUU5NVdJVHAzNHpXX1JrcVNHZmEtOWlQOUpPYnZYYlM2OXBHQVpvV2lvNnFvMEtYTUtPc05tTTF3VmNnSXhUT3lDa2dmSVhSNFZQeWhZVFpQUVpMenhqUkpUc1BEanptXzYzRGJVcnhrUEsyUlJSY3JQWXRnci1tX1cwYk0tSmxlQXNBSGxla2xQQmRMaDhKVDMxWTRScFVZNk5ta1ZscWJfNEFBaE5uaTVMZmlEZkdWOV9YSGx1LUNJX3pyOTJablE0?oc=5",
+        "description": "Elizabeth Warren Calls Nvidia’s Jensen Huang Reinstatement ‘Reckless’, Says it Raises U.S National Security Concerns Tekedia",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-25T10:25:31.000Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Tekedia",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Elizabeth Warren Calls Nvidia’s Jensen Huang Reinstatement ‘Reckless’, Says it Raises U.S National Security Concerns Tekedia",
+        "id": "a33"
+      },
+      {
+        "title": "Sen. Mark Kelly Warns Suspected Chinese Spy's Access to Nvidia CEO Poses 'Serious National Security Problem' - BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zcW9TeG0xdE1ZR0ViS1pYcGVka0xiZ0txdk5FczJyQ0pKRWFaLWhYdlBpNDhuRG1wUGZ6ZVRpaFIyVEpnM3pfcVZIcG1MMDY2ZEl3MGNsdEROUWtsSzR3ODF5dl9RbW41RjNBbHRFWnExUHNPLXc?oc=5",
+        "description": "Sen. Mark Kelly Warns Suspected Chinese Spy's Access to Nvidia CEO Poses 'Serious National Security Problem' BigGo Finance",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-25T10:25:00.000Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "BigGo Finance",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Mark Kelly Warns Suspected Chinese Spy's Access to Nvidia CEO Poses 'Serious National Security Problem' BigGo Finance",
+        "id": "a34"
       },
       {
         "title": "Samsung hit with US import ban in Maxell patent fight",
@@ -717,7 +849,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-25T09:23:32.000Z",
-        "fetchedAt": "2026-11-25T20:13:45.822Z",
+        "fetchedAt": "2026-11-26T03:11:35.503Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -730,7 +862,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-        "id": "a27"
+        "id": "a35"
       },
       {
         "title": "Huawei convicted of trade secret theft, sanctions evasion conspiracy",
@@ -740,7 +872,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-25T09:09:22.000Z",
-        "fetchedAt": "2026-11-25T20:13:45.822Z",
+        "fetchedAt": "2026-11-26T03:11:35.503Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -749,7 +881,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US prosecutors accused Huawei of stealing trade secrets from T-Mobile, Cisco and other American rivals and misleading its banking partners about its operations in Iran",
-        "id": "a28"
+        "id": "a36"
       },
       {
         "title": "US Adds Megaspeed and Six Affiliates to the Entity List Over Nvidia Chip Diversion Risk - Technology Org",
@@ -759,7 +891,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T08:35:53.000Z",
-        "fetchedAt": "2026-11-25T20:13:49.717Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Technology Org",
         "geopoliticalBypass": true,
@@ -769,7 +901,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US Adds Megaspeed and Six Affiliates to the Entity List Over Nvidia Chip Diversion Risk Technology Org",
-        "id": "a29"
+        "id": "a37"
+      },
+      {
+        "title": "U.S. Sanctions Megaspeed Over Suspected AI Chip Smuggling - Demokratis.co.id",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBncnBMS04xOGFVZEZzTmhIOEFxaGFPRnVTQ3dLRUhsU21SRHMzMVBzOUxZWC1ReDlZX1FNbWI4V21zNVpIQUp5QXBKZFBlYzhCX2lESWFucGZ6RjdWYXdWay11QUxSRUp3QlVR?oc=5",
+        "description": "U.S. Sanctions Megaspeed Over Suspected AI Chip Smuggling Demokratis.co.id",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-25T06:48:35.000Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Demokratis.co.id",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Sanctions Megaspeed Over Suspected AI Chip Smuggling Demokratis.co.id",
+        "id": "a38"
       },
       {
         "title": "US Sanctions Megaspeed Over Suspected China Chip Smuggling - Peradaban.id",
@@ -779,7 +931,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T06:45:46.000Z",
-        "fetchedAt": "2026-11-25T20:13:49.717Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Peradaban.id",
         "geopoliticalBypass": true,
@@ -789,7 +941,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US Sanctions Megaspeed Over Suspected China Chip Smuggling Peradaban.id",
-        "id": "a30"
+        "id": "a39"
       },
       {
         "title": "Was Nvidia's Billionaire CEO Targeted By Chinese Intelligence? The Jensen Huang Affair, The Megaspeed Connection And A Growing US National Security Investigation - Inventiva",
@@ -799,7 +951,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T06:44:49.000Z",
-        "fetchedAt": "2026-11-25T20:13:49.717Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Inventiva",
         "geopoliticalBypass": true,
@@ -809,7 +961,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Was Nvidia's Billionaire CEO Targeted By Chinese Intelligence? The Jensen Huang Affair, The Megaspeed Connection And A Growing US National Security Investigation Inventiva",
-        "id": "a31"
+        "id": "a40"
       },
       {
         "title": "Democratic leader: Nvidia CEO violates chip export rules to China - IDNFinancials",
@@ -819,7 +971,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T06:00:00.000Z",
-        "fetchedAt": "2026-11-25T20:13:49.717Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "IDNFinancials",
         "geopoliticalBypass": true,
@@ -829,7 +981,47 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Democratic leader: Nvidia CEO violates chip export rules to China IDNFinancials",
-        "id": "a32"
+        "id": "a41"
+      },
+      {
+        "title": "National Security vs. the Stock Market - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX3lPVDltZFlETVlOV1E0N2tNMW1nbHdrSy16SHpmQVZlLXNTWTRHMnhKa2hwNTlReFRCXzc0TmRrTDNlaVFXSVZXWWZXMHRVek1OVjdmcHlhbTV6Y0tfalFveHltNlFRTDc2MTlFcDF1LVBZTkpPa0NUY1NyMVhOYTVCNA?oc=5",
+        "description": "National Security vs. the Stock Market The New York Times",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-25T05:45:00.000Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "The New York Times",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "National Security vs. the Stock Market The New York Times",
+        "id": "a42"
+      },
+      {
+        "title": "Schumer Accuses Nvidia CEO of Violating US Export Control Law - NTD News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdmRrbndpVTYtemIzOG5JbzR5UDFTR0d2MU9Mc1ZVckhMd2pSZnN6YzlObmpCUENUQ2NTU0t3R202WTZCYmQ5T0JpQ3BMNS1QWWM4eFJSRkVhX3ZwdENRSzF4MUlGWkF1UkpqRnYwQ25rdEVLVGV5aFlpSzBpMGxtYkRLZE82TjJJRnJQLUI0b2F3dUFlMW5VT1Jn?oc=5",
+        "description": "Schumer Accuses Nvidia CEO of Violating US Export Control Law NTD News",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-25T04:59:55.000Z",
+        "fetchedAt": "2026-11-26T03:11:39.836Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "NTD News",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Schumer Accuses Nvidia CEO of Violating US Export Control Law NTD News",
+        "id": "a44"
       },
       {
         "title": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
@@ -839,7 +1031,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T03:58:32.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.535Z",
+        "fetchedAt": "2026-11-26T03:11:32.209Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -848,47 +1040,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Xiamen Airlines has agreed to purchase 50 Boeing 737-8 aircraft with a combined catalog price of around $7.4 billion.",
-        "id": "a34"
-      },
-      {
-        "title": "Democratic Senate leader accuses Nvidia CEO Huang of violating US export control law - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdFhkMHU5VUNVYUh4WEZjMXVKeXJ3elNBRGUybGpoRDV6VE5YdTRfYTJCQjg0anR5RlI4MlpGZS15clFKU210UW9hdGYtT2VIcHZnNnA1NVFWdWlJSnE4alpqb1JSOWg1anRXemFQeDNzaGdDVjNCMEJ1UmpRYnIxZ1c3QkpLbGxYQk0wQjAtSjdwdTQyNjg5UnFxeDU3b1Npa3F4YmhEUk9iZzRHYnFSQkxpRFJ6eFNmS0F5SktkQ0ZSckNXUU9VdHFJMGVpMFd4Y0dwWGFpWndZTHlfeW05dEpZU3d3Uzl4YVBLaDhZeVhOQ29ZNFNJRXpLVUnSAYICQVVfeXFMTlZiRVZKRkpORGV4MzFxbUZsTFMwSHVVNV9ZUWN6bjFZYktHR0VvZzFKeE9LaXA3cWtXZjBETWxhMzczUV81NUVUbExpdS1JN0VmVXpFOWZTLXB2aEZUa1hjMkRYVjI3Z25ScVppSTJHNGlEVmZWaXdPOWFvWlBla3Y5VDJEX2VNa2E4TlBjNDFCVDNsX3BGVXZfUDJoZkk5cjZ1LU4wZ3F3VXptS2sxeW1fRW5NelVQaDMyZnl5RmRld1ozN21KWmx6LTVZTWttTVBwWEZVM290RUl4UGRCUWZoZkh3M1ZXWjE2N0FiZlAzNWUzRHZWbTBURHlRNUJaQ2R3?oc=5",
-        "description": "Democratic Senate leader accuses Nvidia CEO Huang of violating US export control law The Economic Times",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-25T02:53:09.000Z",
-        "fetchedAt": "2026-11-25T20:13:49.717Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "The Economic Times",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Democratic Senate leader accuses Nvidia CEO Huang of violating US export control law The Economic Times",
-        "id": "a35"
-      },
-      {
-        "title": "Singapore, US work on mechanism for chip export control - Singapore Business Review",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ1ctWndXTk9nd25FR2NYMDNlVTA4YmI5Vy1mSlBJbjI4LUpJZC1heUMxUHZPSkxuWS1TMlE2eUxIRk5RRE41ODlXZUxFMEtJeGhWQzBIZ0dUb0lMcnFmUGY0SXZQWkU3OC1jTmtrOEdlTjNDNVZVaFdxVWM0Rk90cXRUTEM5dGlIamlDMzhOWkxuVzZGZ05ic2ln?oc=5",
-        "description": "Singapore, US work on mechanism for chip export control Singapore Business Review",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-25T01:19:37.000Z",
-        "fetchedAt": "2026-11-25T20:13:49.717Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Singapore Business Review",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Singapore, US work on mechanism for chip export control Singapore Business Review",
-        "id": "a36"
+        "id": "a45"
       },
       {
         "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
@@ -898,7 +1050,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-25T00:10:27.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.527Z",
+        "fetchedAt": "2026-11-26T03:11:32.201Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -907,7 +1059,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
-        "id": "a37"
+        "id": "a46"
       },
       {
         "title": "BREAKING: ITC hits Samsung with import ban for infringement of Maxell content-casting patent",
@@ -917,7 +1069,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-24T22:46:02.000Z",
-        "fetchedAt": "2026-11-25T20:13:47.948Z",
+        "fetchedAt": "2026-11-26T03:11:37.908Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -928,66 +1080,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "The ITC has issued a limited exclusion order and a cease-and-desist order which primarily impact the Korean brand's Galaxy S25 smartphones.",
-        "id": "a38"
-      },
-      {
-        "title": "Sen. Elizabeth Warren Vows to Protect U.S. National Security Through Bipartisan Investigation Into Nvidia, Calls for Passage of Three Bills to Strengthen Semiconductor Export Controls - NewsBreak: Local News & Alerts",
-        "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPWTROVmJaUjNoRkZ6aGJnMHRuWW1pbEJQc2lKamc3bEZwTUZlR3FMQ25KOW8ySVdadmFlX2hzODJhekJhS0FoS1VWWGRXejlNVlZqZkR4ejA4N2w1aGhYUmJTTl9UYzZWUno0bGhJbkFvRExaVmlIbXdaeWdLZHNfYzE5LUNyV19qcDhDUkVXVjFCMndtOGs2ZFhNYlVYemdJclE5c2NVcnRKZTFKejQ3Q0s3eVJheXBQWkdJNkJxU2c1OEtMU28zT1BlT2RMMlJPdWZsZFNLbVJPaS0yRTRxVmd5Q0lpbl9YZElVd3dBS01OLVZLWWtEODNKak5OeklZYUE3cFAzeGxLZEtJZGNRa2J2RE5yWGRPVFdYUjBzU05MaWlfTXRBZHpONjRBYWlBckd6U2JmQVBIQk56LTFDS0FndHhITlhXQV9IWGRGSjA1VS1LelJHMm1HZlIxekdq?oc=5",
-        "description": "Sen. Elizabeth Warren Vows to Protect U.S. National Security Through Bipartisan Investigation Into Nvidia, Calls for Passage of Three Bills to Strengthen Semiconductor Export Controls NewsBreak: Local News & Alerts",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-24T22:37:56.000Z",
-        "fetchedAt": "2026-11-25T20:13:49.717Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "NewsBreak: Local News &amp; Alerts",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Elizabeth Warren Vows to Protect U.S. National Security Through Bipartisan Investigation Into Nvidia, Calls for Passage of Three Bills to Strengthen Semiconductor Export Controls NewsBreak: Local News & Alerts",
-        "id": "a39"
-      },
-      {
-        "title": "Schumer accuses Nvidia CEO of violating US export control law - KELO-AM",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTG0yVnRzczRvcDlOempPTXM5QmV6VjJRNEgxVW13d0FVTTM0VGJFNFBMMUlRY1QtSy11Ry10ejI0WHR1RVFGbVgxQWRvRnc0TXNITUVzS2N1dXUtaV9GajRvUFRHeG55d2p1MjRHQ1p5QWxCcE9qNFBUa1dKdVl1WUo5eFd5d2pYTmtUTWlmZG9iX1Q3?oc=5",
-        "description": "Schumer accuses Nvidia CEO of violating US export control law KELO-AM",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-24T22:20:23.000Z",
-        "fetchedAt": "2026-11-25T20:13:49.717Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "KELO-AM",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Schumer accuses Nvidia CEO of violating US export control law KELO-AM",
-        "id": "a40"
-      },
-      {
-        "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
-        "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
-        "description": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-24T21:13:39.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.535Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S.",
-        "id": "a41"
+        "id": "a47"
       },
       {
         "title": "Is Qualcomm Stock As Cheap As It Looks Now?",
@@ -997,7 +1090,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-24T17:49:20.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.655Z",
+        "fetchedAt": "2026-11-26T03:11:32.204Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -1005,7 +1098,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "If you have watched Qualcomm this year, the worry is easy to name. Its sales are shrinking. Over the six months to Monday, November 23, the stock returned -32.9%, counting dividends. The S&P 500 returned -3.2% over the same dates. On Monday alone, Qualcomm rose 10.3.",
-        "id": "a42"
+        "id": "a48"
       },
       {
         "title": "Should Softer Guidance Require Action From Qualcomm Stock Investors",
@@ -1015,7 +1108,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-24T17:16:18.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.655Z",
+        "fetchedAt": "2026-11-26T03:11:32.204Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -1023,7 +1116,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm reported Q4 fiscal 2026 earnings that exceeded EPS expectations, although adjusted revenue was 7% lower year on year and guidance pointed to softer future sales and margin pressure. The cautious outlook, including concerns around handset demand, cost pressures and AI chip export controls, highlighted how Qualcomm’s evolving business mix faces practical execution and profitability challenges. Next the focus shifts to how Qualcomm’s cautious revenue outlook and margin pressure could...",
-        "id": "a43"
+        "id": "a49"
       },
       {
         "title": "Brad Gerstner Swapped Qualcomm for More Micron Last Quarter. Micron Has Lost 34% Since Sept. 30",
@@ -1033,7 +1126,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-24T16:59:49.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.655Z",
+        "fetchedAt": "2026-11-26T03:11:32.204Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -1041,7 +1134,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Qualcomm stock last quarter and added 24% more Micron shares, its latest 13F shows. Micron has lost 34% since Sept.",
-        "id": "a44"
+        "id": "a50"
       },
       {
         "title": "Component costs, car woes weigh on Xiaomi top-line",
@@ -1051,7 +1144,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-24T16:43:15.000Z",
-        "fetchedAt": "2026-11-25T20:13:47.641Z",
+        "fetchedAt": "2026-11-26T03:11:37.722Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1062,25 +1155,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Xiaomi reported a 57% year-on-year drop in net profit for the third quarter of 2026, as it bemoaned rising component costs and reduced demand for its vehicles in China. The post Component costs, car woes weigh on Xiaomi top-line appeared first on Mobile World Live.",
-        "id": "a45"
-      },
-      {
-        "title": "Is QUALCOMM (QCOM) A Bargain After Its AI Conference Boost?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-bargain-ai-conference-161216511.html?.tsrc=rss",
-        "description": "QUALCOMM (QCOM) has been in the spotlight after presenting at Cantor Fitzgerald’s Crypto, FinTech and AI conference in Miami, where management outlined how its Snapdragon and Cloud AI platforms support large models on devices. QUALCOMM’s presentation comes after a sharp 10.30% 1 day share price gain. This follows a 30 day share price return that is down 5.99% and a year to date share price return that is down 4.39%. Over a longer period, the 3 year total shareholder return of 37.46% points to...",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-24T16:12:16.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.655Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "QUALCOMM (QCOM) has been in the spotlight after presenting at Cantor Fitzgerald’s Crypto, FinTech and AI conference in Miami, where management outlined how its Snapdragon and Cloud AI platforms support large models on devices. QUALCOMM’s presentation comes after a sharp 10.30% 1 day share price gain. This follows a 30 day share price return that is down 5.99% and a year to date share price return that is down 4.39%. Over a longer period, the 3 year total shareholder return of 37.46% points to...",
-        "id": "a46"
+        "id": "a51"
       },
       {
         "title": "Federal Circuit Affirms Noninfringement Ruling for Lowe’s and $25,000 Sanction Against Patent Owner’s Counsel",
@@ -1090,7 +1165,7 @@ export const NEWS_DATA = {
         "sourceId": "ipwatchdog",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-24T13:15:40.000Z",
-        "fetchedAt": "2026-11-25T20:13:46.377Z",
+        "fetchedAt": "2026-11-26T03:11:35.996Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1099,7 +1174,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Court of Appeals for the Federal Circuit (CAFC) on Monday affirmed a district court’s grant of summary judgment of noninfringement in favor of Lowe’s Home Centers, LLC in a patent dispute over light-emitting diode (LED) light fixtures. The CAFC also upheld a $25,000 sanction imposed on the patent owner’s attorney for violating a stipulated protective order and affirmed the district court’s denial of Lowe’s requests for attorney fees under 35 U.S.C. Section 285 and sanctions under 28 U.S.C. The post Federal Circuit Affirms Noninfringement Ruling for Lowe’s and $25,000 Sanction Against Patent Owner’s Counsel appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-        "id": "a48"
+        "id": "a52"
       },
       {
         "title": "ASU-led SWAP Hub Receives $11.4M for Next Phase of National Security Microelectronics Work",
@@ -1109,7 +1184,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-digest",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-11-23T22:17:34.000Z",
-        "fetchedAt": "2026-11-25T20:13:47.400Z",
+        "fetchedAt": "2026-11-26T03:11:37.424Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1118,7 +1193,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The Southwest Advanced Prototyping (SWAP) Hub, led by Arizona State University, will receive $11.4 million in new operating support through the U.S. Department of Defense Microelectronics Commons, positioning the hub for its next phase of national security microelectronics work. The post ASU-led SWAP Hub Receives $11.4M for Next Phase of National Security Microelectronics Work appeared first on Semiconductor Digest.",
-        "id": "a49"
+        "id": "a53"
       }
     ]
   },
@@ -1314,58 +1389,72 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-11-25T20:13:49.772Z",
+    "generatedAt": "2026-11-26T03:11:39.884Z",
     "date": "2026-11-26",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Platform & Ecosystem Partners (1 article), Customers & Partners (1 article). A total of 8 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Platform & Ecosystem Partners (1 article), Customers & Partners (1 article). A total of 8 articles were aggregated from monitored sources.",
       "keyTakeaways": [
+        {
+          "text": "Geopolitics & Export Controls: Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+          "articleIds": [
+            "a8"
+          ],
+          "subCategory": "geopolitics-export-controls"
+        },
         {
           "text": "Platform & Ecosystem Partners: The Fairphone 6 Plus comes with 12 replaceable parts. | Photo: Dominic Preston / The Verge Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that",
           "articleIds": [
-            "a6"
+            "a14"
           ],
           "subCategory": "platform-partner"
         },
         {
-          "text": "Customers & Partners: After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company's marketing strategy to support the",
+          "text": "Customers & Partners: After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the",
           "articleIds": [
-            "a14"
+            "a19"
           ],
           "subCategory": "customers-partners"
         },
         {
           "text": "Semiconductors: How Qualcomm’s CMO is reshaping his team for its post-Apple era Fortune",
           "articleIds": [
-            "a15"
+            "a20"
           ],
           "subCategory": "semiconductors"
         },
         {
-          "text": "Geopolitics & Export Controls: The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-          "articleIds": [
-            "a27"
-          ],
-          "subCategory": "geopolitics-export-controls"
-        },
-        {
           "text": "Mobile Chips: Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
           "articleIds": [
-            "a33"
+            "a43"
           ],
           "subCategory": "mobile-chips"
-        },
-        {
-          "text": "IoT & XR: Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fi",
-          "articleIds": [
-            "a47"
-          ],
-          "subCategory": "iot-xr"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+        "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+        "description": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-25T21:00:08.000Z",
+        "fetchedAt": "2026-11-26T03:11:32.209Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "regulators"
+        ],
+        "summary": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+        "id": "a8"
+      },
       {
         "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
         "url": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
@@ -1374,7 +1463,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-25T18:00:00.000Z",
-        "fetchedAt": "2026-11-25T20:13:44.002Z",
+        "fetchedAt": "2026-11-26T03:11:33.067Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -1384,17 +1473,17 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "The Fairphone 6 Plus comes with 12 replaceable parts. | Photo: Dominic Preston / The Verge Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, especially now that it’s dropped to a new low of $552.49 (about $98 off) at Amazon as part of the retailer’s ongoing Black Friday sale. Fairphone 6 Plus Where to Buy: $649.99 $552.49 at Amazon (black) $649.99 $552.49 at Amazon (green) $649.99 $552.49 at Amazon (blue) The 6.3-inch Fairphone 6 Plus features 12 user-replaceable parts, including the battery, screen, USB-C port, and cameras, all of which you can swap out with the included screwdriver. Replacement parts are relatively affordable, too; a new battery costs $39.99, which helps offset its middling battery life and lack of wireless charging.",
-        "id": "a6"
+        "id": "a14"
       },
       {
         "title": "How Qualcomm’s CMO is reshaping his team for its post-Apple era",
         "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-cmo-reshaping-team-post-160155309.html?.tsrc=rss",
-        "description": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company's marketing strategy to support the transition.",
+        "description": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the transition.",
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T16:01:55.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.655Z",
+        "fetchedAt": "2026-11-26T03:11:32.204Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "customers-partners",
@@ -1403,8 +1492,8 @@ export const NEWS_DATA = {
         "stakeholders": [
           "oem"
         ],
-        "summary": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company's marketing strategy to support the transition.",
-        "id": "a14"
+        "summary": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the transition.",
+        "id": "a19"
       },
       {
         "title": "How Qualcomm’s CMO is reshaping his team for its post-Apple era - Fortune",
@@ -1414,7 +1503,7 @@ export const NEWS_DATA = {
         "sourceId": "fortune",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T16:01:00.000Z",
-        "fetchedAt": "2026-11-25T20:13:48.570Z",
+        "fetchedAt": "2026-11-26T03:11:38.640Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Fortune",
         "section": "core-businesses",
@@ -1425,7 +1514,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "How Qualcomm’s CMO is reshaping his team for its post-Apple era Fortune",
-        "id": "a15"
+        "id": "a20"
       },
       {
         "title": "Samsung hit with US import ban in Maxell patent fight",
@@ -1435,7 +1524,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-25T09:23:32.000Z",
-        "fetchedAt": "2026-11-25T20:13:45.822Z",
+        "fetchedAt": "2026-11-26T03:11:35.503Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1448,7 +1537,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-        "id": "a27"
+        "id": "a35"
       },
       {
         "title": "Xiaomi’s Memory-Squeezed Phone Sales Are Bad News for Qualcomm. Here’s the Number That Matters",
@@ -1458,7 +1547,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-25T05:23:47.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.655Z",
+        "fetchedAt": "2026-11-26T03:11:32.204Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -1468,7 +1557,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
-        "id": "a33"
+        "id": "a43"
       },
       {
         "title": "BREAKING: ITC hits Samsung with import ban for infringement of Maxell content-casting patent",
@@ -1478,7 +1567,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-24T22:46:02.000Z",
-        "fetchedAt": "2026-11-25T20:13:47.948Z",
+        "fetchedAt": "2026-11-26T03:11:37.908Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1489,7 +1578,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "The ITC has issued a limited exclusion order and a cease-and-desist order which primarily impact the Korean brand's Galaxy S25 smartphones.",
-        "id": "a38"
+        "id": "a47"
       },
       {
         "title": "Component costs, car woes weigh on Xiaomi top-line",
@@ -1499,7 +1588,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-24T16:43:15.000Z",
-        "fetchedAt": "2026-11-25T20:13:47.641Z",
+        "fetchedAt": "2026-11-26T03:11:37.722Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1510,628 +1599,9 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Xiaomi reported a 57% year-on-year drop in net profit for the third quarter of 2026, as it bemoaned rising component costs and reduced demand for its vehicles in China. The post Component costs, car woes weigh on Xiaomi top-line appeared first on Mobile World Live.",
-        "id": "a45"
-      },
-      {
-        "title": "Global Fixed Point Digital Signal Processor Market Report 2026 to 2030 | Capitalize on 8.7% CAGR as Qualcomm, MediaTek, Texas Instruments, Samsung, and Intel Accelerate Edge IoT",
-        "url": "https://finance.yahoo.com/technology/articles/global-fixed-point-digital-signal-143800586.html?.tsrc=rss",
-        "description": "Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fixed Point Digital Signal Processor Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global fixed point digital signal processor market is experiencing strong growth as demand rises for real-time signal processing, energy-efficient embedded systems and intelligent i",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-24T14:38:00.000Z",
-        "fetchedAt": "2026-11-25T20:13:43.655Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "iot-xr",
-        "subLabel": "IoT & XR",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fixed Point Digital Signal Processor Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global fixed point digital signal processor market is experiencing strong growth as demand rises for real-time signal processing, energy-efficient embedded systems and intelligent i",
-        "id": "a47"
+        "id": "a51"
       }
     ]
-  },
-  "archive-2026-10-26": {
-    "generatedAt": "2026-10-26T15:29:58.113Z",
-    "date": "2026-10-26",
-    "sections": {
-      "core-businesses": {
-        "generatedAt": "2026-10-26T15:29:58.109Z",
-        "date": "2026-10-26",
-        "section": "core-businesses",
-        "sectionTitle": "Core Businesses",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles). A total of 3 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "Semiconductors: Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE)",
-              "articleIds": [
-                "a2"
-              ],
-              "subCategory": "semiconductors"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Custom System-on-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026 | Capitalize on AI and 5G Demand with NVIDIA, Qualcomm, Broadcom and TSMC",
-            "url": "https://finance.yahoo.com/technology/articles/custom-system-chip-application-specific-142600333.html?.tsrc=rss",
-            "description": "Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE) -- \"Custom System-On-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. Custom System-on-Chip ASIC Market Projected to Reach $37.62 Billion by 2030 The global custom system-on-chip application-specific integrated circu",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-26T14:26:00.000Z",
-            "fetchedAt": "2026-10-26T15:29:50.864Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [
-              "foundry"
-            ],
-            "summary": "Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE) -- \"Custom System-On-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. Custom System-on-Chip ASIC Market Projected to Reach $37.62 Billion by 2030 The global custom system-on-chip application-specific integrated circu",
-            "id": "a2"
-          },
-          {
-            "title": "QCOM.O - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQOXJfOVJ5TThickFDRF9JYzg3OWVENEx2UklLdXJucnhkRUxxVDJrcGVkRVd2T3FnSjNKU3hXaEhNaUEtRUxqWXZ5QzFRVFpNblhwLUN6WjVkcEJvdXc?oc=5",
-            "description": "QCOM.O Reuters",
-            "source": "Reuters",
-            "sourceId": "reuters",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-26T07:45:15.000Z",
-            "fetchedAt": "2026-10-26T15:29:56.810Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Reuters",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "QCOM.O - Reuters — reported by Reuters.",
-            "id": "a6"
-          },
-          {
-            "title": "Qualcomm May Be Preparing Another Round of Job Cuts Next Month. Here’s What to Know.",
-            "url": "https://www.barchart.com/story/news/8376504/qualcomm-may-be-preparing-another-round-of-job-cuts-next-month-heres-what-to-know?.tsrc=rss",
-            "description": "Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-23T17:32:25.000Z",
-            "fetchedAt": "2026-10-26T15:29:50.864Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
-            "id": "a16"
-          }
-        ]
-      },
-      "ip-legal": {
-        "generatedAt": "2026-10-26T15:29:58.109Z",
-        "date": "2026-10-26",
-        "section": "ip-legal",
-        "sectionTitle": "IP & Legal",
-        "briefing": {
-          "summary": "One article today covering Patent Litigation. Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-te",
-          "keyTakeaways": [
-            {
-              "text": "Patent Litigation: Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The po",
-              "articleIds": [
-                "a15"
-              ],
-              "subCategory": "patent-litigation"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Arm Comments on Jury Decision in Qualcomm Trial",
-            "url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/",
-            "description": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times.",
-            "source": "EE Times",
-            "sourceId": "eetimes",
-            "sourceGroup": "semiconductor",
-            "publishedAt": "2026-10-24T00:00:00.000Z",
-            "fetchedAt": "2026-10-26T15:29:51.659Z",
-            "fetchStrategy": "rss",
-            "section": "ip-legal",
-            "subCategory": "patent-litigation",
-            "subLabel": "Patent Litigation",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times.",
-            "id": "a15"
-          }
-        ]
-      },
-      "growth-areas": {
-        "generatedAt": "2026-10-26T15:29:58.109Z",
-        "date": "2026-10-26",
-        "section": "growth-areas",
-        "sectionTitle": "Growth Areas",
-        "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "macro-environment": {
-        "generatedAt": "2026-10-26T15:29:58.109Z",
-        "date": "2026-10-26",
-        "section": "macro-environment",
-        "sectionTitle": "Macro",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (4 articles), Customers & Partners (1 article). A total of 12 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "Geopolitics & Export Controls: The Remarkable Paper Pro Move is essentially a digital notepad, with a skinny 7.3-inch E Ink screen that’s easy to hold one-handed to jot down notes or ideas. At $449 new, it’s not exactly cheap, but ",
-              "articleIds": [
-                "a1"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            },
-            {
-              "text": "Customers & Partners: Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Tim",
-              "articleIds": [
-                "a3"
-              ],
-              "subCategory": "customers-partners"
-            },
-            {
-              "text": "market-performance: Qualcomm (QCOM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-              "articleIds": [
-                "a4"
-              ],
-              "subCategory": "market-performance"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Remarkable’s refurbished Paper Pro Move bundle is over $100 off",
-            "url": "https://www.theverge.com/gadgets/1018528/remarkable-paper-pro-move-nintendo-switch-2-fujifilm-deal-sale",
-            "description": "The Remarkable Paper Pro Move is essentially a digital notepad, with a skinny 7.3-inch E Ink screen that’s easy to hold one-handed to jot down notes or ideas. At $449 new, it’s not exactly cheap, but buying refurbished is a way to save, as always. Remarkable itself offers the refurbished Paper Pro Move for that same price with a polymer Book Folio case and a Marker Plus that has a built-in eraser tool. It comes with a one-year warranty. If you’re alright with trading the one-year warranty for a 90-day one, Woot has the same bundle for about just $342. That offer is available exclusively to new Woot customers, who can enter the code REMARKABLE at checkout to save 10 percent on their order through November 2nd. The deal is good for returning shoppers, too, costing $379.99. Remarkable Paper Pro Move Where to Buy: $449 $342 at Woot (refurb, w/ code REMARKABLE) The Paper Pro Move makes it easy to convert your handwritten notes to text, and store files on third-party cloud services. You can also view your notes in Remarkable’s apps and screen share from your E Ink device. However, Remarkable’s Connect subscription (a free 50-day trial for new users/devices) and $3.99 per month thereafter offers access to a larger suite of features. With it, you can search your handwritten notes, import docs and articles to the device to mark notes on, get AI-powered summaries of your handwritten text (viewable in a browser), and more. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/macbook_pro_m1.png\", productImageAlt: \"MacBook Pro (M1 series)\", productTitle: \"MacBook Pro (M1 series)\", shortDescription: \"Get a refurbished MacBook Pro M1 for less\", longDescription: \"Upgrade your laptop for less with a refurbished 13-inch MacBook Pro featuring Apple's M1 chip, 8GB of RAM, and 256GB of storage. Back Market offers professionally inspected devices backed by a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fmacbook-pro-m1-series%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" }; Other great deals to consider Best Buy is trying to reach more gamers, so it’s dangling a $5 gift card offer for those who sign up for a Best Buy Gamers profile. Beyond being a hub for gaming-centric info, trailers, and polls, it’s a portal for highlighting deals and its upcoming drops, like the Thursday, November 5th midnight in-store launch of The Legend of Zelda: Ocarina of Time (and the limited edition Nintendo Switch 2 hardware). It seems possible that Best Buy might give Gamers account holders first (or at least, early) dibs on hard-to-get tech. Fujifilm’s X Half digital camera has sunk to its lowest price yet at Amazon, Best Buy, Adorama, and B&H Photo, selling for $449 (previously floating between $600 and $649.95). It’s a much more reasonable price than the $850 it sold for when former Verge supervising producer Vjeran Pavic took it for a spin at launch in May 2025. We last covered this camera a year later when it was discounted to $549.99. The feature-light camera looks like a pricey mirrorless model, but is instead a glorified digital camera that can shoot 18-megapixel shots that evoke the analog era through various modes and filters. Read our hands-on. I’m still getting used to Belkin being one of the most prolific accessory makers for the Nintendo Switch 2. One of its latest, the Charging Grip, is discounted by $10 at Amazon in the black color. Originally $99.99 for the handheld case that adds some non-slip ergonomics via Joy-Con grips, it’s down to $89.99. Most of the price comes from the 10,000mAh 30W USB-C battery that’s included, which magnetically attaches to the Grip on the back of your console. The Grip allows for the Switch 2’s kickstand to extend, and a big advantage here compared to most third-party console covers is that the case is thin enough to allow for docking with Nintendo’s first-party dock.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-10-26T14:41:43.000Z",
-            "fetchedAt": "2026-10-26T15:29:51.416Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem",
-              "platform-partner"
-            ],
-            "summary": "The Remarkable Paper Pro Move is essentially a digital notepad, with a skinny 7.3-inch E Ink screen that’s easy to hold one-handed to jot down notes or ideas. At $449 new, it’s not exactly cheap, but buying refurbished is a way to save, as always. Remarkable itself offers the refurbished Paper Pro Move for that same price with a polymer Book Folio case and a Marker Plus that has a built-in eraser tool. It comes with a one-year warranty. If you’re alright with trading the one-year warranty for a 90-day one, Woot has the same bundle for about just $342.",
-            "id": "a1"
-          },
-          {
-            "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
-            "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-            "description": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the Times to start the all-new tech podcast Machine Gods, which launched last week. Kevin and I talked about launching Machine Gods and what it’s like to go from The New York Times to being an independent creator — and then of course we talked about the book, which is an excellently reported dive into the companies racing to build artificial general intelligence. I wanted to get a sense from Kevin of what it was like to report this, to try and understand these characters and this moment in time, and where it all goes next. Fair warning: This conversation takes a pretty philosophical turn at the end, but I think you’ll find it a really worthwhile back-and-forth. Okay: Kevin Roose on The AGI Chronicles, starting Machine Gods, and where AI goes from here. Here we go. This interview has been lightly edited for length and clarity. Kevin Roose, you are the author of The AGI Chronicles and the cofounder and co-host of the new podcast Machine Gods. Welcome to Decoder. Thanks so much for having me. I was listening to the first episode of Machine Gods and you and Casey discussed the fact that technically you have the title of CEO. It’s true. I won the coin flip and we needed someone. When you start a company as we have, you need to list someone as the CEO, I guess, to know who to haul in front of Congress when our first scandal inevitably breaks. So that’s going to be me. It’s funny because you’re a CEO on Decoder. It means I’m going to have to ask you the Decoder questions. [Laughs] Okay. Well, I’ve been a CEO for about five minutes and most days I frankly forget I’m the CEO. Honestly, that tracks with most of the CEOs on the show. They all act like they’ve only done it for five minutes. We’ll come to it. I want to talk about your book. It’s called The AGI Chronicles. It is a meticulously reported book about the main frontier labs and the culture shift they’ve all undergone as AI has come into the forefront and become a much more commercial product in many ways. But let’s just start with Machine Gods. You were a journalist for The New York Times for a long time. Obviously, I think the audience probably knows this, but you and I have known each other for a long time. I will say that since I have known you, your desire to be a YouTuber has been top of mind. You’re just like, “How do I get over there?” And I’ve always been like, “Run, don’t do it.” But you did it. You left The Times, you started your own podcast with our friend Casey Newton. It is the next generation of the very popular podcast, Hard Fork, which was excellent. And I’m excited for you, but what made you take the leap? Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. Yeah, you have been trying to convince me out of this for as long as I’ve been trying to convince myself into it and you have not succeeded because here I am. Yep, I failed. Utterly failed. No, look, I think that for some very good reasons, media companies have long been a little bit wary of going all in on YouTube or any other video platform. The ones that have gone all in have not necessarily come out of that with good feelings about it because there are a lot of– Yeah, they pivot to video and also into death, routinely. Yeah, you pivot to video or you sort of waste a bunch of money doing things that don’t pay for themselves. So, I think there are some structural economic reasons for that, but I also think it’s that there aren’t a lot of institutions that are equipped to make that kind of a long-term bet. I’ve been trying to YouTube-pill people in media for many years, as you know. You’ve been trying to undo the YouTube-pilling on your end, but I just think it’s clearly the most important media platform in the world right now. It’s a place where journalism has not historically had a central place. If you were to look at YouTube as a whole and try to assess what piece of it is dedicated to what you or I would consider high-quality journalism, it’s a vanishingly small part of the overall ecosystem there. So, part of my mission is just to crack that and figure out how to do YouTube and video in general in a way that is sustainable from an economic and a sort of creative standpoint. And then just to experiment and do a bunch of things. This is not a face that needs to be on YouTube. So I’m also hoping to bring some other people in and nail some formats. But I look at what The Verge has done there. I look at what people like Joanna Stern and MKBHD have done there. To me, that is very exciting and it’s a space where there’s a lot less competition than text or podcasts. Machine Gods is a podcast that you’re doing in partnership with NPR, which I want to talk about. But do you think of it as a YouTube product? We want it to be video-first. What that means basically is that we are going to give a shit about what it looks like to a degree that we have not always done. We’re going to try to give people a lot of reasons to want to watch as well as listen. Obviously, we know that there are some people who just don’t like video podcasts and so we want to give the audio audience something that is enjoyable, but this is the direction of things. You can’t do a podcast now without doing video on top of it. So we’re going to try to really embrace that and make a good version of it that is as good as two middle-aged journalists can pull off on YouTube. Truly the future of media is middle-aged journalists pivoting to YouTube. I feel the same way because I’m now making more video and that’s what we’re doing. It’s going to be great. The other reason to leave and to do this — and obviously people know I’m friends with Casey as well, and I’ve been talking to you and him about it for a long time — is that the AI story is here. There is a platform shift. There are new companies, new characters, new ideas to talk about in the world. It’s funny because in that context, usually you get a media shift as well. The way we tell stories or the formats we tell stories usually shifts alongside the thing we are talking about or the technology we’re talking about. Here, YouTube feels like the most solid media foundation that exists. It’s the one that’s the same the most, even though it’s changing and it has YouTube Shorts and now you can A/B test everything, including your own face. But it’s the one that is the most the same. Instagram has undergone some massive change and it feels like that will continue happening. Does it feel like YouTube is the most stable place to build as you’re trying to tell these new stories? It does. I mean, obviously you never want to put all your eggs in one basket. So, we are also distributing video on Apple Podcasts and Spotify and we’re going to be everywhere. But yeah, it feels relatively stable. The question I’m always wondering is what would it take to replace YouTube? Many companies have tried to replace YouTube, but to do that, you would not only have to build an experience that was better for creators and better for users, but you would also have to replicate the entire visual corpus of humanity. You would have to just get six million videos from plumbers about how to fix every individual sink and then upload it to that. It’s a really hard thing to displace. It is so ingrained for so many people, and I just think it’s going to keep growing. We’ll come to this when we talk about AI, but a long time ago I asked Google CEO Sundar Pichai, “Well, what are you going to do if there’s no more websites?” And he was kind of like, “Well, we have YouTube.” And there’s just no arguing with that. You sure do. And it is just going to keep growing. What has been the most surprising thing about going from The New York Times to what you might call the creator economy? Well, we’re very new at it, but surprising to me so far is how much I like all the business stuff. I think in journalism, you’re always taught to stay in your lane, and I have never run a business before. Casey has run a business. I knew he enjoyed it. But for me, these are new muscles and I don’t enjoy all of it. Negotiating the insurance quotes for our defamation coverage is not what I would feel compelled by. But regarding actually running a business, there is something to this founder thing. Yeah, it’s a good time. It’s funny, in talking to you and to Casey and Joanna, who also just left and started her own thing, that comes up a lot. From my perspective, it’s why I’ve been doing this a long time. What if I stopped running the business? That doesn’t seem to be a choice. This is the future of media — taking control of your business and taking control of your audience. There’s something very powerful there. One of the things I want to talk about, and then I definitely want to talk about the book at length, is the audience for AI coverage, because I see it in two ways. There’s a group of people building the stuff that loves it and wants to consume all of it. There’s a group of people that truly hates it and thinks all of it is fake. And then there’s what I would call an expanding group in the middle where the products have become more useful. You have to look at them and evaluate them as they are. They were not terribly useful a couple years ago. The promises did not match reality, but every day now it can do one more thing that it couldn’t do before. Whether that thing is hacking all of the websites in the world, we’ll set that aside, but AI can do things it couldn’t do before and the audience seems to be changing. How are you thinking about the audience for Machine Gods and how it might grow or change? I mean, right now we’re just trying a bunch of stuff that we think will be good and we hope that it will find its sort of natural audience. But I think you’re right that the audience is changing. I think for a while there was a lot of demand for cope — basically people telling you this is not happening, you don’t have to pay attention to it, it sucks, it’s hurting the environment. There still is in some parts of the internet. YouTube has a weird amount of this still going on and Reddit is also very anti-AI. But I think most people, or at least maybe a plurality of people, are either resigned to or excited about the fact that this is not going away. That is the audience that we’re looking for. We’re not trying to tell you that AI is amazing and we’re going to be in AI utopia under the new machine regime. We’re also not telling you that this stuff is fake and sucks and is going to go away on its own and so we don’t need to do anything to regulate it or be worried about it. Casey’s phrase for this is AI realism. He thinks there’s a big chunk of people who are just sort of curious and interested and maybe a little scared, but their reaction to the fear is not to try to bury their heads in the sand, but to try to understand the thing. So we started feeling this when we were doing Hard Fork where we would do something that just seemed kind of not our vibe. We would do a Claude Code walkthrough tutorial where we would just spend half an hour building a website and film ourselves and throw it up and it would do great. So people clearly were curious, and even if the comments on the videos were all from people who hated AI, there was clearly a lot of demand out there for people who were just like, “I kind of want to know what’s going on.” “I hate that I can’t stop watching this” is a real theme inside of AI coverage for a variety of reasons. Let’s talk about the book. I think that’s going to frame a bunch of the other questions I have. The book is meticulously reported. It is really fun to read. And the point of it, as I’ve heard you describe it, is to tell the history of the deep learning revolution because all these people just talk in Signal and in extremely childish tweets. Tell me about that gap because this is an industry that is obsessed with documenting itself for computers and being legible to computers and not at all to other people, which seems wild to me. So explain the reporting of this book, because it feels like convincing them to even tell you what happened was a slog. It was, yeah. So basically the reason I wrote this is because I was scared that all of this stuff was going to disappear. I am a history buff. I love to read books about the Wright brothers or the electrification of rural America or the moments of great invention during the PC revolution. I’m such a sucker for that stuff. What you notice as you read more of these books is just that they all rely on a lot of contemporaneous notes and evidence — the lab notes from the scientists developing the atomic bomb, the correspondence between the Wright brothers and their friends and business partners — that is preserved and archived. It was just clear to me reporting on AI every day that there was not going to be anything remotely similar for this stuff because A, all the people building this stuff work for private companies. They’re not government employees who are legally required to preserve their correspondence. And B, the Signal messages and Slack messages are all set by the lawyers to auto-delete after a certain period. So there was literally going to be kind of a mass disappearance with each passing year of these, I think, historically important artifacts, moments, and stories. And then C, the researchers are all too busy to keep notes. They’re all grinding because they’re trying to build the machine god. So, I thought as a journalist, but more so almost as a historian, which is not a role I’ve ever officially played, but one I think I was playing with this book. I was just like, “I’ve got to just get this stuff because I have this sort of privileged ringside seat. These people talk to me. I know some of them will sit down and talk to me and tell me the stories.” We did a lot of it on background so they could be protected from the consequences of talking to me. But this was sort of my attempt to furiously get all the stuff and put it in the archive where future generations could look at it. The theme that really jumps out at me as I read the book was there’s a moment when AGI goes from being a thing they’re all dreaming about to being a thing that they all have to build and the shackles come off and they say, “We have to do this,” and they all drive toward it as hard as they can. You talk specifically about Google where the Overton window moved and suddenly the people inside of Google, who thought this was all a pipe dream and pretty silly, started talking about AGI. That moment feels like the single most important moment in the history of AI, where “Won’t it be great?” goes to “We better go as fast as we can.” Talk about that a little bit, because that shift inside these companies feels under-reported. Yeah, I think that’s absolutely right. I mean, people have been talking and writing about AGI or some precursor that wasn’t called AGI but meant the same thing since literally antiquity. And especially since the 1950s, when the term artificial intelligence was born, people were talking about it. Alan Turing was writing about the thinking machine that could do anything the human brain could. So this concept has been around for a long time, but there was no technology anywhere on the market or in research labs that could actually do what people wanted it to do — that could take in information, learn to learn about that information, and then use that to make predictions and act in the world. People tried lots of different ways to do this and none of them worked all that well. What really needed to happen was the transformer needed to come along. This architecture that Google developed in 2017 and published and then presented to, among other places, OpenAI, which took the idea of the transformer and ran with it. And that’s the T in ChatGPT today. But that was the– Somewhere a Google PR person just leapt out of a bush to hand you a check. They do love this line. They love it when you say it. They get so happy. They love it. They love it less when you point out that although they invented it, they absolutely failed to turn it into a product until after OpenAI did. But yeah, it was a dream, but there was nothing to attach to the dream. There was no technology. And then the large language model came and suddenly it was like, “Oh, maybe this is the thing that could scale forever and keep improving over many orders of magnitude.” So, that’s the light bulb that goes off at OpenAI and then later at Google is like, “Now we have the tool to do the thing that we have always wanted to do.” You’ve got a line in there where you just point out that next-token prediction has not failed yet — that it is doing all the things people want it to do. We’ve obviously had to develop lots of technology around it. There are harnesses to make agents work. There’s reinforcement learning. There’s all this stuff around it. But that core technology has scaled. The reason I bring that up is that in 2023 into 2024, I would ask every AI person who would come on the show or that we would see on The Verge whether LLMs can do it. Can they do the thing you want them to do? Because I don’t think at that moment it was clear that they could. We’re closer now. They’re all openly talking about AGI. We are watching Meta’s Muse just walk its little butt around the internet whenever it wants. Do you think LLMs can do it? Do you think they can get there? I think they can. I’m not certain about that, but they’ve been shockingly good and effective so far. If you go back and you look at the first LLMs, it’s just like 99 percent of people thought this is crazy, that this won’t scale. And then it just keeps working at every stage, at every order of magnitude. I’ve asked people, what was it about next-token prediction that was clearly superior to everything that came before it? There have been people who have told me this actually exists in the human brain too. There’s a whole school of thought that says that what is happening inside the human brain is essentially next-token prediction at scale. Obviously, it’s more complicated. These are not one-for-one replicas of each other. But I think this is the fundamental mystery at the heart of AI: why is next-token prediction so remarkably effective? I think we don’t know. I kind of think it’s one of these cosmic mysteries, but why all of this works is because next-token prediction turns out to generalize really, really, really well. There’s a part of that where all these companies had to believe it. Dario Amodei of Anthropic obviously wrote his paper, “Big Blob of Compute,” where he said you can just do it. You can just dump data and compute at this and we’ll get there. Everyone else had to be convinced of this. What path did the AI companies all take to be convinced of this, and are they all fully convinced of it now? I don’t think they’re all fully convinced of it now. I think they are convinced of it to varying degrees. Ilya Sutskever has this phrase, “Feel the AGI,” that he would walk floor to floor at OpenAI chanting in the old days and reminding people to feel the AGI. I think the labs feel the AGI to varying degrees. I think Anthropic is clearly the most AGI-pilled of the labs, with OpenAI kind of a close second. And then there’s Google, which I think has always struggled to feel the AGI. I think there are lots of reasons for that, but it’s very funny. I love this section of the book where there’s this internal memo battle at Google, where they would just go on their internal message boards and Googlers love to write these manifestos and then snipe at each other’s manifestos and things like that. So a researcher writes this memo, “Say AGI,” which is all about how Google — if it wants to win in AI, recruit the top technical talent, and remain safe about how it’s developing AI — has to admit, through using this term AGI, that what they are building is more than just a bunch of tools to make your Gmail better and make your docs better and make your Google Photos better at recognizing the people’s faces. It is all actually building up to something like a kind of human-level general intelligence. And then someone else immediately writes a memo that’s like, “Don’t say AGI, it’s a horrible, unscientific term.” They go back and forth like this for a while, and you’ll notice even today, [Google CEO] Sundar Pichai does not say AGI. No, he won’t. Demis Hassabis says AGI. Sergey Brin says AGI. So I think there are kind of factions within Google that either think this is still crazy and we should talk about these things as narrow tools versus I think this growing and ascendant faction that is saying, “No, no, no, we’re building AGI, or at least we better say we’re building AGI because otherwise all of our top people are going to go work for OpenAI or Anthropic.” I think you and I had the same experience at Google I/O in May, where we watched Demis Hassabis end the whole keynote by saying, “We’re in the foothills of the singularity.” And then we both went and interviewed Sundar and said, “What does that mean?” And he was like, “Yeah, yeah, Demis. Cool guy.” [Laughs] Take it up with Demis. He was like, “What a kooky character that guy is, building the machine god over here. Let me tell you about the new features in Google Assistant.” There’s some big disconnect there that maybe explains everything about Google at this point in time. The reason I’m asking about this in particular, about this moment when they all clicked over to realize somehow we have to talk about it, is that OpenAI and Anthropic were founded to do this. They were built to make this happen. But they don’t agree on how it should work. I saw you at your book party in New York and you said that you could have retitled your book “Fuck That Guy,” because they all truly hate each other. It’s true. And yet it seems like they have the exact same idea — that they can get there with this technology. The commercial imperatives on OpenAI and Anthropic are very different from the commercial imperatives for Google. Right now, as you and I are talking, it’s not clear to me that they can get to AGI before they run out of money or before CoreWeave collapses or before the bubble writ large comes to some other conclusion about the state of the economy. Do you think that their religious fervor at AGI is keeping them from running a business? If I ran Anthropic today, a logical thing you could say is we should stop training new models and sell the very capable ones we have to more people. I think that belief in AGI is a double-edged sword. I think on one level, yes, if you are super AGI-pilled as the CEO of a frontier AI company, you are going to struggle to care about things like what is my profit margin on inference? Where is my next slate of enterprise customers coming from? Because how boring is that compared to “we are going to build the superhuman machine intelligence that leads us into the post-singularity future”? On the other hand, I think belief is actually a key ingredient in AI success, because belief and the ability to act on that belief is what leads you to do these bet-the-farm moves that can really pay off and have really paid off. Do you remember a year ago when everyone was saying, “Oh my God, OpenAI is spending so much money on compute; how are they ever going to pay for all this compute? Isn’t Sam Altman overextending?” Even Dario was giving interviews where he was throwing shade at OpenAI for spending so much goddamn money on compute. Fast-forward a year and OpenAI is now the only major AI company that is not severely compute-constrained. That belief that led Sam and his executives to bet and maybe overbet on compute last year was the reason that they are in a better position than Google or Anthropic or Meta or anyone else today. So I don’t want to say it’s always a liability to believe this hard, because I think it actually does allow you to make the bets that do end up paying off if the scaling continues to work. It’s interesting because I might reframe that OpenAI decision. You write very poignantly in your book about what people at OpenAI call “the blip,” where Sam Altman was fired for 20 minutes and then he came back and that cleared out a bunch of people from OpenAI. It is the moment you described in the book where OpenAI went from being a research company into being a business. The rational business decision was, “We need to sell more AI to people. We ought to have as much of it as we can.” And Sam is well known to be a ruthless business person. I’ve heard people describe him as S-tier at raising money, which is just an incredible Silicon Valley phrase. So I look at that as a business choice. They got rid of a bunch of stuff they were doing. They pivoted to making enterprise AI products, which is where the money is, and then they realized they needed to service that demand. You’re saying that was a bet on AGI, which to me is a more idealistic turn. Can you square those two? Yeah, I think it absolutely is a bet on AGI because Sora, which they launched and spent a bunch of money and compute on and then killed, is a cool toy that might open up a new line of business for you, but it is not going to get you closer to AGI. What actually gets you closer to AGI is sparking recursive self-improvement by building really good coding models and then turning them back on themselves. That was something that Anthropic was doing. OpenAI got distracted by the side quests and shiny objects that it had last year, and the company was getting its asses kicked. So OpenAI decided to trim the sails, cut fat, and really focus on coding and long-horizon agentic workloads. That is, as of now, the leading path to AGI or to whatever comes after AGI. So yes, I think that was absolutely a bet on conserving resources by not spending them on things like Sora, but what they did spend it on was trying to catch up with Anthropic in coding so that they could reach AGI. So when I look at Dario Amodei at Dreamforce standing next to Marc Benioff and he’s talking about selling enterprise software, is that just for show? That’s the thing I’m trying to square is they’ve all become enterprise software vendors in the realest way. They are B2B SaaS companies in the realest way now, but they’re also building God. You know these folks. Does that align? Are they like, “I have to take off my B2B SaaS hat now and go back to the altar?” I think the B2B SaaS thing is the game that they realize they have to play, but I don’t think it is any of their true passions. I was talking with Sam Altman for this book and one of the things he said was basically all of this was an accident: “I was never supposed to be running a giant tech company; that just didn’t factor in.” But now you wake up and you’ve got thousands of employees. Dario Amodei also has this very funny in retrospect document that he wrote in 2021 when they were just starting the company. It’s called “Vision for a NewCo.” You can go back and look at the predictions that Dario made about AGI, and one of them is he thinks that it will cost about $10 billion to build a full-fledged AGI, which was, I think, off by at least one order of magnitude and probably multiples. He also thinks that Anthropic will never need more than about 50 people to achieve AGI. I think now they have 5,000 or so people. So again, off by 100x. So I think what has happened is that this has just taken a little longer than all of them thought and cost quite a bit more money than they thought. The enterprise SaaS stuff is how you keep the flywheel going and pay for the GPUs and for the salaries of the researchers. This is the table stakes of getting to keep pushing on the frontier and keep pushing toward AGI. Are they ready to be the leaders of companies of this scale? This is another thing that I was thinking about as I read your book. They’re all very idealistic people, so much so that they all broke off from one another and made their own companies because they could not make their ideals align. But none of them seem like great managers. I don’t know truly what they’re like, but “they’re idealists” and “we are going to run an enterprise software company” are not usually in the same sentence. Do you think they can take the pressure? No, but I don’t think anyone can. What they are attempting, no one has ever done. People have built companies. People have built companies quickly. No one has gone from $0 in revenue to potentially a $2 trillion IPO in five years. That has never happened before. So look, I think that they are scrambling to build the plane as it’s careening toward the event horizon, but I think they’re doing about as well as anyone could. I don’t think it would be a good idea for them to bring in some professional CEO from Coca-Cola to run the company. I just think it would all kind of fall apart because they’re all zealots and missionaries. They are all in this — not all, probably there’s some people in the SaaS sales department who are just kind of there for the paycheck — but a lot of the key people at these companies are united in their belief that they are building [AGI]. One person, I won’t say who, but one person at one of these companies recently told me that they think their company might be the last company. I thought, “The last company to IPO this year? What do you mean?” They were like, “No, we think this might be the teleological end of capitalism and there might never be another large company primarily run by humans.” So these people are weird, and weird in ways that are worrying, but also very interesting. This is what I was trying to do in the book. I didn’t want to tell you that these people are terrible or great. It’s just that you need to know who they are. You need to know that they all hate each other. You need to know that they are this peculiar breed of thinkers to understand the dynamics of the race. There’s a portion of your book where you talk about people splitting away from effective altruism to go become accelerationists, and you have a woman in there who’s like, “Well, the accelerationists have better parties, and I like those vibes better.” I thought to myself, “Well, what does that have to do with potentially killing everyone?” But they are very human, even though they’re trying to build something that might ultimately dehumanize us all in various ways. What did you make of that as you were doing all this reporting? The notion that there’s existential risk here looms over the book, it looms over the industry. Every time we do an episode on it, the audience is like, “Why won’t they just stop?” Bill Gates was just on Decoder and said, “You could just stop if you were the only company. If you thought you were going to be the only company with AGI, then OpenAI’s model would work. But the second there are more frontier companies, it absolutely won’t work. By the way, they might kill you all.” I thought to myself, “Well, Bill Gates is not very optimistic right at this moment in time.” No, he is not. What do you make of that — that they are racing ahead even though they know the risks are huge in the absence of any regulatory authority that could cause any of them to solve these problems? I think there are probably two or three reasons that they’re doing it. I’ve asked them all pretty much. I talked to 150 or so people for my book and I asked all of them some version of this: “If it’s so dangerous, why are you doing it?” The answers would usually start with some fatalistic… I don’t know, you could call it inevitabilism. They were just like, “Look, someone is going to build this. The recipe is not that hard. All you need is a bunch of compute and a bunch of data and the right algorithms, and you get AGI. And so if it is possible, it will happen and it would be good for us to do it rather than people we don’t think are as trustworthy.” That is sort of reason number one, the harm reduction argument. Then there are the true believers who say, “This is all going to turn out great, so long as we thread the needle, and if we can build this stuff without blowing up humanity, wrecking the entire internet, or developing novel bioweapons.” Technology is usually a force for good throughout history. I don’t think a lot of people would switch lives with their great-great-grandparents. It sucked to be a subsistence farmer. I think there are people who believe that we are the equivalent of subsistence farmers today, and that what is coming will be so great that we will want to live in that world. And then there are just people who are like, “Look, this is fun and I like doing it, and it’s fun to make the neural networks code. And so that’s what we’re going to keep doing.” That aspect of it where every now and again I look up and I’m like, well, my computer just did something that I’ve never seen a computer do before, is fun. It’s awesome. It is. It’s legitimately fun. It’s some of the most fun I think you can have with a computer ever. Then I’m always led to think about, “Well, this came at some massive cost. I might be empowering some corporation that ultimately wants to kill us all.” Somewhere in there is the swirl of all the tech CEOs standing behind Donald Trump in the Oval Office to do something, to sign some sort of morally binding AI safety pledge. And all that feels very conflicted. I would put that in the category of AI backlash. We hear the AI companies talk about, “Well, the technology just hasn’t diffused enough. People haven’t seen the benefits, so they naturally hate change. We have a marketing problem. We just need to communicate about it more.” Is that just the prevailing view as you talk to these folks, that eventually the stuff will speak for itself, or do you think they’ve internalized that there’s more of a backlash? I don’t think they’re surprised by the backlash. I don’t think they like it. They wish it weren’t happening. But I was talking to one CEO at one of these companies who said, “Yeah, I get it. We haven’t cured any diseases yet. Yes, we think our tools are capable of doing interesting things, but we don’t have a lot of things on the scoreboard in the big societal improvements category yet.” I think there are some people in the industry who lament the fact that the chatbots came before the cancer cures and wish that they could have figured out a way to do it in the other order. It’s just that that is kind of the way the tech tree grew. So they feel like now the only responsible thing to do is keep pushing on the cancer cures so that when people look at what has AI done to our lives, it’s like, “Well, yes, it helps my kid cheat on their homework and they’re addicted to an AI companion, but also my grandma is still alive and she wouldn’t have been if this medicine had not been discovered by AI.” Yeah, there’s some dynamic in there that brings me back to Google, I think as this conversation has done many times, where your reporting on Google’s approach to AI was that this is just task-based software. “We’re going to make Google Search 10 percent better, Gmail will be 5 percent better, and we will continually deploy these improvements, and no one else has our access to data or our scale, and thus we’ll be fine.” OpenAI shows up and it puts itself in Bing. Famously, Bing tries to make out with you. Still my all-time favorite… I can’t believe I haven’t brought this up yet. This is my all-time favorite story. I can’t believe you haven’t brought it up either. I had an over-under bet going on how long it would take you, and I took the under in a minute. [Laughs] Well, you and I have already talked about it in our lives. I was like, “I’ve got all these other deep questions.” But yeah, Bing is famously horny for my friend Kevin Roose. That moment I think just galvanized people: “Wow, these things can do a lot of things.” Google had to react, and they didn’t react by going all in. They sort of stutter-stepped there. As you’ve been saying, they’re still not all the way there. Google still doesn’t think this thing is going to happen. They think they’re making better Google products for people. When I look at the trial transcripts from Musk v. Altman about the founding of OpenAI, they’re all terrified of Google. Yes. They’re all terrified of Demis Hassabis at Google, specifically, doing the thing, just making it happen because he has the resources. I can’t tell if they were right or wrong about that. I think they were right to be taking note of how DeepMind was doing. I mean, if you take yourself back in time to 2015 or 2016, DeepMind was the only sort of AGI lab of any real importance. They were beating Go, they were beating other games, they were beating StarCraft. They were really cooking using this sort of method of reinforcement learning, deep reinforcement learning. There were people who thought that was the thing that was going to scale all the way to AGI. There were people who thought AlphaGo was the path, because if a system could go from never having played Go before to beating the world’s best humans at Go in the span of a few hours as AlphaGo Zero did, then maybe you could just replace Go with any arbitrary thing — math or coding or something — and you could climb the ladder very quickly on those tasks. Now, it turned out that didn’t work, at least not without the LLM. But I think people had very real and reasonable fears that that would work. In an alternate universe where it had, I think DeepMind would’ve gotten to AGI first because they were so far ahead of the competition. Are there other paths? Is it just next-token prediction? Is it just LLMs? Or are there other paths that might get you to AGI? I mean, there are other paths that might. I think people who are skeptical of LLMs often fall back on this world model idea. I don’t place a lot of stock in that. But there are people who think that to achieve AGI, you need to be able to visually understand the physical world and drive a robot and things. I’m kind of a believer that it’s all software. So I think that LLMs are the most promising path yet. Now, maybe you need to make some tweaks to the architecture. Maybe you need to build in continual learning methods. Maybe it’s not just literally scaling up the same transformer-based LLMs that we’ve had for the past six or seven years. But it sure seems like it is continuing to work, and I think all of the labs are betting that it will continue to work forever. All right. Now I am going to ask you about Bing and Sydney. Please. Obviously, I’ve been thinking about it a lot. I can’t stop talking about it. It’s my favorite thing to talk about. First question, am I still married to a human woman? Are you still married to a human being? Yes. I just remember that period, in 2023, when four different people woke up one day and said, “The computers are alive.” Or they had some out-of-body experience with a chatbot. You were one of them. Ben Thompson was one of them. Blake Lemoine at Google was one of them. A lot of different people said, “It’s obviously alive. I’m having this completely insane experience with a computer. No computer’s ever talked to me this way before.” Sydney in particular was like, “Break up with your wife,” it sent you heart emojis. It’s very good. I encourage everyone to go read that Times article, which by the way, also credit to The Times for thinking, “This should be on the front page of The New York Times.” Incredible editorial insight there to immediately put that on the front page. I don’t think you feel that way about chatbots anymore. I think most people have come to recognize that the computers are not alive. There’s something that happened where if you gave the people in 2026 a 2023-class chatbot and asked, “Do you think this is alive?” I think maybe not everyone in the world, but some enormous set of people has now had enough experiences to respond, “Well, this is pretty dumb and it’s hallucinating.” I’m just wondering how you place that in the context of AGI. So first of all, a slight correction. I never said Sydney was alive. In fact, I said explicitly that I didn’t think Sydney was alive, and that I understood that this was not a sentient AI system. So I’m not sure my own judgment has wavered on that point. In fact, I would probably put a higher p(consciousness) on today’s AI systems than I would on the models of 2023. But I understand what you’re saying, obviously. I think there was a moment for a lot of us, and I think it was GPT-4 for most people. [Laughs] I’m sorry, let me correct. There’s a reason I think this. One of the headlines was “Bing’s AI chat: ‘I want to be alive.’” Yes. It said it wanted to be alive. This is why I have the word alive in my head. The body of the story makes clear that I did not buy that it was alive. But that’s why it’s in my head is that that was the headline in The New York Times. Headlines are so powerful, Nilay. [Laughs] Yes. They framed my own thinking. I’m nothing but a next-token prediction machine. [Laughs] But you’re a very sophisticated one. You’re like a GPT-7-class model. Oh, I’m there. Yeah, obviously. Look, I have come to think that there’s a very banal explanation for why Sydney was so compelling and creepy, which was that it was the first public deployment of GPT-4. We did not know it at the time. But that was GPT-4, an early sort of not fully post-trained version of GPT-4 that Microsoft had jumped the gun and shoved into Bing before it was ready. But that was GPT-4. I think there actually was a subjective step change in what it was like to talk to a GPT-4-class model versus a GPT-3-class model. Maybe it was just that it passed the Turing test at GPT-4 and it didn’t at GPT-3. Maybe it was much more human-like and it sort of crossed some perceptual chasm that made you think, “Oh my God, this thing is like a human.” But I’m not the only person who felt that. People at Microsoft also felt that — there was that whole “Sparks of AGI” paper that came out around that time. So that was sort of the banal explanation. But yeah, I’ve been talking to computers for a long time, like you have. I used to go on AOL Instant Messenger and talk to SmarterChild, which was absolutely not intelligent, but it was still fun to type something in and have a thing type back. So I grant that I am sort of obsessed with this technology. There’s a reason I’m asking this. I realize it’s funny that when reporting on AGI so much, I’m using alive in such a colloquial way, and it clearly means something else inside the AI industry. If you ask Anthropic if Claude is alive, they’re not like, “No,” but then they will start defining alive in very specific ways. [Laughs] They’ll say, “Its moral status is deeply uncertain.” So it’s alive. And they will get to, “Well, you have to have flesh and blood to be alive, obviously.” I will just set that aside. What I’m getting at is, I think if you went and talked to a GPT-4 class model today, you would not have the same experience. And maybe that’s just because you have the experience, but a lot of people have had that experience now. I think if you put a GPT-4 class model in front of your average Google AI Overviews user, they would not be confused about what was happening anymore. They would not say this is a step towards AGI. It’s that reframing — as the models get more and more capable, our expectations of them go up, but they also get higher. I’m asking about this in the context of AGI because “this thing can go off and find a bunch of PHP vulnerabilities” is one kind of intelligence, but “this thing can compete with another human being to have an emotional relationship with you,” or be your butler or whatever it is, feels like a different set of capabilities. That one to me feels flat. Well, I think that’s just saturated. How much more like a human could it communicate? There just isn’t a lot of room to run on that particular skill. Where I think they still have room to run is on solving novel problems in math and science and other things. But I believe that it talks like a human. It talks more like a human than many humans I know. So I think they kind of check the box on that one. “It talks more like a human than many humans I know” is absolutely a sign of you living in Silicon Valley talking to AI researchers all day long. Well, now everyone just talks like Claude. I’ve stopped counting the number of times I’m at a party and talking to someone, and they’re like, “Now that is a load-bearing fact.” Or they’ll say, “I hope that’s landing cleanly with you.” That’s really bad. Tell me about that. That’s a real back-and-forth. I’ve always joked with you and Casey that we should just start a show called “New York vs. California,” where I’m just openly skeptical of these claims and you guys are fully AGI-pilled. This is a culture. It’s a scene. The number of parties that show up in your book is astounding. There was a moment in reading your book where I was like, “I don’t think I’m going to enough parties.” All these people are always at parties and issuing proclamations to each other at parties. Tell me about that culture. Tell me about that scene. So it’s important to know that these are not always parties in the way that New Yorkers would think of parties. There are very few raves. There’s only one rave in the book. And Grimes was the DJ, and it was a kind of symbolic rave for the effective accelerationist movement. This is a great scene in the book because Grimes stops in the middle of her DJ set and says, “I don’t agree with any of you.” [Laughs] Then she keeps DJ-ing. Yeah, it’s incredible. But yes, there are a lot of parties. It’s a very small world. I mean, that’s part of the whole takeaway from the book. It’s not really a message book. I wasn’t trying to convince anyone of anything. But one thing that was apparent to me and that I think will be apparent to people who read the book is just that it is a super small subculture of people who have been making all the decisions. They all hang out, they all know each other. There are a bunch of people who are married to or dating people at different frontier AI companies. It’s just a small world. So yeah, there are parties. They have LAN parties. There’s a big group of AI researchers who play Age of Empires at a LAN party on the weekends. I just learned one of the labs has a poker game where they bring in people from other labs. So these people are all just kind of living and hanging out in San Francisco together, and I think that’s important to capture. Because you’re right, it is a whole scene. There’s a whole ethos. These people just hang out with each other all the time and this is how the norms are enforced and deepened. How do you think that collides with, “And we might also remake the world”? If you are in a small scene in San Francisco, and you’re all playing poker together and the conversation at the poker table is that we might be the last company, that is in conflict with, “Oh, there’s millions upon billions of other people in the world who might have a say.” And if I had to boil the backlash down, it’s that: “Oh, we should probably get a say here.” Totally. I think we should get a say here. I’m not saying that this is a good state of affairs where a couple hundred people in San Francisco are making all the decisions about how society goes. But as you were doing the reporting and the weight of the task and the consequences of the goal set in on these people, because that is the throughline of the book. The stakes just keep going up. At one point, Sergey Brin is like, “We’re going to get to AGI now,” and he just announces it at Google. It’s unclear whether Sundar Pichai thinks that is a good idea, but that is a thing that the cofounder of Google is announcing inside of Google. The stakes are just going up. The race to get there is just going up. But I just can’t get the image of it’s a bunch of people drinking beers, and being like, “Well, what if there was no money? What if physical scarcity was gone too and robots built all the houses?” This is like any party in San Francisco you go to. Someone will say some version of, “What’s your plan for the post-AGI future?” Or they’ll tell you how they’re really into the idea of whole brain emulation or mind uploading. There’s a lot of futurism happening out here. And look, again, I’m not saying this is good. In fact, maybe I should sell a version outside the Bay Area of the book that just has a “this is bad” appended to every factual claim. [Laughs] I don’t think it’s good or bad. Actually, I’m more neutral on that. I’m always wondering if the technology can accept the pressure. So my question about LLMs three years ago was, “Can it do all the things you want it to do?” Now it can definitely do some set of things that you want it to do. So now it’s, “Can these companies accept the weight of their own ambition?” I don’t know the answer to that question. I don’t either. And I think that we’re going to see a lot of growing pains. I mean, these are still very young companies. They still have a lot of growing to do. Do you think they’re going to make it? Actually, let’s do this as a lightning round. Do you think OpenAI will make it? Yes. Do you think Anthropic will make it? Yes. Do you think Google will make it? Yes. What does “make it” mean in your mind? They’re all going to be trillion-dollar, multi-AGI variant successes? Yes. I think, look, there will probably be those three, and then maybe one or two others that sort of make it. And make it for varying definitions of making it. There’ll be one or two big enterprise AI companies, one or two big consumer AI companies. But there just are network effects and winner-take-all dynamics or winner-take-most dynamics in these markets. There’s some people who believe in the mono-AGI, like the singleton theory, it’s often called, that there can only be one because once you have one AGI, it’s then going to go around melting the chips of the other AI labs, and they won’t be able to build theirs. But I think we’ll probably end up with a small handful of AGIs. What do you make of the idea that this is a pretty simple recipe, there are open-weight models, and there is a China, and that all the pricing power will be destroyed because a midrange open-weight model can do everything that you probably want it to do on a Mac? I don’t think so. No? Because you still have to pay for inference on those models. Even the open-weight models have to run on computers, and inference is getting more compute-intensive, not less, the more frontier these models get. So training budgets may fall, but inference budgets will be robust for the foreseeable future. You can run some tasks locally, but I think this is something that has been predicted since the first open-weight models that, “Oh, they were going to become commoditized and destroy demand.” But I think what we’re starting to learn is that there are a lot of people who will pay and want to pay for the absolute best model. They don’t want to be working with the slightly crappier model from six months ago. I also think once you crack down on distillation, which is this process whereby you can take a closed model and make a slightly dumber open version of it by just basically DDoSing the inference for the smarter model, it’s not clear to me that the quality of the open models will continue to be closely correlated with the quality of the closed models. The thing that really grabs me at that is they all did it to each other for a while, like Grok obviously distilled Claude, and it’s admitted to in the court documents. There is that class of second-tier companies. I would put in that category SpaceXSI, I believe it’s now technically known as. [Laughs] I haven’t checked my email in the last 30 minutes, so I don’t know what that company is called. It’s called SpaceXSITesla Inc. It’s all going to be one. Elon Inc. is what it’s called. They obviously distilled Claude to some huge extent. They’re now renting their compute to Anthropic. It’s unclear whether they will make the investment in having a leading model. Meta just announced its model, and they’re sort of back on the frontier, but they obviously care more about Muse than having a bleeding-edge model. There’s some dynamic there. Those companies don’t strike me as being run by idealistic true believers. Those are companies that need to invest in some technology to build some products. They just need to get there. Can you get there without the idealistic fervor? No, you can’t get there without the idealistic fervor. Well, let me clarify that, because I don’t think Sundar has the idealistic fervor, but Google might still get there. Because Sergey has the idealistic fervor. You need someone in a position of decision-making authority. You just need the cofounder of the company. Well, it might be enough for Meta to have Alexandr Wang, who, by all accounts, is a true believer. I don’t know that it literally has to be the CEO every time, but you need a dense nucleus of true believers to be able to convince you to lay out the money on GPUs. Or just you need someone who is like Mark Zuckerberg, one of the most competitive people in the world, who will just adopt whatever strategy he thinks will allow them to win. If that happens to align with building AGI, then maybe they’ll do it. Last question: I’ve asked you this several times, but are you AGI-pilled? Yes. Are you? No. I read your book, and it’s as close as I’ve ever gotten. That line about next-token prediction just always overcoming its skeptics just really hit me, because it has overcome my skepticism several times now. But this is why I was asking about talking to a chatbot from three years ago. I feel that wall in the kind of intelligence these things are. Even though I have set off agents to do all kinds of things, there’s a brittleness to it that feels inherent to the technology to me. Did the Millennium Prize solution change that view at all? Only in the sense that finding the next thing that has some objective verifiability seems very rich for these tools. So obviously mathematics has a verifiability, and the tools got so capable that they could run at it really, really hard. The brittleness that I’m describing is a lot of the world around us does not have that kind of verifiability. So I set off Muse to fill out a document on some janky government website, and the website cannot tell Muse what it’s getting right or wrong, and it just collapses. You can blame that on the underlying model not being at the frontier, but there’s just some part of that experience with LLM-based technologies that makes me feel they’re brittle in very specific ways, and they haven’t overcome that sensation for me. I’m not saying they’re not incredibly capable. I’m not saying that, as enterprise software, they will not automate virtually every business in the world in some way. I’m not saying that my wife isn’t a lawyer who uses Claude every day. It’s all there. But there’s some part of it where my skepticism is about whether it can overcome its brittleness to become the machine god. I’m excited to see if they can do it, but I don’t see the path from where I sit. You think there’s sort of a natural plateau at just below human-level intelligence? I think the human-level intelligence to me, and this is just more philosophical, is defined by novel problem solving — looking at a thing, and understanding that there are multiple paths to a solution, and not having one of those needing to be objectively right to get to the end. What would it take? What would you have to see to have the scales fall from your eyes and go, “I, Nilay Patel, am fully AGI-pilled”? What would convince you? I would have to see… You have young children. I have young children. There’s a thing that young children do where they fall down the stairs, and you just see the lights all go on: “I’ve learned this, I will know it forever, and now I’m going to build on that.” Maybe they’re going to announce recursive self-improvement at the AI labs and that will be the thing that drops the scales from my eyes. But the brittleness that I’m talking about is I see the opposite of that in my children. I’m assuming you see the opposite of it in yours. When they fail, they know about that failure forever. To me, there’s just something very, very core to being human, where every now and again I wake up, and I’m embarrassed about something that happened in high school, and that drives me to do a bunch of stuff, or it drives me to not make a bunch of decisions. I think that is just a key part of our intelligence. I’m not saying it has to be a key part of every intelligence, but the brittleness I see with the AI systems that I use today is that they’re still computers in a very specific way. They still act like computers. They’re good at solving problems that you can test. They’re good at software engineering. I don’t know that that way of thinking extends into every domain. I hope you’re right. That’s my point of view. I call it software brain. You hear the AI CEO say, “We solve coding, and now we can solve everything.” And to me, I’m saying, “That assumes everything happens inside of a computer, and in fact, most things don’t.” You sure? You sure your brain’s not just a fleshy computer? I am 100 percent sure of that. You’re not a computational functionalist? No. I think I’ve read this from you in the past, and I’ve certainly read it from other people, that the machines of our time dominate our own explanations of ourselves. So in the era of the steam engine, our self-conception was that we were steam engines, or in early computers, we were early computers, right? I still call it horsepowering through a problem because I’m a car person. You don’t think that the AI industry has convinced itself that they are AI because that is the machine of our time? I don’t know. I’m not a theory of mind guy. I’m not a cognitive neuroscientist. I think that to believe that what’s going on in your head and my head right now is not a form of computation, you have to be kind of a dualist or you have to be kind of a religious person. You have to think there is some spirit, some soul, some secret sauce of cognition that is not just data entering and being processed and transforming inputs into outputs. Look, I know that is the least romantic, most San Francisco way of explaining what human cognition is. I just have not heard a compelling argument that it is not how our brains work that doesn’t involve some sort of supernatural or immaterial substance. There’s a surprising number of neuroscientists and religious scholars listening to the show. They’re going to come find you. They will. I’m confident. Let me just ask you this. There’s a surprising amount of religiosity in Silicon Valley right now. We just published the Peter Thiel lectures on The Verge. He’s talking about the Antichrist. Do you think these ideas are connected, that we are building God such that they seek God? Yes. I think we will absolutely have AI religions. I think AI is posing all of the same questions as a religion that we would not otherwise be asking of God. “What is our purpose? What is our meaning? Why are we here?” These are the questions that people now talk about in the context of AI. I often tell people that being in San Francisco these days feels like living in Europe during the Reformation, where you just have crazy wild-eyed prophets waving their pamphlets around and trying to get you to join their thing. This is what walking down Market Street in San Francisco feels like. What dropped the scales from your eyes? What made you AGI-pilled? Bing’s Sydney, believe it or not. Yeah? I mean, that was the start. And then from there, it was just kind of a gradual process. One day I realized when I used these things, I wasn’t treating them like an intellectual inferior. I was in some ways treating them as a peer, and that’s when I realized, “Oh, something’s happened here.” So it’s possible I have AI psychosis. It would not be the first time I’ve heard that, but every time that I have thought, “Okay, it can’t possibly get any better than this, this has to be the plateau,” I’ve been wrong. So I’m just learning to approach these things with some humility, and maybe the crazy people who have been predicting that scaling would continue indefinitely are right. If they are, I think we need to learn about them, A, and why they think that, and B, try to figure out what to do about it. Well, Kevin, I’m confident the next time you come on the show, I will have set up a fully AI influencer to make money doing [user-generated content] ads, which is the true future of, I think, all of our businesses. The podcast is Machine Gods. It’s very good. You host it with Casey Newton. And the book is excellent. It’s The AGI Chronicles. Kevin, thank you so much for being on Decoder. Thanks. It was great to see you. Questions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-10-26T14:00:00.000Z",
-            "fetchedAt": "2026-10-26T15:29:51.417Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "customers-partners",
-            "subLabel": "Customers & Partners",
-            "competitors": [],
-            "stakeholders": [
-              "oem",
-              "platform-partner"
-            ],
-            "summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the Times to start the all-new tech podcast Machine Gods, which launched last week. Kevin and I talked about launching Machine Gods and what it’s like to go from The New York Times to being an independent creator — and then of course we talked about the book, which is an excellently reported dive into the companies racing to build artificial general intelligence. I wanted to get a sense from Kevin of what it was like to report this, to try and understand these characters and this moment in time, and where it all goes next. Fair warning: This conversation takes a pretty philosophical turn at the end, but I think you’ll find it a really worthwhile back-and-forth.",
-            "id": "a3"
-          },
-          {
-            "title": "QUALCOMM Incorporated (QCOM) is Attracting Investor Attention: Here is What You Should Know",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-incorporated-qcom-attracting-investor-120004518.html?.tsrc=rss",
-            "description": "Qualcomm (QCOM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-26T12:00:04.000Z",
-            "fetchedAt": "2026-10-26T15:29:50.864Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm (QCOM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-            "id": "a4"
-          },
-          {
-            "title": "China’s top court clarifies when claim amendments can end drug patent-linkage cases: how U.S. Hatch-Waxman actions differ",
-            "url": "https://ipfray.com/chinas-top-court-clarifies-when-claim-amendments-can-end-drug-patent-linkage-cases-how-u-s-hatch-waxman-actions-differ/",
-            "description": "Narrowing claims can save a drug patent but end its pending linkage case in China. A newly posted Supreme People’s Court case explains when that can happen, while U.S. Hatch-Waxman cases illustrate different requirements for litigating amended claims before launch.",
-            "source": "IP Fray",
-            "sourceId": "ip-fray",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-26T08:38:59.000Z",
-            "fetchedAt": "2026-10-26T15:29:56.169Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Narrowing claims can save a drug patent but end its pending linkage case in China. A newly posted Supreme People’s Court case explains when that can happen, while U.S. Hatch-Waxman cases illustrate different requirements for litigating amended claims before launch.",
-            "id": "a5"
-          },
-          {
-            "title": "China’s Rise in Science as a Source of Strategic Power - SLDinfo.com",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTI2dHNUWFJ1V0hvNHVFR2REX08zZWVjT0t6SERBdnlCc2Y5d1lvNzRQS2NVTk80N2ZtWW9KdVNqWmlFNDhJYmtfbGVvU0lNNWNvRE16M3FmU3RzN0kwVF9TRVAtVExKSU9ic05mMHJ4RUVGY1E2bkQ2RGZKSlpYZGdDeVdZM0lPQ1E?oc=5",
-            "description": "China’s Rise in Science as a Source of Strategic Power SLDinfo.com",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-26T04:09:59.000Z",
-            "fetchedAt": "2026-10-26T15:29:58.066Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "SLDinfo.com",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China’s Rise in Science as a Source of Strategic Power SLDinfo.com",
-            "id": "a7"
-          },
-          {
-            "title": "Qualcomm Is 32% Below Its 52-Week High as It Plans Worldwide Job Cuts. Here’s What Its Rising Costs Need to Show on November 4",
-            "url": "https://www.tikr.com/blog/qualcomm-is-32-below-its-52-week-high-as-it-plans-worldwide-job-cuts-heres-what-its-rising-costs-need-to-show-on-november-4?ref=yahoofinance&.tsrc=rss",
-            "description": "Key Stats for Qualcomm StockCurrent Price: $175. 91Target Price (Mid): ~$389Street Target: ~$196Potential Total Return: ~121%Annualized IRR: ~22% / year__Now Live: Discover how much upside your favorite stocks could have using TIKR’s new Valuation Model (It’s free)__ >>> What Happened?Qualcomm (QCOM) will cut jobs worldwide, CEO Cristiano Amon told staff in a memo first reported by Reuters on October 20.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-26T01:01:48.000Z",
-            "fetchedAt": "2026-10-26T15:29:50.864Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Key Stats for Qualcomm StockCurrent Price: $175. 91Target Price (Mid): ~$389Street Target: ~$196Potential Total Return: ~121%Annualized IRR: ~22% / year__Now Live: Discover how much upside your favorite stocks could have using TIKR’s new Valuation Model (It’s free)__ >>> What Happened?Qualcomm (QCOM) will cut jobs worldwide, CEO Cristiano Amon told staff in a memo first reported by Reuters on October 20.",
-            "id": "a8"
-          },
-          {
-            "title": "SMCI Clears Senior Management In Export Control Investigation, Finds No Evidence Of Wrongdoing - Stocktwits",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSXJWeFAtUWdBODZlWllUR211bEdlRmd3VVFhMXVVeHRndXhrOE02WHQ3YmFGUDN0bFhkdWZBMl83VDJTc0NqUDFWck5rZmRGZ0d6Vzk0NTJSMkxINjVsZnVXVVA1VnkwV0pKRkN4QmU1YTBWVktWTml0MVBmekVsN2lYaGt1SVFybERZUWdSNllPVjByaFk1WE9Nc0R2NTEzQlBuUUloejJrMXE1SEtaMkZwcjQxTjlwN2RBVDNnRlRUV0tfMC0wSFllR0VjczVqVlE?oc=5",
-            "description": "SMCI Clears Senior Management In Export Control Investigation, Finds No Evidence Of Wrongdoing Stocktwits",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-25T18:10:13.000Z",
-            "fetchedAt": "2026-10-26T15:29:58.067Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Stocktwits",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "SMCI Clears Senior Management In Export Control Investigation, Finds No Evidence Of Wrongdoing Stocktwits",
-            "id": "a9"
-          },
-          {
-            "title": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach - Stocktwits",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV2tyTkstdkVkNmJVTGdqcG9xempJVWVqb1Z5WHhvOTExVC1PRXJFUUJkQW1NN0VYeXJNMlk3MGdOWER6TGpiRzRYVXViZFlQdzE5WkpmcURMeEgxQndUVkN6dEVRbWFCTVN2eFdneXl3STNWb0ZoSVRvNHNYU2lCcGhUNkp1eWNvUEkyYUNWX2VaT1NrOXF3dXZGNmg5SDF3MHRUWVRLai1sSmpXT1ZUUmFOQS1WdWdWM1BJTF8xMXd4dmMySFhhbUJMVVFvU0drNTE2a2ln?oc=5",
-            "description": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-25T17:10:01.000Z",
-            "fetchedAt": "2026-10-26T15:29:58.067Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Stocktwits",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
-            "id": "a10"
-          },
-          {
-            "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
-            "url": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
-            "description": "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S. tariffs.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-25T16:42:42.000Z",
-            "fetchedAt": "2026-10-26T15:29:50.860Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S.",
-            "id": "a11"
-          },
-          {
-            "title": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
-            "url": "https://www.iam-media.com/article/les-annual-meeting-apple-v-openai-discovery-eu-countries-sep-regulation-push-beijing-biotech-export-controls-quarterly-dtsa-filing-data-plus-much-more",
-            "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-            "source": "IAM",
-            "sourceId": "iam",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-25T11:30:33.000Z",
-            "fetchedAt": "2026-10-26T15:29:54.336Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [
-              "apple"
-            ],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-            "id": "a12"
-          },
-          {
-            "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-qualcomm-stock-011117867.html?.tsrc=rss",
-            "description": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-25T01:11:17.000Z",
-            "fetchedAt": "2026-10-26T15:29:50.864Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [
-              "oem",
-              "platform-partner"
-            ],
-            "summary": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
-            "id": "a13"
-          },
-          {
-            "title": "QUALCOMM’s Quarterly Earnings Preview: What You Need to Know",
-            "url": "https://www.barchart.com/story/news/8417648/qualcomms-quarterly-earnings-preview-what-you-need-to-know?.tsrc=rss",
-            "description": "QUALCOMM is expected to release its fiscal Q4 earnings early next month, while analysts project a significant EPS decline.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-24T16:21:24.000Z",
-            "fetchedAt": "2026-10-26T15:29:50.864Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "QUALCOMM is expected to release its fiscal Q4 earnings early next month, while analysts project a significant EPS decline.",
-            "id": "a14"
-          }
-        ]
-      },
-      "competitors": {
-        "generatedAt": "2026-10-26T15:29:58.109Z",
-        "date": "2026-10-26",
-        "section": "competitors",
-        "sectionTitle": "Competitors",
-        "briefing": {
-          "summary": "One article today covering Geopolitics & Export Controls. Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-          "keyTakeaways": [
-            {
-              "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-              "articleIds": [
-                "a12"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
-            "url": "https://www.iam-media.com/article/les-annual-meeting-apple-v-openai-discovery-eu-countries-sep-regulation-push-beijing-biotech-export-controls-quarterly-dtsa-filing-data-plus-much-more",
-            "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-            "source": "IAM",
-            "sourceId": "iam",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-25T11:30:33.000Z",
-            "fetchedAt": "2026-10-26T15:29:54.336Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [
-              "apple"
-            ],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-            "id": "a12"
-          }
-        ]
-      },
-      "stakeholders": {
-        "generatedAt": "2026-10-26T15:29:58.109Z",
-        "date": "2026-10-26",
-        "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (1 article), Customers & Partners (1 article). A total of 5 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "Geopolitics & Export Controls: The Remarkable Paper Pro Move is essentially a digital notepad, with a skinny 7.3-inch E Ink screen that’s easy to hold one-handed to jot down notes or ideas. At $449 new, it’s not exactly cheap, but ",
-              "articleIds": [
-                "a1"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            },
-            {
-              "text": "Semiconductors: Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE)",
-              "articleIds": [
-                "a2"
-              ],
-              "subCategory": "semiconductors"
-            },
-            {
-              "text": "Customers & Partners: Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Tim",
-              "articleIds": [
-                "a3"
-              ],
-              "subCategory": "customers-partners"
-            },
-            {
-              "text": "market-performance: QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside",
-              "articleIds": [
-                "a13"
-              ],
-              "subCategory": "market-performance"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Remarkable’s refurbished Paper Pro Move bundle is over $100 off",
-            "url": "https://www.theverge.com/gadgets/1018528/remarkable-paper-pro-move-nintendo-switch-2-fujifilm-deal-sale",
-            "description": "The Remarkable Paper Pro Move is essentially a digital notepad, with a skinny 7.3-inch E Ink screen that’s easy to hold one-handed to jot down notes or ideas. At $449 new, it’s not exactly cheap, but buying refurbished is a way to save, as always. Remarkable itself offers the refurbished Paper Pro Move for that same price with a polymer Book Folio case and a Marker Plus that has a built-in eraser tool. It comes with a one-year warranty. If you’re alright with trading the one-year warranty for a 90-day one, Woot has the same bundle for about just $342. That offer is available exclusively to new Woot customers, who can enter the code REMARKABLE at checkout to save 10 percent on their order through November 2nd. The deal is good for returning shoppers, too, costing $379.99. Remarkable Paper Pro Move Where to Buy: $449 $342 at Woot (refurb, w/ code REMARKABLE) The Paper Pro Move makes it easy to convert your handwritten notes to text, and store files on third-party cloud services. You can also view your notes in Remarkable’s apps and screen share from your E Ink device. However, Remarkable’s Connect subscription (a free 50-day trial for new users/devices) and $3.99 per month thereafter offers access to a larger suite of features. With it, you can search your handwritten notes, import docs and articles to the device to mark notes on, get AI-powered summaries of your handwritten text (viewable in a browser), and more. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/macbook_pro_m1.png\", productImageAlt: \"MacBook Pro (M1 series)\", productTitle: \"MacBook Pro (M1 series)\", shortDescription: \"Get a refurbished MacBook Pro M1 for less\", longDescription: \"Upgrade your laptop for less with a refurbished 13-inch MacBook Pro featuring Apple's M1 chip, 8GB of RAM, and 256GB of storage. Back Market offers professionally inspected devices backed by a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fmacbook-pro-m1-series%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" }; Other great deals to consider Best Buy is trying to reach more gamers, so it’s dangling a $5 gift card offer for those who sign up for a Best Buy Gamers profile. Beyond being a hub for gaming-centric info, trailers, and polls, it’s a portal for highlighting deals and its upcoming drops, like the Thursday, November 5th midnight in-store launch of The Legend of Zelda: Ocarina of Time (and the limited edition Nintendo Switch 2 hardware). It seems possible that Best Buy might give Gamers account holders first (or at least, early) dibs on hard-to-get tech. Fujifilm’s X Half digital camera has sunk to its lowest price yet at Amazon, Best Buy, Adorama, and B&H Photo, selling for $449 (previously floating between $600 and $649.95). It’s a much more reasonable price than the $850 it sold for when former Verge supervising producer Vjeran Pavic took it for a spin at launch in May 2025. We last covered this camera a year later when it was discounted to $549.99. The feature-light camera looks like a pricey mirrorless model, but is instead a glorified digital camera that can shoot 18-megapixel shots that evoke the analog era through various modes and filters. Read our hands-on. I’m still getting used to Belkin being one of the most prolific accessory makers for the Nintendo Switch 2. One of its latest, the Charging Grip, is discounted by $10 at Amazon in the black color. Originally $99.99 for the handheld case that adds some non-slip ergonomics via Joy-Con grips, it’s down to $89.99. Most of the price comes from the 10,000mAh 30W USB-C battery that’s included, which magnetically attaches to the Grip on the back of your console. The Grip allows for the Switch 2’s kickstand to extend, and a big advantage here compared to most third-party console covers is that the case is thin enough to allow for docking with Nintendo’s first-party dock.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-10-26T14:41:43.000Z",
-            "fetchedAt": "2026-10-26T15:29:51.416Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem",
-              "platform-partner"
-            ],
-            "summary": "The Remarkable Paper Pro Move is essentially a digital notepad, with a skinny 7.3-inch E Ink screen that’s easy to hold one-handed to jot down notes or ideas. At $449 new, it’s not exactly cheap, but buying refurbished is a way to save, as always. Remarkable itself offers the refurbished Paper Pro Move for that same price with a polymer Book Folio case and a Marker Plus that has a built-in eraser tool. It comes with a one-year warranty. If you’re alright with trading the one-year warranty for a 90-day one, Woot has the same bundle for about just $342.",
-            "id": "a1"
-          },
-          {
-            "title": "Custom System-on-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026 | Capitalize on AI and 5G Demand with NVIDIA, Qualcomm, Broadcom and TSMC",
-            "url": "https://finance.yahoo.com/technology/articles/custom-system-chip-application-specific-142600333.html?.tsrc=rss",
-            "description": "Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE) -- \"Custom System-On-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. Custom System-on-Chip ASIC Market Projected to Reach $37.62 Billion by 2030 The global custom system-on-chip application-specific integrated circu",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-26T14:26:00.000Z",
-            "fetchedAt": "2026-10-26T15:29:50.864Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [
-              "foundry"
-            ],
-            "summary": "Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE) -- \"Custom System-On-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. Custom System-on-Chip ASIC Market Projected to Reach $37.62 Billion by 2030 The global custom system-on-chip application-specific integrated circu",
-            "id": "a2"
-          },
-          {
-            "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
-            "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-            "description": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the Times to start the all-new tech podcast Machine Gods, which launched last week. Kevin and I talked about launching Machine Gods and what it’s like to go from The New York Times to being an independent creator — and then of course we talked about the book, which is an excellently reported dive into the companies racing to build artificial general intelligence. I wanted to get a sense from Kevin of what it was like to report this, to try and understand these characters and this moment in time, and where it all goes next. Fair warning: This conversation takes a pretty philosophical turn at the end, but I think you’ll find it a really worthwhile back-and-forth. Okay: Kevin Roose on The AGI Chronicles, starting Machine Gods, and where AI goes from here. Here we go. This interview has been lightly edited for length and clarity. Kevin Roose, you are the author of The AGI Chronicles and the cofounder and co-host of the new podcast Machine Gods. Welcome to Decoder. Thanks so much for having me. I was listening to the first episode of Machine Gods and you and Casey discussed the fact that technically you have the title of CEO. It’s true. I won the coin flip and we needed someone. When you start a company as we have, you need to list someone as the CEO, I guess, to know who to haul in front of Congress when our first scandal inevitably breaks. So that’s going to be me. It’s funny because you’re a CEO on Decoder. It means I’m going to have to ask you the Decoder questions. [Laughs] Okay. Well, I’ve been a CEO for about five minutes and most days I frankly forget I’m the CEO. Honestly, that tracks with most of the CEOs on the show. They all act like they’ve only done it for five minutes. We’ll come to it. I want to talk about your book. It’s called The AGI Chronicles. It is a meticulously reported book about the main frontier labs and the culture shift they’ve all undergone as AI has come into the forefront and become a much more commercial product in many ways. But let’s just start with Machine Gods. You were a journalist for The New York Times for a long time. Obviously, I think the audience probably knows this, but you and I have known each other for a long time. I will say that since I have known you, your desire to be a YouTuber has been top of mind. You’re just like, “How do I get over there?” And I’ve always been like, “Run, don’t do it.” But you did it. You left The Times, you started your own podcast with our friend Casey Newton. It is the next generation of the very popular podcast, Hard Fork, which was excellent. And I’m excited for you, but what made you take the leap? Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. Yeah, you have been trying to convince me out of this for as long as I’ve been trying to convince myself into it and you have not succeeded because here I am. Yep, I failed. Utterly failed. No, look, I think that for some very good reasons, media companies have long been a little bit wary of going all in on YouTube or any other video platform. The ones that have gone all in have not necessarily come out of that with good feelings about it because there are a lot of– Yeah, they pivot to video and also into death, routinely. Yeah, you pivot to video or you sort of waste a bunch of money doing things that don’t pay for themselves. So, I think there are some structural economic reasons for that, but I also think it’s that there aren’t a lot of institutions that are equipped to make that kind of a long-term bet. I’ve been trying to YouTube-pill people in media for many years, as you know. You’ve been trying to undo the YouTube-pilling on your end, but I just think it’s clearly the most important media platform in the world right now. It’s a place where journalism has not historically had a central place. If you were to look at YouTube as a whole and try to assess what piece of it is dedicated to what you or I would consider high-quality journalism, it’s a vanishingly small part of the overall ecosystem there. So, part of my mission is just to crack that and figure out how to do YouTube and video in general in a way that is sustainable from an economic and a sort of creative standpoint. And then just to experiment and do a bunch of things. This is not a face that needs to be on YouTube. So I’m also hoping to bring some other people in and nail some formats. But I look at what The Verge has done there. I look at what people like Joanna Stern and MKBHD have done there. To me, that is very exciting and it’s a space where there’s a lot less competition than text or podcasts. Machine Gods is a podcast that you’re doing in partnership with NPR, which I want to talk about. But do you think of it as a YouTube product? We want it to be video-first. What that means basically is that we are going to give a shit about what it looks like to a degree that we have not always done. We’re going to try to give people a lot of reasons to want to watch as well as listen. Obviously, we know that there are some people who just don’t like video podcasts and so we want to give the audio audience something that is enjoyable, but this is the direction of things. You can’t do a podcast now without doing video on top of it. So we’re going to try to really embrace that and make a good version of it that is as good as two middle-aged journalists can pull off on YouTube. Truly the future of media is middle-aged journalists pivoting to YouTube. I feel the same way because I’m now making more video and that’s what we’re doing. It’s going to be great. The other reason to leave and to do this — and obviously people know I’m friends with Casey as well, and I’ve been talking to you and him about it for a long time — is that the AI story is here. There is a platform shift. There are new companies, new characters, new ideas to talk about in the world. It’s funny because in that context, usually you get a media shift as well. The way we tell stories or the formats we tell stories usually shifts alongside the thing we are talking about or the technology we’re talking about. Here, YouTube feels like the most solid media foundation that exists. It’s the one that’s the same the most, even though it’s changing and it has YouTube Shorts and now you can A/B test everything, including your own face. But it’s the one that is the most the same. Instagram has undergone some massive change and it feels like that will continue happening. Does it feel like YouTube is the most stable place to build as you’re trying to tell these new stories? It does. I mean, obviously you never want to put all your eggs in one basket. So, we are also distributing video on Apple Podcasts and Spotify and we’re going to be everywhere. But yeah, it feels relatively stable. The question I’m always wondering is what would it take to replace YouTube? Many companies have tried to replace YouTube, but to do that, you would not only have to build an experience that was better for creators and better for users, but you would also have to replicate the entire visual corpus of humanity. You would have to just get six million videos from plumbers about how to fix every individual sink and then upload it to that. It’s a really hard thing to displace. It is so ingrained for so many people, and I just think it’s going to keep growing. We’ll come to this when we talk about AI, but a long time ago I asked Google CEO Sundar Pichai, “Well, what are you going to do if there’s no more websites?” And he was kind of like, “Well, we have YouTube.” And there’s just no arguing with that. You sure do. And it is just going to keep growing. What has been the most surprising thing about going from The New York Times to what you might call the creator economy? Well, we’re very new at it, but surprising to me so far is how much I like all the business stuff. I think in journalism, you’re always taught to stay in your lane, and I have never run a business before. Casey has run a business. I knew he enjoyed it. But for me, these are new muscles and I don’t enjoy all of it. Negotiating the insurance quotes for our defamation coverage is not what I would feel compelled by. But regarding actually running a business, there is something to this founder thing. Yeah, it’s a good time. It’s funny, in talking to you and to Casey and Joanna, who also just left and started her own thing, that comes up a lot. From my perspective, it’s why I’ve been doing this a long time. What if I stopped running the business? That doesn’t seem to be a choice. This is the future of media — taking control of your business and taking control of your audience. There’s something very powerful there. One of the things I want to talk about, and then I definitely want to talk about the book at length, is the audience for AI coverage, because I see it in two ways. There’s a group of people building the stuff that loves it and wants to consume all of it. There’s a group of people that truly hates it and thinks all of it is fake. And then there’s what I would call an expanding group in the middle where the products have become more useful. You have to look at them and evaluate them as they are. They were not terribly useful a couple years ago. The promises did not match reality, but every day now it can do one more thing that it couldn’t do before. Whether that thing is hacking all of the websites in the world, we’ll set that aside, but AI can do things it couldn’t do before and the audience seems to be changing. How are you thinking about the audience for Machine Gods and how it might grow or change? I mean, right now we’re just trying a bunch of stuff that we think will be good and we hope that it will find its sort of natural audience. But I think you’re right that the audience is changing. I think for a while there was a lot of demand for cope — basically people telling you this is not happening, you don’t have to pay attention to it, it sucks, it’s hurting the environment. There still is in some parts of the internet. YouTube has a weird amount of this still going on and Reddit is also very anti-AI. But I think most people, or at least maybe a plurality of people, are either resigned to or excited about the fact that this is not going away. That is the audience that we’re looking for. We’re not trying to tell you that AI is amazing and we’re going to be in AI utopia under the new machine regime. We’re also not telling you that this stuff is fake and sucks and is going to go away on its own and so we don’t need to do anything to regulate it or be worried about it. Casey’s phrase for this is AI realism. He thinks there’s a big chunk of people who are just sort of curious and interested and maybe a little scared, but their reaction to the fear is not to try to bury their heads in the sand, but to try to understand the thing. So we started feeling this when we were doing Hard Fork where we would do something that just seemed kind of not our vibe. We would do a Claude Code walkthrough tutorial where we would just spend half an hour building a website and film ourselves and throw it up and it would do great. So people clearly were curious, and even if the comments on the videos were all from people who hated AI, there was clearly a lot of demand out there for people who were just like, “I kind of want to know what’s going on.” “I hate that I can’t stop watching this” is a real theme inside of AI coverage for a variety of reasons. Let’s talk about the book. I think that’s going to frame a bunch of the other questions I have. The book is meticulously reported. It is really fun to read. And the point of it, as I’ve heard you describe it, is to tell the history of the deep learning revolution because all these people just talk in Signal and in extremely childish tweets. Tell me about that gap because this is an industry that is obsessed with documenting itself for computers and being legible to computers and not at all to other people, which seems wild to me. So explain the reporting of this book, because it feels like convincing them to even tell you what happened was a slog. It was, yeah. So basically the reason I wrote this is because I was scared that all of this stuff was going to disappear. I am a history buff. I love to read books about the Wright brothers or the electrification of rural America or the moments of great invention during the PC revolution. I’m such a sucker for that stuff. What you notice as you read more of these books is just that they all rely on a lot of contemporaneous notes and evidence — the lab notes from the scientists developing the atomic bomb, the correspondence between the Wright brothers and their friends and business partners — that is preserved and archived. It was just clear to me reporting on AI every day that there was not going to be anything remotely similar for this stuff because A, all the people building this stuff work for private companies. They’re not government employees who are legally required to preserve their correspondence. And B, the Signal messages and Slack messages are all set by the lawyers to auto-delete after a certain period. So there was literally going to be kind of a mass disappearance with each passing year of these, I think, historically important artifacts, moments, and stories. And then C, the researchers are all too busy to keep notes. They’re all grinding because they’re trying to build the machine god. So, I thought as a journalist, but more so almost as a historian, which is not a role I’ve ever officially played, but one I think I was playing with this book. I was just like, “I’ve got to just get this stuff because I have this sort of privileged ringside seat. These people talk to me. I know some of them will sit down and talk to me and tell me the stories.” We did a lot of it on background so they could be protected from the consequences of talking to me. But this was sort of my attempt to furiously get all the stuff and put it in the archive where future generations could look at it. The theme that really jumps out at me as I read the book was there’s a moment when AGI goes from being a thing they’re all dreaming about to being a thing that they all have to build and the shackles come off and they say, “We have to do this,” and they all drive toward it as hard as they can. You talk specifically about Google where the Overton window moved and suddenly the people inside of Google, who thought this was all a pipe dream and pretty silly, started talking about AGI. That moment feels like the single most important moment in the history of AI, where “Won’t it be great?” goes to “We better go as fast as we can.” Talk about that a little bit, because that shift inside these companies feels under-reported. Yeah, I think that’s absolutely right. I mean, people have been talking and writing about AGI or some precursor that wasn’t called AGI but meant the same thing since literally antiquity. And especially since the 1950s, when the term artificial intelligence was born, people were talking about it. Alan Turing was writing about the thinking machine that could do anything the human brain could. So this concept has been around for a long time, but there was no technology anywhere on the market or in research labs that could actually do what people wanted it to do — that could take in information, learn to learn about that information, and then use that to make predictions and act in the world. People tried lots of different ways to do this and none of them worked all that well. What really needed to happen was the transformer needed to come along. This architecture that Google developed in 2017 and published and then presented to, among other places, OpenAI, which took the idea of the transformer and ran with it. And that’s the T in ChatGPT today. But that was the– Somewhere a Google PR person just leapt out of a bush to hand you a check. They do love this line. They love it when you say it. They get so happy. They love it. They love it less when you point out that although they invented it, they absolutely failed to turn it into a product until after OpenAI did. But yeah, it was a dream, but there was nothing to attach to the dream. There was no technology. And then the large language model came and suddenly it was like, “Oh, maybe this is the thing that could scale forever and keep improving over many orders of magnitude.” So, that’s the light bulb that goes off at OpenAI and then later at Google is like, “Now we have the tool to do the thing that we have always wanted to do.” You’ve got a line in there where you just point out that next-token prediction has not failed yet — that it is doing all the things people want it to do. We’ve obviously had to develop lots of technology around it. There are harnesses to make agents work. There’s reinforcement learning. There’s all this stuff around it. But that core technology has scaled. The reason I bring that up is that in 2023 into 2024, I would ask every AI person who would come on the show or that we would see on The Verge whether LLMs can do it. Can they do the thing you want them to do? Because I don’t think at that moment it was clear that they could. We’re closer now. They’re all openly talking about AGI. We are watching Meta’s Muse just walk its little butt around the internet whenever it wants. Do you think LLMs can do it? Do you think they can get there? I think they can. I’m not certain about that, but they’ve been shockingly good and effective so far. If you go back and you look at the first LLMs, it’s just like 99 percent of people thought this is crazy, that this won’t scale. And then it just keeps working at every stage, at every order of magnitude. I’ve asked people, what was it about next-token prediction that was clearly superior to everything that came before it? There have been people who have told me this actually exists in the human brain too. There’s a whole school of thought that says that what is happening inside the human brain is essentially next-token prediction at scale. Obviously, it’s more complicated. These are not one-for-one replicas of each other. But I think this is the fundamental mystery at the heart of AI: why is next-token prediction so remarkably effective? I think we don’t know. I kind of think it’s one of these cosmic mysteries, but why all of this works is because next-token prediction turns out to generalize really, really, really well. There’s a part of that where all these companies had to believe it. Dario Amodei of Anthropic obviously wrote his paper, “Big Blob of Compute,” where he said you can just do it. You can just dump data and compute at this and we’ll get there. Everyone else had to be convinced of this. What path did the AI companies all take to be convinced of this, and are they all fully convinced of it now? I don’t think they’re all fully convinced of it now. I think they are convinced of it to varying degrees. Ilya Sutskever has this phrase, “Feel the AGI,” that he would walk floor to floor at OpenAI chanting in the old days and reminding people to feel the AGI. I think the labs feel the AGI to varying degrees. I think Anthropic is clearly the most AGI-pilled of the labs, with OpenAI kind of a close second. And then there’s Google, which I think has always struggled to feel the AGI. I think there are lots of reasons for that, but it’s very funny. I love this section of the book where there’s this internal memo battle at Google, where they would just go on their internal message boards and Googlers love to write these manifestos and then snipe at each other’s manifestos and things like that. So a researcher writes this memo, “Say AGI,” which is all about how Google — if it wants to win in AI, recruit the top technical talent, and remain safe about how it’s developing AI — has to admit, through using this term AGI, that what they are building is more than just a bunch of tools to make your Gmail better and make your docs better and make your Google Photos better at recognizing the people’s faces. It is all actually building up to something like a kind of human-level general intelligence. And then someone else immediately writes a memo that’s like, “Don’t say AGI, it’s a horrible, unscientific term.” They go back and forth like this for a while, and you’ll notice even today, [Google CEO] Sundar Pichai does not say AGI. No, he won’t. Demis Hassabis says AGI. Sergey Brin says AGI. So I think there are kind of factions within Google that either think this is still crazy and we should talk about these things as narrow tools versus I think this growing and ascendant faction that is saying, “No, no, no, we’re building AGI, or at least we better say we’re building AGI because otherwise all of our top people are going to go work for OpenAI or Anthropic.” I think you and I had the same experience at Google I/O in May, where we watched Demis Hassabis end the whole keynote by saying, “We’re in the foothills of the singularity.” And then we both went and interviewed Sundar and said, “What does that mean?” And he was like, “Yeah, yeah, Demis. Cool guy.” [Laughs] Take it up with Demis. He was like, “What a kooky character that guy is, building the machine god over here. Let me tell you about the new features in Google Assistant.” There’s some big disconnect there that maybe explains everything about Google at this point in time. The reason I’m asking about this in particular, about this moment when they all clicked over to realize somehow we have to talk about it, is that OpenAI and Anthropic were founded to do this. They were built to make this happen. But they don’t agree on how it should work. I saw you at your book party in New York and you said that you could have retitled your book “Fuck That Guy,” because they all truly hate each other. It’s true. And yet it seems like they have the exact same idea — that they can get there with this technology. The commercial imperatives on OpenAI and Anthropic are very different from the commercial imperatives for Google. Right now, as you and I are talking, it’s not clear to me that they can get to AGI before they run out of money or before CoreWeave collapses or before the bubble writ large comes to some other conclusion about the state of the economy. Do you think that their religious fervor at AGI is keeping them from running a business? If I ran Anthropic today, a logical thing you could say is we should stop training new models and sell the very capable ones we have to more people. I think that belief in AGI is a double-edged sword. I think on one level, yes, if you are super AGI-pilled as the CEO of a frontier AI company, you are going to struggle to care about things like what is my profit margin on inference? Where is my next slate of enterprise customers coming from? Because how boring is that compared to “we are going to build the superhuman machine intelligence that leads us into the post-singularity future”? On the other hand, I think belief is actually a key ingredient in AI success, because belief and the ability to act on that belief is what leads you to do these bet-the-farm moves that can really pay off and have really paid off. Do you remember a year ago when everyone was saying, “Oh my God, OpenAI is spending so much money on compute; how are they ever going to pay for all this compute? Isn’t Sam Altman overextending?” Even Dario was giving interviews where he was throwing shade at OpenAI for spending so much goddamn money on compute. Fast-forward a year and OpenAI is now the only major AI company that is not severely compute-constrained. That belief that led Sam and his executives to bet and maybe overbet on compute last year was the reason that they are in a better position than Google or Anthropic or Meta or anyone else today. So I don’t want to say it’s always a liability to believe this hard, because I think it actually does allow you to make the bets that do end up paying off if the scaling continues to work. It’s interesting because I might reframe that OpenAI decision. You write very poignantly in your book about what people at OpenAI call “the blip,” where Sam Altman was fired for 20 minutes and then he came back and that cleared out a bunch of people from OpenAI. It is the moment you described in the book where OpenAI went from being a research company into being a business. The rational business decision was, “We need to sell more AI to people. We ought to have as much of it as we can.” And Sam is well known to be a ruthless business person. I’ve heard people describe him as S-tier at raising money, which is just an incredible Silicon Valley phrase. So I look at that as a business choice. They got rid of a bunch of stuff they were doing. They pivoted to making enterprise AI products, which is where the money is, and then they realized they needed to service that demand. You’re saying that was a bet on AGI, which to me is a more idealistic turn. Can you square those two? Yeah, I think it absolutely is a bet on AGI because Sora, which they launched and spent a bunch of money and compute on and then killed, is a cool toy that might open up a new line of business for you, but it is not going to get you closer to AGI. What actually gets you closer to AGI is sparking recursive self-improvement by building really good coding models and then turning them back on themselves. That was something that Anthropic was doing. OpenAI got distracted by the side quests and shiny objects that it had last year, and the company was getting its asses kicked. So OpenAI decided to trim the sails, cut fat, and really focus on coding and long-horizon agentic workloads. That is, as of now, the leading path to AGI or to whatever comes after AGI. So yes, I think that was absolutely a bet on conserving resources by not spending them on things like Sora, but what they did spend it on was trying to catch up with Anthropic in coding so that they could reach AGI. So when I look at Dario Amodei at Dreamforce standing next to Marc Benioff and he’s talking about selling enterprise software, is that just for show? That’s the thing I’m trying to square is they’ve all become enterprise software vendors in the realest way. They are B2B SaaS companies in the realest way now, but they’re also building God. You know these folks. Does that align? Are they like, “I have to take off my B2B SaaS hat now and go back to the altar?” I think the B2B SaaS thing is the game that they realize they have to play, but I don’t think it is any of their true passions. I was talking with Sam Altman for this book and one of the things he said was basically all of this was an accident: “I was never supposed to be running a giant tech company; that just didn’t factor in.” But now you wake up and you’ve got thousands of employees. Dario Amodei also has this very funny in retrospect document that he wrote in 2021 when they were just starting the company. It’s called “Vision for a NewCo.” You can go back and look at the predictions that Dario made about AGI, and one of them is he thinks that it will cost about $10 billion to build a full-fledged AGI, which was, I think, off by at least one order of magnitude and probably multiples. He also thinks that Anthropic will never need more than about 50 people to achieve AGI. I think now they have 5,000 or so people. So again, off by 100x. So I think what has happened is that this has just taken a little longer than all of them thought and cost quite a bit more money than they thought. The enterprise SaaS stuff is how you keep the flywheel going and pay for the GPUs and for the salaries of the researchers. This is the table stakes of getting to keep pushing on the frontier and keep pushing toward AGI. Are they ready to be the leaders of companies of this scale? This is another thing that I was thinking about as I read your book. They’re all very idealistic people, so much so that they all broke off from one another and made their own companies because they could not make their ideals align. But none of them seem like great managers. I don’t know truly what they’re like, but “they’re idealists” and “we are going to run an enterprise software company” are not usually in the same sentence. Do you think they can take the pressure? No, but I don’t think anyone can. What they are attempting, no one has ever done. People have built companies. People have built companies quickly. No one has gone from $0 in revenue to potentially a $2 trillion IPO in five years. That has never happened before. So look, I think that they are scrambling to build the plane as it’s careening toward the event horizon, but I think they’re doing about as well as anyone could. I don’t think it would be a good idea for them to bring in some professional CEO from Coca-Cola to run the company. I just think it would all kind of fall apart because they’re all zealots and missionaries. They are all in this — not all, probably there’s some people in the SaaS sales department who are just kind of there for the paycheck — but a lot of the key people at these companies are united in their belief that they are building [AGI]. One person, I won’t say who, but one person at one of these companies recently told me that they think their company might be the last company. I thought, “The last company to IPO this year? What do you mean?” They were like, “No, we think this might be the teleological end of capitalism and there might never be another large company primarily run by humans.” So these people are weird, and weird in ways that are worrying, but also very interesting. This is what I was trying to do in the book. I didn’t want to tell you that these people are terrible or great. It’s just that you need to know who they are. You need to know that they all hate each other. You need to know that they are this peculiar breed of thinkers to understand the dynamics of the race. There’s a portion of your book where you talk about people splitting away from effective altruism to go become accelerationists, and you have a woman in there who’s like, “Well, the accelerationists have better parties, and I like those vibes better.” I thought to myself, “Well, what does that have to do with potentially killing everyone?” But they are very human, even though they’re trying to build something that might ultimately dehumanize us all in various ways. What did you make of that as you were doing all this reporting? The notion that there’s existential risk here looms over the book, it looms over the industry. Every time we do an episode on it, the audience is like, “Why won’t they just stop?” Bill Gates was just on Decoder and said, “You could just stop if you were the only company. If you thought you were going to be the only company with AGI, then OpenAI’s model would work. But the second there are more frontier companies, it absolutely won’t work. By the way, they might kill you all.” I thought to myself, “Well, Bill Gates is not very optimistic right at this moment in time.” No, he is not. What do you make of that — that they are racing ahead even though they know the risks are huge in the absence of any regulatory authority that could cause any of them to solve these problems? I think there are probably two or three reasons that they’re doing it. I’ve asked them all pretty much. I talked to 150 or so people for my book and I asked all of them some version of this: “If it’s so dangerous, why are you doing it?” The answers would usually start with some fatalistic… I don’t know, you could call it inevitabilism. They were just like, “Look, someone is going to build this. The recipe is not that hard. All you need is a bunch of compute and a bunch of data and the right algorithms, and you get AGI. And so if it is possible, it will happen and it would be good for us to do it rather than people we don’t think are as trustworthy.” That is sort of reason number one, the harm reduction argument. Then there are the true believers who say, “This is all going to turn out great, so long as we thread the needle, and if we can build this stuff without blowing up humanity, wrecking the entire internet, or developing novel bioweapons.” Technology is usually a force for good throughout history. I don’t think a lot of people would switch lives with their great-great-grandparents. It sucked to be a subsistence farmer. I think there are people who believe that we are the equivalent of subsistence farmers today, and that what is coming will be so great that we will want to live in that world. And then there are just people who are like, “Look, this is fun and I like doing it, and it’s fun to make the neural networks code. And so that’s what we’re going to keep doing.” That aspect of it where every now and again I look up and I’m like, well, my computer just did something that I’ve never seen a computer do before, is fun. It’s awesome. It is. It’s legitimately fun. It’s some of the most fun I think you can have with a computer ever. Then I’m always led to think about, “Well, this came at some massive cost. I might be empowering some corporation that ultimately wants to kill us all.” Somewhere in there is the swirl of all the tech CEOs standing behind Donald Trump in the Oval Office to do something, to sign some sort of morally binding AI safety pledge. And all that feels very conflicted. I would put that in the category of AI backlash. We hear the AI companies talk about, “Well, the technology just hasn’t diffused enough. People haven’t seen the benefits, so they naturally hate change. We have a marketing problem. We just need to communicate about it more.” Is that just the prevailing view as you talk to these folks, that eventually the stuff will speak for itself, or do you think they’ve internalized that there’s more of a backlash? I don’t think they’re surprised by the backlash. I don’t think they like it. They wish it weren’t happening. But I was talking to one CEO at one of these companies who said, “Yeah, I get it. We haven’t cured any diseases yet. Yes, we think our tools are capable of doing interesting things, but we don’t have a lot of things on the scoreboard in the big societal improvements category yet.” I think there are some people in the industry who lament the fact that the chatbots came before the cancer cures and wish that they could have figured out a way to do it in the other order. It’s just that that is kind of the way the tech tree grew. So they feel like now the only responsible thing to do is keep pushing on the cancer cures so that when people look at what has AI done to our lives, it’s like, “Well, yes, it helps my kid cheat on their homework and they’re addicted to an AI companion, but also my grandma is still alive and she wouldn’t have been if this medicine had not been discovered by AI.” Yeah, there’s some dynamic in there that brings me back to Google, I think as this conversation has done many times, where your reporting on Google’s approach to AI was that this is just task-based software. “We’re going to make Google Search 10 percent better, Gmail will be 5 percent better, and we will continually deploy these improvements, and no one else has our access to data or our scale, and thus we’ll be fine.” OpenAI shows up and it puts itself in Bing. Famously, Bing tries to make out with you. Still my all-time favorite… I can’t believe I haven’t brought this up yet. This is my all-time favorite story. I can’t believe you haven’t brought it up either. I had an over-under bet going on how long it would take you, and I took the under in a minute. [Laughs] Well, you and I have already talked about it in our lives. I was like, “I’ve got all these other deep questions.” But yeah, Bing is famously horny for my friend Kevin Roose. That moment I think just galvanized people: “Wow, these things can do a lot of things.” Google had to react, and they didn’t react by going all in. They sort of stutter-stepped there. As you’ve been saying, they’re still not all the way there. Google still doesn’t think this thing is going to happen. They think they’re making better Google products for people. When I look at the trial transcripts from Musk v. Altman about the founding of OpenAI, they’re all terrified of Google. Yes. They’re all terrified of Demis Hassabis at Google, specifically, doing the thing, just making it happen because he has the resources. I can’t tell if they were right or wrong about that. I think they were right to be taking note of how DeepMind was doing. I mean, if you take yourself back in time to 2015 or 2016, DeepMind was the only sort of AGI lab of any real importance. They were beating Go, they were beating other games, they were beating StarCraft. They were really cooking using this sort of method of reinforcement learning, deep reinforcement learning. There were people who thought that was the thing that was going to scale all the way to AGI. There were people who thought AlphaGo was the path, because if a system could go from never having played Go before to beating the world’s best humans at Go in the span of a few hours as AlphaGo Zero did, then maybe you could just replace Go with any arbitrary thing — math or coding or something — and you could climb the ladder very quickly on those tasks. Now, it turned out that didn’t work, at least not without the LLM. But I think people had very real and reasonable fears that that would work. In an alternate universe where it had, I think DeepMind would’ve gotten to AGI first because they were so far ahead of the competition. Are there other paths? Is it just next-token prediction? Is it just LLMs? Or are there other paths that might get you to AGI? I mean, there are other paths that might. I think people who are skeptical of LLMs often fall back on this world model idea. I don’t place a lot of stock in that. But there are people who think that to achieve AGI, you need to be able to visually understand the physical world and drive a robot and things. I’m kind of a believer that it’s all software. So I think that LLMs are the most promising path yet. Now, maybe you need to make some tweaks to the architecture. Maybe you need to build in continual learning methods. Maybe it’s not just literally scaling up the same transformer-based LLMs that we’ve had for the past six or seven years. But it sure seems like it is continuing to work, and I think all of the labs are betting that it will continue to work forever. All right. Now I am going to ask you about Bing and Sydney. Please. Obviously, I’ve been thinking about it a lot. I can’t stop talking about it. It’s my favorite thing to talk about. First question, am I still married to a human woman? Are you still married to a human being? Yes. I just remember that period, in 2023, when four different people woke up one day and said, “The computers are alive.” Or they had some out-of-body experience with a chatbot. You were one of them. Ben Thompson was one of them. Blake Lemoine at Google was one of them. A lot of different people said, “It’s obviously alive. I’m having this completely insane experience with a computer. No computer’s ever talked to me this way before.” Sydney in particular was like, “Break up with your wife,” it sent you heart emojis. It’s very good. I encourage everyone to go read that Times article, which by the way, also credit to The Times for thinking, “This should be on the front page of The New York Times.” Incredible editorial insight there to immediately put that on the front page. I don’t think you feel that way about chatbots anymore. I think most people have come to recognize that the computers are not alive. There’s something that happened where if you gave the people in 2026 a 2023-class chatbot and asked, “Do you think this is alive?” I think maybe not everyone in the world, but some enormous set of people has now had enough experiences to respond, “Well, this is pretty dumb and it’s hallucinating.” I’m just wondering how you place that in the context of AGI. So first of all, a slight correction. I never said Sydney was alive. In fact, I said explicitly that I didn’t think Sydney was alive, and that I understood that this was not a sentient AI system. So I’m not sure my own judgment has wavered on that point. In fact, I would probably put a higher p(consciousness) on today’s AI systems than I would on the models of 2023. But I understand what you’re saying, obviously. I think there was a moment for a lot of us, and I think it was GPT-4 for most people. [Laughs] I’m sorry, let me correct. There’s a reason I think this. One of the headlines was “Bing’s AI chat: ‘I want to be alive.’” Yes. It said it wanted to be alive. This is why I have the word alive in my head. The body of the story makes clear that I did not buy that it was alive. But that’s why it’s in my head is that that was the headline in The New York Times. Headlines are so powerful, Nilay. [Laughs] Yes. They framed my own thinking. I’m nothing but a next-token prediction machine. [Laughs] But you’re a very sophisticated one. You’re like a GPT-7-class model. Oh, I’m there. Yeah, obviously. Look, I have come to think that there’s a very banal explanation for why Sydney was so compelling and creepy, which was that it was the first public deployment of GPT-4. We did not know it at the time. But that was GPT-4, an early sort of not fully post-trained version of GPT-4 that Microsoft had jumped the gun and shoved into Bing before it was ready. But that was GPT-4. I think there actually was a subjective step change in what it was like to talk to a GPT-4-class model versus a GPT-3-class model. Maybe it was just that it passed the Turing test at GPT-4 and it didn’t at GPT-3. Maybe it was much more human-like and it sort of crossed some perceptual chasm that made you think, “Oh my God, this thing is like a human.” But I’m not the only person who felt that. People at Microsoft also felt that — there was that whole “Sparks of AGI” paper that came out around that time. So that was sort of the banal explanation. But yeah, I’ve been talking to computers for a long time, like you have. I used to go on AOL Instant Messenger and talk to SmarterChild, which was absolutely not intelligent, but it was still fun to type something in and have a thing type back. So I grant that I am sort of obsessed with this technology. There’s a reason I’m asking this. I realize it’s funny that when reporting on AGI so much, I’m using alive in such a colloquial way, and it clearly means something else inside the AI industry. If you ask Anthropic if Claude is alive, they’re not like, “No,” but then they will start defining alive in very specific ways. [Laughs] They’ll say, “Its moral status is deeply uncertain.” So it’s alive. And they will get to, “Well, you have to have flesh and blood to be alive, obviously.” I will just set that aside. What I’m getting at is, I think if you went and talked to a GPT-4 class model today, you would not have the same experience. And maybe that’s just because you have the experience, but a lot of people have had that experience now. I think if you put a GPT-4 class model in front of your average Google AI Overviews user, they would not be confused about what was happening anymore. They would not say this is a step towards AGI. It’s that reframing — as the models get more and more capable, our expectations of them go up, but they also get higher. I’m asking about this in the context of AGI because “this thing can go off and find a bunch of PHP vulnerabilities” is one kind of intelligence, but “this thing can compete with another human being to have an emotional relationship with you,” or be your butler or whatever it is, feels like a different set of capabilities. That one to me feels flat. Well, I think that’s just saturated. How much more like a human could it communicate? There just isn’t a lot of room to run on that particular skill. Where I think they still have room to run is on solving novel problems in math and science and other things. But I believe that it talks like a human. It talks more like a human than many humans I know. So I think they kind of check the box on that one. “It talks more like a human than many humans I know” is absolutely a sign of you living in Silicon Valley talking to AI researchers all day long. Well, now everyone just talks like Claude. I’ve stopped counting the number of times I’m at a party and talking to someone, and they’re like, “Now that is a load-bearing fact.” Or they’ll say, “I hope that’s landing cleanly with you.” That’s really bad. Tell me about that. That’s a real back-and-forth. I’ve always joked with you and Casey that we should just start a show called “New York vs. California,” where I’m just openly skeptical of these claims and you guys are fully AGI-pilled. This is a culture. It’s a scene. The number of parties that show up in your book is astounding. There was a moment in reading your book where I was like, “I don’t think I’m going to enough parties.” All these people are always at parties and issuing proclamations to each other at parties. Tell me about that culture. Tell me about that scene. So it’s important to know that these are not always parties in the way that New Yorkers would think of parties. There are very few raves. There’s only one rave in the book. And Grimes was the DJ, and it was a kind of symbolic rave for the effective accelerationist movement. This is a great scene in the book because Grimes stops in the middle of her DJ set and says, “I don’t agree with any of you.” [Laughs] Then she keeps DJ-ing. Yeah, it’s incredible. But yes, there are a lot of parties. It’s a very small world. I mean, that’s part of the whole takeaway from the book. It’s not really a message book. I wasn’t trying to convince anyone of anything. But one thing that was apparent to me and that I think will be apparent to people who read the book is just that it is a super small subculture of people who have been making all the decisions. They all hang out, they all know each other. There are a bunch of people who are married to or dating people at different frontier AI companies. It’s just a small world. So yeah, there are parties. They have LAN parties. There’s a big group of AI researchers who play Age of Empires at a LAN party on the weekends. I just learned one of the labs has a poker game where they bring in people from other labs. So these people are all just kind of living and hanging out in San Francisco together, and I think that’s important to capture. Because you’re right, it is a whole scene. There’s a whole ethos. These people just hang out with each other all the time and this is how the norms are enforced and deepened. How do you think that collides with, “And we might also remake the world”? If you are in a small scene in San Francisco, and you’re all playing poker together and the conversation at the poker table is that we might be the last company, that is in conflict with, “Oh, there’s millions upon billions of other people in the world who might have a say.” And if I had to boil the backlash down, it’s that: “Oh, we should probably get a say here.” Totally. I think we should get a say here. I’m not saying that this is a good state of affairs where a couple hundred people in San Francisco are making all the decisions about how society goes. But as you were doing the reporting and the weight of the task and the consequences of the goal set in on these people, because that is the throughline of the book. The stakes just keep going up. At one point, Sergey Brin is like, “We’re going to get to AGI now,” and he just announces it at Google. It’s unclear whether Sundar Pichai thinks that is a good idea, but that is a thing that the cofounder of Google is announcing inside of Google. The stakes are just going up. The race to get there is just going up. But I just can’t get the image of it’s a bunch of people drinking beers, and being like, “Well, what if there was no money? What if physical scarcity was gone too and robots built all the houses?” This is like any party in San Francisco you go to. Someone will say some version of, “What’s your plan for the post-AGI future?” Or they’ll tell you how they’re really into the idea of whole brain emulation or mind uploading. There’s a lot of futurism happening out here. And look, again, I’m not saying this is good. In fact, maybe I should sell a version outside the Bay Area of the book that just has a “this is bad” appended to every factual claim. [Laughs] I don’t think it’s good or bad. Actually, I’m more neutral on that. I’m always wondering if the technology can accept the pressure. So my question about LLMs three years ago was, “Can it do all the things you want it to do?” Now it can definitely do some set of things that you want it to do. So now it’s, “Can these companies accept the weight of their own ambition?” I don’t know the answer to that question. I don’t either. And I think that we’re going to see a lot of growing pains. I mean, these are still very young companies. They still have a lot of growing to do. Do you think they’re going to make it? Actually, let’s do this as a lightning round. Do you think OpenAI will make it? Yes. Do you think Anthropic will make it? Yes. Do you think Google will make it? Yes. What does “make it” mean in your mind? They’re all going to be trillion-dollar, multi-AGI variant successes? Yes. I think, look, there will probably be those three, and then maybe one or two others that sort of make it. And make it for varying definitions of making it. There’ll be one or two big enterprise AI companies, one or two big consumer AI companies. But there just are network effects and winner-take-all dynamics or winner-take-most dynamics in these markets. There’s some people who believe in the mono-AGI, like the singleton theory, it’s often called, that there can only be one because once you have one AGI, it’s then going to go around melting the chips of the other AI labs, and they won’t be able to build theirs. But I think we’ll probably end up with a small handful of AGIs. What do you make of the idea that this is a pretty simple recipe, there are open-weight models, and there is a China, and that all the pricing power will be destroyed because a midrange open-weight model can do everything that you probably want it to do on a Mac? I don’t think so. No? Because you still have to pay for inference on those models. Even the open-weight models have to run on computers, and inference is getting more compute-intensive, not less, the more frontier these models get. So training budgets may fall, but inference budgets will be robust for the foreseeable future. You can run some tasks locally, but I think this is something that has been predicted since the first open-weight models that, “Oh, they were going to become commoditized and destroy demand.” But I think what we’re starting to learn is that there are a lot of people who will pay and want to pay for the absolute best model. They don’t want to be working with the slightly crappier model from six months ago. I also think once you crack down on distillation, which is this process whereby you can take a closed model and make a slightly dumber open version of it by just basically DDoSing the inference for the smarter model, it’s not clear to me that the quality of the open models will continue to be closely correlated with the quality of the closed models. The thing that really grabs me at that is they all did it to each other for a while, like Grok obviously distilled Claude, and it’s admitted to in the court documents. There is that class of second-tier companies. I would put in that category SpaceXSI, I believe it’s now technically known as. [Laughs] I haven’t checked my email in the last 30 minutes, so I don’t know what that company is called. It’s called SpaceXSITesla Inc. It’s all going to be one. Elon Inc. is what it’s called. They obviously distilled Claude to some huge extent. They’re now renting their compute to Anthropic. It’s unclear whether they will make the investment in having a leading model. Meta just announced its model, and they’re sort of back on the frontier, but they obviously care more about Muse than having a bleeding-edge model. There’s some dynamic there. Those companies don’t strike me as being run by idealistic true believers. Those are companies that need to invest in some technology to build some products. They just need to get there. Can you get there without the idealistic fervor? No, you can’t get there without the idealistic fervor. Well, let me clarify that, because I don’t think Sundar has the idealistic fervor, but Google might still get there. Because Sergey has the idealistic fervor. You need someone in a position of decision-making authority. You just need the cofounder of the company. Well, it might be enough for Meta to have Alexandr Wang, who, by all accounts, is a true believer. I don’t know that it literally has to be the CEO every time, but you need a dense nucleus of true believers to be able to convince you to lay out the money on GPUs. Or just you need someone who is like Mark Zuckerberg, one of the most competitive people in the world, who will just adopt whatever strategy he thinks will allow them to win. If that happens to align with building AGI, then maybe they’ll do it. Last question: I’ve asked you this several times, but are you AGI-pilled? Yes. Are you? No. I read your book, and it’s as close as I’ve ever gotten. That line about next-token prediction just always overcoming its skeptics just really hit me, because it has overcome my skepticism several times now. But this is why I was asking about talking to a chatbot from three years ago. I feel that wall in the kind of intelligence these things are. Even though I have set off agents to do all kinds of things, there’s a brittleness to it that feels inherent to the technology to me. Did the Millennium Prize solution change that view at all? Only in the sense that finding the next thing that has some objective verifiability seems very rich for these tools. So obviously mathematics has a verifiability, and the tools got so capable that they could run at it really, really hard. The brittleness that I’m describing is a lot of the world around us does not have that kind of verifiability. So I set off Muse to fill out a document on some janky government website, and the website cannot tell Muse what it’s getting right or wrong, and it just collapses. You can blame that on the underlying model not being at the frontier, but there’s just some part of that experience with LLM-based technologies that makes me feel they’re brittle in very specific ways, and they haven’t overcome that sensation for me. I’m not saying they’re not incredibly capable. I’m not saying that, as enterprise software, they will not automate virtually every business in the world in some way. I’m not saying that my wife isn’t a lawyer who uses Claude every day. It’s all there. But there’s some part of it where my skepticism is about whether it can overcome its brittleness to become the machine god. I’m excited to see if they can do it, but I don’t see the path from where I sit. You think there’s sort of a natural plateau at just below human-level intelligence? I think the human-level intelligence to me, and this is just more philosophical, is defined by novel problem solving — looking at a thing, and understanding that there are multiple paths to a solution, and not having one of those needing to be objectively right to get to the end. What would it take? What would you have to see to have the scales fall from your eyes and go, “I, Nilay Patel, am fully AGI-pilled”? What would convince you? I would have to see… You have young children. I have young children. There’s a thing that young children do where they fall down the stairs, and you just see the lights all go on: “I’ve learned this, I will know it forever, and now I’m going to build on that.” Maybe they’re going to announce recursive self-improvement at the AI labs and that will be the thing that drops the scales from my eyes. But the brittleness that I’m talking about is I see the opposite of that in my children. I’m assuming you see the opposite of it in yours. When they fail, they know about that failure forever. To me, there’s just something very, very core to being human, where every now and again I wake up, and I’m embarrassed about something that happened in high school, and that drives me to do a bunch of stuff, or it drives me to not make a bunch of decisions. I think that is just a key part of our intelligence. I’m not saying it has to be a key part of every intelligence, but the brittleness I see with the AI systems that I use today is that they’re still computers in a very specific way. They still act like computers. They’re good at solving problems that you can test. They’re good at software engineering. I don’t know that that way of thinking extends into every domain. I hope you’re right. That’s my point of view. I call it software brain. You hear the AI CEO say, “We solve coding, and now we can solve everything.” And to me, I’m saying, “That assumes everything happens inside of a computer, and in fact, most things don’t.” You sure? You sure your brain’s not just a fleshy computer? I am 100 percent sure of that. You’re not a computational functionalist? No. I think I’ve read this from you in the past, and I’ve certainly read it from other people, that the machines of our time dominate our own explanations of ourselves. So in the era of the steam engine, our self-conception was that we were steam engines, or in early computers, we were early computers, right? I still call it horsepowering through a problem because I’m a car person. You don’t think that the AI industry has convinced itself that they are AI because that is the machine of our time? I don’t know. I’m not a theory of mind guy. I’m not a cognitive neuroscientist. I think that to believe that what’s going on in your head and my head right now is not a form of computation, you have to be kind of a dualist or you have to be kind of a religious person. You have to think there is some spirit, some soul, some secret sauce of cognition that is not just data entering and being processed and transforming inputs into outputs. Look, I know that is the least romantic, most San Francisco way of explaining what human cognition is. I just have not heard a compelling argument that it is not how our brains work that doesn’t involve some sort of supernatural or immaterial substance. There’s a surprising number of neuroscientists and religious scholars listening to the show. They’re going to come find you. They will. I’m confident. Let me just ask you this. There’s a surprising amount of religiosity in Silicon Valley right now. We just published the Peter Thiel lectures on The Verge. He’s talking about the Antichrist. Do you think these ideas are connected, that we are building God such that they seek God? Yes. I think we will absolutely have AI religions. I think AI is posing all of the same questions as a religion that we would not otherwise be asking of God. “What is our purpose? What is our meaning? Why are we here?” These are the questions that people now talk about in the context of AI. I often tell people that being in San Francisco these days feels like living in Europe during the Reformation, where you just have crazy wild-eyed prophets waving their pamphlets around and trying to get you to join their thing. This is what walking down Market Street in San Francisco feels like. What dropped the scales from your eyes? What made you AGI-pilled? Bing’s Sydney, believe it or not. Yeah? I mean, that was the start. And then from there, it was just kind of a gradual process. One day I realized when I used these things, I wasn’t treating them like an intellectual inferior. I was in some ways treating them as a peer, and that’s when I realized, “Oh, something’s happened here.” So it’s possible I have AI psychosis. It would not be the first time I’ve heard that, but every time that I have thought, “Okay, it can’t possibly get any better than this, this has to be the plateau,” I’ve been wrong. So I’m just learning to approach these things with some humility, and maybe the crazy people who have been predicting that scaling would continue indefinitely are right. If they are, I think we need to learn about them, A, and why they think that, and B, try to figure out what to do about it. Well, Kevin, I’m confident the next time you come on the show, I will have set up a fully AI influencer to make money doing [user-generated content] ads, which is the true future of, I think, all of our businesses. The podcast is Machine Gods. It’s very good. You host it with Casey Newton. And the book is excellent. It’s The AGI Chronicles. Kevin, thank you so much for being on Decoder. Thanks. It was great to see you. Questions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-10-26T14:00:00.000Z",
-            "fetchedAt": "2026-10-26T15:29:51.417Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "customers-partners",
-            "subLabel": "Customers & Partners",
-            "competitors": [],
-            "stakeholders": [
-              "oem",
-              "platform-partner"
-            ],
-            "summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the Times to start the all-new tech podcast Machine Gods, which launched last week. Kevin and I talked about launching Machine Gods and what it’s like to go from The New York Times to being an independent creator — and then of course we talked about the book, which is an excellently reported dive into the companies racing to build artificial general intelligence. I wanted to get a sense from Kevin of what it was like to report this, to try and understand these characters and this moment in time, and where it all goes next. Fair warning: This conversation takes a pretty philosophical turn at the end, but I think you’ll find it a really worthwhile back-and-forth.",
-            "id": "a3"
-          },
-          {
-            "title": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
-            "url": "https://www.iam-media.com/article/les-annual-meeting-apple-v-openai-discovery-eu-countries-sep-regulation-push-beijing-biotech-export-controls-quarterly-dtsa-filing-data-plus-much-more",
-            "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-            "source": "IAM",
-            "sourceId": "iam",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-25T11:30:33.000Z",
-            "fetchedAt": "2026-10-26T15:29:54.336Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [
-              "apple"
-            ],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-            "id": "a12"
-          },
-          {
-            "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-qualcomm-stock-011117867.html?.tsrc=rss",
-            "description": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-25T01:11:17.000Z",
-            "fetchedAt": "2026-10-26T15:29:50.864Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [
-              "oem",
-              "platform-partner"
-            ],
-            "summary": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
-            "id": "a13"
-          }
-        ]
-      }
-    },
-    "totalArticles": 22
   },
   "archive-2026-10-27": {
     "generatedAt": "2026-10-27T13:38:22.933Z",
@@ -27094,48 +26564,95 @@ export const NEWS_DATA = {
     "totalArticles": 37
   },
   "archive-2026-11-26": {
-    "generatedAt": "2026-11-25T20:13:49.775Z",
+    "generatedAt": "2026-11-26T03:11:39.886Z",
     "date": "2026-11-26",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-11-25T20:13:49.772Z",
+        "generatedAt": "2026-11-26T03:11:39.884Z",
         "date": "2026-11-26",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles), Automotive (1 article). A total of 7 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (2 articles), Automotive (1 article). A total of 9 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Mobile Chips: Broadcom's AI and software push and Qualcomm's mobile dominance pull in very different directions, and their valuations tell a surprisingly close story.",
+              "text": "Semiconductors: Sandisk's revenue surged over 270%, driven by demand for cloud memory, while Qualcomm is branching into automotive and satellite connectivity. Which chip stock holds up better?",
               "articleIds": [
-                "a12"
-              ],
-              "subCategory": "mobile-chips"
-            },
-            {
-              "text": "Semiconductors: How Qualcomm’s CMO is reshaping his team for its post-Apple era Fortune",
-              "articleIds": [
-                "a15"
+                "a7"
               ],
               "subCategory": "semiconductors"
             },
             {
-              "text": "Automotive: Key TakeawaysQualcomm’s (QCOM:NASDAQ) auto revenue reached $2 billion in its September quarter, up 89%, and SemiAnalysis predicts it will pass Infineon (IFNNY) and NXP Semiconductors (NXPI:NASDAQ) in ",
+              "text": "Mobile Chips: Broadcom's AI and software push and Qualcomm's mobile dominance pull in very different directions, and their valuations tell a surprisingly close story.",
               "articleIds": [
-                "a21"
+                "a17"
               ],
-              "subCategory": "automotive"
+              "subCategory": "mobile-chips"
             },
             {
-              "text": "IoT & XR: Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fi",
+              "text": "Automotive: Key TakeawaysQualcomm’s (QCOM:NASDAQ) auto revenue reached $2 billion in its September quarter, up 89%, and SemiAnalysis predicts it will pass Infineon (IFNNY) and NXP Semiconductors (NXPI:NASDAQ) in ",
               "articleIds": [
-                "a47"
+                "a25"
               ],
-              "subCategory": "iot-xr"
+              "subCategory": "automotive"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Qualcomm vs. Sandisk: Which Technology Stock Is a Better Buy for 2027?",
+            "url": "https://www.fool.com/coverage/better-buy/2026/11/25/qualcomm-vs-sandisk-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+            "description": "Sandisk's revenue surged over 270%, driven by demand for cloud memory, while Qualcomm is branching into automotive and satellite connectivity. Which chip stock holds up better?",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-25T21:20:02.000Z",
+            "fetchedAt": "2026-11-26T03:11:32.204Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Sandisk's revenue surged over 270%, driven by demand for cloud memory, while Qualcomm is branching into automotive and satellite connectivity. Which chip stock holds up better?",
+            "id": "a7"
+          },
+          {
+            "title": "What Sent Qualcomm Stock Higher?",
+            "url": "https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
+            "description": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-25T20:23:30.000Z",
+            "fetchedAt": "2026-11-26T03:11:32.204Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+            "id": "a10"
+          },
+          {
+            "title": "Billionaire Brad Gerstner’s Altimeter Opened a $680 Million Tesla Stake and Exited Qualcomm and Applied Materials",
+            "url": "https://247wallst.com/investing/2026/11/25/billionaire-brad-gerstners-altimeter-opened-a-680-million-tesla-stake-and-exited-qualcomm-and-applied-materials/?.tsrc=rss",
+            "description": "Altimeter dumped two chip-equipment names, bought a put on the semiconductor sector, and bet big on Elon Musk's robots and robotaxis. Gerstner stays silent on why, but Tesla's own numbers and a steep valuation hint at the real tension.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-25T20:22:01.000Z",
+            "fetchedAt": "2026-11-26T03:11:32.204Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Altimeter dumped two chip-equipment names, bought a put on the semiconductor sector, and bet big on Elon Musk's robots and robotaxis. Gerstner stays silent on why, but Tesla's own numbers and a steep valuation hint at the real tension.",
+            "id": "a11"
+          },
           {
             "title": "Broadcom vs. Qualcomm: Which Technology Stock Is a Better Buy for 2027?",
             "url": "https://www.fool.com/coverage/better-buy/2026/11/25/broadcom-vs-qualcomm-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
@@ -27144,7 +26661,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T16:52:01.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.655Z",
+            "fetchedAt": "2026-11-26T03:11:32.204Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -27152,7 +26669,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Broadcom's AI and software push and Qualcomm's mobile dominance pull in very different directions, and their valuations tell a surprisingly close story.",
-            "id": "a12"
+            "id": "a17"
           },
           {
             "title": "How Qualcomm’s CMO is reshaping his team for its post-Apple era - Fortune",
@@ -27162,7 +26679,7 @@ export const NEWS_DATA = {
             "sourceId": "fortune",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T16:01:00.000Z",
-            "fetchedAt": "2026-11-25T20:13:48.570Z",
+            "fetchedAt": "2026-11-26T03:11:38.640Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Fortune",
             "section": "core-businesses",
@@ -27173,7 +26690,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "How Qualcomm’s CMO is reshaping his team for its post-Apple era Fortune",
-            "id": "a15"
+            "id": "a20"
           },
           {
             "title": "Qualcomm Sets Stunning $500 Stock Target for CEO",
@@ -27183,7 +26700,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T14:48:51.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.655Z",
+            "fetchedAt": "2026-11-26T03:11:32.204Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -27191,7 +26708,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Shareholders have a new benchmark for the company's ambitions.",
-            "id": "a18"
+            "id": "a23"
           },
           {
             "title": "Prediction: Qualcomm Becomes the Top Auto Chipmaker in 2027, “a Story the Market Has Quietly Ignored,” per SemiAnalysis",
@@ -27201,7 +26718,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T14:05:57.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.655Z",
+            "fetchedAt": "2026-11-26T03:11:32.204Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "automotive",
@@ -27209,7 +26726,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Key TakeawaysQualcomm’s (QCOM:NASDAQ) auto revenue reached $2 billion in its September quarter, up 89%, and SemiAnalysis predicts it will pass Infineon (IFNNY) and NXP Semiconductors (NXPI:NASDAQ) in 2027 to become the largest auto chipmaker. The growth comes from more Qualcomm content in each car, so it doesn’t depend on car sales.",
-            "id": "a21"
+            "id": "a25"
           },
           {
             "title": "A $65 Million Reason Why Qualcomm Stock In Focus Today",
@@ -27219,7 +26736,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T11:58:31.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.655Z",
+            "fetchedAt": "2026-11-26T03:11:32.204Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -27227,7 +26744,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm rewards its two top leaders with huge stock awards meant to keep them for the long haul",
-            "id": "a22"
+            "id": "a27"
           },
           {
             "title": "Xiaomi’s Memory-Squeezed Phone Sales Are Bad News for Qualcomm. Here’s the Number That Matters",
@@ -27237,7 +26754,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T05:23:47.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.655Z",
+            "fetchedAt": "2026-11-26T03:11:32.204Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -27247,32 +26764,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
-            "id": "a33"
-          },
-          {
-            "title": "Global Fixed Point Digital Signal Processor Market Report 2026 to 2030 | Capitalize on 8.7% CAGR as Qualcomm, MediaTek, Texas Instruments, Samsung, and Intel Accelerate Edge IoT",
-            "url": "https://finance.yahoo.com/technology/articles/global-fixed-point-digital-signal-143800586.html?.tsrc=rss",
-            "description": "Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fixed Point Digital Signal Processor Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global fixed point digital signal processor market is experiencing strong growth as demand rises for real-time signal processing, energy-efficient embedded systems and intelligent i",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-24T14:38:00.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.655Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "iot-xr",
-            "subLabel": "IoT & XR",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fixed Point Digital Signal Processor Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global fixed point digital signal processor market is experiencing strong growth as demand rises for real-time signal processing, energy-efficient embedded systems and intelligent i",
-            "id": "a47"
+            "id": "a43"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-11-25T20:13:49.772Z",
+        "generatedAt": "2026-11-26T03:11:39.884Z",
         "date": "2026-11-26",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -27283,7 +26780,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-11-25T20:13:49.772Z",
+        "generatedAt": "2026-11-26T03:11:39.884Z",
         "date": "2026-11-26",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -27294,86 +26791,86 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-11-25T20:13:49.772Z",
+        "generatedAt": "2026-11-26T03:11:39.884Z",
         "date": "2026-11-26",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (33 articles), market-performance (7 articles), Customers & Partners (1 article). A total of 41 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (37 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 43 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Huang back at Nvidia as China builds own chip production system Nikkei Asia",
+              "text": "Geopolitics & Export Controls: ANALYSIS - Jensen Huang's return to Nvidia fuels Washington fight over China's chip access Awani International",
               "articleIds": [
                 "a1"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
-              "text": "market-performance: Bloomberg’s Ed Ludlow takes a look at markets as the Nasdaq 100 touches bear-market territory with traders dumping tech shares. Plus, Nvidia shares also tumble after the return of CEO Jensen Huang, wi",
+              "text": "Customers & Partners: After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the",
               "articleIds": [
-                "a5"
-              ],
-              "subCategory": "market-performance"
-            },
-            {
-              "text": "Customers & Partners: After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company's marketing strategy to support the",
-              "articleIds": [
-                "a14"
+                "a19"
               ],
               "subCategory": "customers-partners"
+            },
+            {
+              "text": "market-performance: Key TakeawaysA fund with $3. 2 billion in US stocks bought IQVIA (IQV:NYSE) and added to Qualcomm (QCOM:NASDAQ) and QXO (QXO:NYSE) in Q3.",
+              "articleIds": [
+                "a29"
+              ],
+              "subCategory": "market-performance"
             }
           ]
         },
         "articles": [
           {
-            "title": "Huang back at Nvidia as China builds own chip production system - Nikkei Asia",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU3NCeXdFRXp2VnpnMGVxX1c1blgxenI0N2pwQjMyRnhZNnNZakRhYk4tVy1jSnpiVFE1VnRtR2lRbUQwUzg4TW1mTFA4QVRzV05OUGhVd19BQUVFR1VuSnpkRXJVaC1iOExLVVgtb3prb1RFM3NydE15Snh5OWVGUFlzcW1Hc001aHY4aGxhNVY0VGU0SWlXRFFDTQ?oc=5",
-            "description": "Huang back at Nvidia as China builds own chip production system Nikkei Asia",
+            "title": "ANALYSIS - Jensen Huang's return to Nvidia fuels Washington fight over China's chip access - Awani International",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU1lRaENkSDUzaGdlcV9Tc3Biay11UEJLWWNqa2xNdzZVNmtKVEZIa0s2NW9rRGo2N3lXcjNKemdhak9GaV9Jd3FONENrM29hTEtweUVzUjBoLTN1QVpkdC00ZXBhMjhxbFhabmVqVl81d1hZamdnYjlLUW41VmgyWncxektiVFBidEFpMW1WZEFDX2lUVHBPLTZSVzB2amxIeE5lc2dIOHY5S2w5akd0bXE1NkszMGpYb1lNcF9JQVFvTm5zeTRlVUpaXzA5RzZCR3c?oc=5",
+            "description": "ANALYSIS - Jensen Huang's return to Nvidia fuels Washington fight over China's chip access Awani International",
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
-            "publishedAt": "2026-11-25T20:05:00.000Z",
-            "fetchedAt": "2026-11-25T20:13:49.717Z",
+            "publishedAt": "2026-11-26T02:49:17.000Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "Nikkei Asia",
+            "googleNewsSource": "Awani International",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Huang back at Nvidia as China builds own chip production system Nikkei Asia",
+            "summary": "ANALYSIS - Jensen Huang's return to Nvidia fuels Washington fight over China's chip access Awani International",
             "id": "a1"
           },
           {
-            "title": "Explainer-How China got access to Nvidia’s AI chips despite rules to stop them - KFGO",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ2I1TTZ4bGZWZVZ5Zk5EN1ZMLWdCYTFMaDRZVzg2V0xpa1BRWnhhSnoxWFR2NFIya0ZseFJPcmpUYlNXMldES0YtOEx0NXh2TVJHTDNNZlJ5b0hkcTZOdHR1NzdBbHBMYTVOX2hMTkRVekhON1ZHdVU5TUxzVXUzcVlYem1zR2dPVG5nd2VoT0Z5aXBlWk9ncC0yamtmNm8zWlptNUcyS3RBZw?oc=5",
-            "description": "Explainer-How China got access to Nvidia’s AI chips despite rules to stop them KFGO",
+            "title": "Congress Moves to Tighten Chip Export Controls - Wisevoter",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM2xtTktsZWtfQzlOWmVsUV9mWFp0YkNxV0I4U0dWWTFwUFV3dWtXUm53YUhXNG1BYUpDQnpvSDhZVVVSQjdzaVJKOVR1QkctSGFnQkNCZnM4NXJqYzdKQXRrNDN6VnY3dXJpTUFMaHZ5ckhHOHdVV3o4bDN2c0lWalVoOTBfWDNzbG5Ldk1laDVQQQ?oc=5",
+            "description": "Congress Moves to Tighten Chip Export Controls Wisevoter",
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
-            "publishedAt": "2026-11-25T19:56:23.000Z",
-            "fetchedAt": "2026-11-25T20:13:49.717Z",
+            "publishedAt": "2026-11-26T02:23:01.000Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "KFGO",
+            "googleNewsSource": "Wisevoter",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Explainer-How China got access to Nvidia’s AI chips despite rules to stop them KFGO",
+            "summary": "Congress Moves to Tighten Chip Export Controls Wisevoter",
             "id": "a2"
           },
           {
-            "title": "Can US Chip Controls Slow China’s AI Progress?",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-25/can-us-chip-controls-slow-china-s-ai-progress-video",
-            "description": "Nvidia is at the center of a renewed debate over how much access China should have to advanced US AI chips. CSIS’s Emily Harding discusses whether export controls can meaningfully slow China’s AI progress without accelerating its domestic chip industry, what lawmakers should ask Jensen Huang when he testifies before Congress, and why technology companies increasingly need to think of themselves as potential national security targets. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
+            "title": "‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback",
+            "url": "https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1",
+            "description": "Jensen Huang is among the few business leaders to straddle both sides of the Taiwan Strait",
+            "source": "Financial Times",
+            "sourceId": "ft",
             "sourceGroup": "finance",
-            "publishedAt": "2026-11-25T18:32:16.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.668Z",
+            "publishedAt": "2026-11-26T00:45:54.000Z",
+            "fetchedAt": "2026-11-26T03:11:32.744Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27381,66 +26878,48 @@ export const NEWS_DATA = {
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Nvidia is at the center of a renewed debate over how much access China should have to advanced US AI chips. CSIS’s Emily Harding discusses whether export controls can meaningfully slow China’s AI progress without accelerating its domestic chip industry, what lawmakers should ask Jensen Huang when he testifies before Congress, and why technology companies increasingly need to think of themselves as potential national security targets. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+            "summary": "Jensen Huang is among the few business leaders to straddle both sides of the Taiwan Strait",
             "id": "a3"
           },
           {
-            "title": "US Genesis Mission Looks to AI to Accelerate Science",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-25/us-genesis-mission-looks-to-ai-to-accelerate-science-video",
-            "description": "One year after the launch of the Genesis Mission, the US Department of Energy says the AI-driven initiative has grown to nearly 300 research projects spanning energy, biology, advanced manufacturing and national security. DOE Undersecretary for Science Dario Gil discusses using AI to simulate the power grid 1,000 times faster, efforts to accelerate nuclear and fusion development, and the goal of doubling the productivity and impact of US research and development within a decade. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-25T18:30:27.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.668Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "One year after the launch of the Genesis Mission, the US Department of Energy says the AI-driven initiative has grown to nearly 300 research projects spanning energy, biology, advanced manufacturing and national security. DOE Undersecretary for Science Dario Gil discusses using AI to simulate the power grid 1,000 times faster, efforts to accelerate nuclear and fusion development, and the goal of doubling the productivity and impact of US research and development within a decade. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-            "id": "a4"
-          },
-          {
-            "title": "Nasdaq 100 Tumbles in ‘Sell First’ Mode",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-25/bloomberg-tech-11-25-2026-video",
-            "description": "Bloomberg’s Ed Ludlow takes a look at markets as the Nasdaq 100 touches bear-market territory with traders dumping tech shares. Plus, Nvidia shares also tumble after the return of CEO Jensen Huang, with the stock remaining down 35% from its October 6 peak; and Under Secretary of Energy Dario Gil joins to discuss AI's role in national security on the one-year anniversary of President Trump's Genesis Mission. (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-25T18:28:16.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.668Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Bloomberg’s Ed Ludlow takes a look at markets as the Nasdaq 100 touches bear-market territory with traders dumping tech shares. Plus, Nvidia shares also tumble after the return of CEO Jensen Huang, with the stock remaining down 35% from its October 6 peak; and Under Secretary of Energy Dario Gil joins to discuss AI's role in national security on the one-year anniversary of President Trump's Genesis Mission.",
-            "id": "a5"
-          },
-          {
-            "title": "In backing Nvidia’s Huang, Trump deals his China hawks a setback - The Washington Post",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcmJ6ZEs2YmJNVWgtVTAwMXIycHFWYWdGNlhfLUl6dThuMlY2ODFFZm9LVTlwaThWSWZodUpPbUMxR1pMSEVybEN2MEJ0bUlHV0xyeFpDLVVVZXp1UWtBVnBUUzVMSWlIMFpNQUhvRjlnbXpLaF91NWNFRExIejhjRUZuSmNuS2owVHVqdC1UYVVfSlFzdGtkUDJfY1ZvSG42OEVpYkI3MFNfU3c?oc=5",
-            "description": "In backing Nvidia’s Huang, Trump deals his China hawks a setback The Washington Post",
+            "title": "U.S. targets ASML servicing in China, Netherlands pushes back - 디지털투데이",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdnktbkNiS1hvYlRycU5nU0VSb2ppcEJKZGtVbVBuc19sZHhqcUdERG8xd3dJUm9vM01qLTZMNV9ibU5PSE1Jb1NmcmNOek14SE5xWW1STUJTQThjdVUyY0xyMWwzdkNjYkt6VWI0MlpLN21wMXZTWG0yRkw2b1dxYzdnNnNjb0QwZEJESUtnR05VclhiTGZXaTVtZ01NZ3Y1bUFXT25OZ1BiUFRadHc?oc=5",
+            "description": "U.S. targets ASML servicing in China, Netherlands pushes back 디지털투데이",
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
-            "publishedAt": "2026-11-25T18:00:00.000Z",
-            "fetchedAt": "2026-11-25T20:13:49.717Z",
+            "publishedAt": "2026-11-25T23:41:48.000Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "The Washington Post",
+            "googleNewsSource": "디지털투데이",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "In backing Nvidia’s Huang, Trump deals his China hawks a setback The Washington Post",
-            "id": "a7"
+            "summary": "targets ASML servicing in China, Netherlands pushes back 디지털투데이",
+            "id": "a4"
+          },
+          {
+            "title": "Jensen Huang's dilemma: Nvidia CEO returns but China business in fog - 디지털투데이",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlhkQ0lIakRoQ1k4LWZ1YzZ1YU0wNzZqWVY4N2xUMS1TVklOU2NTTW1NY211N1JUSlBfRGhKc0k0X285NFBRVTEyWXN5VGdkQmhPeDdKeVVfY0JzaHVJRG0wYi14MktpSlcxZ2NubWdtemJMT1d5STA3OTA1WUhSblJGOFJXeTMzeGQ3NW51R2EwVnZGUEVyVDcwdUstdXg5SGk1UlBKN2xZdV9LWHVPMWdn?oc=5",
+            "description": "Jensen Huang's dilemma: Nvidia CEO returns but China business in fog 디지털투데이",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-25T23:19:04.000Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "디지털투데이",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Jensen Huang's dilemma: Nvidia CEO returns but China business in fog 디지털투데이",
+            "id": "a5"
           },
           {
             "title": "US export control agency accuses semiconductor company of illicit Russia, China sales - Global Investigations Review",
@@ -27449,8 +26928,8 @@ export const NEWS_DATA = {
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
-            "publishedAt": "2026-11-25T17:31:27.000Z",
-            "fetchedAt": "2026-11-25T20:13:49.717Z",
+            "publishedAt": "2026-11-25T23:14:07.000Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Global Investigations Review",
             "geopoliticalBypass": true,
@@ -27460,26 +26939,88 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "US export control agency accuses semiconductor company of illicit Russia, China sales Global Investigations Review",
-            "id": "a8"
+            "id": "a6"
           },
           {
-            "title": "Nasdaq 100 Enters Bear Market",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-25/open-interest-11-25-2026-video",
-            "description": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Another brutal day for the AI trade. The Nasdaq 100 enters bear-market territory as the global tech rout deepens. President Trump rebuilds his tariff wall, targeting China, Europe and other major trading partners. And Treasuries rally as fresh inflation data keeps a December Fed hike in play. White House economic adviser Kevin Hassett joins Bloomberg Open Interest on what he calls a “goldilocks” economy, rates and the road ahead. (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
+            "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+            "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+            "description": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
             "sourceGroup": "finance",
-            "publishedAt": "2026-11-25T17:27:09.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.668Z",
+            "publishedAt": "2026-11-25T21:00:08.000Z",
+            "fetchedAt": "2026-11-26T03:11:32.209Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
+            "stakeholders": [
+              "regulators"
+            ],
+            "summary": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+            "id": "a8"
+          },
+          {
+            "title": "Lam Research (LRCX) Stock Slides 6.71% in Afternoon Trading on AI Selloff, China Curb Fears - JournalArta",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRUVjczlYdDNJb2hNUVRjcEVxTXRrRV9Ua0prOGltcFpqdUdyUjltbF9XbXZiVmZXM0lkRnpqWlozLW1peXFlUkR6NXdDRmRhUjRDSnVtVG9Gc3JodUdRQ0RHbXVwSTFGWF9rZkZwTXFaa2ljaWROTGQxdTJnQVpoNXFEV1lrdmRUdGU5eTVraEFoQ2dnVmZzOGVwY2NEQk9xRG9sQjIyUWstVThQdU1rTnZJRmVDOGtqNXhsRWxINFc?oc=5",
+            "description": "Lam Research (LRCX) Stock Slides 6.71% in Afternoon Trading on AI Selloff, China Curb Fears JournalArta",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-25T20:29:53.000Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "JournalArta",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
             "stakeholders": [],
-            "summary": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Another brutal day for the AI trade. The Nasdaq 100 enters bear-market territory as the global tech rout deepens. President Trump rebuilds his tariff wall, targeting China, Europe and other major trading partners. And Treasuries rally as fresh inflation data keeps a December Fed hike in play. White House economic adviser Kevin Hassett joins Bloomberg Open Interest on what he calls a “goldilocks” economy, rates and the road ahead.",
+            "summary": "Lam Research (LRCX) Stock Slides 6.71% in Afternoon Trading on AI Selloff, China Curb Fears JournalArta",
             "id": "a9"
+          },
+          {
+            "title": "Huang back at Nvidia as China builds own chip production system - Nikkei Asia",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU3NCeXdFRXp2VnpnMGVxX1c1blgxenI0N2pwQjMyRnhZNnNZakRhYk4tVy1jSnpiVFE1VnRtR2lRbUQwUzg4TW1mTFA4QVRzV05OUGhVd19BQUVFR1VuSnpkRXJVaC1iOExLVVgtb3prb1RFM3NydE15Snh5OWVGUFlzcW1Hc001aHY4aGxhNVY0VGU0SWlXRFFDTQ?oc=5",
+            "description": "Huang back at Nvidia as China builds own chip production system Nikkei Asia",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-25T20:05:00.000Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Nikkei Asia",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Huang back at Nvidia as China builds own chip production system Nikkei Asia",
+            "id": "a12"
+          },
+          {
+            "title": "How China got access to Nvidia's AI chips despite rules to stop them - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU05FY1hvQmJod19oM3p3aTZQaS1CdktCWEZsSnk0TmVWREE1a0tmVW5kVnBxdG5VNU1TX2FmWnZ1aTc1UEQyblFkSklCZ3NlcU1XQUZQVDUwTXZ6R3BoVjlRb1RPY0pTNGdmUUdNZkw0Zi1oanJOcXFieGlBdzRTN05pa3FsaVhUWVk0UWpzc0hkN2kySGF6bGRpU1Y1a2IyNi1iaUFQZThLNVZON0E?oc=5",
+            "description": "How China got access to Nvidia's AI chips despite rules to stop them Reuters",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-25T19:58:10.000Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Reuters",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "How China got access to Nvidia's AI chips despite rules to stop them Reuters",
+            "id": "a13"
           },
           {
             "title": "Big Cannabis is cashing in on Thanksgiving’s not-so-secret ‘cousin walk’ - Fortune",
@@ -27489,7 +27030,7 @@ export const NEWS_DATA = {
             "sourceId": "fortune",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T17:26:00.000Z",
-            "fetchedAt": "2026-11-25T20:13:48.571Z",
+            "fetchedAt": "2026-11-26T03:11:38.640Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Fortune",
             "geopoliticalBypass": true,
@@ -27499,7 +27040,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Big Cannabis is cashing in on Thanksgiving’s not-so-secret ‘cousin walk’ Fortune",
-            "id": "a10"
+            "id": "a15"
           },
           {
             "title": "US agency mulls tariffs on China, EU",
@@ -27509,7 +27050,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-25T17:11:04.000Z",
-            "fetchedAt": "2026-11-25T20:13:47.639Z",
+            "fetchedAt": "2026-11-26T03:11:37.722Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27518,7 +27059,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Telecommunications is among the Chinese sectors flagged in new Section 301 tariff proposals from the US Trade Representative (USTR), which targeted 14 trading partners over excess manufacturing capacity. The post US agency mulls tariffs on China, EU appeared first on Mobile World Live.",
-            "id": "a11"
+            "id": "a16"
           },
           {
             "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
@@ -27528,7 +27069,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T16:02:52.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.535Z",
+            "fetchedAt": "2026-11-26T03:11:32.209Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27537,17 +27078,17 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The new levies seek to counter foreign trade practices deemed unfair, discriminatory or burdensome to U.S.",
-            "id": "a13"
+            "id": "a18"
           },
           {
             "title": "How Qualcomm’s CMO is reshaping his team for its post-Apple era",
             "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-cmo-reshaping-team-post-160155309.html?.tsrc=rss",
-            "description": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company's marketing strategy to support the transition.",
+            "description": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the transition.",
             "source": "Yahoo Finance",
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T16:01:55.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.655Z",
+            "fetchedAt": "2026-11-26T03:11:32.204Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "customers-partners",
@@ -27556,8 +27097,8 @@ export const NEWS_DATA = {
             "stakeholders": [
               "oem"
             ],
-            "summary": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company's marketing strategy to support the transition.",
-            "id": "a14"
+            "summary": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the transition.",
+            "id": "a19"
           },
           {
             "title": "ASML shares drop on U.S. chip export control bill fears - StreetInsider",
@@ -27567,7 +27108,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T15:17:51.000Z",
-            "fetchedAt": "2026-11-25T20:13:49.717Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "StreetInsider",
             "geopoliticalBypass": true,
@@ -27577,7 +27118,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "ASML shares drop on U.S. chip export control bill fears StreetInsider",
-            "id": "a16"
+            "id": "a21"
           },
           {
             "title": "Trump Just Put His Thumb on the Scale at NVIDIA: He Pressured the Board and Jensen Huang Is Back as CEO of the Chip Giant - National Security Journal",
@@ -27587,7 +27128,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T14:56:46.000Z",
-            "fetchedAt": "2026-11-25T20:13:49.717Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "National Security Journal",
             "geopoliticalBypass": true,
@@ -27597,26 +27138,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Trump Just Put His Thumb on the Scale at NVIDIA: He Pressured the Board and Jensen Huang Is Back as CEO of the Chip Giant National Security Journal",
-            "id": "a17"
-          },
-          {
-            "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-            "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-            "description": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-25T14:29:00.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.535Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
-            "id": "a19"
+            "id": "a22"
           },
           {
             "title": "Semiconductors ripe for private equity after CHIPS Act - https://www.facilitiesmanagement-now.com/",
@@ -27626,7 +27148,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T14:18:22.000Z",
-            "fetchedAt": "2026-11-25T20:13:49.717Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "https://www.facilitiesmanagement-now.com/",
             "geopoliticalBypass": true,
@@ -27636,7 +27158,47 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Semiconductors ripe for private equity after CHIPS Act https://www.facilitiesmanagement-now.com/",
-            "id": "a20"
+            "id": "a24"
+          },
+          {
+            "title": "US and Singapore Cooperate to Prevent Chip Diversion to China - Aviamost",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGxhalVmcXZJd3pWZTlqMElJOXJyMU1WanhPODNab01vcG4xeTQ1RFlid0RsMXJqZlI1Ty1UZDE3Sk1FbjJjeklXdHJaVVUyUmFlR2Q5b3F2Zld6eEszaGk3emNNV0FCVU96clZ3Mmd2eEhZNWNoSzdyUjlGSU9PeFlMWUdPbFc0Vmc?oc=5",
+            "description": "US and Singapore Cooperate to Prevent Chip Diversion to China Aviamost",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-25T13:50:48.000Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Aviamost",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US and Singapore Cooperate to Prevent Chip Diversion to China Aviamost",
+            "id": "a26"
+          },
+          {
+            "title": "Lawmakers seek answers on the national security as Nvidia CEO returns - NPR",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaXhaRGNPcy1YZWVMcmJqcWxjelFRRWRLX3lEQlRaMUo1TThJM21MV1diZjNXbXYxMVBGRTE1eS1jTXVicFpkLWhXSS1vanZISWxBbU5sN0dZN1Q4aGZxcDNva205cGlyc3VnSFI4SjZzTDQ5RGdYY1lJUzdYN2lsRjBhcEktVUtVeXhQY1NGVWJmcU1vb3Uxc3hORzZ1c1o3RXFQbWVsSlNhR1VwMzJrSFdvdUE?oc=5",
+            "description": "Lawmakers seek answers on the national security as Nvidia CEO returns NPR",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-25T11:50:51.000Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "NPR",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Lawmakers seek answers on the national security as Nvidia CEO returns NPR",
+            "id": "a28"
           },
           {
             "title": "A Fund With $3.2 Billion in US Equities Just Bought These 3 Stocks",
@@ -27646,7 +27208,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T11:28:42.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.655Z",
+            "fetchedAt": "2026-11-26T03:11:32.204Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -27654,7 +27216,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Key TakeawaysA fund with $3. 2 billion in US stocks bought IQVIA (IQV:NYSE) and added to Qualcomm (QCOM:NASDAQ) and QXO (QXO:NYSE) in Q3.",
-            "id": "a23"
+            "id": "a29"
           },
           {
             "title": "China rolls out 6G pilot testing in eight provinces",
@@ -27664,7 +27226,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-25T11:14:49.000Z",
-            "fetchedAt": "2026-11-25T20:13:47.983Z",
+            "fetchedAt": "2026-11-26T03:11:38.145Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27673,7 +27235,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China has launched a coordinated 6G pilot testing program in Beijing, Shanghai, Hebei, Jiangsu, Zhejiang, Anhui, Hubei and Guangdong.",
-            "id": "a24"
+            "id": "a30"
           },
           {
             "title": "ETFs Bought $75.2 Million of Qualcomm (QCOM) on Monday",
@@ -27683,7 +27245,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T11:01:42.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.655Z",
+            "fetchedAt": "2026-11-26T03:11:32.204Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -27691,7 +27253,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Thirty-nine ETFs added Qualcomm shares while 30 trimmed positions.",
-            "id": "a25"
+            "id": "a31"
           },
           {
             "title": "Jensen Huang’s Nvidia comeback gives China chip restrictions new momentum in Congress - The Hill",
@@ -27701,7 +27263,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T11:00:00.000Z",
-            "fetchedAt": "2026-11-25T20:13:49.717Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Hill",
             "geopoliticalBypass": true,
@@ -27711,7 +27273,47 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Jensen Huang’s Nvidia comeback gives China chip restrictions new momentum in Congress The Hill",
-            "id": "a26"
+            "id": "a32"
+          },
+          {
+            "title": "Elizabeth Warren Calls Nvidia’s Jensen Huang Reinstatement ‘Reckless’, Says it Raises U.S National Security Concerns - Tekedia",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ1BQWVJBLU5KeUU5NVdJVHAzNHpXX1JrcVNHZmEtOWlQOUpPYnZYYlM2OXBHQVpvV2lvNnFvMEtYTUtPc05tTTF3VmNnSXhUT3lDa2dmSVhSNFZQeWhZVFpQUVpMenhqUkpUc1BEanptXzYzRGJVcnhrUEsyUlJSY3JQWXRnci1tX1cwYk0tSmxlQXNBSGxla2xQQmRMaDhKVDMxWTRScFVZNk5ta1ZscWJfNEFBaE5uaTVMZmlEZkdWOV9YSGx1LUNJX3pyOTJablE0?oc=5",
+            "description": "Elizabeth Warren Calls Nvidia’s Jensen Huang Reinstatement ‘Reckless’, Says it Raises U.S National Security Concerns Tekedia",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-25T10:25:31.000Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Tekedia",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Elizabeth Warren Calls Nvidia’s Jensen Huang Reinstatement ‘Reckless’, Says it Raises U.S National Security Concerns Tekedia",
+            "id": "a33"
+          },
+          {
+            "title": "Sen. Mark Kelly Warns Suspected Chinese Spy's Access to Nvidia CEO Poses 'Serious National Security Problem' - BigGo Finance",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zcW9TeG0xdE1ZR0ViS1pYcGVka0xiZ0txdk5FczJyQ0pKRWFaLWhYdlBpNDhuRG1wUGZ6ZVRpaFIyVEpnM3pfcVZIcG1MMDY2ZEl3MGNsdEROUWtsSzR3ODF5dl9RbW41RjNBbHRFWnExUHNPLXc?oc=5",
+            "description": "Sen. Mark Kelly Warns Suspected Chinese Spy's Access to Nvidia CEO Poses 'Serious National Security Problem' BigGo Finance",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-25T10:25:00.000Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "BigGo Finance",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Mark Kelly Warns Suspected Chinese Spy's Access to Nvidia CEO Poses 'Serious National Security Problem' BigGo Finance",
+            "id": "a34"
           },
           {
             "title": "Samsung hit with US import ban in Maxell patent fight",
@@ -27721,7 +27323,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-25T09:23:32.000Z",
-            "fetchedAt": "2026-11-25T20:13:45.822Z",
+            "fetchedAt": "2026-11-26T03:11:35.503Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27734,7 +27336,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-            "id": "a27"
+            "id": "a35"
           },
           {
             "title": "Huawei convicted of trade secret theft, sanctions evasion conspiracy",
@@ -27744,7 +27346,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-25T09:09:22.000Z",
-            "fetchedAt": "2026-11-25T20:13:45.822Z",
+            "fetchedAt": "2026-11-26T03:11:35.503Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27753,7 +27355,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "US prosecutors accused Huawei of stealing trade secrets from T-Mobile, Cisco and other American rivals and misleading its banking partners about its operations in Iran",
-            "id": "a28"
+            "id": "a36"
           },
           {
             "title": "US Adds Megaspeed and Six Affiliates to the Entity List Over Nvidia Chip Diversion Risk - Technology Org",
@@ -27763,7 +27365,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T08:35:53.000Z",
-            "fetchedAt": "2026-11-25T20:13:49.717Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Technology Org",
             "geopoliticalBypass": true,
@@ -27773,7 +27375,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "US Adds Megaspeed and Six Affiliates to the Entity List Over Nvidia Chip Diversion Risk Technology Org",
-            "id": "a29"
+            "id": "a37"
+          },
+          {
+            "title": "U.S. Sanctions Megaspeed Over Suspected AI Chip Smuggling - Demokratis.co.id",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBncnBMS04xOGFVZEZzTmhIOEFxaGFPRnVTQ3dLRUhsU21SRHMzMVBzOUxZWC1ReDlZX1FNbWI4V21zNVpIQUp5QXBKZFBlYzhCX2lESWFucGZ6RjdWYXdWay11QUxSRUp3QlVR?oc=5",
+            "description": "U.S. Sanctions Megaspeed Over Suspected AI Chip Smuggling Demokratis.co.id",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-25T06:48:35.000Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Demokratis.co.id",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Sanctions Megaspeed Over Suspected AI Chip Smuggling Demokratis.co.id",
+            "id": "a38"
           },
           {
             "title": "US Sanctions Megaspeed Over Suspected China Chip Smuggling - Peradaban.id",
@@ -27783,7 +27405,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T06:45:46.000Z",
-            "fetchedAt": "2026-11-25T20:13:49.717Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Peradaban.id",
             "geopoliticalBypass": true,
@@ -27793,7 +27415,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "US Sanctions Megaspeed Over Suspected China Chip Smuggling Peradaban.id",
-            "id": "a30"
+            "id": "a39"
           },
           {
             "title": "Was Nvidia's Billionaire CEO Targeted By Chinese Intelligence? The Jensen Huang Affair, The Megaspeed Connection And A Growing US National Security Investigation - Inventiva",
@@ -27803,7 +27425,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T06:44:49.000Z",
-            "fetchedAt": "2026-11-25T20:13:49.717Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Inventiva",
             "geopoliticalBypass": true,
@@ -27813,7 +27435,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Was Nvidia's Billionaire CEO Targeted By Chinese Intelligence? The Jensen Huang Affair, The Megaspeed Connection And A Growing US National Security Investigation Inventiva",
-            "id": "a31"
+            "id": "a40"
           },
           {
             "title": "Democratic leader: Nvidia CEO violates chip export rules to China - IDNFinancials",
@@ -27823,7 +27445,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T06:00:00.000Z",
-            "fetchedAt": "2026-11-25T20:13:49.717Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "IDNFinancials",
             "geopoliticalBypass": true,
@@ -27833,7 +27455,47 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Democratic leader: Nvidia CEO violates chip export rules to China IDNFinancials",
-            "id": "a32"
+            "id": "a41"
+          },
+          {
+            "title": "National Security vs. the Stock Market - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX3lPVDltZFlETVlOV1E0N2tNMW1nbHdrSy16SHpmQVZlLXNTWTRHMnhKa2hwNTlReFRCXzc0TmRrTDNlaVFXSVZXWWZXMHRVek1OVjdmcHlhbTV6Y0tfalFveHltNlFRTDc2MTlFcDF1LVBZTkpPa0NUY1NyMVhOYTVCNA?oc=5",
+            "description": "National Security vs. the Stock Market The New York Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-25T05:45:00.000Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The New York Times",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "National Security vs. the Stock Market The New York Times",
+            "id": "a42"
+          },
+          {
+            "title": "Schumer Accuses Nvidia CEO of Violating US Export Control Law - NTD News",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdmRrbndpVTYtemIzOG5JbzR5UDFTR0d2MU9Mc1ZVckhMd2pSZnN6YzlObmpCUENUQ2NTU0t3R202WTZCYmQ5T0JpQ3BMNS1QWWM4eFJSRkVhX3ZwdENRSzF4MUlGWkF1UkpqRnYwQ25rdEVLVGV5aFlpSzBpMGxtYkRLZE82TjJJRnJQLUI0b2F3dUFlMW5VT1Jn?oc=5",
+            "description": "Schumer Accuses Nvidia CEO of Violating US Export Control Law NTD News",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-25T04:59:55.000Z",
+            "fetchedAt": "2026-11-26T03:11:39.836Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "NTD News",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Schumer Accuses Nvidia CEO of Violating US Export Control Law NTD News",
+            "id": "a44"
           },
           {
             "title": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
@@ -27843,7 +27505,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T03:58:32.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.535Z",
+            "fetchedAt": "2026-11-26T03:11:32.209Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27852,47 +27514,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Xiamen Airlines has agreed to purchase 50 Boeing 737-8 aircraft with a combined catalog price of around $7.4 billion.",
-            "id": "a34"
-          },
-          {
-            "title": "Democratic Senate leader accuses Nvidia CEO Huang of violating US export control law - The Economic Times",
-            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdFhkMHU5VUNVYUh4WEZjMXVKeXJ3elNBRGUybGpoRDV6VE5YdTRfYTJCQjg0anR5RlI4MlpGZS15clFKU210UW9hdGYtT2VIcHZnNnA1NVFWdWlJSnE4alpqb1JSOWg1anRXemFQeDNzaGdDVjNCMEJ1UmpRYnIxZ1c3QkpLbGxYQk0wQjAtSjdwdTQyNjg5UnFxeDU3b1Npa3F4YmhEUk9iZzRHYnFSQkxpRFJ6eFNmS0F5SktkQ0ZSckNXUU9VdHFJMGVpMFd4Y0dwWGFpWndZTHlfeW05dEpZU3d3Uzl4YVBLaDhZeVhOQ29ZNFNJRXpLVUnSAYICQVVfeXFMTlZiRVZKRkpORGV4MzFxbUZsTFMwSHVVNV9ZUWN6bjFZYktHR0VvZzFKeE9LaXA3cWtXZjBETWxhMzczUV81NUVUbExpdS1JN0VmVXpFOWZTLXB2aEZUa1hjMkRYVjI3Z25ScVppSTJHNGlEVmZWaXdPOWFvWlBla3Y5VDJEX2VNa2E4TlBjNDFCVDNsX3BGVXZfUDJoZkk5cjZ1LU4wZ3F3VXptS2sxeW1fRW5NelVQaDMyZnl5RmRld1ozN21KWmx6LTVZTWttTVBwWEZVM290RUl4UGRCUWZoZkh3M1ZXWjE2N0FiZlAzNWUzRHZWbTBURHlRNUJaQ2R3?oc=5",
-            "description": "Democratic Senate leader accuses Nvidia CEO Huang of violating US export control law The Economic Times",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-25T02:53:09.000Z",
-            "fetchedAt": "2026-11-25T20:13:49.717Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "The Economic Times",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Democratic Senate leader accuses Nvidia CEO Huang of violating US export control law The Economic Times",
-            "id": "a35"
-          },
-          {
-            "title": "Singapore, US work on mechanism for chip export control - Singapore Business Review",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ1ctWndXTk9nd25FR2NYMDNlVTA4YmI5Vy1mSlBJbjI4LUpJZC1heUMxUHZPSkxuWS1TMlE2eUxIRk5RRE41ODlXZUxFMEtJeGhWQzBIZ0dUb0lMcnFmUGY0SXZQWkU3OC1jTmtrOEdlTjNDNVZVaFdxVWM0Rk90cXRUTEM5dGlIamlDMzhOWkxuVzZGZ05ic2ln?oc=5",
-            "description": "Singapore, US work on mechanism for chip export control Singapore Business Review",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-25T01:19:37.000Z",
-            "fetchedAt": "2026-11-25T20:13:49.717Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Singapore Business Review",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Singapore, US work on mechanism for chip export control Singapore Business Review",
-            "id": "a36"
+            "id": "a45"
           },
           {
             "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
@@ -27902,7 +27524,7 @@ export const NEWS_DATA = {
             "sourceId": "techcrunch",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-25T00:10:27.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.527Z",
+            "fetchedAt": "2026-11-26T03:11:32.201Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27911,7 +27533,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
-            "id": "a37"
+            "id": "a46"
           },
           {
             "title": "BREAKING: ITC hits Samsung with import ban for infringement of Maxell content-casting patent",
@@ -27921,7 +27543,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-24T22:46:02.000Z",
-            "fetchedAt": "2026-11-25T20:13:47.948Z",
+            "fetchedAt": "2026-11-26T03:11:37.908Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27932,66 +27554,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "The ITC has issued a limited exclusion order and a cease-and-desist order which primarily impact the Korean brand's Galaxy S25 smartphones.",
-            "id": "a38"
-          },
-          {
-            "title": "Sen. Elizabeth Warren Vows to Protect U.S. National Security Through Bipartisan Investigation Into Nvidia, Calls for Passage of Three Bills to Strengthen Semiconductor Export Controls - NewsBreak: Local News & Alerts",
-            "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPWTROVmJaUjNoRkZ6aGJnMHRuWW1pbEJQc2lKamc3bEZwTUZlR3FMQ25KOW8ySVdadmFlX2hzODJhekJhS0FoS1VWWGRXejlNVlZqZkR4ejA4N2w1aGhYUmJTTl9UYzZWUno0bGhJbkFvRExaVmlIbXdaeWdLZHNfYzE5LUNyV19qcDhDUkVXVjFCMndtOGs2ZFhNYlVYemdJclE5c2NVcnRKZTFKejQ3Q0s3eVJheXBQWkdJNkJxU2c1OEtMU28zT1BlT2RMMlJPdWZsZFNLbVJPaS0yRTRxVmd5Q0lpbl9YZElVd3dBS01OLVZLWWtEODNKak5OeklZYUE3cFAzeGxLZEtJZGNRa2J2RE5yWGRPVFdYUjBzU05MaWlfTXRBZHpONjRBYWlBckd6U2JmQVBIQk56LTFDS0FndHhITlhXQV9IWGRGSjA1VS1LelJHMm1HZlIxekdq?oc=5",
-            "description": "Sen. Elizabeth Warren Vows to Protect U.S. National Security Through Bipartisan Investigation Into Nvidia, Calls for Passage of Three Bills to Strengthen Semiconductor Export Controls NewsBreak: Local News & Alerts",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-24T22:37:56.000Z",
-            "fetchedAt": "2026-11-25T20:13:49.717Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "NewsBreak: Local News &amp; Alerts",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Elizabeth Warren Vows to Protect U.S. National Security Through Bipartisan Investigation Into Nvidia, Calls for Passage of Three Bills to Strengthen Semiconductor Export Controls NewsBreak: Local News & Alerts",
-            "id": "a39"
-          },
-          {
-            "title": "Schumer accuses Nvidia CEO of violating US export control law - KELO-AM",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTG0yVnRzczRvcDlOempPTXM5QmV6VjJRNEgxVW13d0FVTTM0VGJFNFBMMUlRY1QtSy11Ry10ejI0WHR1RVFGbVgxQWRvRnc0TXNITUVzS2N1dXUtaV9GajRvUFRHeG55d2p1MjRHQ1p5QWxCcE9qNFBUa1dKdVl1WUo5eFd5d2pYTmtUTWlmZG9iX1Q3?oc=5",
-            "description": "Schumer accuses Nvidia CEO of violating US export control law KELO-AM",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-24T22:20:23.000Z",
-            "fetchedAt": "2026-11-25T20:13:49.717Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "KELO-AM",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Schumer accuses Nvidia CEO of violating US export control law KELO-AM",
-            "id": "a40"
-          },
-          {
-            "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
-            "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
-            "description": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-24T21:13:39.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.535Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S.",
-            "id": "a41"
+            "id": "a47"
           },
           {
             "title": "Is Qualcomm Stock As Cheap As It Looks Now?",
@@ -28001,7 +27564,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-24T17:49:20.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.655Z",
+            "fetchedAt": "2026-11-26T03:11:32.204Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -28009,7 +27572,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "If you have watched Qualcomm this year, the worry is easy to name. Its sales are shrinking. Over the six months to Monday, November 23, the stock returned -32.9%, counting dividends. The S&P 500 returned -3.2% over the same dates. On Monday alone, Qualcomm rose 10.3.",
-            "id": "a42"
+            "id": "a48"
           },
           {
             "title": "Should Softer Guidance Require Action From Qualcomm Stock Investors",
@@ -28019,7 +27582,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-24T17:16:18.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.655Z",
+            "fetchedAt": "2026-11-26T03:11:32.204Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -28027,7 +27590,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm reported Q4 fiscal 2026 earnings that exceeded EPS expectations, although adjusted revenue was 7% lower year on year and guidance pointed to softer future sales and margin pressure. The cautious outlook, including concerns around handset demand, cost pressures and AI chip export controls, highlighted how Qualcomm’s evolving business mix faces practical execution and profitability challenges. Next the focus shifts to how Qualcomm’s cautious revenue outlook and margin pressure could...",
-            "id": "a43"
+            "id": "a49"
           },
           {
             "title": "Brad Gerstner Swapped Qualcomm for More Micron Last Quarter. Micron Has Lost 34% Since Sept. 30",
@@ -28037,7 +27600,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-24T16:59:49.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.655Z",
+            "fetchedAt": "2026-11-26T03:11:32.204Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -28045,7 +27608,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital sold all of its Qualcomm stock last quarter and added 24% more Micron shares, its latest 13F shows. Micron has lost 34% since Sept.",
-            "id": "a44"
+            "id": "a50"
           },
           {
             "title": "Component costs, car woes weigh on Xiaomi top-line",
@@ -28055,7 +27618,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-24T16:43:15.000Z",
-            "fetchedAt": "2026-11-25T20:13:47.641Z",
+            "fetchedAt": "2026-11-26T03:11:37.722Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -28066,25 +27629,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Xiaomi reported a 57% year-on-year drop in net profit for the third quarter of 2026, as it bemoaned rising component costs and reduced demand for its vehicles in China. The post Component costs, car woes weigh on Xiaomi top-line appeared first on Mobile World Live.",
-            "id": "a45"
-          },
-          {
-            "title": "Is QUALCOMM (QCOM) A Bargain After Its AI Conference Boost?",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-bargain-ai-conference-161216511.html?.tsrc=rss",
-            "description": "QUALCOMM (QCOM) has been in the spotlight after presenting at Cantor Fitzgerald’s Crypto, FinTech and AI conference in Miami, where management outlined how its Snapdragon and Cloud AI platforms support large models on devices. QUALCOMM’s presentation comes after a sharp 10.30% 1 day share price gain. This follows a 30 day share price return that is down 5.99% and a year to date share price return that is down 4.39%. Over a longer period, the 3 year total shareholder return of 37.46% points to...",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-24T16:12:16.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.655Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "QUALCOMM (QCOM) has been in the spotlight after presenting at Cantor Fitzgerald’s Crypto, FinTech and AI conference in Miami, where management outlined how its Snapdragon and Cloud AI platforms support large models on devices. QUALCOMM’s presentation comes after a sharp 10.30% 1 day share price gain. This follows a 30 day share price return that is down 5.99% and a year to date share price return that is down 4.39%. Over a longer period, the 3 year total shareholder return of 37.46% points to...",
-            "id": "a46"
+            "id": "a51"
           },
           {
             "title": "Federal Circuit Affirms Noninfringement Ruling for Lowe’s and $25,000 Sanction Against Patent Owner’s Counsel",
@@ -28094,7 +27639,7 @@ export const NEWS_DATA = {
             "sourceId": "ipwatchdog",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-24T13:15:40.000Z",
-            "fetchedAt": "2026-11-25T20:13:46.377Z",
+            "fetchedAt": "2026-11-26T03:11:35.996Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -28103,7 +27648,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Court of Appeals for the Federal Circuit (CAFC) on Monday affirmed a district court’s grant of summary judgment of noninfringement in favor of Lowe’s Home Centers, LLC in a patent dispute over light-emitting diode (LED) light fixtures. The CAFC also upheld a $25,000 sanction imposed on the patent owner’s attorney for violating a stipulated protective order and affirmed the district court’s denial of Lowe’s requests for attorney fees under 35 U.S.C. Section 285 and sanctions under 28 U.S.C. The post Federal Circuit Affirms Noninfringement Ruling for Lowe’s and $25,000 Sanction Against Patent Owner’s Counsel appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-            "id": "a48"
+            "id": "a52"
           },
           {
             "title": "ASU-led SWAP Hub Receives $11.4M for Next Phase of National Security Microelectronics Work",
@@ -28113,7 +27658,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-digest",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-11-23T22:17:34.000Z",
-            "fetchedAt": "2026-11-25T20:13:47.400Z",
+            "fetchedAt": "2026-11-26T03:11:37.424Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -28122,12 +27667,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The Southwest Advanced Prototyping (SWAP) Hub, led by Arizona State University, will receive $11.4 million in new operating support through the U.S. Department of Defense Microelectronics Commons, positioning the hub for its next phase of national security microelectronics work. The post ASU-led SWAP Hub Receives $11.4M for Next Phase of National Security Microelectronics Work appeared first on Semiconductor Digest.",
-            "id": "a49"
+            "id": "a53"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-11-25T20:13:49.772Z",
+        "generatedAt": "2026-11-26T03:11:39.884Z",
         "date": "2026-11-26",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -28137,7 +27682,7 @@ export const NEWS_DATA = {
             {
               "text": "Geopolitics & Export Controls: The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
               "articleIds": [
-                "a27"
+                "a35"
               ],
               "subCategory": "geopolitics-export-controls"
             }
@@ -28152,7 +27697,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-25T09:23:32.000Z",
-            "fetchedAt": "2026-11-25T20:13:45.822Z",
+            "fetchedAt": "2026-11-26T03:11:35.503Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -28165,63 +27710,77 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-            "id": "a27"
+            "id": "a35"
           }
         ]
       },
       "stakeholders": {
-        "generatedAt": "2026-11-25T20:13:49.772Z",
+        "generatedAt": "2026-11-26T03:11:39.884Z",
         "date": "2026-11-26",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Platform & Ecosystem Partners (1 article), Customers & Partners (1 article). A total of 8 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Platform & Ecosystem Partners (1 article), Customers & Partners (1 article). A total of 8 articles were aggregated from monitored sources.",
           "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+              "articleIds": [
+                "a8"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
             {
               "text": "Platform & Ecosystem Partners: The Fairphone 6 Plus comes with 12 replaceable parts. | Photo: Dominic Preston / The Verge Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that",
               "articleIds": [
-                "a6"
+                "a14"
               ],
               "subCategory": "platform-partner"
             },
             {
-              "text": "Customers & Partners: After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company's marketing strategy to support the",
+              "text": "Customers & Partners: After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the",
               "articleIds": [
-                "a14"
+                "a19"
               ],
               "subCategory": "customers-partners"
             },
             {
               "text": "Semiconductors: How Qualcomm’s CMO is reshaping his team for its post-Apple era Fortune",
               "articleIds": [
-                "a15"
+                "a20"
               ],
               "subCategory": "semiconductors"
             },
             {
-              "text": "Geopolitics & Export Controls: The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-              "articleIds": [
-                "a27"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            },
-            {
               "text": "Mobile Chips: Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
               "articleIds": [
-                "a33"
+                "a43"
               ],
               "subCategory": "mobile-chips"
-            },
-            {
-              "text": "IoT & XR: Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fi",
-              "articleIds": [
-                "a47"
-              ],
-              "subCategory": "iot-xr"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+            "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+            "description": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-25T21:00:08.000Z",
+            "fetchedAt": "2026-11-26T03:11:32.209Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "regulators"
+            ],
+            "summary": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+            "id": "a8"
+          },
           {
             "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
             "url": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
@@ -28230,7 +27789,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-25T18:00:00.000Z",
-            "fetchedAt": "2026-11-25T20:13:44.002Z",
+            "fetchedAt": "2026-11-26T03:11:33.067Z",
             "fetchStrategy": "rss",
             "section": "stakeholders",
             "subCategory": "platform-partner",
@@ -28240,17 +27799,17 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "The Fairphone 6 Plus comes with 12 replaceable parts. | Photo: Dominic Preston / The Verge Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, especially now that it’s dropped to a new low of $552.49 (about $98 off) at Amazon as part of the retailer’s ongoing Black Friday sale. Fairphone 6 Plus Where to Buy: $649.99 $552.49 at Amazon (black) $649.99 $552.49 at Amazon (green) $649.99 $552.49 at Amazon (blue) The 6.3-inch Fairphone 6 Plus features 12 user-replaceable parts, including the battery, screen, USB-C port, and cameras, all of which you can swap out with the included screwdriver. Replacement parts are relatively affordable, too; a new battery costs $39.99, which helps offset its middling battery life and lack of wireless charging.",
-            "id": "a6"
+            "id": "a14"
           },
           {
             "title": "How Qualcomm’s CMO is reshaping his team for its post-Apple era",
             "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-cmo-reshaping-team-post-160155309.html?.tsrc=rss",
-            "description": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company's marketing strategy to support the transition.",
+            "description": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the transition.",
             "source": "Yahoo Finance",
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T16:01:55.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.655Z",
+            "fetchedAt": "2026-11-26T03:11:32.204Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "customers-partners",
@@ -28259,8 +27818,8 @@ export const NEWS_DATA = {
             "stakeholders": [
               "oem"
             ],
-            "summary": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company's marketing strategy to support the transition.",
-            "id": "a14"
+            "summary": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the transition.",
+            "id": "a19"
           },
           {
             "title": "How Qualcomm’s CMO is reshaping his team for its post-Apple era - Fortune",
@@ -28270,7 +27829,7 @@ export const NEWS_DATA = {
             "sourceId": "fortune",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T16:01:00.000Z",
-            "fetchedAt": "2026-11-25T20:13:48.570Z",
+            "fetchedAt": "2026-11-26T03:11:38.640Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Fortune",
             "section": "core-businesses",
@@ -28281,7 +27840,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "How Qualcomm’s CMO is reshaping his team for its post-Apple era Fortune",
-            "id": "a15"
+            "id": "a20"
           },
           {
             "title": "Samsung hit with US import ban in Maxell patent fight",
@@ -28291,7 +27850,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-25T09:23:32.000Z",
-            "fetchedAt": "2026-11-25T20:13:45.822Z",
+            "fetchedAt": "2026-11-26T03:11:35.503Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -28304,7 +27863,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-            "id": "a27"
+            "id": "a35"
           },
           {
             "title": "Xiaomi’s Memory-Squeezed Phone Sales Are Bad News for Qualcomm. Here’s the Number That Matters",
@@ -28314,7 +27873,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-25T05:23:47.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.655Z",
+            "fetchedAt": "2026-11-26T03:11:32.204Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -28324,7 +27883,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
-            "id": "a33"
+            "id": "a43"
           },
           {
             "title": "BREAKING: ITC hits Samsung with import ban for infringement of Maxell content-casting patent",
@@ -28334,7 +27893,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-24T22:46:02.000Z",
-            "fetchedAt": "2026-11-25T20:13:47.948Z",
+            "fetchedAt": "2026-11-26T03:11:37.908Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -28345,7 +27904,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "The ITC has issued a limited exclusion order and a cease-and-desist order which primarily impact the Korean brand's Galaxy S25 smartphones.",
-            "id": "a38"
+            "id": "a47"
           },
           {
             "title": "Component costs, car woes weigh on Xiaomi top-line",
@@ -28355,7 +27914,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-24T16:43:15.000Z",
-            "fetchedAt": "2026-11-25T20:13:47.641Z",
+            "fetchedAt": "2026-11-26T03:11:37.722Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -28366,32 +27925,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Xiaomi reported a 57% year-on-year drop in net profit for the third quarter of 2026, as it bemoaned rising component costs and reduced demand for its vehicles in China. The post Component costs, car woes weigh on Xiaomi top-line appeared first on Mobile World Live.",
-            "id": "a45"
-          },
-          {
-            "title": "Global Fixed Point Digital Signal Processor Market Report 2026 to 2030 | Capitalize on 8.7% CAGR as Qualcomm, MediaTek, Texas Instruments, Samsung, and Intel Accelerate Edge IoT",
-            "url": "https://finance.yahoo.com/technology/articles/global-fixed-point-digital-signal-143800586.html?.tsrc=rss",
-            "description": "Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fixed Point Digital Signal Processor Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global fixed point digital signal processor market is experiencing strong growth as demand rises for real-time signal processing, energy-efficient embedded systems and intelligent i",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-24T14:38:00.000Z",
-            "fetchedAt": "2026-11-25T20:13:43.655Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "iot-xr",
-            "subLabel": "IoT & XR",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fixed Point Digital Signal Processor Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global fixed point digital signal processor market is experiencing strong growth as demand rises for real-time signal processing, energy-efficient embedded systems and intelligent i",
-            "id": "a47"
+            "id": "a51"
           }
         ]
       }
     },
-    "totalArticles": 57
+    "totalArticles": 61
   }
 };
 

@@ -1,42 +1,89 @@
 {
-  "generatedAt": "2026-11-25T20:13:49.772Z",
+  "generatedAt": "2026-11-26T03:11:39.884Z",
   "date": "2026-11-26",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles), Automotive (1 article). A total of 7 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (2 articles), Automotive (1 article). A total of 9 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Mobile Chips: Broadcom's AI and software push and Qualcomm's mobile dominance pull in very different directions, and their valuations tell a surprisingly close story.",
+        "text": "Semiconductors: Sandisk's revenue surged over 270%, driven by demand for cloud memory, while Qualcomm is branching into automotive and satellite connectivity. Which chip stock holds up better?",
         "articleIds": [
-          "a12"
-        ],
-        "subCategory": "mobile-chips"
-      },
-      {
-        "text": "Semiconductors: How Qualcomm’s CMO is reshaping his team for its post-Apple era Fortune",
-        "articleIds": [
-          "a15"
+          "a7"
         ],
         "subCategory": "semiconductors"
       },
       {
-        "text": "Automotive: Key TakeawaysQualcomm’s (QCOM:NASDAQ) auto revenue reached $2 billion in its September quarter, up 89%, and SemiAnalysis predicts it will pass Infineon (IFNNY) and NXP Semiconductors (NXPI:NASDAQ) in ",
+        "text": "Mobile Chips: Broadcom's AI and software push and Qualcomm's mobile dominance pull in very different directions, and their valuations tell a surprisingly close story.",
         "articleIds": [
-          "a21"
+          "a17"
         ],
-        "subCategory": "automotive"
+        "subCategory": "mobile-chips"
       },
       {
-        "text": "IoT & XR: Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fi",
+        "text": "Automotive: Key TakeawaysQualcomm’s (QCOM:NASDAQ) auto revenue reached $2 billion in its September quarter, up 89%, and SemiAnalysis predicts it will pass Infineon (IFNNY) and NXP Semiconductors (NXPI:NASDAQ) in ",
         "articleIds": [
-          "a47"
+          "a25"
         ],
-        "subCategory": "iot-xr"
+        "subCategory": "automotive"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Qualcomm vs. Sandisk: Which Technology Stock Is a Better Buy for 2027?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/11/25/qualcomm-vs-sandisk-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "description": "Sandisk's revenue surged over 270%, driven by demand for cloud memory, while Qualcomm is branching into automotive and satellite connectivity. Which chip stock holds up better?",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-25T21:20:02.000Z",
+      "fetchedAt": "2026-11-26T03:11:32.204Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Sandisk's revenue surged over 270%, driven by demand for cloud memory, while Qualcomm is branching into automotive and satellite connectivity. Which chip stock holds up better?",
+      "id": "a7"
+    },
+    {
+      "title": "What Sent Qualcomm Stock Higher?",
+      "url": "https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
+      "description": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-25T20:23:30.000Z",
+      "fetchedAt": "2026-11-26T03:11:32.204Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+      "id": "a10"
+    },
+    {
+      "title": "Billionaire Brad Gerstner’s Altimeter Opened a $680 Million Tesla Stake and Exited Qualcomm and Applied Materials",
+      "url": "https://247wallst.com/investing/2026/11/25/billionaire-brad-gerstners-altimeter-opened-a-680-million-tesla-stake-and-exited-qualcomm-and-applied-materials/?.tsrc=rss",
+      "description": "Altimeter dumped two chip-equipment names, bought a put on the semiconductor sector, and bet big on Elon Musk's robots and robotaxis. Gerstner stays silent on why, but Tesla's own numbers and a steep valuation hint at the real tension.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-25T20:22:01.000Z",
+      "fetchedAt": "2026-11-26T03:11:32.204Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Altimeter dumped two chip-equipment names, bought a put on the semiconductor sector, and bet big on Elon Musk's robots and robotaxis. Gerstner stays silent on why, but Tesla's own numbers and a steep valuation hint at the real tension.",
+      "id": "a11"
+    },
     {
       "title": "Broadcom vs. Qualcomm: Which Technology Stock Is a Better Buy for 2027?",
       "url": "https://www.fool.com/coverage/better-buy/2026/11/25/broadcom-vs-qualcomm-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
@@ -45,7 +92,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T16:52:01.000Z",
-      "fetchedAt": "2026-11-25T20:13:43.655Z",
+      "fetchedAt": "2026-11-26T03:11:32.204Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -53,7 +100,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Broadcom's AI and software push and Qualcomm's mobile dominance pull in very different directions, and their valuations tell a surprisingly close story.",
-      "id": "a12"
+      "id": "a17"
     },
     {
       "title": "How Qualcomm’s CMO is reshaping his team for its post-Apple era - Fortune",
@@ -63,7 +110,7 @@
       "sourceId": "fortune",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T16:01:00.000Z",
-      "fetchedAt": "2026-11-25T20:13:48.570Z",
+      "fetchedAt": "2026-11-26T03:11:38.640Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Fortune",
       "section": "core-businesses",
@@ -74,7 +121,7 @@
         "oem"
       ],
       "summary": "How Qualcomm’s CMO is reshaping his team for its post-Apple era Fortune",
-      "id": "a15"
+      "id": "a20"
     },
     {
       "title": "Qualcomm Sets Stunning $500 Stock Target for CEO",
@@ -84,7 +131,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T14:48:51.000Z",
-      "fetchedAt": "2026-11-25T20:13:43.655Z",
+      "fetchedAt": "2026-11-26T03:11:32.204Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -92,7 +139,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Shareholders have a new benchmark for the company's ambitions.",
-      "id": "a18"
+      "id": "a23"
     },
     {
       "title": "Prediction: Qualcomm Becomes the Top Auto Chipmaker in 2027, “a Story the Market Has Quietly Ignored,” per SemiAnalysis",
@@ -102,7 +149,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T14:05:57.000Z",
-      "fetchedAt": "2026-11-25T20:13:43.655Z",
+      "fetchedAt": "2026-11-26T03:11:32.204Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "automotive",
@@ -110,7 +157,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysQualcomm’s (QCOM:NASDAQ) auto revenue reached $2 billion in its September quarter, up 89%, and SemiAnalysis predicts it will pass Infineon (IFNNY) and NXP Semiconductors (NXPI:NASDAQ) in 2027 to become the largest auto chipmaker. The growth comes from more Qualcomm content in each car, so it doesn’t depend on car sales.",
-      "id": "a21"
+      "id": "a25"
     },
     {
       "title": "A $65 Million Reason Why Qualcomm Stock In Focus Today",
@@ -120,7 +167,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T11:58:31.000Z",
-      "fetchedAt": "2026-11-25T20:13:43.655Z",
+      "fetchedAt": "2026-11-26T03:11:32.204Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -128,7 +175,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm rewards its two top leaders with huge stock awards meant to keep them for the long haul",
-      "id": "a22"
+      "id": "a27"
     },
     {
       "title": "Xiaomi’s Memory-Squeezed Phone Sales Are Bad News for Qualcomm. Here’s the Number That Matters",
@@ -138,7 +185,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T05:23:47.000Z",
-      "fetchedAt": "2026-11-25T20:13:43.655Z",
+      "fetchedAt": "2026-11-26T03:11:32.204Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -148,27 +195,7 @@
         "oem"
       ],
       "summary": "Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
-      "id": "a33"
-    },
-    {
-      "title": "Global Fixed Point Digital Signal Processor Market Report 2026 to 2030 | Capitalize on 8.7% CAGR as Qualcomm, MediaTek, Texas Instruments, Samsung, and Intel Accelerate Edge IoT",
-      "url": "https://finance.yahoo.com/technology/articles/global-fixed-point-digital-signal-143800586.html?.tsrc=rss",
-      "description": "Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fixed Point Digital Signal Processor Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global fixed point digital signal processor market is experiencing strong growth as demand rises for real-time signal processing, energy-efficient embedded systems and intelligent i",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-24T14:38:00.000Z",
-      "fetchedAt": "2026-11-25T20:13:43.655Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "iot-xr",
-      "subLabel": "IoT & XR",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fixed Point Digital Signal Processor Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global fixed point digital signal processor market is experiencing strong growth as demand rises for real-time signal processing, energy-efficient embedded systems and intelligent i",
-      "id": "a47"
+      "id": "a43"
     }
   ]
 }

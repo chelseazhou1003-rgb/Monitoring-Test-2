@@ -1,56 +1,70 @@
 {
-  "generatedAt": "2026-11-25T20:13:49.772Z",
+  "generatedAt": "2026-11-26T03:11:39.884Z",
   "date": "2026-11-26",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Platform & Ecosystem Partners (1 article), Customers & Partners (1 article). A total of 8 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Platform & Ecosystem Partners (1 article), Customers & Partners (1 article). A total of 8 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Geopolitics & Export Controls: Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+        "articleIds": [
+          "a8"
+        ],
+        "subCategory": "geopolitics-export-controls"
+      },
       {
         "text": "Platform & Ecosystem Partners: The Fairphone 6 Plus comes with 12 replaceable parts. | Photo: Dominic Preston / The Verge Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that",
         "articleIds": [
-          "a6"
+          "a14"
         ],
         "subCategory": "platform-partner"
       },
       {
-        "text": "Customers & Partners: After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company's marketing strategy to support the",
+        "text": "Customers & Partners: After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the",
         "articleIds": [
-          "a14"
+          "a19"
         ],
         "subCategory": "customers-partners"
       },
       {
         "text": "Semiconductors: How Qualcomm’s CMO is reshaping his team for its post-Apple era Fortune",
         "articleIds": [
-          "a15"
+          "a20"
         ],
         "subCategory": "semiconductors"
       },
       {
-        "text": "Geopolitics & Export Controls: The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-        "articleIds": [
-          "a27"
-        ],
-        "subCategory": "geopolitics-export-controls"
-      },
-      {
         "text": "Mobile Chips: Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
         "articleIds": [
-          "a33"
+          "a43"
         ],
         "subCategory": "mobile-chips"
-      },
-      {
-        "text": "IoT & XR: Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fi",
-        "articleIds": [
-          "a47"
-        ],
-        "subCategory": "iot-xr"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+      "description": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-25T21:00:08.000Z",
+      "fetchedAt": "2026-11-26T03:11:32.209Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "regulators"
+      ],
+      "summary": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+      "id": "a8"
+    },
     {
       "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
       "url": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
@@ -59,7 +73,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-11-25T18:00:00.000Z",
-      "fetchedAt": "2026-11-25T20:13:44.002Z",
+      "fetchedAt": "2026-11-26T03:11:33.067Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -69,17 +83,17 @@
         "platform-partner"
       ],
       "summary": "The Fairphone 6 Plus comes with 12 replaceable parts. | Photo: Dominic Preston / The Verge Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, especially now that it’s dropped to a new low of $552.49 (about $98 off) at Amazon as part of the retailer’s ongoing Black Friday sale. Fairphone 6 Plus Where to Buy: $649.99 $552.49 at Amazon (black) $649.99 $552.49 at Amazon (green) $649.99 $552.49 at Amazon (blue) The 6.3-inch Fairphone 6 Plus features 12 user-replaceable parts, including the battery, screen, USB-C port, and cameras, all of which you can swap out with the included screwdriver. Replacement parts are relatively affordable, too; a new battery costs $39.99, which helps offset its middling battery life and lack of wireless charging.",
-      "id": "a6"
+      "id": "a14"
     },
     {
       "title": "How Qualcomm’s CMO is reshaping his team for its post-Apple era",
       "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-cmo-reshaping-team-post-160155309.html?.tsrc=rss",
-      "description": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company's marketing strategy to support the transition.",
+      "description": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the transition.",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T16:01:55.000Z",
-      "fetchedAt": "2026-11-25T20:13:43.655Z",
+      "fetchedAt": "2026-11-26T03:11:32.204Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "customers-partners",
@@ -88,8 +102,8 @@
       "stakeholders": [
         "oem"
       ],
-      "summary": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company's marketing strategy to support the transition.",
-      "id": "a14"
+      "summary": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the transition.",
+      "id": "a19"
     },
     {
       "title": "How Qualcomm’s CMO is reshaping his team for its post-Apple era - Fortune",
@@ -99,7 +113,7 @@
       "sourceId": "fortune",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T16:01:00.000Z",
-      "fetchedAt": "2026-11-25T20:13:48.570Z",
+      "fetchedAt": "2026-11-26T03:11:38.640Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Fortune",
       "section": "core-businesses",
@@ -110,7 +124,7 @@
         "oem"
       ],
       "summary": "How Qualcomm’s CMO is reshaping his team for its post-Apple era Fortune",
-      "id": "a15"
+      "id": "a20"
     },
     {
       "title": "Samsung hit with US import ban in Maxell patent fight",
@@ -120,7 +134,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-25T09:23:32.000Z",
-      "fetchedAt": "2026-11-25T20:13:45.822Z",
+      "fetchedAt": "2026-11-26T03:11:35.503Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -133,7 +147,7 @@
         "oem"
       ],
       "summary": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-      "id": "a27"
+      "id": "a35"
     },
     {
       "title": "Xiaomi’s Memory-Squeezed Phone Sales Are Bad News for Qualcomm. Here’s the Number That Matters",
@@ -143,7 +157,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T05:23:47.000Z",
-      "fetchedAt": "2026-11-25T20:13:43.655Z",
+      "fetchedAt": "2026-11-26T03:11:32.204Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -153,7 +167,7 @@
         "oem"
       ],
       "summary": "Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
-      "id": "a33"
+      "id": "a43"
     },
     {
       "title": "BREAKING: ITC hits Samsung with import ban for infringement of Maxell content-casting patent",
@@ -163,7 +177,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-24T22:46:02.000Z",
-      "fetchedAt": "2026-11-25T20:13:47.948Z",
+      "fetchedAt": "2026-11-26T03:11:37.908Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -174,7 +188,7 @@
         "oem"
       ],
       "summary": "The ITC has issued a limited exclusion order and a cease-and-desist order which primarily impact the Korean brand's Galaxy S25 smartphones.",
-      "id": "a38"
+      "id": "a47"
     },
     {
       "title": "Component costs, car woes weigh on Xiaomi top-line",
@@ -184,7 +198,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-24T16:43:15.000Z",
-      "fetchedAt": "2026-11-25T20:13:47.641Z",
+      "fetchedAt": "2026-11-26T03:11:37.722Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -195,27 +209,7 @@
         "oem"
       ],
       "summary": "Xiaomi reported a 57% year-on-year drop in net profit for the third quarter of 2026, as it bemoaned rising component costs and reduced demand for its vehicles in China. The post Component costs, car woes weigh on Xiaomi top-line appeared first on Mobile World Live.",
-      "id": "a45"
-    },
-    {
-      "title": "Global Fixed Point Digital Signal Processor Market Report 2026 to 2030 | Capitalize on 8.7% CAGR as Qualcomm, MediaTek, Texas Instruments, Samsung, and Intel Accelerate Edge IoT",
-      "url": "https://finance.yahoo.com/technology/articles/global-fixed-point-digital-signal-143800586.html?.tsrc=rss",
-      "description": "Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fixed Point Digital Signal Processor Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global fixed point digital signal processor market is experiencing strong growth as demand rises for real-time signal processing, energy-efficient embedded systems and intelligent i",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-24T14:38:00.000Z",
-      "fetchedAt": "2026-11-25T20:13:43.655Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "iot-xr",
-      "subLabel": "IoT & XR",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Players: Samsung, Intel, Qualcomm, MediaTek and Texas Instruments. Profiles their fixed-point DSP offerings, innovations, partnerships and market activity.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Fixed Point Digital Signal Processor Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global fixed point digital signal processor market is experiencing strong growth as demand rises for real-time signal processing, energy-efficient embedded systems and intelligent i",
-      "id": "a47"
+      "id": "a51"
     }
   ]
 }
