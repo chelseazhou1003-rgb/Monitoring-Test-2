@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-11-27T14:25:06.110Z",
-  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T22:59:16.986Z",
+  "date": "2026-11-28",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (7 articles), Mobile Chips (2 articles), Automotive (1 article). A total of 10 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (1 article), Automotive (1 article). A total of 8 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Semiconductors: Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next.",
         "articleIds": [
-          "a1"
+          "a11"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Broadcom's AI and software push and Qualcomm's mobile dominance pull in very different directions, and their valuations tell a surprisingly close story.",
         "articleIds": [
-          "a37"
+          "a34"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Automotive: Key TakeawaysQualcomm’s (QCOM:NASDAQ) auto revenue reached $2 billion in its September quarter, up 89%, and SemiAnalysis predicts it will pass Infineon (IFNNY) and NXP Semiconductors (NXPI:NASDAQ) in ",
         "articleIds": [
-          "a40"
+          "a37"
         ],
         "subCategory": "automotive"
       }
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-27T12:45:29.000Z",
-      "fetchedAt": "2026-11-27T14:24:59.863Z",
+      "fetchedAt": "2026-11-27T22:59:09.883Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -46,7 +46,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next.",
-      "id": "a1"
+      "id": "a11"
     },
     {
       "title": "What Is Qualcomm (QCOM) Worth Watching In Automotive AI Right Now?",
@@ -56,7 +56,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-26T17:10:07.000Z",
-      "fetchedAt": "2026-11-27T14:24:59.863Z",
+      "fetchedAt": "2026-11-27T22:59:09.883Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -74,7 +74,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T21:20:02.000Z",
-      "fetchedAt": "2026-11-27T14:24:59.863Z",
+      "fetchedAt": "2026-11-27T22:59:09.883Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -82,7 +82,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Sandisk's revenue surged over 270%, driven by demand for cloud memory, while Qualcomm is branching into automotive and satellite connectivity. Which chip stock holds up better?",
-      "id": "a33"
+      "id": "a30"
     },
     {
       "title": "What Sent Qualcomm Stock Higher?",
@@ -92,7 +92,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T20:23:30.000Z",
-      "fetchedAt": "2026-11-27T14:24:59.863Z",
+      "fetchedAt": "2026-11-27T22:59:09.883Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -100,7 +100,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
-      "id": "a34"
+      "id": "a31"
     },
     {
       "title": "Billionaire Brad Gerstner’s Altimeter Opened a $680 Million Tesla Stake and Exited Qualcomm and Applied Materials",
@@ -110,7 +110,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T20:22:01.000Z",
-      "fetchedAt": "2026-11-27T14:24:59.863Z",
+      "fetchedAt": "2026-11-27T22:59:09.883Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -118,7 +118,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Altimeter dumped two chip-equipment names, bought a put on the semiconductor sector, and bet big on Elon Musk's robots and robotaxis. Gerstner stays silent on why, but Tesla's own numbers and a steep valuation hint at the real tension.",
-      "id": "a35"
+      "id": "a32"
     },
     {
       "title": "Broadcom vs. Qualcomm: Which Technology Stock Is a Better Buy for 2027?",
@@ -128,7 +128,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T16:52:01.000Z",
-      "fetchedAt": "2026-11-27T14:24:59.863Z",
+      "fetchedAt": "2026-11-27T22:59:09.883Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -136,7 +136,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Broadcom's AI and software push and Qualcomm's mobile dominance pull in very different directions, and their valuations tell a surprisingly close story.",
-      "id": "a37"
+      "id": "a34"
     },
     {
       "title": "Qualcomm Sets Stunning $500 Stock Target for CEO",
@@ -146,7 +146,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T14:48:51.000Z",
-      "fetchedAt": "2026-11-27T14:24:59.863Z",
+      "fetchedAt": "2026-11-27T22:59:09.883Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -154,7 +154,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Shareholders have a new benchmark for the company's ambitions.",
-      "id": "a39"
+      "id": "a36"
     },
     {
       "title": "Prediction: Qualcomm Becomes the Top Auto Chipmaker in 2027, “a Story the Market Has Quietly Ignored,” per SemiAnalysis",
@@ -164,7 +164,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T14:05:57.000Z",
-      "fetchedAt": "2026-11-27T14:24:59.863Z",
+      "fetchedAt": "2026-11-27T22:59:09.883Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "automotive",
@@ -172,45 +172,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysQualcomm’s (QCOM:NASDAQ) auto revenue reached $2 billion in its September quarter, up 89%, and SemiAnalysis predicts it will pass Infineon (IFNNY) and NXP Semiconductors (NXPI:NASDAQ) in 2027 to become the largest auto chipmaker. The growth comes from more Qualcomm content in each car, so it doesn’t depend on car sales.",
-      "id": "a40"
-    },
-    {
-      "title": "A $65 Million Reason Why Qualcomm Stock In Focus Today",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/65-million-reason-why-qualcomm-115831855.html?.tsrc=rss",
-      "description": "Qualcomm rewards its two top leaders with huge stock awards meant to keep them for the long haul",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-25T11:58:31.000Z",
-      "fetchedAt": "2026-11-27T14:24:59.863Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm rewards its two top leaders with huge stock awards meant to keep them for the long haul",
-      "id": "a41"
-    },
-    {
-      "title": "Xiaomi’s Memory-Squeezed Phone Sales Are Bad News for Qualcomm. Here’s the Number That Matters",
-      "url": "https://www.tikr.com/blog/xiaomis-memory-squeezed-phone-sales-are-bad-news-for-qualcomm-heres-the-number-that-matters?ref=yahoofinance&tlnk=yf-261125-m6342pj2&.tsrc=rss",
-      "description": "Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-25T05:23:47.000Z",
-      "fetchedAt": "2026-11-27T14:24:59.863Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
-      "id": "a47"
+      "id": "a37"
     }
   ]
 }

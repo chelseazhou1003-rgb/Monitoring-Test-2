@@ -1,11 +1,38 @@
 {
-  "generatedAt": "2026-11-27T14:25:06.110Z",
-  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T22:59:16.986Z",
+  "date": "2026-11-28",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "One article today covering Embodied AI & Robotics. Knowing how to control one’s emotions can be just as important as picking the right stocks. Plus, Qualcomm, Cava, and Dutch Bros earnings and a first ",
+    "keyTakeaways": [
+      {
+        "text": "Embodied AI & Robotics: Knowing how to control one’s emotions can be just as important as picking the right stocks. Plus, Qualcomm, Cava, and Dutch Bros earnings and a first look at robotics stock Agility Robotics.",
+        "articleIds": [
+          "a4"
+        ],
+        "subCategory": "embodied-ai-robotics"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Qualcomm, Cava, and Dutch Bros Earnings and a Robotics IPO",
+      "url": "https://www.fool.com/investing/2026/11/27/qualcomm-cava-and-dutch-bros-earnings-and-a-robotics-ipo/?.tsrc=rss",
+      "description": "Knowing how to control one’s emotions can be just as important as picking the right stocks. Plus, Qualcomm, Cava, and Dutch Bros earnings and a first look at robotics stock Agility Robotics.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-27T18:06:02.000Z",
+      "fetchedAt": "2026-11-27T22:59:09.883Z",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "embodied-ai-robotics",
+      "subLabel": "Embodied AI & Robotics",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Knowing how to control one’s emotions can be just as important as picking the right stocks. Plus, Qualcomm, Cava, and Dutch Bros earnings and a first look at robotics stock Agility Robotics.",
+      "id": "a4"
+    }
+  ]
 }

@@ -1,35 +1,77 @@
 {
-  "generatedAt": "2026-11-27T14:25:06.110Z",
-  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T22:59:16.986Z",
+  "date": "2026-11-28",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Customers & Partners (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Foundries (1 article), Customers & Partners (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Customers & Partners: After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the",
+        "text": "Geopolitics & Export Controls: Anker’s 100W universal travel charger has a tiny screen for monitoring your power usage. | Image: Anker During Black Friday, the Anker 100W Universal Charger is on sale for $59.99 at Amazon, Best Buy,",
         "articleIds": [
-          "a38"
-        ],
-        "subCategory": "customers-partners"
-      },
-      {
-        "text": "Geopolitics & Export Controls: The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-        "articleIds": [
-          "a45"
+          "a2"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "Mobile Chips: Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
+        "text": "Foundries: Key TakeawaysWashington proposed tariffs of up to 15% on Taiwan, or up to 25% if talks fail. Taiwan’s notice exempts chips, smartphones, PCs and servers, the core of TSMC’s, Apple’s and Qualcomm’s bus",
         "articleIds": [
-          "a47"
+          "a10"
         ],
-        "subCategory": "mobile-chips"
+        "subCategory": "foundry"
+      },
+      {
+        "text": "Customers & Partners: After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the",
+        "articleIds": [
+          "a35"
+        ],
+        "subCategory": "customers-partners"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Anker’s 100W universal travel charger is down to $60, its lowest price yet",
+      "url": "https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale",
+      "description": "Anker’s 100W universal travel charger has a tiny screen for monitoring your power usage. | Image: Anker During Black Friday, the Anker 100W Universal Charger is on sale for $59.99 at Amazon, Best Buy, and Walmart, a $20 discount from its list price. That’s a few dollars lower than the previous best, with both the dark gray and silver versions available from all three retailers. With four USB ports and support for over 200 countries, you can keep all of your devices charged wherever you end up. Anker Universal Charger (100W) Anker’s durable travel adapter delivers up to 100W of power and works in over 200 countries. It doesn’t support AC plugs, but it does offer a trio of USB-C ports and a nifty LCD display to keep tabs on the charge percentage. Where to Buy: $79.99 $59.99 at Amazon $79.99 $59.99 at Walmart $79.99 $59.99 at Best Buy Anker’s travel charger supports outlets in over 200 countries, including Type A for the United States, Canada, Japan, and China; Type C for the European Union; and Type G for the UK and Singapore. It doesn’t support Type I, the outlet used in Australia, New Zealand, and Argentina. Also, there’s no AC adapter. It’s a USB-only affair. To that end, you can charge up to four devices at once, with three USB-C ports and one USB-A port, with two of the USB-C ports capable of delivering up to 100W when used individually. There’s even a tiny display on the unit that lets you check how much power is going to your devices at a glance.",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-11-27T18:30:00.000Z",
+      "fetchedAt": "2026-11-27T22:59:10.169Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Anker’s 100W universal travel charger has a tiny screen for monitoring your power usage. | Image: Anker During Black Friday, the Anker 100W Universal Charger is on sale for $59.99 at Amazon, Best Buy, and Walmart, a $20 discount from its list price. That’s a few dollars lower than the previous best, with both the dark gray and silver versions available from all three retailers. With four USB ports and support for over 200 countries, you can keep all of your devices charged wherever you end up. Anker Universal Charger (100W) Anker’s durable travel adapter delivers up to 100W of power and works in over 200 countries.",
+      "id": "a2"
+    },
+    {
+      "title": "Trump’s New Tariffs Hit Taiwan but Spare Its Chips. That’s Good News for TSMC and Apple",
+      "url": "https://www.tikr.com/blog/trumps-new-tariffs-hit-taiwan-but-spare-its-chips-thats-good-news-for-tsmc-and-apple?ref=yahoofinance&tlnk=yf-261127-wff3mmwm&.tsrc=rss",
+      "description": "Key TakeawaysWashington proposed tariffs of up to 15% on Taiwan, or up to 25% if talks fail. Taiwan’s notice exempts chips, smartphones, PCs and servers, the core of TSMC’s, Apple’s and Qualcomm’s businesses.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-27T13:40:36.000Z",
+      "fetchedAt": "2026-11-27T22:59:09.883Z",
+      "fetchStrategy": "rss",
+      "section": "stakeholders",
+      "subCategory": "foundry",
+      "subLabel": "Foundries",
+      "competitors": [],
+      "stakeholders": [
+        "oem",
+        "foundry"
+      ],
+      "summary": "Key TakeawaysWashington proposed tariffs of up to 15% on Taiwan, or up to 25% if talks fail. Taiwan’s notice exempts chips, smartphones, PCs and servers, the core of TSMC’s, Apple’s and Qualcomm’s businesses.",
+      "id": "a10"
+    },
     {
       "title": "How Qualcomm’s CMO is reshaping his team for its post-Apple era",
       "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-cmo-reshaping-team-post-160155309.html?.tsrc=rss",
@@ -38,7 +80,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T16:01:55.000Z",
-      "fetchedAt": "2026-11-27T14:24:59.863Z",
+      "fetchedAt": "2026-11-27T22:59:09.883Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "customers-partners",
@@ -48,7 +90,7 @@
         "oem"
       ],
       "summary": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the transition.",
-      "id": "a38"
+      "id": "a35"
     },
     {
       "title": "Samsung hit with US import ban in Maxell patent fight",
@@ -58,7 +100,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-25T09:23:32.000Z",
-      "fetchedAt": "2026-11-27T14:25:02.035Z",
+      "fetchedAt": "2026-11-27T22:59:12.409Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -71,48 +113,7 @@
         "oem"
       ],
       "summary": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-      "id": "a45"
-    },
-    {
-      "title": "Xiaomi’s Memory-Squeezed Phone Sales Are Bad News for Qualcomm. Here’s the Number That Matters",
-      "url": "https://www.tikr.com/blog/xiaomis-memory-squeezed-phone-sales-are-bad-news-for-qualcomm-heres-the-number-that-matters?ref=yahoofinance&tlnk=yf-261125-m6342pj2&.tsrc=rss",
-      "description": "Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-25T05:23:47.000Z",
-      "fetchedAt": "2026-11-27T14:24:59.863Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
-      "id": "a47"
-    },
-    {
-      "title": "Component costs, car woes weigh on Xiaomi top-line",
-      "url": "https://www.mobileworldlive.com/xiaomi/component-costs-car-woes-weigh-on-xiaomi-top-line/",
-      "description": "Xiaomi reported a 57% year-on-year drop in net profit for the third quarter of 2026, as it bemoaned rising component costs and reduced demand for its vehicles in China. The post Component costs, car woes weigh on Xiaomi top-line appeared first on Mobile World Live.",
-      "source": "Mobile World Live",
-      "sourceId": "mobile-world-live",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-11-24T16:43:15.000Z",
-      "fetchedAt": "2026-11-27T14:25:04.665Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Xiaomi reported a 57% year-on-year drop in net profit for the third quarter of 2026, as it bemoaned rising component costs and reduced demand for its vehicles in China. The post Component costs, car woes weigh on Xiaomi top-line appeared first on Mobile World Live.",
-      "id": "a48"
+      "id": "a39"
     }
   ]
 }
