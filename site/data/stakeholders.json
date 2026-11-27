@@ -1,56 +1,35 @@
 {
-  "generatedAt": "2026-11-26T22:38:01.261Z",
+  "generatedAt": "2026-11-27T04:35:06.138Z",
   "date": "2026-11-27",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Customers & Partners (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Customers & Partners (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
-      {
-        "text": "Geopolitics & Export Controls: Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
-        "articleIds": [
-          "a32"
-        ],
-        "subCategory": "geopolitics-export-controls"
-      },
       {
         "text": "Customers & Partners: After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the",
         "articleIds": [
-          "a39"
+          "a42"
         ],
         "subCategory": "customers-partners"
       },
       {
+        "text": "Geopolitics & Export Controls: The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
+        "articleIds": [
+          "a49"
+        ],
+        "subCategory": "geopolitics-export-controls"
+      },
+      {
         "text": "Mobile Chips: Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
         "articleIds": [
-          "a48"
+          "a51"
         ],
         "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
-    {
-      "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
-      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
-      "description": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-25T21:00:08.000Z",
-      "fetchedAt": "2026-11-26T22:37:54.746Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "regulators"
-      ],
-      "summary": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
-      "id": "a32"
-    },
     {
       "title": "How Qualcomm’s CMO is reshaping his team for its post-Apple era",
       "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-cmo-reshaping-team-post-160155309.html?.tsrc=rss",
@@ -59,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T16:01:55.000Z",
-      "fetchedAt": "2026-11-26T22:37:54.840Z",
+      "fetchedAt": "2026-11-27T04:34:56.099Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "customers-partners",
@@ -69,7 +48,7 @@
         "oem"
       ],
       "summary": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the transition.",
-      "id": "a39"
+      "id": "a42"
     },
     {
       "title": "Samsung hit with US import ban in Maxell patent fight",
@@ -79,7 +58,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-25T09:23:32.000Z",
-      "fetchedAt": "2026-11-26T22:37:56.963Z",
+      "fetchedAt": "2026-11-27T04:34:59.278Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -92,7 +71,7 @@
         "oem"
       ],
       "summary": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-      "id": "a46"
+      "id": "a49"
     },
     {
       "title": "Xiaomi’s Memory-Squeezed Phone Sales Are Bad News for Qualcomm. Here’s the Number That Matters",
@@ -102,7 +81,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T05:23:47.000Z",
-      "fetchedAt": "2026-11-26T22:37:54.840Z",
+      "fetchedAt": "2026-11-27T04:34:56.099Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -112,7 +91,7 @@
         "oem"
       ],
       "summary": "Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
-      "id": "a48"
+      "id": "a51"
     },
     {
       "title": "Component costs, car woes weigh on Xiaomi top-line",
@@ -122,7 +101,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-24T16:43:15.000Z",
-      "fetchedAt": "2026-11-26T22:37:59.500Z",
+      "fetchedAt": "2026-11-27T04:35:02.204Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -133,7 +112,7 @@
         "oem"
       ],
       "summary": "Xiaomi reported a 57% year-on-year drop in net profit for the third quarter of 2026, as it bemoaned rising component costs and reduced demand for its vehicles in China. The post Component costs, car woes weigh on Xiaomi top-line appeared first on Mobile World Live.",
-      "id": "a52"
+      "id": "a55"
     }
   ]
 }
