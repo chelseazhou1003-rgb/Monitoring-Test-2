@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:35:06.138Z",
+  "generatedAt": "2026-11-27T14:25:06.110Z",
   "date": "2026-11-27",
   "section": "competitors",
   "sectionTitle": "Competitors",
@@ -9,7 +9,7 @@
       {
         "text": "Geopolitics & Export Controls: The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
         "articleIds": [
-          "a49"
+          "a45"
         ],
         "subCategory": "geopolitics-export-controls"
       }
@@ -24,7 +24,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-25T09:23:32.000Z",
-      "fetchedAt": "2026-11-27T04:34:59.278Z",
+      "fetchedAt": "2026-11-27T14:25:02.035Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -37,7 +37,7 @@
         "oem"
       ],
       "summary": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-      "id": "a49"
+      "id": "a45"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:35:06.138Z",
+  "generatedAt": "2026-11-27T14:25:06.110Z",
   "date": "2026-11-27",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,21 +9,21 @@
       {
         "text": "Customers & Partners: After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the",
         "articleIds": [
-          "a42"
+          "a38"
         ],
         "subCategory": "customers-partners"
       },
       {
         "text": "Geopolitics & Export Controls: The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
         "articleIds": [
-          "a49"
+          "a45"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Mobile Chips: Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
         "articleIds": [
-          "a51"
+          "a47"
         ],
         "subCategory": "mobile-chips"
       }
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T16:01:55.000Z",
-      "fetchedAt": "2026-11-27T04:34:56.099Z",
+      "fetchedAt": "2026-11-27T14:24:59.863Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "customers-partners",
@@ -48,7 +48,7 @@
         "oem"
       ],
       "summary": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the transition.",
-      "id": "a42"
+      "id": "a38"
     },
     {
       "title": "Samsung hit with US import ban in Maxell patent fight",
@@ -58,7 +58,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-25T09:23:32.000Z",
-      "fetchedAt": "2026-11-27T04:34:59.278Z",
+      "fetchedAt": "2026-11-27T14:25:02.035Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -71,7 +71,7 @@
         "oem"
       ],
       "summary": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-      "id": "a49"
+      "id": "a45"
     },
     {
       "title": "Xiaomi’s Memory-Squeezed Phone Sales Are Bad News for Qualcomm. Here’s the Number That Matters",
@@ -81,7 +81,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T05:23:47.000Z",
-      "fetchedAt": "2026-11-27T04:34:56.099Z",
+      "fetchedAt": "2026-11-27T14:24:59.863Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -91,7 +91,7 @@
         "oem"
       ],
       "summary": "Key TakeawaysXiaomi’s revenue fell 5. 2% in the September quarter as memory costs pushed it to cut production of budget phones.",
-      "id": "a51"
+      "id": "a47"
     },
     {
       "title": "Component costs, car woes weigh on Xiaomi top-line",
@@ -101,7 +101,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-24T16:43:15.000Z",
-      "fetchedAt": "2026-11-27T04:35:02.204Z",
+      "fetchedAt": "2026-11-27T14:25:04.665Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -112,7 +112,7 @@
         "oem"
       ],
       "summary": "Xiaomi reported a 57% year-on-year drop in net profit for the third quarter of 2026, as it bemoaned rising component costs and reduced demand for its vehicles in China. The post Component costs, car woes weigh on Xiaomi top-line appeared first on Mobile World Live.",
-      "id": "a55"
+      "id": "a48"
     }
   ]
 }
