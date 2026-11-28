@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T22:59:16.986Z",
+  "generatedAt": "2026-11-28T04:59:38.916Z",
   "date": "2026-11-28",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -9,7 +9,7 @@
       {
         "text": "Embodied AI & Robotics: Knowing how to control one’s emotions can be just as important as picking the right stocks. Plus, Qualcomm, Cava, and Dutch Bros earnings and a first look at robotics stock Agility Robotics.",
         "articleIds": [
-          "a4"
+          "a6"
         ],
         "subCategory": "embodied-ai-robotics"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-27T18:06:02.000Z",
-      "fetchedAt": "2026-11-27T22:59:09.883Z",
+      "fetchedAt": "2026-11-28T04:59:33.012Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "embodied-ai-robotics",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Knowing how to control one’s emotions can be just as important as picking the right stocks. Plus, Qualcomm, Cava, and Dutch Bros earnings and a first look at robotics stock Agility Robotics.",
-      "id": "a4"
+      "id": "a6"
     }
   ]
 }
