@@ -1,35 +1,56 @@
 {
-  "generatedAt": "2026-11-28T04:59:38.916Z",
+  "generatedAt": "2026-11-28T14:33:39.801Z",
   "date": "2026-11-28",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Foundries (1 article), Customers & Partners (1 article), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Foundries (1 article), Customers & Partners (1 article). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Geopolitics & Export Controls: The Supreme People's Court of China has published the denial of an intra-Chinese antisuit injunction Samsung sought against ZTE's patent enforcement in Chongqing. It's a landmark ruling and reveals ZT",
+        "articleIds": [
+          "a3"
+        ],
+        "subCategory": "geopolitics-export-controls"
+      },
       {
         "text": "Foundries: Key TakeawaysWashington proposed tariffs of up to 15% on Taiwan, or up to 25% if talks fail. Taiwan’s notice exempts chips, smartphones, PCs and servers, the core of TSMC’s, Apple’s and Qualcomm’s bus",
         "articleIds": [
-          "a12"
+          "a18"
         ],
         "subCategory": "foundry"
       },
       {
         "text": "Customers & Partners: After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the",
         "articleIds": [
-          "a36"
+          "a31"
         ],
         "subCategory": "customers-partners"
-      },
-      {
-        "text": "Geopolitics & Export Controls: The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-        "articleIds": [
-          "a40"
-        ],
-        "subCategory": "geopolitics-export-controls"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Samsung v. ZTE produced another landmark ruling: Supreme People’s Court of China denied intra-Chinese antisuit injunction",
+      "url": "https://ipfray.com/samsung-v-zte-produced-another-landmark-ruling-supreme-peoples-court-of-china-denied-intra-chinese-antisuit-injunction/",
+      "description": "The Supreme People's Court of China has published the denial of an intra-Chinese antisuit injunction Samsung sought against ZTE's patent enforcement in Chongqing. It's a landmark ruling and reveals ZTE had won a conditional injunction.",
+      "source": "IP Fray",
+      "sourceId": "ip-fray",
+      "sourceGroup": "ip",
+      "publishedAt": "2026-11-28T09:17:54.000Z",
+      "fetchedAt": "2026-11-28T14:33:37.972Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "The Supreme People's Court of China has published the denial of an intra-Chinese antisuit injunction Samsung sought against ZTE's patent enforcement in Chongqing. It's a landmark ruling and reveals ZTE had won a conditional injunction.",
+      "id": "a3"
+    },
     {
       "title": "Trump’s New Tariffs Hit Taiwan but Spare Its Chips. That’s Good News for TSMC and Apple",
       "url": "https://www.tikr.com/blog/trumps-new-tariffs-hit-taiwan-but-spare-its-chips-thats-good-news-for-tsmc-and-apple?ref=yahoofinance&tlnk=yf-261127-wff3mmwm&.tsrc=rss",
@@ -38,7 +59,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-27T13:40:36.000Z",
-      "fetchedAt": "2026-11-28T04:59:33.012Z",
+      "fetchedAt": "2026-11-28T14:33:32.405Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "foundry",
@@ -49,7 +70,7 @@
         "foundry"
       ],
       "summary": "Key TakeawaysWashington proposed tariffs of up to 15% on Taiwan, or up to 25% if talks fail. Taiwan’s notice exempts chips, smartphones, PCs and servers, the core of TSMC’s, Apple’s and Qualcomm’s businesses.",
-      "id": "a12"
+      "id": "a18"
     },
     {
       "title": "How Qualcomm’s CMO is reshaping his team for its post-Apple era",
@@ -59,7 +80,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-25T16:01:55.000Z",
-      "fetchedAt": "2026-11-28T04:59:33.012Z",
+      "fetchedAt": "2026-11-28T14:33:32.406Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "customers-partners",
@@ -69,30 +90,7 @@
         "oem"
       ],
       "summary": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company’s marketing strategy to support the transition.",
-      "id": "a36"
-    },
-    {
-      "title": "Samsung hit with US import ban in Maxell patent fight",
-      "url": "https://www.iam-media.com/article/samsung-hit-us-import-ban-in-maxell-patent-fight",
-      "description": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-      "source": "IAM",
-      "sourceId": "iam",
-      "sourceGroup": "ip",
-      "publishedAt": "2026-11-25T09:23:32.000Z",
-      "fetchedAt": "2026-11-28T04:59:35.064Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [
-        "apple"
-      ],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-      "id": "a40"
+      "id": "a31"
     }
   ]
 }

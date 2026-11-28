@@ -1,43 +1,11 @@
 {
-  "generatedAt": "2026-11-28T04:59:38.916Z",
+  "generatedAt": "2026-11-28T14:33:39.801Z",
   "date": "2026-11-28",
   "section": "competitors",
   "sectionTitle": "Competitors",
   "briefing": {
-    "summary": "One article today covering Geopolitics & Export Controls. The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-    "keyTakeaways": [
-      {
-        "text": "Geopolitics & Export Controls: The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-        "articleIds": [
-          "a40"
-        ],
-        "subCategory": "geopolitics-export-controls"
-      }
-    ]
+    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+    "keyTakeaways": []
   },
-  "articles": [
-    {
-      "title": "Samsung hit with US import ban in Maxell patent fight",
-      "url": "https://www.iam-media.com/article/samsung-hit-us-import-ban-in-maxell-patent-fight",
-      "description": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-      "source": "IAM",
-      "sourceId": "iam",
-      "sourceGroup": "ip",
-      "publishedAt": "2026-11-25T09:23:32.000Z",
-      "fetchedAt": "2026-11-28T04:59:35.064Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [
-        "apple"
-      ],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "The limited exclusion order appears to be the first to come down against Samsung since Apple’s 2013 US ITC win",
-      "id": "a40"
-    }
-  ]
+  "articles": []
 }
